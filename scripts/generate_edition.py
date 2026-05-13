@@ -242,6 +242,60 @@ def _format_raw_sport(items: list[dict]) -> list[dict]:
 
 
 # ----------------------------------------------------------------------------
+# Weather — Open-Meteo (free, no API key)
+# ----------------------------------------------------------------------------
+
+WEATHER_CITIES = [
+    ("London",     51.5074,  -0.1278),
+    ("Birmingham", 52.4862,  -1.8904),
+    ("Manchester", 53.4808,  -2.2426),
+    ("Glasgow",    55.8642,  -4.2518),
+]
+
+# WMO weather codes → readable conditions
+WEATHER_CONDITIONS = {
+    0: "Clear", 1: "Mostly clear", 2: "Partly cloudy", 3: "Overcast",
+    45: "Fog", 48: "Foggy",
+    51: "Light drizzle", 53: "Drizzle", 55: "Heavy drizzle",
+    56: "Freezing drizzle", 57: "Freezing drizzle",
+    61: "Light rain", 63: "Rain", 65: "Heavy rain",
+    66: "Freezing rain", 67: "Freezing rain",
+    71: "Light snow", 73: "Snow", 75: "Heavy snow", 77: "Snow grains",
+    80: "Showers", 81: "Showers", 82: "Heavy showers",
+    85: "Snow showers", 86: "Snow showers",
+    95: "Thunderstorms", 96: "Storms with hail", 99: "Severe storms",
+}
+
+
+def fetch_weather(target_date: dt.date) -> list[dict]:
+    """Return tomorrow's forecast for the 4 UK cities. Empty list on failure."""
+    out = []
+    iso = target_date.isoformat()
+    for name, lat, lon in WEATHER_CITIES:
+        url = (
+            f"https://api.open-meteo.com/v1/forecast"
+            f"?latitude={lat}&longitude={lon}"
+            f"&daily=weather_code,temperature_2m_max,temperature_2m_min"
+            f"&timezone=Europe/London&start_date={iso}&end_date={iso}"
+        )
+        try:
+            data = json.loads(http_get(url, timeout=10))
+            d = data.get("daily", {})
+            if not d.get("time") or d["time"][0] != iso:
+                continue
+            code = d["weather_code"][0]
+            out.append({
+                "city": name,
+                "condition": WEATHER_CONDITIONS.get(code, "Mixed"),
+                "high": round(d["temperature_2m_max"][0]),
+                "low": round(d["temperature_2m_min"][0]),
+            })
+        except Exception as e:
+            print(f"  ! Weather fetch failed for {name}: {e}", file=sys.stderr)
+    return out
+
+
+# ----------------------------------------------------------------------------
 # Wikipedia "On this day"
 # ----------------------------------------------------------------------------
 
@@ -559,6 +613,16 @@ def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
     # Facts of the day: pick one set of 8
     facts = pick_one(bank["facts"], iso_date, "facts")
 
+    # Weather — tomorrow's UK overview (free, no key)
+    print("  · Fetching weather (Open-Meteo)...")
+    target_d = dt.date.fromisoformat(target["iso"])
+    weather = fetch_weather(target_d)
+    weather_note = None
+    if not weather:
+        weather_note = "Weather feed unavailable — see Met Office for the latest forecast."
+    else:
+        print(f"    → {len(weather)} cities")
+
     # Live sources — fetch raw, format as fallback, then optionally polish via Gemini
     print("  · Fetching BBC News, Politics, World...")
     news_raw = _select_news_raw(iso_date)
@@ -601,6 +665,8 @@ def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
 
     return {
         "lede": lede,
+        "weather": weather,
+        "weather_note": weather_note,
         "news": news,
         "showbiz": showbiz,
         "sport": sport,

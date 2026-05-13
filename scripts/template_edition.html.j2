@@ -54,6 +54,20 @@
   ul.items > li .detail { color: var(--ink-soft); font-size: 14.5px; }
   ul.items > li .tag { font-family: var(--mono); font-size: 11px; letter-spacing: 1.1px; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .weather-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .weather-tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 12px; padding: 14px 16px; text-align: left; }
+  .weather-tile .weather-city { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 1.1px; color: var(--muted); margin-bottom: 6px; }
+  .weather-tile .weather-cond { font-family: var(--serif); font-size: 18px; line-height: 1.1; color: var(--ink); margin-bottom: 8px; }
+  .weather-tile .weather-temps { font-family: var(--mono); font-size: 13px; }
+  .weather-tile .weather-temps .hi { color: var(--accent); font-weight: 600; }
+  .weather-tile .weather-temps .lo { color: var(--muted); margin-left: 6px; }
+  @media print {
+    .weather-grid { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .weather-tile { padding: 8px 10px; border-radius: 6px; }
+    .weather-tile .weather-cond { font-size: 13px; margin-bottom: 4px; }
+    .weather-tile .weather-temps { font-size: 11px; }
+    .weather-tile .weather-city { font-size: 9.5px; margin-bottom: 3px; }
+  }
   .tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 14px; padding: 16px 18px; }
   .tile .label { font-family: var(--mono); font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
   .tile .value { font-family: var(--serif); font-weight: 400; font-size: 26px; line-height: 1.1; color: var(--ink); margin-bottom: 4px; }
@@ -136,11 +150,6 @@
     </svg>
     Prepflow
   </a>
-  <nav class="nav">
-    <a href="/#editions">Editions</a>
-    <a class="pill" href="/editions/{{ day_name }}.html">Today's edition</a>
-    <a href="mailto:tony@tonydibbin.com?subject=Prepflow%20sign%20in">Sign in</a>
-  </nav>
 </header>
 
 <main class="wrap">
@@ -154,6 +163,27 @@
     <a class="btn" href="/editions/{{ day_name }}.pdf" download>Download PDF</a>
     <a class="btn btn-primary" href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">+ Get early access</a>
   </div>
+
+  {# ===== 00 WEATHER ===== #}
+  <section class="card" id="sec-weather">
+    <div class="card-head">
+      <span class="card-num">00 — Weather</span>
+      <span class="card-meta">tomorrow · UK overview</span>
+    </div>
+    <h2 class="card-title">Tomorrow's forecast</h2>
+    <div class="weather-grid">
+      {% for w in weather %}
+      <div class="weather-tile">
+        <div class="weather-city">{{ w.city }}</div>
+        <div class="weather-cond">{{ w.condition }}</div>
+        <div class="weather-temps"><span class="hi">{{ w.high }}°</span> <span class="lo">{{ w.low }}°</span></div>
+      </div>
+      {% endfor %}
+    </div>
+    {% if weather_note %}
+    <p style="margin:14px 0 0 0; font-size:13px; color:var(--muted);">{{ weather_note }}</p>
+    {% endif %}
+  </section>
 
   {# ===== 01 NEWS ===== #}
   <section class="card" id="sec-news">

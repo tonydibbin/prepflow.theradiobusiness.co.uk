@@ -53,12 +53,36 @@ jobs:
           # If unset, the script falls back to raw BBC text (still produces a valid edition).
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PREPFLOW_TARGET_DATE: ${{ github.event.inputs.target_date }}
-        run: python scripts/generate_edition.py
+          # Send the generator's output straight into the dist/ folder ready for SFTP.
+          PREPFLOW_OUT_DIR: ./dist
+        run: |
+          mkdir -p dist
+          python scripts/generate_edition.py
 
-      - name: Commit and push
+      - name: List generated files
+        run: ls -la dist/
+
+      - name: Deploy to IONOS via SFTP
+        # Pushes the freshly-generated edition into /prepflow/_generated/ on IONOS,
+        # where view.php and download.php (already deployed) serve it behind the
+        # subscription paywall.
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          server: 'access814933954.webspace-data.io'
+          username: 'u99864759'
+          password: ${{ secrets.IONOS_SFTP_PASSWORD }}
+          port: 22
+          local_path: './dist/*'
+          remote_path: '/prepflow/_generated'
+          sftp_only: true
+          delete_remote_files: false
+
+      - name: Also commit to repo (history / fallback)
         run: |
           git config user.name "prepflow-bot"
           git config user.email "actions@github.com"
+          mkdir -p editions
+          cp -f dist/*.html dist/*.pdf editions/ 2>/dev/null || true
           git add editions/
           if git diff --cached --quiet; then
             echo "No changes to commit."
