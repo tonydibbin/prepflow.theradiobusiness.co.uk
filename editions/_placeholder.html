@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prepflow — {DAY_TITLE}'s edition</title>
+<meta name="description" content="Prepflow — {DAY_TITLE}'s edition.">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: { extend: {
+      colors: { paper:'#FFFFFF', cream:'#F7F7F5', ink:'#161614','ink-soft':'#2a2a26', muted:'#6e6e66', hairline:'#ECECE6', line:'#E2E2DA', accent:'#FF4F2E' },
+      fontFamily: {
+        serif:['Fraunces','Georgia','serif'],
+        sans:['Inter','system-ui','sans-serif'],
+        mono:['JetBrains Mono','ui-monospace','monospace'],
+      },
+    }},
+  };
+</script>
+<style>
+  html, body { background:#F7F7F5; color:#161614; }
+  .serif-h1 { font-family:'Fraunces',serif; font-weight:400; letter-spacing:-1px; line-height:1.04; }
+  .mono-label { font-family:'JetBrains Mono',monospace; text-transform:uppercase; letter-spacing:1.3px; }
+</style>
+</head>
+<body class="font-sans text-ink antialiased">
+
+<div class="bg-ink text-white text-[13px] px-7 py-3 flex items-center justify-between">
+  <div class="flex items-center gap-3">
+    <span class="bg-accent text-white px-2.5 py-0.5 rounded font-mono text-[11px] tracking-[0.12em] uppercase font-semibold">Preview</span>
+    <span>Prepflow is in development. This is a design preview.</span>
+  </div>
+  <a class="underline underline-offset-[3px]" href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">Get early access →</a>
+</div>
+
+<header class="bg-paper border-b border-hairline px-7 py-[18px] flex items-center justify-between">
+  <a class="flex items-center gap-2.5 font-semibold text-[17px]" href="/">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M5 3.5 V20.5 M5 3.5 H11.5 a4.5 4.5 0 0 1 0 9 H5" stroke="#161614" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="17.7" cy="6.4" r="2.05" fill="#FF4F2E"/>
+    </svg>
+    Prepflow
+  </a>
+  <nav class="flex items-center gap-6 text-[14px]">
+    <a class="hover:text-accent" href="/#editions">Editions</a>
+    <a class="bg-ink text-white px-3.5 py-1.5 rounded-full font-medium" href="/" id="todayLink">Today's edition</a>
+    <a class="hover:text-accent" href="mailto:tony@tonydibbin.com?subject=Prepflow%20sign%20in">Sign in</a>
+  </nav>
+</header>
+
+<main class="max-w-[760px] mx-auto px-7 pt-20 pb-24">
+
+  <div class="mono-label text-[12px] text-muted mb-4">Edition · {DAY_TITLE}</div>
+  <h1 class="serif-h1 text-[48px] mb-5">{DAY_TITLE}'s edition is being prepped.</h1>
+  <p class="text-[16px] text-ink-soft mb-7 max-w-[600px]">Prepflow refreshes the next day's edition every weekday at <strong>14:59 UK time</strong>. Once the new edition is ready, this page will be filled with news, sport, showbiz, talkback prompts and day notes for {DAY_TITLE}.</p>
+
+  <div class="bg-paper border border-hairline rounded-[18px] p-7 mb-6">
+    <div class="mono-label text-[11px] text-muted mb-2">In the meantime</div>
+    <h2 class="font-serif text-[24px] mb-3">Have a look at today's available edition.</h2>
+    <div class="flex flex-wrap gap-2.5">
+      <a id="goToday" href="/" class="bg-accent text-white border border-accent rounded-full px-4 py-2 text-[14px] font-medium hover:opacity-90">Open today's edition →</a>
+      <a href="/" class="border border-line bg-paper text-ink rounded-full px-4 py-2 text-[14px] font-medium hover:bg-cream">Back to Prepflow</a>
+    </div>
+  </div>
+
+  <div class="text-[13px] text-muted">
+    The next refresh is scheduled for 14:59 UK time. If you need the edition urgently, email <a class="underline underline-offset-[3px] hover:text-accent" href="mailto:tony@tonydibbin.com">tony@tonydibbin.com</a>.
+  </div>
+
+</main>
+
+<script>
+  // Point the header "Today's edition" link at whichever day's edition exists for today.
+  (function () {
+    var days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+    var today = days[new Date().getDay()];
+    var url = '/editions/' + today + '.html';
+    document.getElementById('todayLink').setAttribute('href', url);
+    document.getElementById('goToday').setAttribute('href', url);
+  })();
+</script>
+
+</body>
+</html>
