@@ -1,0 +1,91 @@
+name: Audienceflow Nation deck
+
+on:
+  # Triggered by the Audienceflow PHP endpoint via the GitHub REST API.
+  # Inputs: job_id (uuid) + state_url (one-shot URL on IONOS the runner can
+  # fetch the STATE JSON from; PHP writes it there before dispatching).
+  repository_dispatch:
+    types: [audienceflow-deck]
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: 'Job UUID (used as the output filename)'
+        required: true
+        default: 'manual'
+      state_url:
+        description: 'URL where the STATE JSON lives'
+        required: true
+        default: 'https://audienceflow.theradiobusiness.co.uk/_export-jobs/example.state.json'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: audienceflow-deck-${{ github.event.client_payload.job_id || github.event.inputs.job_id }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install python-pptx
+
+      - name: Pull job inputs into env
+        run: |
+          echo "JOB_ID=${{ github.event.client_payload.job_id || github.event.inputs.job_id }}" >> $GITHUB_ENV
+          echo "STATE_URL=${{ github.event.client_payload.state_url || github.event.inputs.state_url }}" >> $GITHUB_ENV
+
+      - name: Download STATE JSON
+        run: |
+          mkdir -p work
+          # Retry a few times — IONOS occasionally serves a 502 on the first hit.
+          for i in 1 2 3; do
+            if curl -fsSL -o work/state.json "$STATE_URL"; then break; fi
+            echo "Attempt $i failed, retrying…"
+            sleep 3
+          done
+          ls -la work/
+          head -c 200 work/state.json; echo
+
+      - name: Generate deck
+        env:
+          STATE_FILE: ${{ github.workspace }}/work/state.json
+          DECK_TEMPLATE: ${{ github.workspace }}/assets/audienceflow-deck/template.pptx
+          PREPFLOW_OUT_DIR: ${{ github.workspace }}/work/out
+        run: |
+          mkdir -p work/out
+          python scripts/generate_deck.py
+          ls -la work/out/
+
+      - name: Rename output to job-id.pptx + drop a .ready marker
+        # The browser polls /audienceflow/_generated/<job-id>.pptx via HEAD —
+        # a 404→200 flip is the signal that generation is complete. We also
+        # write a tiny .ready file so the poller can hit a much smaller URL
+        # before requesting the (19 MB) deck.
+        run: |
+          src=$(ls work/out/*.pptx | head -1)
+          dst="work/out/${JOB_ID}.pptx"
+          mv "$src" "$dst"
+          echo "ok" > "work/out/${JOB_ID}.ready"
+          ls -la work/out/
+
+      - name: Deploy deck + ready marker to IONOS via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          server: 'access814933954.webspace-data.io'
+          username: 'u99864759'
+          password: ${{ secrets.IONOS_SFTP_PASSWORD }}
+          port: 22
+          local_path: './work/out/*'
+          remote_path: '/audienceflow/_generated'
+          sftp_only: true
+          delete_remote_files: false
