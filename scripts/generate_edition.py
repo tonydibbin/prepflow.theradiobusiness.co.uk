@@ -326,6 +326,56 @@ def _format_event(year: int, text: str) -> str:
     return f"{year} — {text}"
 
 
+# ───────────────────────────────────────────────────────────────────────────
+# Birthday relevance filter
+# ───────────────────────────────────────────────────────────────────────────
+# We keep UK people of any showbiz/sport/media celebrity role, plus US
+# people who are *movie or music stars*. Anyone else (politicians, royalty,
+# scientists, non-UK sportspeople, etc.) is dropped — they don't earn space
+# on a UK breakfast radio prep doc.
+
+_UK_TAGS = (
+    "british", "english", "scottish", "welsh",
+    "northern irish", "irish", "n. irish",
+)
+_US_TAGS = ("american", "u.s.", "us-")
+
+_UK_ROLES = (
+    "actor", "actress", "singer", "musician", "rapper", "band ", "songwriter",
+    "comedian", "comic", "presenter", "broadcaster", "dj ", "disc jockey",
+    "tv host", "tv personality", "television personality", "radio host",
+    "model", "footballer", "cricketer", "rugby", "boxer", "athlete",
+    "olympian", "tennis player", "golfer", "darts player", "snooker",
+    "film director", "film producer", "screenwriter", "novelist", "author",
+    "chef", "celebrity", "youtuber", "influencer", "drag queen",
+)
+_US_ROLES = (
+    "actor", "actress", "singer", "musician", "rapper", "band ", "songwriter",
+    "film director", "film producer", "screenwriter", "filmmaker",
+    "movie star", "pop star", "rock star", "guitarist", "drummer", "bassist",
+    "vocalist", "composer",
+)
+
+
+def _birth_is_relevant(item: dict) -> bool:
+    """True if the person looks like a UK celebrity or US movie/music star,
+    based on the Wikipedia page metadata that comes with the birth entry."""
+    pages = item.get("pages") or []
+    if not pages:
+        return False
+    for p in pages:
+        desc = (p.get("description") or "").lower()
+        extract = (p.get("extract") or "").lower()
+        # First ~200 chars of the extract — biographies that mention every
+        # country someone ever visited would otherwise over-match.
+        haystack = desc + " " + extract[:200]
+        if any(t in haystack for t in _UK_TAGS) and any(r in haystack for r in _UK_ROLES):
+            return True
+        if any(t in haystack for t in _US_TAGS) and any(r in haystack for r in _US_ROLES):
+            return True
+    return False
+
+
 def _format_birth(item: dict) -> str | None:
     year = item.get("year")
     text = item.get("text", "")
@@ -336,6 +386,9 @@ def _format_birth(item: dict) -> str | None:
         if int(year) < 1900:
             return None
     except (TypeError, ValueError):
+        return None
+    # Drop anyone outside our target audience — UK celebs and US movie/music stars only.
+    if not _birth_is_relevant(item):
         return None
     if len(text) > 200:
         text = text[:197].rstrip() + "..."
