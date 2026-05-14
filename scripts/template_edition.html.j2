@@ -168,7 +168,6 @@
   <section class="card" id="sec-weather">
     <div class="card-head">
       <span class="card-num">00 — Weather</span>
-      <span class="card-meta">tomorrow · UK overview</span>
     </div>
     <h2 class="card-title">Tomorrow's forecast</h2>
     <div class="weather-grid">
@@ -185,11 +184,11 @@
     {% endif %}
   </section>
 
-  {# ===== 01 NEWS ===== #}
-  <section class="card" id="sec-news">
+  {# ===== 01 NEWS ===== keeps the page-break suppressed so news sits with the
+       Weather card on page 1 #}
+  <section class="card share-page" id="sec-news">
     <div class="card-head">
       <span class="card-num">01 — News</span>
-      <span class="card-meta">3 stories · max 1 political</span>
     </div>
     <h2 class="card-title">Today's top stories</h2>
     <ul class="items">
@@ -210,7 +209,6 @@
   <section class="card" id="sec-showbiz">
     <div class="card-head">
       <span class="card-num">02 — Showbiz</span>
-      <span class="card-meta">forward-looking only</span>
     </div>
     <h2 class="card-title">What's coming up</h2>
     <ul class="items">
@@ -231,7 +229,6 @@
   <section class="card" id="sec-sport">
     <div class="card-head">
       <span class="card-num">03 — Sport</span>
-      <span class="card-meta">UK focus · this week</span>
     </div>
     <h2 class="card-title">On the schedule</h2>
     <ul class="items">
@@ -252,7 +249,6 @@
   <section class="card" id="sec-newsbrief">
     <div class="card-head">
       <span class="card-num">04 — Newsbrief</span>
-      <span class="card-meta">light bites · pick &amp; mix</span>
     </div>
     <h2 class="card-title">Quick hits</h2>
     <ul class="items">
@@ -272,7 +268,6 @@
   <section class="card" id="sec-talkback">
     <div class="card-head">
       <span class="card-num">05 — Talkback</span>
-      <span class="card-meta">survey · talk topic · true or false</span>
     </div>
     <h2 class="card-title">For the phone lines</h2>
 
@@ -315,7 +310,6 @@
   <section class="card" id="sec-lottery">
     <div class="card-head">
       <span class="card-num">06 — Lottery</span>
-      <span class="card-meta">estimated · this week</span>
     </div>
     <h2 class="card-title">Jackpots ahead</h2>
     <div class="grid-2">
@@ -336,7 +330,6 @@
   <section class="card share-page" id="sec-facts">
     <div class="card-head">
       <span class="card-num">07 — Facts of the Day</span>
-      <span class="card-meta">8 to choose from</span>
     </div>
     <h2 class="card-title">Did you know?</h2>
     <ul class="items">
@@ -426,7 +419,6 @@
   <section class="card" id="sec-film">
     <div class="card-head">
       <span class="card-num">10 — Forward Planning · Film</span>
-      <span class="card-meta">2026 release schedule</span>
     </div>
     <h2 class="card-title">Coming to cinemas</h2>
     <div class="grid-2">
@@ -461,7 +453,6 @@
   <section class="card" id="sec-sport-cal">
     <div class="card-head">
       <span class="card-num">11 — Forward Planning · Sport</span>
-      <span class="card-meta">2026 major events</span>
     </div>
     <h2 class="card-title">On the sporting calendar</h2>
     <div class="grid-2">
