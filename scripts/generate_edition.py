@@ -358,20 +358,25 @@ _US_ROLES = (
 
 
 def _birth_is_relevant(item: dict) -> bool:
-    """True if the person looks like a UK celebrity or US movie/music star,
-    based on the Wikipedia page metadata that comes with the birth entry."""
+    """True if the person looks like a UK celebrity or US movie/music star.
+
+    We only inspect Wikipedia's short `description` field (e.g. "American
+    actress and producer", "French politician"). The longer `extract` is
+    skipped on purpose: it tends to mention every country a person ever
+    worked in, which lets French actors and New Zealand models leak through.
+    The description is consistently the *primary* nationality + role tag and
+    is the strongest single signal we've got.
+    """
     pages = item.get("pages") or []
     if not pages:
         return False
     for p in pages:
         desc = (p.get("description") or "").lower()
-        extract = (p.get("extract") or "").lower()
-        # First ~200 chars of the extract — biographies that mention every
-        # country someone ever visited would otherwise over-match.
-        haystack = desc + " " + extract[:200]
-        if any(t in haystack for t in _UK_TAGS) and any(r in haystack for r in _UK_ROLES):
+        if not desc:
+            continue
+        if any(t in desc for t in _UK_TAGS) and any(r in desc for r in _UK_ROLES):
             return True
-        if any(t in haystack for t in _US_TAGS) and any(r in haystack for r in _US_ROLES):
+        if any(t in desc for t in _US_TAGS) and any(r in desc for r in _US_ROLES):
             return True
     return False
 
