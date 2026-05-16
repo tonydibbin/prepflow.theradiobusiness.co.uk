@@ -3,87 +3,695 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Prepflow — Sunday's edition</title>
-<meta name="description" content="Prepflow — Sunday's edition.">
+<title>Prepflow — Sunday, 17 May 2026 · Edition</title>
+<meta name="description" content="Prepflow edition for Sunday, 17 May 2026 — news, sport, showbiz, talkback, day notes and forward planning.">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
-<script>
-  tailwind.config = {
-    theme: { extend: {
-      colors: { paper:'#FFFFFF', cream:'#F7F7F5', ink:'#161614','ink-soft':'#2a2a26', muted:'#6e6e66', hairline:'#ECECE6', line:'#E2E2DA', accent:'#FF4F2E' },
-      fontFamily: {
-        serif:['Fraunces','Georgia','serif'],
-        sans:['Inter','system-ui','sans-serif'],
-        mono:['JetBrains Mono','ui-monospace','monospace'],
-      },
-    }},
-  };
-</script>
 <style>
-  html, body { background:#F7F7F5; color:#161614; }
-  .serif-h1 { font-family:'Fraunces',serif; font-weight:400; letter-spacing:-1px; line-height:1.04; }
-  .mono-label { font-family:'JetBrains Mono',monospace; text-transform:uppercase; letter-spacing:1.3px; }
+  :root {
+    --bg: #F7F7F5; --paper: #FFFFFF; --ink: #161614; --ink-soft: #2a2a26;
+    --muted: #6e6e66; --hairline: #ECECE6; --line: #E2E2DA;
+    --accent: #FF4F2E; --accent-soft: #FFE9E2; --break: #FFE9E2;
+    --serif: "Fraunces", "Times New Roman", Georgia, serif;
+    --sans: "Inter", "Helvetica Neue", system-ui, -apple-system, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--bg); color: var(--ink); font-family: var(--sans); margin: 0; padding: 0; font-size: 15px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+  a:hover { color: var(--accent); }
+  .ribbon { background: var(--ink); color: #fff; padding: 12px 28px; display: flex; align-items: center; justify-content: space-between; font-size: 13px; }
+  .ribbon .left { display: flex; align-items: center; gap: 12px; }
+  .ribbon .badge { background: var(--accent); color: #fff; padding: 3px 10px; border-radius: 4px; font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: 1.2px; text-transform: uppercase; }
+  .ribbon a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+  .site-header { background: var(--paper); border-bottom: 1px solid var(--hairline); padding: 18px 28px; display: flex; align-items: center; justify-content: space-between; }
+  .wordmark { display: flex; align-items: center; gap: 10px; font-family: var(--sans); font-weight: 600; font-size: 17px; color: var(--ink); text-decoration: none; }
+  .wordmark svg { display: block; }
+  .nav { display: flex; align-items: center; gap: 22px; }
+  .nav a { text-decoration: none; color: var(--ink); font-size: 14px; }
+  .nav .pill { background: var(--ink); color: #fff; padding: 7px 14px; border-radius: 999px; font-weight: 500; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 44px 28px 80px 28px; }
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 1.3px; text-transform: uppercase; color: var(--muted); margin-bottom: 18px; }
+  h1.page-title { font-family: var(--serif); font-weight: 400; font-size: 56px; line-height: 1.05; letter-spacing: -1px; margin: 0 0 16px 0; color: var(--ink); }
+  .lede { font-size: 16px; color: var(--ink-soft); max-width: 620px; margin: 0 0 28px 0; }
+  .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 28px; }
+  .btn { border-radius: 999px; padding: 9px 16px; font-size: 14px; font-weight: 500; border: 1px solid var(--line); background: var(--paper); color: var(--ink); cursor: pointer; font-family: var(--sans); text-decoration: none; display: inline-flex; align-items: center; }
+  .btn-primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .card { background: var(--paper); border: 1px solid var(--hairline); border-radius: 18px; padding: 28px 30px; margin-bottom: 22px; }
+  .card-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .card-num, .card-meta { font-family: var(--mono); font-size: 12px; letter-spacing: 1.3px; text-transform: uppercase; color: var(--muted); }
+  .card-meta { letter-spacing: 0.5px; }
+  h2.card-title { font-family: var(--serif); font-weight: 400; font-size: 30px; line-height: 1.1; margin: 0 0 22px 0; color: var(--ink); letter-spacing: -0.4px; }
+  ul.items { list-style: none; padding: 0; margin: 0; }
+  ul.items > li { background: var(--paper); border: 1px solid var(--hairline); border-radius: 14px; padding: 16px 18px; margin-bottom: 10px; display: flex; gap: 16px; }
+  ul.items > li:last-child { margin-bottom: 0; }
+  ul.items > li .num { flex: 0 0 auto; width: 28px; font-family: var(--serif); font-weight: 400; font-size: 22px; color: var(--muted); line-height: 1.1; padding-top: 1px; }
+  ul.items > li .body { flex: 1 1 auto; min-width: 0; }
+  ul.items > li .lead { font-weight: 600; color: var(--ink); margin-bottom: 4px; line-height: 1.45; }
+  ul.items > li .detail { color: var(--ink-soft); font-size: 14.5px; }
+  ul.items > li .tag { font-family: var(--mono); font-size: 11px; letter-spacing: 1.1px; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .weather-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .weather-tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 12px; padding: 14px 16px; text-align: left; }
+  .weather-tile .weather-city { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 1.1px; color: var(--muted); margin-bottom: 6px; }
+  .weather-tile .weather-cond { font-family: var(--serif); font-size: 18px; line-height: 1.1; color: var(--ink); margin-bottom: 8px; }
+  .weather-tile .weather-temps { font-family: var(--mono); font-size: 13px; }
+  .weather-tile .weather-temps .hi { color: var(--accent); font-weight: 600; }
+  .weather-tile .weather-temps .lo { color: var(--muted); margin-left: 6px; }
+  @media print {
+    .weather-grid { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .weather-tile { padding: 8px 10px; border-radius: 6px; }
+    .weather-tile .weather-cond { font-size: 13px; margin-bottom: 4px; }
+    .weather-tile .weather-temps { font-size: 11px; }
+    .weather-tile .weather-city { font-size: 9.5px; margin-bottom: 3px; }
+  }
+  .tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 14px; padding: 16px 18px; }
+  .tile .label { font-family: var(--mono); font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  .tile .value { font-family: var(--serif); font-weight: 400; font-size: 26px; line-height: 1.1; color: var(--ink); margin-bottom: 4px; }
+  .tile .sub { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+  .pill { display: inline-block; background: #f3f5f8; border: 1px solid var(--line); padding: 2px 8px; border-radius: 999px; font-size: 11px; color: var(--muted); margin-left: 6px; vertical-align: middle; }
+  h3.sub { font-family: var(--mono); font-size: 12px; letter-spacing: 1.3px; text-transform: uppercase; color: var(--muted); margin: 22px 0 10px 0; padding-bottom: 6px; border-bottom: 1px solid var(--hairline); }
+  h3.sub:first-of-type { margin-top: 8px; }
+  .tf-card { background: var(--paper); border: 1px solid var(--hairline); border-radius: 14px; padding: 16px 18px; margin-bottom: 10px; }
+  .tf-card .tag { display: inline-block; font-family: var(--mono); font-size: 11px; letter-spacing: 1.3px; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; margin-right: 8px; margin-bottom: 6px; font-weight: 600; }
+  .tf-card.fact .tag { background: var(--ink); color: #fff; }
+  .tf-card.fiction .tag { background: var(--accent); color: #fff; }
+  .qa { font-family: var(--mono); font-size: 12px; letter-spacing: 0.6px; color: var(--muted); margin-top: 6px; text-transform: uppercase; }
+  .qa b { color: var(--accent); margin-right: 4px; }
+  .cal-month { margin-bottom: 18px; }
+  .cal-month .m-head { font-family: var(--mono); font-size: 12px; letter-spacing: 1.3px; text-transform: uppercase; color: var(--muted); border-top: 1px solid var(--hairline); padding-top: 12px; margin-bottom: 8px; }
+  .cal-month ul { list-style: none; padding: 0; margin: 0; }
+  .cal-month li { display: grid; grid-template-columns: 90px 1fr; gap: 14px; padding: 6px 0; border-bottom: 1px dashed var(--hairline); font-size: 14.5px; }
+  .cal-month li:last-child { border-bottom: none; }
+  .cal-month li .when { font-family: var(--mono); font-size: 12px; text-transform: uppercase; color: var(--muted); letter-spacing: 0.4px; padding-top: 2px; }
+  footer.foot { margin-top: 36px; padding-top: 22px; border-top: 1px solid var(--hairline); color: var(--muted); font-size: 13px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  footer.foot a { color: var(--muted); }
+  footer.foot strong { color: var(--ink); font-weight: 600; }
+  .print-logo { display: none; }
+  @media print {
+    @page { size: A4; margin: 24mm 14mm 14mm 14mm; @top-left { content: element(prepLogo); vertical-align: middle; } }
+    .print-logo { display: flex; align-items: center; gap: 8px; position: running(prepLogo); font-family: var(--sans); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: -0.3px; }
+    .print-logo svg { display: block; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    html, body { background: #fff; font-size: 11.5px; line-height: 1.4; }
+    .ribbon, .actions { display: none; }
+    .site-header { border-bottom: 1px solid var(--hairline); padding: 8px 0; margin-bottom: 6px; }
+    .wrap { padding: 0; max-width: 100%; }
+    h1.page-title { font-size: 30px; margin-bottom: 6px; }
+    .lede { font-size: 12px; margin-bottom: 14px; max-width: 100%; }
+    .eyebrow { margin-bottom: 8px; }
+    .card { padding: 14px 16px; margin-bottom: 10px; border-radius: 10px; page-break-inside: auto; page-break-before: always; break-before: page; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .card:first-of-type, .card.share-page { page-break-before: avoid; break-before: auto; }
+    h2.card-title { font-size: 20px; margin-bottom: 10px; page-break-after: avoid; }
+    .card-num, .card-meta { font-size: 10px; }
+    ul.items > li { padding: 8px 10px; margin-bottom: 5px; border-radius: 8px; page-break-inside: avoid; }
+    ul.items > li .num { width: 22px; font-size: 16px; }
+    ul.items > li .lead { font-size: 11.5px; margin-bottom: 2px; }
+    ul.items > li .detail { font-size: 11px; }
+    ul.items > li .tag { font-size: 9.5px; margin-top: 2px; }
+    .tile { padding: 10px 12px; border-radius: 8px; page-break-inside: avoid; }
+    .tile .value { font-size: 18px; }
+    .tile .label, .tile .sub { font-size: 9.5px; }
+    .tf-card { padding: 10px 12px; border-radius: 8px; page-break-inside: avoid; }
+    h3.sub { font-size: 10.5px; margin: 12px 0 6px 0; }
+    .cal-month .m-head { font-size: 10.5px; padding-top: 8px; margin-bottom: 4px; }
+    .cal-month li { padding: 3px 0; font-size: 11px; grid-template-columns: 75px 1fr; }
+    .cal-month li .when { font-size: 10px; }
+    .nav .pill { background: var(--ink); color: #fff; }
+    footer.foot { margin-top: 14px; padding-top: 10px; font-size: 10px; }
+  }
 </style>
 </head>
-<body class="font-sans text-ink antialiased">
+<body>
 
-<div class="bg-ink text-white text-[13px] px-7 py-3 flex items-center justify-between">
-  <div class="flex items-center gap-3">
-    <span class="bg-accent text-white px-2.5 py-0.5 rounded font-mono text-[11px] tracking-[0.12em] uppercase font-semibold">Preview</span>
-    <span>Prepflow is in development. This is a design preview.</span>
-  </div>
-  <a class="underline underline-offset-[3px]" href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">Get early access →</a>
+<div class="print-logo" aria-hidden="true">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5 3.5 V20.5 M5 3.5 H11.5 a4.5 4.5 0 0 1 0 9 H5" stroke="#161614" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="17.7" cy="6.4" r="2.05" fill="#FF4F2E"/>
+  </svg>
+  <span>Prepflow</span>
 </div>
 
-<header class="bg-paper border-b border-hairline px-7 py-[18px] flex items-center justify-between">
-  <a class="flex items-center gap-2.5 font-semibold text-[17px]" href="/">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+<div class="ribbon">
+  <div class="left">
+    <span class="badge">Preview</span>
+    <span>Prepflow is in development. This is a design preview.</span>
+  </div>
+  <a href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">Get early access →</a>
+</div>
+
+<header class="site-header">
+  <a class="wordmark" href="/">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <path d="M5 3.5 V20.5 M5 3.5 H11.5 a4.5 4.5 0 0 1 0 9 H5" stroke="#161614" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
       <circle cx="17.7" cy="6.4" r="2.05" fill="#FF4F2E"/>
     </svg>
     Prepflow
   </a>
-  <nav class="flex items-center gap-6 text-[14px]">
-    <a class="hover:text-accent" href="/#editions">Editions</a>
-    <a class="bg-ink text-white px-3.5 py-1.5 rounded-full font-medium" href="/" id="todayLink">Today's edition</a>
-    <a class="hover:text-accent" href="mailto:tony@tonydibbin.com?subject=Prepflow%20sign%20in">Sign in</a>
-  </nav>
 </header>
 
-<main class="max-w-[760px] mx-auto px-7 pt-20 pb-24">
+<main class="wrap">
 
-  <div class="mono-label text-[12px] text-muted mb-4">Edition · Sunday</div>
-  <h1 class="serif-h1 text-[48px] mb-5">Sunday's edition is being prepped.</h1>
-  <p class="text-[16px] text-ink-soft mb-7 max-w-[600px]">Prepflow refreshes the next day's edition every weekday at <strong>14:59 UK time</strong>. Once the new edition is ready, this page will be filled with news, sport, showbiz, talkback prompts and day notes for Sunday.</p>
+  <div class="eyebrow">Daily Edition · For Tony Dibbin</div>
+  <h1 class="page-title">Sunday, 17 May 2026.</h1>
+  <p class="lede">Your daily radio show prep — three top news stories, forward-looking showbiz, sport that matters this week, talkback prompts, and day notes for today and tomorrow. Built fresh every weekday, ready by 3pm for tomorrow&#39;s show.</p>
 
-  <div class="bg-paper border border-hairline rounded-[18px] p-7 mb-6">
-    <div class="mono-label text-[11px] text-muted mb-2">In the meantime</div>
-    <h2 class="font-serif text-[24px] mb-3">Have a look at today's available edition.</h2>
-    <div class="flex flex-wrap gap-2.5">
-      <a id="goToday" href="/" class="bg-accent text-white border border-accent rounded-full px-4 py-2 text-[14px] font-medium hover:opacity-90">Open today's edition →</a>
-      <a href="/" class="border border-line bg-paper text-ink rounded-full px-4 py-2 text-[14px] font-medium hover:bg-cream">Back to Prepflow</a>
+  <div class="actions">
+    <a class="btn" href="/">← Back to Prepflow</a>
+    <a class="btn" href="/editions/sunday.pdf" download>Download PDF</a>
+    <a class="btn btn-primary" href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">+ Get early access</a>
+  </div>
+
+  <section class="card" id="sec-weather">
+    <div class="card-head">
+      <span class="card-num">00 — Weather</span>
     </div>
-  </div>
+    <h2 class="card-title">Tomorrow's forecast</h2>
+    <div class="weather-grid">
+      <div class="weather-tile">
+        <div class="weather-city">London</div>
+        <div class="weather-cond">Drizzle</div>
+        <div class="weather-temps"><span class="hi">16°</span> <span class="lo">11°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Birmingham</div>
+        <div class="weather-cond">Light drizzle</div>
+        <div class="weather-temps"><span class="hi">14°</span> <span class="lo">8°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Manchester</div>
+        <div class="weather-cond">Drizzle</div>
+        <div class="weather-temps"><span class="hi">14°</span> <span class="lo">9°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Glasgow</div>
+        <div class="weather-cond">Drizzle</div>
+        <div class="weather-temps"><span class="hi">13°</span> <span class="lo">7°</span></div>
+      </div>
+    </div>
+  </section>
 
-  <div class="text-[13px] text-muted">
-    The next refresh is scheduled for 14:59 UK time. If you need the edition urgently, email <a class="underline underline-offset-[3px] hover:text-accent" href="mailto:tony@tonydibbin.com">tony@tonydibbin.com</a>.
-  </div>
+  <section class="card share-page" id="sec-news">
+    <div class="card-head">
+      <span class="card-num">01 — News</span>
+    </div>
+    <h2 class="card-title">Today's top stories</h2>
+    <ul class="items">
+      <li>
+        <div class="num">1</div>
+        <div class="body">
+          <div class="lead">Kemi Badenoch has shared her delight after rapper Nicki Minaj made an unexpected comparison to Margaret Thatcher.</div>
+          <div class="detail">The Business Secretary mentioned she&#39;s a fan of Minaj&#39;s track &#39;Starships&#39;. This unique endorsement certainly got people talking.</div>
+          <div class="tag">Politics · UK</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">2</div>
+        <div class="body">
+          <div class="lead">Police in Swansea uncovered an unexpected hideaway during a raid on a cannabis farm in Uplands.</div>
+          <div class="detail">Officers found a 42-year-old man, Antonjo Kodhelwas, attempting to conceal himself in a cupboard. It seems his hiding spot wasn&#39;t quite as effective as he&#39;d hoped.</div>
+          <div class="tag">Crime · UK</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">3</div>
+        <div class="body">
+          <div class="lead">A new report reveals dozens of parents are struggling after experiencing significant errors with the Child Maintenance Service.</div>
+          <div class="detail">One parent, John Hammond, claims the CMS took a staggering £20,000 he didn&#39;t owe. These accounts highlight ongoing issues within the system.</div>
+          <div class="tag">Social Affairs · UK</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-showbiz">
+    <div class="card-head">
+      <span class="card-num">02 — Showbiz</span>
+    </div>
+    <h2 class="card-title">What's coming up</h2>
+    <ul class="items">
+      <li>
+        <div class="num">1</div>
+        <div class="body">
+          <div class="lead">Reports suggest the Beckhams&#39; financial empire is poised to reach a significant new milestone.</div>
+          <div class="detail">It&#39;s understood David and Victoria&#39;s combined wealth is now nearing billionaire status. Meanwhile, Oasis are making their debut on a prominent rich list.</div>
+          <div class="tag">Celebrity · This week</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">2</div>
+        <div class="body">
+          <div class="lead">Drake fans have a busy week ahead, with the Canadian rapper unexpectedly dropping a triple album.</div>
+          <div class="detail">These new releases follow a recent high-profile dispute with Kendrick Lamar. Listeners will be keen to see if the new music addresses any of the recent drama.</div>
+          <div class="tag">Music · This week</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">3</div>
+        <div class="body">
+          <div class="lead">The recent Eurovision Song Contest is still generating headlines, with questions now being raised about its future.</div>
+          <div class="detail">The competition faced its biggest boycott in 70 years due to the row over Israel&#39;s participation. Many are now wondering how this will impact the contest going forward.</div>
+          <div class="tag">TV · Ongoing</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-sport">
+    <div class="card-head">
+      <span class="card-num">03 — Sport</span>
+    </div>
+    <h2 class="card-title">On the schedule</h2>
+    <ul class="items">
+      <li>
+        <div class="num">1</div>
+        <div class="body">
+          <div class="lead">Manchester City&#39;s Jeremy Doku is expected to be a crucial player in their upcoming FA Cup final.</div>
+          <div class="detail">The winger has become a key part of Pep Guardiola&#39;s side as they chase another treble. Many will be watching his performance against Chelsea this weekend.</div>
+          <div class="tag">Football · UK</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">2</div>
+        <div class="body">
+          <div class="lead">England&#39;s Jude Bellingham continued his impressive form, scoring for Real Madrid in their latest La Liga victory.</div>
+          <div class="detail">While Bellingham found the net, his teammate Kylian Mbappe received a hostile reception from supporters. It&#39;s always great to see our English talent shining abroad.</div>
+          <div class="tag">Football · Europe</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">3</div>
+        <div class="body">
+          <div class="lead">As the football season draws to a close, BBC Sport is celebrating the enduring appeal of a classic anthem.</div>
+          <div class="detail">They&#39;ve been chatting with co-creator David Baddiel about &#39;Three Lions&#39;, the song that truly united the nation. It&#39;s a fantastic reminder of football&#39;s power ahead of summer tournaments.</div>
+          <div class="tag">Football · UK</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-newsbrief">
+    <div class="card-head">
+      <span class="card-num">04 — Newsbrief</span>
+    </div>
+    <h2 class="card-title">Quick hits</h2>
+    <ul class="items">
+      <li>
+        <div class="num">1</div>
+        <div class="body">
+          <div class="lead">More than half of UK workers would take a 10% pay cut to never go into the office again — but only 17% of bosses say they&#39;d offer one.</div>
+          <div class="detail">The gap is growing again after forced return-to-office rules. HR experts say the tension shows up in resignation rates, particularly for under-35s.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">2</div>
+        <div class="body">
+          <div class="lead">Brits spend an average of 38 minutes a day deciding what to watch — and 12 of those are spent scrolling Netflix.</div>
+          <div class="detail">&#39;Watch-paralysis&#39; has its own subreddit. Streamers are quietly experimenting with &#39;shuffle&#39; buttons that just play something.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">3</div>
+        <div class="body">
+          <div class="lead">Britain&#39;s most-stolen supermarket item in 2026 isn&#39;t meat or cheese — it&#39;s olive oil, with theft up 220% year on year.</div>
+          <div class="detail">Prices have nearly doubled in two years. Some shops have fitted security tags to single bottles, others have moved premium brands behind the counter — like cigarettes.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">4</div>
+        <div class="body">
+          <div class="lead">Almost 70% of UK households now have a smart speaker — but the most common use is still &#39;asking what time it is&#39;.</div>
+          <div class="detail">Researchers say we under-use the devices we own. Setting timers, playing music and weather queries make up two thirds of all commands.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">5</div>
+        <div class="body">
+          <div class="lead">Brits now spend an average of 14 hours a week on streaming — more than cooking, cleaning and exercising combined.</div>
+          <div class="detail">The biggest jump is in the over-55s, who used to be the holdouts for live telly. &#39;Second-screening&#39; means we pay less attention than ever.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">6</div>
+        <div class="body">
+          <div class="lead">Almost two thirds of us say we&#39;ve cried at a podcast in the last year — grief, parenting and identity top the list of triggers.</div>
+          <div class="detail">Researchers reckon it&#39;s the intimacy of audio that does it. The figure is even higher for under-30s, 71% of whom admit a recent podcast-induced tear.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">7</div>
+        <div class="body">
+          <div class="lead">Three quarters of dog owners now talk to their dog more than they talk to their partner.</div>
+          <div class="detail">Top topics: &#39;what we&#39;re doing later&#39;, &#39;what we just saw out the window&#39; and a surprising amount of Bake Off commentary. 12% admit they&#39;ve apologised to the dog after a row with the human.</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-talkback">
+    <div class="card-head">
+      <span class="card-num">05 — Talkback</span>
+    </div>
+    <h2 class="card-title">For the phone lines</h2>
+
+    <h3 class="sub">Our survey said</h3>
+    <ul class="items">
+      <li>
+        <div class="num">Q</div>
+        <div class="body">
+          <div class="lead">71% of us admit to doing THIS in the car when we think no-one is watching. What is it?</div>
+          <div class="qa"><b>Answer:</b> singing at the top of our lungs, with full dramatic facial expressions.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">Q</div>
+        <div class="body">
+          <div class="lead">Asked &#39;what&#39;s the most British thing about your morning?&#39;, the number one answer wasn&#39;t a cup of tea — it was THIS.</div>
+          <div class="qa"><b>Answer:</b> apologising to someone who walked into you.</div>
+        </div>
+      </li>
+    </ul>
+
+    <h3 class="sub">Talk topic</h3>
+    <ul class="items">
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">If you could only listen to one song for the rest of your life, what is it?</div>
+          <div class="detail">Talk-back: pick one. No &#39;depends on the mood&#39;. Just one song forever — go.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">What&#39;s the most British thing you&#39;ve ever done?</div>
+          <div class="detail">Talk-back: bonus points for the apology, the queue and the cup of tea all in one anecdote.</div>
+        </div>
+      </li>
+    </ul>
+
+    <h3 class="sub">True story or Jackanory — listeners guess</h3>
+    <div class="tf-card fact">
+      <span class="tag">Fact</span><b>Animals.</b> A goldfish at Bristol Aquarium has been confirmed as the oldest in captivity in the UK after celebrating its 23rd birthday last week. Staff say its secret is a &#39;strict diet and very calm music&#39;.
+    </div>
+    <div class="tf-card fiction">
+      <span class="tag">Fiction</span><b>Made up, but believable.</b> A Scottish brewery has begun training rescue dogs to detect over-fermented kegs by scent, with the lead beagle reportedly never wrong in six months.
+    </div>
+  </section>
+
+  <section class="card" id="sec-lottery">
+    <div class="card-head">
+      <span class="card-num">06 — Lottery</span>
+    </div>
+    <h2 class="card-title">Jackpots ahead</h2>
+    <div class="grid-2">
+      <div class="tile">
+        <div class="label">Next EuroMillions Jackpot</div>
+        <div class="value">£80 million</div>
+        <div class="sub">Next Tuesday or Friday · estimated</div>
+      </div>
+      <div class="tile">
+        <div class="label">Next National Lottery Jackpot</div>
+        <div class="value">£80 million</div>
+        <div class="sub">Next Wednesday or Saturday · estimated</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card share-page" id="sec-facts">
+    <div class="card-head">
+      <span class="card-num">07 — Facts of the Day</span>
+    </div>
+    <h2 class="card-title">Did you know?</h2>
+    <ul class="items">
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">The Great Wall of China isn&#39;t actually visible from space without aid, despite the myth.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">There are more possible games of chess than atoms in the observable universe.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">A flock of crows is called a &#39;murder&#39;.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">The unicorn is mentioned in the Bible nine times.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">Coca-Cola would be green if colouring wasn&#39;t added to it.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">A day on Venus is longer than a year on Venus.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">Polar bears have black skin under their white fur.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">●</div>
+        <div class="body">
+          <div class="lead">Hot water freezes faster than cold water under certain conditions — it&#39;s called the Mpemba effect.</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-today">
+    <div class="card-head">
+      <span class="card-num">08 — Today's Day Notes</span>
+      <span class="card-meta">Sun 17 May 2026</span>
+    </div>
+    <h2 class="card-title">On this day</h2>
+
+    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 137 of the year, 228 days left in 2026. Today Birthday of the Raja (Perlis); Christian feast day:
+Giulia Salzano; Christian feast day:
+Blessed Ivan Ziatyk; Christian feast day:
+Paschal Baylon. Star sign Taurus, birthstone Emerald.</p>
+
+    <h3 class="sub">Today's birthdays</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1955 — Bill Paxton, American actor and director (died 2017)</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1932 — Rodric Braithwaite, English soldier and diplomat, British Ambassador to Russia</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1976 — Wang Leehom, American-Taiwanese singer-songwriter, producer, actor, and director</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1962 — Craig Ferguson, Scottish-American comedian, actor, and talk show host</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1931 — Dewey Redman, American saxophonist (died 2006)</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1976 — Kandi Burruss, American singer-songwriter, producer, and actress</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1968 — Dave Abbruzzese, American rock drummer and songwriter</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1974 — Andrea Corr, Irish singer-songwriter, pianist, and actress</div></div></li>
+    </ul>
+
+    <h3 class="sub">The day today</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1992 — Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1980 — Rioting breaks out in downtown Miami, following the acquittal of four white police officers in the killing of Arthur McDuffie, a Black insurance salesman.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1974 — Police in Los Angeles raid the Symbionese Liberation Army&#39;s headquarters, killing six members, including Camilla Hall.</div></div></li>
+    </ul>
+
+    <h3 class="sub">Today in music</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1977 — Nolan Bushnell opened the first Chuck E. Cheese&#39;s Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">2000 — Arsenal and Galatasaray fans clash in the 2000 UEFA Cup Final riots in Copenhagen</div></div></li>
+    </ul>
+
+    <h3 class="sub">Today in history</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1997 — Troops of Laurent-Désiré Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1983 — The U.S. Department of Energy declassifies documents showing world&#39;s largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer&#39;s Freedom of Information Act request.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1973 — Watergate scandal: Televised hearings begin in the United States Senate.</div></div></li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-tomorrow">
+    <div class="card-head">
+      <span class="card-num">09 — Tomorrow's Day Notes</span>
+      <span class="card-meta">Mon 18 May 2026</span>
+    </div>
+    <h2 class="card-title">A peek at tomorrow</h2>
+
+    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 138 of the year, 227 days left in 2026. Today Christian feast day:
+Ælfgifu of Shaftesbury; Christian feast day:
+Blessed Blandine Merten; Christian feast day:
+Eric IX of Sweden; Christian feast day:
+Felix of Cantalice. Star sign Taurus, birthstone Emerald.</p>
+
+    <h3 class="sub">Tomorrow's birthdays</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1949 — Walter Hawkins, American gospel music singer and pastor (died 2010)</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1958 — Toyah Willcox, English singer-songwriter, producer, and actress</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1967 — Nancy Juvonen, American screenwriter and producer, co-founded Flower Films</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1952 — Diane Duane, American author and screenwriter</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1977 — Lee Hendrie, English footballer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1970 — Tina Fey, American actress, producer, and screenwriter</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1952 — George Strait, American singer, guitarist and producer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1975 — Jack Johnson, American singer-songwriter and guitarist</div></div></li>
+    </ul>
+
+    <h3 class="sub">The day tomorrow</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">1955 — Operation Passage to Freedom, the evacuation of 310,000 Vietnamese civilians, soldiers and non-Vietnamese members of the French Army from communist North Vietnam to South Vietnam following the end of the First Indochina War, ends.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">2015 — At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1953 — Jacqueline Cochran becomes the first woman to break the sound barrier.</div></div></li>
+    </ul>
+
+    <h3 class="sub">Tomorrow in music</h3>
+    <ul class="items">
+      <li><div class="num">●</div><div class="body"><div class="lead">2015 — At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1955 — Operation Passage to Freedom, the evacuation of 310,000 Vietnamese civilians, soldiers and non-Vietnamese members of the French Army from communist North Vietnam to South Vietnam following the end of the First Indochina War, ends.</div></div></li>
+    </ul>
+  </section>
+
+  <section class="card" id="sec-film">
+    <div class="card-head">
+      <span class="card-num">10 — Forward Planning · Film</span>
+    </div>
+    <h2 class="card-title">Coming to cinemas</h2>
+    <div class="grid-2">
+      <div>
+        <div class="cal-month">
+          <div class="m-head">May 2026</div>
+          <ul>
+            <li><span class="when">Fri 15</span><span>Mortal Kombat II (+ IMAX); Is God Is; Poetic License</span></li>
+            <li><span class="when">Fri 22</span><span>The Mandalorian and Grogu (+ IMAX)</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">June 2026</div>
+          <ul>
+            <li><span class="when">Fri 5</span><span>Masters of the Universe; Power Ballad</span></li>
+            <li><span class="when">Fri 12</span><span>Scary Movie 6; new Spielberg film (+ IMAX)</span></li>
+            <li><span class="when">Fri 19</span><span>Pixar's Toy Story 5</span></li>
+            <li><span class="when">Fri 26</span><span>Supergirl: Woman of Tomorrow (+ IMAX); A Private Life</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">July 2026</div>
+          <ul>
+            <li><span class="when">Wed 1</span><span>Minions & Monsters</span></li>
+            <li><span class="when">Fri 3</span><span>Shiver; Young Washington</span></li>
+            <li><span class="when">Fri 10</span><span>Moana (live action); Evil Dead Burn</span></li>
+            <li><span class="when">Fri 17</span><span>Christopher Nolan's The Odyssey (+ IMAX); Cut Off</span></li>
+            <li><span class="when">Fri 24</span><span>Heads of State; Untitled DCU</span></li>
+            <li><span class="when">Fri 31</span><span>Spider-Man: Brand New Day</span></li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div class="cal-month">
+          <div class="m-head">August 2026</div>
+          <ul>
+            <li><span class="when">Fri 7</span><span>Once Upon a Time in a Cinema</span></li>
+            <li><span class="when">Fri 14</span><span>Flowervale Street; PAW Patrol 3: The Dino Movie</span></li>
+            <li><span class="when">Fri 21</span><span>Mutiny; The Bride!</span></li>
+            <li><span class="when">Fri 28</span><span>Crime 101; Outcome</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">September 2026 · preview</div>
+          <ul>
+            <li><span class="when">Fri 4</span><span>Conjuring: Last Rites</span></li>
+            <li><span class="when">Fri 11</span><span>Resident Evil reboot</span></li>
+            <li><span class="when">Fri 18</span><span>The Black Phone 2</span></li>
+            <li><span class="when">Fri 25</span><span>Tron: Ares (+ IMAX)</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">October 2026 · preview</div>
+          <ul>
+            <li><span class="when">Fri 16</span><span>Untitled Christopher McQuarrie thriller</span></li>
+            <li><span class="when">Fri 23</span><span>Frankenstein (del Toro)</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card" id="sec-sport-cal">
+    <div class="card-head">
+      <span class="card-num">11 — Forward Planning · Sport</span>
+    </div>
+    <h2 class="card-title">On the sporting calendar</h2>
+    <div class="grid-2">
+      <div>
+        <div class="cal-month">
+          <div class="m-head">May 2026</div>
+          <ul>
+            <li><span class="when">Thu 14</span><span>PGA Championship begins (Golf)</span></li>
+            <li><span class="when">Wed 20</span><span>UEFA Europa League Final</span></li>
+            <li><span class="when">Sat 23</span><span>EFL Championship Play-off Final, Wembley</span></li>
+            <li><span class="when">Sun 24</span><span>Premier League final day (all 10 games, 3pm BST)</span></li>
+            <li><span class="when">24 May – 7 Jun</span><span>French Open (Tennis)</span></li>
+            <li><span class="when">Thu 28</span><span>Premier League Darts Finals Night</span></li>
+            <li><span class="when">Sat 30</span><span>UEFA Champions League Final</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">June 2026</div>
+          <ul>
+            <li><span class="when">Thu 4</span><span>NBA Finals begin</span></li>
+            <li><span class="when">11 Jun – 19 Jul</span><span>FIFA World Cup (USA / Canada / Mexico)</span></li>
+            <li><span class="when">11–14 Jun</span><span>World Cup of Darts</span></li>
+            <li><span class="when">12 Jun – 5 Jul</span><span>ICC Women's T20 World Cup (England & Wales)</span></li>
+            <li><span class="when">18–21 Jun</span><span>U.S. Open (Golf)</span></li>
+            <li><span class="when">29 Jun – 12 Jul</span><span>Wimbledon</span></li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div class="cal-month">
+          <div class="m-head">July 2026</div>
+          <ul>
+            <li><span class="when">4–26 Jul</span><span>Tour de France (Cycling)</span></li>
+            <li><span class="when">Sun 5</span><span>British Grand Prix, Silverstone</span></li>
+            <li><span class="when">16–19 Jul</span><span>The Open Championship (Golf)</span></li>
+            <li><span class="when">18–26 Jul</span><span>World Matchplay Darts, Blackpool</span></li>
+            <li><span class="when">23 Jul – 2 Aug</span><span>Commonwealth Games, Glasgow</span></li>
+          </ul>
+        </div>
+        <div class="cal-month">
+          <div class="m-head">August 2026</div>
+          <ul>
+            <li><span class="when">w/c 10</span><span>Hundred & T20 Blast climax (Cricket)</span></li>
+            <li><span class="when">Sat 15</span><span>Premier League season begins (2026/27)</span></li>
+            <li><span class="when">22–23</span><span>Belgian Grand Prix (F1)</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <div>
+      <strong>Prepflow</strong> — daily radio show prep<br>
+      A service of <a href="https://www.theradiobusiness.co.uk">theradiobusiness.co.uk</a>
+    </div>
+    <div style="text-align:right;">
+      Edition: Sun 17 May 2026<br>
+      &copy; 2026 The Radio Business
+    </div>
+  </footer>
 
 </main>
-
-<script>
-  // Point the header "Today's edition" link at whichever day's edition exists for today.
-  (function () {
-    var days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
-    var today = days[new Date().getDay()];
-    var url = '/editions/' + today + '.html';
-    document.getElementById('todayLink').setAttribute('href', url);
-    document.getElementById('goToday').setAttribute('href', url);
-  })();
-</script>
 
 </body>
 </html>
