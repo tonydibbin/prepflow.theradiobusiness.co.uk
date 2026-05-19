@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Prepflow — Wednesday, 13 May 2026 · Edition</title>
-<meta name="description" content="Prepflow edition for Wednesday, 13 May 2026 — news, sport, showbiz, talkback, day notes and forward planning.">
+<title>Prepflow — Wednesday, 20 May 2026 · Edition</title>
+<meta name="description" content="Prepflow edition for Wednesday, 20 May 2026 — news, sport, showbiz, talkback, day notes and forward planning.">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -54,6 +54,20 @@
   ul.items > li .detail { color: var(--ink-soft); font-size: 14.5px; }
   ul.items > li .tag { font-family: var(--mono); font-size: 11px; letter-spacing: 1.1px; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .weather-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .weather-tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 12px; padding: 14px 16px; text-align: left; }
+  .weather-tile .weather-city { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 1.1px; color: var(--muted); margin-bottom: 6px; }
+  .weather-tile .weather-cond { font-family: var(--serif); font-size: 18px; line-height: 1.1; color: var(--ink); margin-bottom: 8px; }
+  .weather-tile .weather-temps { font-family: var(--mono); font-size: 13px; }
+  .weather-tile .weather-temps .hi { color: var(--accent); font-weight: 600; }
+  .weather-tile .weather-temps .lo { color: var(--muted); margin-left: 6px; }
+  @media print {
+    .weather-grid { grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .weather-tile { padding: 8px 10px; border-radius: 6px; }
+    .weather-tile .weather-cond { font-size: 13px; margin-bottom: 4px; }
+    .weather-tile .weather-temps { font-size: 11px; }
+    .weather-tile .weather-city { font-size: 9.5px; margin-bottom: 3px; }
+  }
   .tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 14px; padding: 16px 18px; }
   .tile .label { font-family: var(--mono); font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
   .tile .value { font-family: var(--serif); font-weight: 400; font-size: 26px; line-height: 1.1; color: var(--ink); margin-bottom: 4px; }
@@ -136,17 +150,12 @@
     </svg>
     Prepflow
   </a>
-  <nav class="nav">
-    <a href="/#editions">Editions</a>
-    <a class="pill" href="/editions/wednesday.html">Today's edition</a>
-    <a href="mailto:tony@tonydibbin.com?subject=Prepflow%20sign%20in">Sign in</a>
-  </nav>
 </header>
 
 <main class="wrap">
 
   <div class="eyebrow">Daily Edition · For Tony Dibbin</div>
-  <h1 class="page-title">Wednesday, 13 May 2026.</h1>
+  <h1 class="page-title">Wednesday, 20 May 2026.</h1>
   <p class="lede">Your daily radio show prep — three top news stories, forward-looking showbiz, sport that matters this week, talkback prompts, and day notes for today and tomorrow. Built fresh every weekday, ready by 3pm for tomorrow&#39;s show.</p>
 
   <div class="actions">
@@ -155,34 +164,62 @@
     <a class="btn btn-primary" href="mailto:tony@tonydibbin.com?subject=Prepflow%20early%20access">+ Get early access</a>
   </div>
 
-  <section class="card" id="sec-news">
+  <section class="card" id="sec-weather">
+    <div class="card-head">
+      <span class="card-num">00 — Weather</span>
+    </div>
+    <h2 class="card-title">Tomorrow's forecast</h2>
+    <div class="weather-grid">
+      <div class="weather-tile">
+        <div class="weather-city">London</div>
+        <div class="weather-cond">Light drizzle</div>
+        <div class="weather-temps"><span class="hi">20°</span> <span class="lo">13°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Birmingham</div>
+        <div class="weather-cond">Drizzle</div>
+        <div class="weather-temps"><span class="hi">18°</span> <span class="lo">11°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Manchester</div>
+        <div class="weather-cond">Light drizzle</div>
+        <div class="weather-temps"><span class="hi">16°</span> <span class="lo">11°</span></div>
+      </div>
+      <div class="weather-tile">
+        <div class="weather-city">Glasgow</div>
+        <div class="weather-cond">Light drizzle</div>
+        <div class="weather-temps"><span class="hi">15°</span> <span class="lo">11°</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card share-page" id="sec-news">
     <div class="card-head">
       <span class="card-num">01 — News</span>
-      <span class="card-meta">3 stories · max 1 political</span>
     </div>
     <h2 class="card-title">Today's top stories</h2>
     <ul class="items">
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">Reform councillor suspended for anti-Islam posts.</div>
-          <div class="detail">Ben Rowe is suspended over a series of Islamophobic and antisemitic posts on social media.</div>
+          <div class="lead">UK unemployment rate unexpectedly rises.</div>
+          <div class="detail">The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.</div>
           <div class="tag">UK · News</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">Students at risk if universities go bust, say MPs.</div>
-          <div class="detail">An Education Select Committee report finds the government needs to make urgent plans for universities facing insolvency.</div>
+          <div class="lead">BBC confirms new Strictly Come Dancing hosts.</div>
+          <div class="detail">The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.</div>
           <div class="tag">UK · News</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">Archibald retires from cycling after falling &#39;in love&#39; with nursing.</div>
-          <div class="detail">Three-time Olympic medallist Katie Archibald retires from cycling - despite being previously chosen for Scotland&#39;s 2026 Commonwealth Games team - having &#34;fallen in love&#34; with her new career as a nurse.</div>
+          <div class="lead">Supermarkets urged to limit food prices by government.</div>
+          <div class="detail">Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.</div>
           <div class="tag">UK · News</div>
         </div>
       </li>
@@ -192,31 +229,30 @@
   <section class="card" id="sec-showbiz">
     <div class="card-head">
       <span class="card-num">02 — Showbiz</span>
-      <span class="card-meta">forward-looking only</span>
     </div>
     <h2 class="card-title">What's coming up</h2>
     <ul class="items">
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">Zoe Ball confirms she did not get Strictly presenting role.</div>
-          <div class="detail">The broadcaster says she was &#34;so chuffed to even be in the mix&#34; for the job on the BBC One show.</div>
+          <div class="lead">BBC confirms new Strictly Come Dancing hosts.</div>
+          <div class="detail">The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.</div>
           <div class="tag">Showbiz · UK</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs.</div>
-          <div class="detail">From dancefloor bangers to heartfelt ballads, here are the highlights and low points of Eurovision.</div>
+          <div class="lead">Bangaranga! Bulgaria wins Eurovision - but UK comes last.</div>
+          <div class="detail">Bulgarian singer Dara is a surprise winner beating Israel in second place, while the UK&#39;s Look Mum No Computer gets just one point.</div>
           <div class="tag">Showbiz · UK</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">Live from your living room: The rise of concert films and livestreamed gigs.</div>
-          <div class="detail">Can&#39;t see your favourite act in the flesh? There might be a solution - but not everyone&#39;s a fan.</div>
+          <div class="lead">&#39;Look Mum, one point&#39;: Why does the UK keep getting Eurovision wrong?.</div>
+          <div class="detail">After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.</div>
           <div class="tag">Showbiz · UK</div>
         </div>
       </li>
@@ -226,39 +262,38 @@
   <section class="card" id="sec-sport">
     <div class="card-head">
       <span class="card-num">03 — Sport</span>
-      <span class="card-meta">UK focus · this week</span>
     </div>
     <h2 class="card-title">On the schedule</h2>
     <ul class="items">
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">Ex-Georgia captain Sharikadze gets 11-year ban over urine-swapping scheme.</div>
-          <div class="detail">Former Georgia captain Merab Sharikadze is banned for 11 years for violating anti-doping rules, with five team-mates handed suspensions of up to six years.</div>
+          <div class="lead">Did England &#39;fake relationships&#39; cost team 2006 World Cup glory?.</div>
+          <div class="detail">Former England players and coaching staff reflect on whether intense Premier League rivalries may have undermined the so-called Golden Generation at the 2006 World Cup.</div>
           <div class="tag">Sport · UK</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">O&#39;Neill turns down Blackburn job to remain with NI.</div>
-          <div class="detail">Michael O&#39;Neill will not be taking the Blackburn Rovers job on a permanent basis and will remain in his role as Northern Ireland manager.</div>
+          <div class="lead">Usyk v Verhoeven - all you need to know.</div>
+          <div class="detail">Everything you need to know about Oleksandr Usyk&#39;s world title defence against Rico Verhoeven in Egypt on Saturday.</div>
           <div class="tag">Sport · UK</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">Mourinho in final negotiations to become Real boss.</div>
-          <div class="detail">Jose Mourinho is in final negotiations to become Real Madrid&#39;s next head coach, 13 years after his first spell at the Bernabeu.</div>
+          <div class="lead">He&#39;s changed the face of English football - Rooney on Guardiola.</div>
+          <div class="detail">Wayne Rooney, Kelly Somers and Kae Kurd discuss the influence Pep Guardiola has had on English football and consider the impact his expected departure from Manchester City will have on the Premier League.</div>
           <div class="tag">Sport · UK</div>
         </div>
       </li>
       <li>
         <div class="num">4</div>
         <div class="body">
-          <div class="lead">Wales confident Bellamy will stay amid Burnley links.</div>
-          <div class="detail">Football Association of Wales bosses are &#34;very confident&#34; Craig Bellamy will remain head coach of the national team despite interest from Burnley.</div>
+          <div class="lead">&#39;I broke the curse&#39; - the fall and rise of a teenage Grand Slam champion.</div>
+          <div class="detail">When 19-year-old Bianca Andreescu stunned Serena Williams to win the US Open. It was unthinkable it would be more than 2,300 days before her next triumph.</div>
           <div class="tag">Sport · UK</div>
         </div>
       </li>
@@ -268,57 +303,56 @@
   <section class="card" id="sec-newsbrief">
     <div class="card-head">
       <span class="card-num">04 — Newsbrief</span>
-      <span class="card-meta">light bites · pick &amp; mix</span>
     </div>
     <h2 class="card-title">Quick hits</h2>
     <ul class="items">
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">The most-Googled DIY question in Britain this year: &#39;how to remove silicone&#39;.</div>
-          <div class="detail">Tradespeople say it&#39;s the rise of botched bathroom resealing jobs during lockdown that&#39;s still haunting people. YouTube tutorials on the topic have racked up 60 million views.</div>
+          <div class="lead">Brits spend an average of 38 minutes a day deciding what to watch — and 12 of those are spent scrolling Netflix.</div>
+          <div class="detail">&#39;Watch-paralysis&#39; has its own subreddit. Streamers are quietly experimenting with &#39;shuffle&#39; buttons that just play something.</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
+        <div class="body">
+          <div class="lead">More than half of UK workers would take a 10% pay cut to never go into the office again — but only 17% of bosses say they&#39;d offer one.</div>
+          <div class="detail">The gap is growing again after forced return-to-office rules. HR experts say the tension shows up in resignation rates, particularly for under-35s.</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">3</div>
         <div class="body">
           <div class="lead">Loneliness is now considered a bigger health risk than smoking 15 cigarettes a day, according to NHS England.</div>
           <div class="detail">Social prescribing — GPs referring patients to community activities — is rolling out nationwide. Walking groups, book clubs and choirs are reportedly oversubscribed.</div>
         </div>
       </li>
       <li>
-        <div class="num">3</div>
-        <div class="body">
-          <div class="lead">The fastest-growing hobby of 2026 is hand-embroidery — sales of needles and thread up 180% in a year.</div>
-          <div class="detail">Crafters say it&#39;s the perfect &#39;phone detox&#39; — slow, tactile, satisfying. TikTok is full of 20-somethings showing off custom denim jackets.</div>
-        </div>
-      </li>
-      <li>
         <div class="num">4</div>
         <div class="body">
-          <div class="lead">Three quarters of dog owners now talk to their dog more than they talk to their partner.</div>
-          <div class="detail">Top topics: &#39;what we&#39;re doing later&#39;, &#39;what we just saw out the window&#39; and a surprising amount of Bake Off commentary. 12% admit they&#39;ve apologised to the dog after a row with the human.</div>
+          <div class="lead">The most-Googled DIY question in Britain this year: &#39;how to remove silicone&#39;.</div>
+          <div class="detail">Tradespeople say it&#39;s the rise of botched bathroom resealing jobs during lockdown that&#39;s still haunting people. YouTube tutorials on the topic have racked up 60 million views.</div>
         </div>
       </li>
       <li>
         <div class="num">5</div>
-        <div class="body">
-          <div class="lead">Almost 70% of UK households now have a smart speaker — but the most common use is still &#39;asking what time it is&#39;.</div>
-          <div class="detail">Researchers say we under-use the devices we own. Setting timers, playing music and weather queries make up two thirds of all commands.</div>
-        </div>
-      </li>
-      <li>
-        <div class="num">6</div>
         <div class="body">
           <div class="lead">British baby names are getting shorter again — three- and four-letter names are dominating the registrar.</div>
           <div class="detail">Top picks this year: Noa, Ezra, Ada and Bo. Long, multi-syllable Victorian names like Theodora are sliding back down the chart.</div>
         </div>
       </li>
       <li>
+        <div class="num">6</div>
+        <div class="body">
+          <div class="lead">Holiday firms report a 40% spike in &#39;shoulder season&#39; bookings — September and October sun trips are way up on last year.</div>
+          <div class="detail">Travellers blame school-holiday flight prices, unreliable summer weather, and &#39;August feels too crowded these days&#39;. Spain, Greece and Portugal top the wish list.</div>
+        </div>
+      </li>
+      <li>
         <div class="num">7</div>
         <div class="body">
-          <div class="lead">Brits now spend an average of 14 hours a week on streaming — more than cooking, cleaning and exercising combined.</div>
-          <div class="detail">The biggest jump is in the over-55s, who used to be the holdouts for live telly. &#39;Second-screening&#39; means we pay less attention than ever.</div>
+          <div class="lead">Roses are out, peonies are in — UK florists report a 200% rise in peony orders for weddings this summer.</div>
+          <div class="detail">Brides cite &#39;softer, less staged&#39; aesthetics. Wholesale peony prices have crept up accordingly.</div>
         </div>
       </li>
     </ul>
@@ -327,7 +361,6 @@
   <section class="card" id="sec-talkback">
     <div class="card-head">
       <span class="card-num">05 — Talkback</span>
-      <span class="card-meta">survey · talk topic · true or false</span>
     </div>
     <h2 class="card-title">For the phone lines</h2>
 
@@ -336,15 +369,15 @@
       <li>
         <div class="num">Q</div>
         <div class="body">
-          <div class="lead">57% of UK workers admit doing THIS while on a work call. What?</div>
-          <div class="qa"><b>Answer:</b> going to the loo.</div>
+          <div class="lead">44% of us have done THIS while waiting for a kettle to boil. What?</div>
+          <div class="qa"><b>Answer:</b> wandered off and forgotten about it entirely.</div>
         </div>
       </li>
       <li>
         <div class="num">Q</div>
         <div class="body">
-          <div class="lead">Asked what makes them feel old, the top answer wasn&#39;t grey hairs — it was THIS. What?</div>
-          <div class="qa"><b>Answer:</b> not recognising any of the names at the top of the charts.</div>
+          <div class="lead">75% of us check THIS more than ten times a day. What?</div>
+          <div class="qa"><b>Answer:</b> the weather app.</div>
         </div>
       </li>
     </ul>
@@ -354,43 +387,42 @@
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">A study claims our taste in music is &#39;locked in&#39; by age 14.</div>
-          <div class="detail">Talk-back: do you still listen to what you loved at 14? And what was on your bedroom wall?</div>
+          <div class="lead">If you won the lottery tonight, what&#39;s the FIRST thing you&#39;d buy tomorrow?</div>
+          <div class="detail">Talk-back: not the dream house. Not the holiday. The first daft thing you&#39;d buy because you finally could.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">What&#39;s the most embarrassing thing in your kitchen that you&#39;d hide if guests came round?</div>
-          <div class="detail">Talk-back: bonus marks for anyone admitting to a Slap Chop or a NutriBullet bought once and never used.</div>
+          <div class="lead">What&#39;s the worst job you&#39;ve ever had — and how long did you last?</div>
+          <div class="detail">Talk-back: the war stories are usually the funniest. Bonus marks for under a fortnight.</div>
         </div>
       </li>
     </ul>
 
     <h3 class="sub">True story or Jackanory — listeners guess</h3>
     <div class="tf-card fact">
-      <span class="tag">Fact</span><b>Food.</b> The UK&#39;s bestselling biscuit in 2025 wasn&#39;t the Custard Cream or the Hobnob — it was the humble digestive, selling over 70 million packs.
+      <span class="tag">Fact</span><b>Tech.</b> A start-up has invented a wearable that gently vibrates to remind you to drink water — and reportedly raised £3 million in two days on Kickstarter.
     </div>
     <div class="tf-card fiction">
-      <span class="tag">Fiction</span><b>Made up, but believable.</b> A Bristol bakery has started selling &#39;controversial&#39; jam doughnuts injected with mustard instead of jam, claiming a &#39;small but loyal&#39; customer base.
+      <span class="tag">Fiction</span><b>Made up, but believable.</b> Researchers at Manchester University have built an AI that can predict which biscuit you&#39;ll dunk in your tea next, based only on the way you hold the mug.
     </div>
   </section>
 
   <section class="card" id="sec-lottery">
     <div class="card-head">
       <span class="card-num">06 — Lottery</span>
-      <span class="card-meta">estimated · this week</span>
     </div>
     <h2 class="card-title">Jackpots ahead</h2>
     <div class="grid-2">
       <div class="tile">
         <div class="label">Next EuroMillions Jackpot</div>
-        <div class="value">£5.09 million</div>
+        <div class="value">£25 million</div>
         <div class="sub">Next Tuesday or Friday · estimated</div>
       </div>
       <div class="tile">
         <div class="label">Next National Lottery Jackpot</div>
-        <div class="value">£5.09 million</div>
+        <div class="value">£3.8 million</div>
         <div class="sub">Next Wednesday or Saturday · estimated</div>
       </div>
     </div>
@@ -399,56 +431,55 @@
   <section class="card share-page" id="sec-facts">
     <div class="card-head">
       <span class="card-num">07 — Facts of the Day</span>
-      <span class="card-meta">8 to choose from</span>
     </div>
     <h2 class="card-title">Did you know?</h2>
     <ul class="items">
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The Great Wall of China isn&#39;t actually visible from space without aid, despite the myth.</div>
+          <div class="lead">A blue whale&#39;s tongue alone weighs as much as an elephant.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">There are more possible games of chess than atoms in the observable universe.</div>
+          <div class="lead">Octopuses can taste with their suckers.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">A flock of crows is called a &#39;murder&#39;.</div>
+          <div class="lead">Wales has more castles per square mile than any other country in the world.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The unicorn is mentioned in the Bible nine times.</div>
+          <div class="lead">Bananas grow upside down.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Coca-Cola would be green if colouring wasn&#39;t added to it.</div>
+          <div class="lead">Your nose can detect over a trillion different scents.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">A day on Venus is longer than a year on Venus.</div>
+          <div class="lead">The unicorn is the national animal of Scotland.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Polar bears have black skin under their white fur.</div>
+          <div class="lead">There are more trees on Earth than stars in the Milky Way.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Hot water freezes faster than cold water under certain conditions — it&#39;s called the Mpemba effect.</div>
+          <div class="lead">A snail can sleep for three years at a time.</div>
         </div>
       </li>
     </ul>
@@ -457,91 +488,90 @@
   <section class="card" id="sec-today">
     <div class="card-head">
       <span class="card-num">08 — Today's Day Notes</span>
-      <span class="card-meta">Wed 13 May 2026</span>
+      <span class="card-meta">Wed 20 May 2026</span>
     </div>
     <h2 class="card-title">On this day</h2>
 
-    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 133 of the year, 232 days left in 2026. Today Abbotsbury Garland Day (Dorset, England); Christian feast day:
-André-Hubert Fournet; Christian feast day:
-Our Lady of Fátima; Christian feast day:
-Conchita Barrecheguren (Roman Catholic). Star sign Taurus, birthstone Emerald.</p>
+    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 140 of the year, 225 days left in 2026. Today Christian feast day:
+Abercius and Helena; Christian feast day:
+Alcuin of York; Christian feast day:
+Aurea of Ostia; Christian feast day:
+Austregisilus. Star sign Taurus, birthstone Emerald.</p>
 
     <h3 class="sub">Today's birthdays</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">2003 — Jabari Smith Jr., American basketball player</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1998 — Luca Zidane, Algerian footballer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1945 — Lou Marini, American saxophonist and composer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1993 — Romelu Lukaku, Belgian footballer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1944 — Armistead Maupin, American author, screenwriter, and actor</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1943 — Mary Wells, American singer-songwriter (died 1992)</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1991 — Junior Messias, Brazilian footballer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">2003 — Javi Guerra, Spanish footballer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1946 — Cher, American singer-songwriter, producer, and actress</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1944 — Keith Fletcher, English cricketer and manager</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1970 — Louis Theroux, Singaporean-English journalist and producer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1972 — Busta Rhymes, American rapper, producer, and actor</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1944 — Joe Cocker, English singer-songwriter (died 2014)</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1961 — Clive Allen, English international footballer and manager</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1940 — Shorty Long, American singer-songwriter and producer (died 1969)</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1949 — Michèle Roberts, English author and poet</div></div></li>
     </ul>
 
     <h3 class="sub">The day today</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">1998 — India carries out two nuclear weapon tests at Pokhran, following the three conducted on May 11. The United States and Japan impose economic sanctions on India.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1995 — Alison Hargreaves, a 33-year-old British mother, becomes the first woman to ascend Everest without oxygen or the help of sherpas.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1981 — Mehmet Ali Ağca attempts to assassinate Pope John Paul II in St. Peter&#39;s Square in Rome. The Pope is rushed to the Agostino Gemelli University Polyclinic to undergo emergency surgery and survives.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1980 — In a referendum in Quebec, the population rejects, with 60% of the vote, a government proposal to move towards independence from Canada.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1948 — Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1983 — First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier.</div></div></li>
     </ul>
 
     <h3 class="sub">Today in music</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">2014 — An explosion at an underground coal mine in southwest Turkey kills 301 miners.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1990 — The Dinamo–Red Star riot took place at Maksimir Stadium in Zagreb, Croatia between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1956 — In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1985 — Radio Martí, part of the Voice of America service, begins broadcasting to Cuba.</div></div></li>
     </ul>
 
     <h3 class="sub">Today in history</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">1972 — The Troubles: A car bombing outside a crowded pub in Belfast sparks a two-day gun battle involving the Provisional IRA, Ulster Volunteer Force and British Army. Seven people are killed and over 66 injured.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">2005 — Andijan uprising, Uzbekistan; Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1995 — Alison Hargreaves, a 33-year-old British mother, becomes the first woman to ascend Everest without oxygen or the help of sherpas.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1989 — The Chinese authorities declare martial law in the face of pro-democracy demonstrations, setting the scene for the Tiananmen Square massacre.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1965 — One hundred twenty-one people are killed when Pakistan International Airlines Flight 705 crashes at Cairo International Airport.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1969 — The Battle of Hamburger Hill in Vietnam ends.</div></div></li>
     </ul>
   </section>
 
   <section class="card" id="sec-tomorrow">
     <div class="card-head">
       <span class="card-num">09 — Tomorrow's Day Notes</span>
-      <span class="card-meta">Thu 14 May 2026</span>
+      <span class="card-meta">Thu 21 May 2026</span>
     </div>
     <h2 class="card-title">A peek at tomorrow</h2>
 
-    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 134 of the year, 231 days left in 2026. Today Christian feast day:
-Boniface of Tarsus; Christian feast day:
-Justa, Justina and Henedina; Christian feast day:
-Maria Domenica Mazzarello; Christian feast day:
-Matthias the Apostle (Roman Catholic Church, Anglican Communion, Evangelical Lutheran Church in America). Star sign Taurus, birthstone Emerald.</p>
+    <p style="margin:0 0 14px 0; color:var(--ink-soft);">Day 141 of the year, 224 days left in 2026. Today Afro-Colombian Day (Colombia); Christian feast day:
+Blessed Adílio Daronch and Manuel Gómez González; Christian feast day:
+Blessed Franz Jägerstätter; Christian feast day:
+Earliest day on which Corpus Christi can fall, while June 24 is the latest; held on Thursday after Trinity Sunday (often locally moved to Sunday). (Roman Catholic Church). Star sign Taurus, birthstone Emerald.</p>
 
     <h3 class="sub">Tomorrow's birthdays</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">1996 — Pokimane, Moroccan-Canadian internet personality</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1943 — Ólafur Ragnar Grímsson, Icelandic academic and politician, 5th President of Iceland</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1997 — Rúben Dias, Portuguese footballer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1944 — George Lucas, American director, producer, and screenwriter, founded Lucasfilm</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1994 — Pernille Blume, Danish swimmer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1984 — Gary Ablett, Jr., Australian footballer</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1989 — Rob Gronkowski, American football player</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1987 — François Steyn, South African rugby player</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1949 — Andrew Neil, Scottish journalist and academic</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1957 — Judge Reinhold, American actor and producer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1969 — Brian Statham, Rhodesian born English footballer and manager</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1963 — Patrick Grant, American musician and producer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1941 — Martin Carthy, English singer-songwriter, guitarist, and producer</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1974 — Fairuza Balk, American actress</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1964 — Danny Bailey, English footballer and coach</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1948 — Jonathan Hyde, Australian-English actor</div></div></li>
     </ul>
 
     <h3 class="sub">The day tomorrow</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">1970 — Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">2012 — Agni Air Flight CHT crashes in Nepal after a failed go-around, killing 15 people.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1935 — The Constitution of the Philippines is ratified by a popular vote.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">2006 — The Republic of Montenegro holds a referendum proposing independence from the State Union of Serbia and Montenegro; 55% of Montenegrins vote for independence.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1982 — Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1994 — The Democratic Republic of Yemen unsuccessfully attempts to secede from the Republic of Yemen; a war breaks out.</div></div></li>
     </ul>
 
     <h3 class="sub">Tomorrow in music</h3>
     <ul class="items">
-      <li><div class="num">●</div><div class="body"><div class="lead">1940 — World War II: Rotterdam, Netherlands is bombed by the Luftwaffe of Nazi Germany despite a ceasefire, killing about 900 people and destroying the historic city center.</div></div></li>
-      <li><div class="num">●</div><div class="body"><div class="lead">1973 — Skylab, the United States&#39; first space station, is launched.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1981 — The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries.</div></div></li>
+      <li><div class="num">●</div><div class="body"><div class="lead">1998 — President Suharto of Indonesia resigns following the killing of students from Trisakti University earlier that week by security forces and growing mass protests in Jakarta against his ongoing corrupt rule.</div></div></li>
     </ul>
   </section>
 
   <section class="card" id="sec-film">
     <div class="card-head">
       <span class="card-num">10 — Forward Planning · Film</span>
-      <span class="card-meta">2026 release schedule</span>
     </div>
     <h2 class="card-title">Coming to cinemas</h2>
     <div class="grid-2">
@@ -607,7 +637,6 @@ Matthias the Apostle (Roman Catholic Church, Anglican Communion, Evangelical Lut
   <section class="card" id="sec-sport-cal">
     <div class="card-head">
       <span class="card-num">11 — Forward Planning · Sport</span>
-      <span class="card-meta">2026 major events</span>
     </div>
     <h2 class="card-title">On the sporting calendar</h2>
     <div class="grid-2">
@@ -665,7 +694,7 @@ Matthias the Apostle (Roman Catholic Church, Anglican Communion, Evangelical Lut
       A service of <a href="https://www.theradiobusiness.co.uk">theradiobusiness.co.uk</a>
     </div>
     <div style="text-align:right;">
-      Edition: Wed 13 May 2026<br>
+      Edition: Wed 20 May 2026<br>
       &copy; 2026 The Radio Business
     </div>
   </footer>
