@@ -98,15 +98,15 @@
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
       <a href="/editions/wednesday.html#sec-news" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">01 — News</div>
-        <div class="font-semibold text-[15px] leading-snug">Three top stories. Max one political. The State Opening, the cold snap, the start of exam season.</div>
+        <div class="font-semibold text-[15px] leading-snug">Three top UK stories, rewritten for radio. Max one political — the rest is what your listeners are actually talking about.</div>
       </a>
       <a href="/editions/wednesday.html#sec-showbiz" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">02 — Showbiz</div>
-        <div class="font-semibold text-[15px] leading-snug">Forward-looking only. Eurovision week, Cannes in full swing, Mortal Kombat II Friday.</div>
+        <div class="font-semibold text-[15px] leading-snug">Forward-looking only. What's launching, who's touring, what's screening — never yesterday's red-carpet pictures.</div>
       </a>
       <a href="/editions/wednesday.html#sec-sport" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">03 — Sport</div>
-        <div class="font-semibold text-[15px] leading-snug">Premier League final day, Championship play-offs, ICC Women's T20 World Cup on the horizon.</div>
+        <div class="font-semibold text-[15px] leading-snug">UK-relevant sport with this week's talking points. Football, cricket, racing, tennis — whatever's actually on.</div>
       </a>
       <a href="/editions/wednesday.html#sec-newsbrief" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">04 — Newsbrief</div>
@@ -173,12 +173,12 @@
   <!-- TODAY HIGHLIGHT (preview of edition with one item) -->
   <section class="bg-paper border border-hairline rounded-[18px] p-7 md:p-8 mb-6">
     <div class="flex justify-between items-baseline mb-2">
-      <span class="mono-label text-[12px] text-muted">Today's lead</span>
-      <span class="mono-label text-[12px] text-muted">Wed 13 May 2026</span>
+      <span class="mono-label text-[12px] text-muted">What's in today's edition</span>
+      <span class="mono-label text-[12px] text-muted" id="heroLeadDate">—</span>
     </div>
-    <h2 class="serif-h2 text-[30px] mb-5">The King's Speech opens a turbulent Parliament.</h2>
-    <p class="text-[15px] text-ink-soft mb-4">State Opening goes ahead this morning following last week's local elections, in which Reform UK gained close to 1,450 council seats and took control of more than a dozen councils, while Labour shed nearly 1,500 councillors. Sir Keir Starmer is facing renewed pressure from inside his own party — but the ceremony itself will be the day's defining image, with all the usual pomp, procession and televised arrival at Westminster.</p>
-    <a class="inline-flex items-center gap-2 text-[14px] font-medium text-accent hover:underline underline-offset-[3px]" href="/editions/wednesday.html">Read the full edition →</a>
+    <h2 class="serif-h2 text-[30px] mb-5">Open today's edition for the full prep.</h2>
+    <p class="text-[15px] text-ink-soft mb-4">A fresh build every weekday at 14:59 UK time — three top UK news stories, forward-looking showbiz, sport that matters this week, lottery numbers, talkback prompts, day notes for today and tomorrow, and rolling film + sport calendars. Same content as web and PDF; open whichever your studio prefers.</p>
+    <a class="inline-flex items-center gap-2 text-[14px] font-medium text-accent hover:underline underline-offset-[3px]" data-today-link="html" href="/editions/wednesday.html">Read the full edition →</a>
   </section>
 
   <!-- EDITIONS LIBRARY (week wheel) -->
@@ -251,6 +251,10 @@
     // 1) Hero — show today's date
     var heroDate = document.getElementById('heroDate');
     if (heroDate) heroDate.textContent = fullDate + '.';
+
+    // Also populate the "What's in today's edition" date pill (short form).
+    var heroLeadDate = document.getElementById('heroLeadDate');
+    if (heroLeadDate) heroLeadDate.textContent = DAY_SHORT[todayIdx] + ' ' + now.getDate() + ' ' + monthNames[now.getMonth()] + ' ' + now.getFullYear();
 
     // 2) Header "Today's edition" link
     var openTodayLinks = document.querySelectorAll('a[data-today-link]');
