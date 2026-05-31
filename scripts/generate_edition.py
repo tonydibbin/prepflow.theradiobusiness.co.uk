@@ -175,8 +175,83 @@ def is_political(item: dict) -> bool:
     return any(k in s for k in keywords)
 
 
-def _select_news_raw(iso_date: str) -> list[dict]:
-    """Return chosen raw RSS items for News (3 items, max 1 political)."""
+# ───────────────────────────────────────────────────────────────────────────
+# Past-event filter
+# ───────────────────────────────────────────────────────────────────────────
+# Drop stories whose body explicitly references an event/date that's already
+# passed by the edition's target date. The classic case: a BBC story written
+# on Friday at 5pm previewing Saturday night's Champions League final —
+# perfectly fresh at build time, hopelessly stale by Sunday morning's edition.
+#
+# We look for two signals in the title+description text:
+#   (a) Time-relative words tied to the build day ("tonight", "this evening",
+#       "today", "tomorrow") — these always refer to a day before the
+#       edition's target date, because the edition covers tomorrow.
+#   (b) Dotted/short date references that resolve to before the target date.
+
+_MONTH_LONG = {
+    "january":1,"february":2,"march":3,"april":4,"may":5,"june":6,
+    "july":7,"august":8,"september":9,"october":10,"november":11,"december":12,
+    "jan":1,"feb":2,"mar":3,"apr":4,"jun":6,"jul":7,"aug":8,"sep":9,"sept":9,
+    "oct":10,"nov":11,"dec":12,
+}
+
+_PAST_WORDS = re.compile(
+    r"\b(tonight|this evening|earlier today|earlier this evening|yesterday|"
+    r"last night|moments ago|just hours ago)\b",
+    re.IGNORECASE,
+)
+
+
+def _explicit_dates(text: str, ref_year: int) -> list[dt.date]:
+    """Pull any date the text spells out (e.g. '30 May', 'Saturday 30 May 2026')."""
+    found: list[dt.date] = []
+    # "30 May" / "30 May 2026"
+    for m in re.finditer(r"\b(\d{1,2})\s+([A-Za-z]+)(?:\s+(\d{4}))?\b", text):
+        mon = _MONTH_LONG.get(m.group(2).lower())
+        if not mon:
+            continue
+        try:
+            year = int(m.group(3)) if m.group(3) else ref_year
+            found.append(dt.date(year, mon, int(m.group(1))))
+        except ValueError:
+            pass
+    # "May 30" / "May 30, 2026"
+    for m in re.finditer(r"\b([A-Za-z]+)\s+(\d{1,2})(?:,?\s+(\d{4}))?\b", text):
+        mon = _MONTH_LONG.get(m.group(1).lower())
+        if not mon:
+            continue
+        try:
+            year = int(m.group(3)) if m.group(3) else ref_year
+            found.append(dt.date(year, mon, int(m.group(2))))
+        except ValueError:
+            pass
+    return found
+
+
+def is_past_event_story(item: dict, target_date: dt.date) -> bool:
+    """True if the story is clearly tied to a moment that's already gone by
+    the time the edition's target date arrives."""
+    text = ((item.get("title") or "") + " " + (item.get("description") or "")).strip()
+    if not text:
+        return False
+    # (a) Time-relative words on the BUILD day (= day before target_date).
+    if _PAST_WORDS.search(text):
+        return True
+    # (b) Explicit date references before target_date.
+    #     We allow ±1 year wrap by trying both target_date.year and prev/next.
+    for cand in _explicit_dates(text, target_date.year):
+        if cand < target_date:
+            return True
+    return False
+
+
+def _select_news_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+    """Return chosen raw RSS items for News (3 items, max 1 political).
+
+    Past-event stories (anything tied to 'tonight', a date before target_date,
+    etc.) are stripped first — they read as stale on tomorrow's prep doc.
+    """
     pool = fetch_bbc("news_top") + fetch_bbc("news_world")
     politics = fetch_bbc("news_politics")
 
@@ -191,8 +266,9 @@ def _select_news_raw(iso_date: str) -> list[dict]:
             out.append(it)
         return out
 
-    non_pol = [it for it in unique(pool) if not is_political(it)]
-    pol = unique(politics)
+    fresh = lambda items: [it for it in items if not is_past_event_story(it, target_date)]
+    non_pol = fresh([it for it in unique(pool) if not is_political(it)])
+    pol     = fresh(unique(politics))
 
     chosen = []
     if pol:
@@ -203,13 +279,13 @@ def _select_news_raw(iso_date: str) -> list[dict]:
     return chosen[:3]
 
 
-def _select_showbiz_raw(iso_date: str) -> list[dict]:
-    items = fetch_bbc("showbiz")
+def _select_showbiz_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+    items = [it for it in fetch_bbc("showbiz") if not is_past_event_story(it, target_date)]
     return pick_unique(items[:25], iso_date, "showbiz", 3)
 
 
-def _select_sport_raw(iso_date: str) -> list[dict]:
-    items = fetch_bbc("sport")
+def _select_sport_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+    items = [it for it in fetch_bbc("sport") if not is_past_event_story(it, target_date)]
     return pick_unique(items[:30], iso_date, "sport", 4)
 
 
@@ -681,15 +757,17 @@ def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
     else:
         print(f"    → {len(weather)} cities")
 
-    # Live sources — fetch raw, format as fallback, then optionally polish via Gemini
+    # Live sources — fetch raw, format as fallback, then optionally polish via Gemini.
+    # All three selectors take the edition's target_date so they can drop stories
+    # whose event has already passed by the time this edition is read.
     print("  · Fetching BBC News, Politics, World...")
-    news_raw = _select_news_raw(iso_date)
+    news_raw = _select_news_raw(iso_date, target_d)
     print(f"    → {len(news_raw)} news items")
     print("  · Fetching BBC Entertainment & Arts...")
-    showbiz_raw = _select_showbiz_raw(iso_date)
+    showbiz_raw = _select_showbiz_raw(iso_date, target_d)
     print(f"    → {len(showbiz_raw)} showbiz items")
     print("  · Fetching BBC Sport...")
-    sport_raw = _select_sport_raw(iso_date)
+    sport_raw = _select_sport_raw(iso_date, target_d)
     print(f"    → {len(sport_raw)} sport items")
 
     # Raw (fallback) formatting — used as-is if Gemini is unavailable
@@ -736,9 +814,102 @@ def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
         "facts": facts or [],
         "today_notes": today_notes,
         "tomorrow_notes": tomorrow_notes,
-        "film_calendar": bank["film_calendar"],
-        "sport_calendar": bank["sport_calendar"],
+        "film_calendar":  filter_calendar(bank["film_calendar"],  target_d),
+        "sport_calendar": filter_calendar(bank["sport_calendar"], target_d),
     }
+
+
+# ----------------------------------------------------------------------------
+# Calendar date-filter
+# ----------------------------------------------------------------------------
+# Each calendar entry's `when` field is a short human string like:
+#   "Fri 15", "Sat 30", "24 May – 7 Jun", "11 Jun – 19 Jul"
+# We parse it relative to the month label on the surrounding card
+# ("May 2026", "June 2026", etc.) and drop entries whose END date is strictly
+# before the edition's target date. Items with date ranges survive as long as
+# their right-hand end is in the future. Items we can't parse are kept (better
+# to leave something in than to drop it on a regex miss).
+
+_MONTH_NUM = {m: i+1 for i, m in enumerate(
+    ["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"]
+)}
+
+
+def _parse_calendar_when(when: str, card_month: int, card_year: int) -> dt.date | None:
+    """Return the END date of a `when` string, or None if we can't parse it.
+
+    Examples we handle:
+      "Fri 15"               -> day-of-month inside card_month
+      "Sun 24"               -> day-of-month inside card_month
+      "Thu 4"                -> day-of-month inside card_month
+      "24 May – 7 Jun"       -> 7 June (card_year)
+      "11 Jun – 19 Jul"      -> 19 July
+      "11–14 Jun"            -> 14 June
+      "Sat 30"               -> 30 inside card_month
+    """
+    if not when:
+        return None
+    s = when.replace("–", "-").replace("—", "-").strip()
+    parts = [p.strip() for p in s.split("-")]
+    tail = parts[-1].strip()  # whatever's after the last dash
+
+    # Format A: "DD MMM" — e.g. "7 Jun" or "19 Jul" (date range tails).
+    m = re.match(r"^(\d{1,2})\s+([A-Za-z]{3,})", tail)
+    if m:
+        day = int(m.group(1))
+        mon = _MONTH_NUM.get(m.group(2)[:3].lower())
+        if mon:
+            return dt.date(card_year, mon, day)
+
+    # Format B: "Day DD" / "DD" — e.g. "Fri 15", "Sat 30", "14".
+    # Pull the LAST integer in the tail; that's the day-of-month.
+    nums = re.findall(r"\d{1,2}", tail)
+    if nums:
+        day = int(nums[-1])
+        # If the tail is just "14 Jun" the regex above already handled it; this
+        # path catches "Fri 15" / "Sat 30" / "11-14 Jun" (after dash split the
+        # tail is "14 Jun" → first regex wins). For pure day-of-card-month
+        # entries, we use card_month/card_year.
+        # If the tail also names a month, prefer that.
+        mm = re.search(r"([A-Za-z]{3,})", tail)
+        if mm:
+            mon = _MONTH_NUM.get(mm.group(1)[:3].lower())
+            if mon:
+                return dt.date(card_year, mon, day)
+        return dt.date(card_year, card_month, day)
+    return None
+
+
+def filter_calendar(cal: dict, today: dt.date) -> dict:
+    """Drop past items from every month card. Drop empty month cards entirely."""
+    out = {"left": [], "right": []}
+    for col in ("left", "right"):
+        for card in cal.get(col, []):
+            label = (card.get("month") or "").strip()        # "May 2026"
+            m = re.match(r"([A-Za-z]+)\s+(\d{4})", label)
+            if not m:
+                # Unknown card; keep as-is.
+                out[col].append(card)
+                continue
+            card_month = _MONTH_NUM.get(m.group(1)[:3].lower())
+            card_year  = int(m.group(2))
+            if not card_month:
+                out[col].append(card); continue
+            # Drop the whole month card if it's entirely before the edition month.
+            if (card_year, card_month) < (today.year, today.month):
+                continue
+            # Future months: keep every item.
+            if (card_year, card_month) > (today.year, today.month):
+                out[col].append(card); continue
+            # Current month: filter item-by-item.
+            kept = []
+            for item in card.get("items", []):
+                end = _parse_calendar_when(item.get("when",""), card_month, card_year)
+                if end is None or end >= today:
+                    kept.append(item)
+            if kept:
+                out[col].append({"month": label, "items": kept})
+    return out
 
 
 # ----------------------------------------------------------------------------
