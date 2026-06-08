@@ -53,6 +53,8 @@
   ul.items > li .lead { font-weight: 600; color: var(--ink); margin-bottom: 4px; line-height: 1.45; }
   ul.items > li .detail { color: var(--ink-soft); font-size: 14.5px; }
   ul.items > li .tag { font-family: var(--mono); font-size: 11px; letter-spacing: 1.1px; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
+  ul.items > li .angle { font-size: 13.5px; color: var(--ink); border-left: 3px solid var(--accent); padding-left: 10px; margin-top: 7px; line-height: 1.45; }
+  ul.items > li .angle::before { content: "ON AIR — "; font-family: var(--mono); font-size: 10px; letter-spacing: 1px; color: var(--accent); font-weight: 600; }
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
   .weather-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
   .weather-tile { background: var(--paper); border: 1px solid var(--hairline); border-radius: 12px; padding: 14px 16px; text-align: left; }
@@ -111,6 +113,8 @@
     ul.items > li .lead { font-size: 11.5px; margin-bottom: 2px; }
     ul.items > li .detail { font-size: 11px; }
     ul.items > li .tag { font-size: 9.5px; margin-top: 2px; }
+    ul.items > li .angle { font-size: 10.5px; padding-left: 6px; margin-top: 3px; }
+    ul.items > li .angle::before { font-size: 8px; }
     .tile { padding: 10px 12px; border-radius: 8px; page-break-inside: avoid; }
     .tile .value { font-size: 18px; }
     .tile .label, .tile .sub { font-size: 9.5px; }
@@ -173,7 +177,7 @@
       <div class="weather-tile">
         <div class="weather-city">London</div>
         <div class="weather-cond">Rain</div>
-        <div class="weather-temps"><span class="hi">17°</span> <span class="lo">14°</span></div>
+        <div class="weather-temps"><span class="hi">16°</span> <span class="lo">13°</span></div>
       </div>
       <div class="weather-tile">
         <div class="weather-city">Birmingham</div>
@@ -202,25 +206,25 @@
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">The Prime Minister is supporting a female MP who&#39;s suing xAI over fake bikini photos.</div>
-          <div class="detail">Suffolk MP Jess Asato claims the company&#39;s Grok tool was used to create the images without her consent. It raises further questions about AI-generated content and personal privacy.</div>
+          <div class="lead">Starmer tells Apple and Google to ban nude images on children&#39;s phones.</div>
+          <div class="detail">Firms will be expected to activate built-in features to stop children accessing sexually explicit images.</div>
           <div class="tag">Politics · UK</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">A man has been arrested in connection with the murder of a teenager in Leeds, 22 years after the crime.</div>
-          <div class="detail">Tyrone Clarke was killed over two decades ago, and his mother says the family has been living &#34;with this shadow over us&#34;. This development brings a glimmer of hope for justice after a very long wait.</div>
-          <div class="tag">Crime · UK</div>
+          <div class="lead">Nottingham attacks inquiry revealed miscarriage of justice, victim&#39;s mother says.</div>
+          <div class="detail">The bereaved families of the victims of Valdo Calocane speak at a press conference in London.</div>
+          <div class="tag">UK · News</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">British actor Idris Elba has shared his thoughts on the future of James Bond, advising against making the character &#34;woke&#34;.</div>
-          <div class="detail">He also suggested that some audiences might not accept a black male actor in the iconic 007 role. His comments add to the ongoing debate about the direction of the famous spy franchise.</div>
-          <div class="tag">Culture · UK</div>
+          <div class="lead">Unofficial sperm donor sells BBC &#39;baby batter&#39; delivered with tomato passata.</div>
+          <div class="detail">Women desperate to be parents are being lured by illegal sperm donor delivery services on social media.</div>
+          <div class="tag">UK · News</div>
         </div>
       </li>
     </ul>
@@ -235,25 +239,25 @@
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">Taylor Swift fans are buzzing with speculation about when the superstar might tie the knot.</div>
-          <div class="detail">&#39;Swifties&#39; worldwide are actively hunting for clues regarding her upcoming nuptials to American football star Travis Kelce. Everyone is keen to see if they can predict the big day.</div>
-          <div class="tag">Music · Coming up</div>
+          <div class="lead">John Lithgow and Lesley Manville lead Tony Award winners.</div>
+          <div class="detail">A revival of Arthur Miller&#39;s Death of a Salesman was the night&#39;s big winner with six awards overall.</div>
+          <div class="tag">Showbiz · UK</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">A new drama will revisit the tragic 1992 murder of Rachel Nickell through the eyes of her family.</div>
-          <div class="detail">Her son and partner are speaking out for the first time in over 30 years for the upcoming series. The programme aims to shed new light on the devastating ordeal.</div>
-          <div class="tag">TV · This week</div>
+          <div class="lead">Idris Elba: &#39;Don&#39;t try to make James Bond woke&#39;.</div>
+          <div class="detail">The British star also said some audiences would not accept a black male actor playing 007.</div>
+          <div class="tag">Showbiz · UK</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">The music world is reflecting on the incredible legacy of Kanya King, founder of the Mobo Awards, following her passing.</div>
-          <div class="detail">Stars like Sir Idris Elba and Stormzy have been paying tribute to the visionary who championed Black music and culture. Her work means the Mobo Awards will continue to inspire for years to come.</div>
-          <div class="tag">Music · Legacy</div>
+          <div class="lead">Stormzy among stars remembering killed Grammy winner.</div>
+          <div class="detail">The musician whose real name was Mark Orabiyi - was &#34;a gem&#34;, rapper Wretch 32 said.</div>
+          <div class="tag">Showbiz · UK</div>
         </div>
       </li>
     </ul>
@@ -268,25 +272,33 @@
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">BBC Sport is looking into how athletes with heart conditions, like those with ICDs, can safely continue playing.</div>
-          <div class="detail">The report explores the risks involved and what happens if an implantable cardioverter-defibrillator activates during play. It&#39;s a fascinating insight into medical advances in sport.</div>
-          <div class="tag">Sports Science · Health</div>
+          <div class="lead">How can athletes play with ICDs, and what happens when one goes off?.</div>
+          <div class="detail">BBC Sport explores how athletes with cardiac health issues are able to continue playing, the risks, and what happens when an ICD goes off.</div>
+          <div class="tag">Sport · UK</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">In Premiership Rugby, Henry Slade made a big impact, while there are injury concerns for Bath ahead of upcoming matches.</div>
-          <div class="detail">Slade was a standout performer at Sandy Park in the latest round of the Prem. Meanwhile, Bath is waiting on news regarding Finn Russell’s calf injury, and Tom Willis is set to depart for France.</div>
-          <div class="tag">Rugby · UK</div>
+          <div class="lead">Norway boss brands Scotland&#39;s Clarke &#39;unprofessional&#39;.</div>
+          <div class="detail">Steve Clarke is branded &#34;unprofessional&#34; by Norway counterpart Stale Solbakken after Scotland cancelled a training-ground friendly before the World Cup.</div>
+          <div class="tag">Sport · UK</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">England cricket coach Brendon McCullum believes captain Ben Stokes is close to rediscovering his top batting form.</div>
-          <div class="detail">McCullum stated that Stokes’ return to form is &#34;not too far away,&#34; which will be welcome news for England fans. The team will be hoping for a strong performance from their skipper soon.</div>
-          <div class="tag">Cricket · UK</div>
+          <div class="lead">Lionesses need setbacks like Spain loss - Wiegman.</div>
+          <div class="detail">Sarina Wiegman says her &#34;hurt&#34; England side need setbacks like their humbling defeat by Spain in order to improve.</div>
+          <div class="tag">Sport · UK</div>
+        </div>
+      </li>
+      <li>
+        <div class="num">4</div>
+        <div class="body">
+          <div class="lead">Crusaders suffer record 134-0 defeat.</div>
+          <div class="detail">The scoreline was the biggest defeat of any side in the top two divisions in the 131-year history of rugby league.</div>
+          <div class="tag">Sport · UK</div>
         </div>
       </li>
     </ul>
@@ -301,50 +313,50 @@
       <li>
         <div class="num">1</div>
         <div class="body">
-          <div class="lead">New research suggests that a daily dose of laughter might be as good for you as a gentle walk.</div>
-          <div class="detail">Scientists found that sharing a good giggle can boost your mood and even improve circulation, making it a delightful addition to any wellness routine.</div>
+          <div class="lead">A new trend sees commuters embracing brightly coloured socks to brighten their morning journeys.</div>
+          <div class="detail">Psychologists suggest that a splash of colour can subtly boost mood, making the daily commute a little more cheerful for everyone on the tube or bus.</div>
         </div>
       </li>
       <li>
         <div class="num">2</div>
         <div class="body">
-          <div class="lead">Gardeners across the UK are discovering the surprising joy of growing their own exotic fruit.</div>
-          <div class="detail">From hardy kiwi berries to passionfruit in conservatories, many are finding that a little warmth and care can yield delicious, homegrown tropical treats.</div>
+          <div class="lead">Enthusiasts are rediscovering the lost art of letter writing, opting for pen and paper over digital messages.</div>
+          <div class="detail">There&#39;s a growing appreciation for the personal touch and lasting sentiment of a handwritten note, bringing back a charming tradition for friends and family across the country.</div>
         </div>
       </li>
       <li>
         <div class="num">3</div>
         <div class="body">
-          <div class="lead">The humble teacup is experiencing a delightful renaissance as collectable items become popular again.</div>
-          <div class="detail">Vintage teacups, often passed down through generations, are now being cherished for their intricate designs and the charming stories they hold.</div>
+          <div class="lead">Local parks are becoming unexpected hubs for spontaneous outdoor dance classes, attracting people of all ages.</div>
+          <div class="detail">From gentle waltzes to lively jigs, these informal gatherings offer a fun way to exercise, meet neighbours, and enjoy some fresh air, often to the delight of passers-by.</div>
         </div>
       </li>
       <li>
         <div class="num">4</div>
         <div class="body">
-          <div class="lead">A recent study highlighted how much pleasure people get from simply watching the clouds drift by.</div>
-          <div class="detail">Taking a moment to observe the ever-changing shapes in the sky was rated as a top stress-buster, proving that the best things in life really are free.</div>
+          <div class="lead">A study reveals that the sound of rain falling can significantly improve concentration and reduce stress levels.</div>
+          <div class="detail">Many people are now deliberately seeking out &#39;rain sounds&#39; playlists for work or relaxation, finding the natural rhythm incredibly soothing and focusing.</div>
         </div>
       </li>
       <li>
         <div class="num">5</div>
         <div class="body">
-          <div class="lead">More families are choosing board games for their evening entertainment, sparking a surge in demand for classic and new titles.</div>
-          <div class="detail">It seems the appeal of unplugging and enjoying some friendly competition around the kitchen table is stronger than ever.</div>
+          <div class="lead">Homemade lemonade stands are making a charming comeback this summer, often raising money for local charities.</div>
+          <div class="detail">Children and families are setting up stalls in their front gardens, offering refreshing drinks and a lovely community spirit, proving that simple ideas can make a big difference.</div>
         </div>
       </li>
       <li>
         <div class="num">6</div>
         <div class="body">
-          <div class="lead">Pet owners are increasingly finding creative ways to celebrate their furry friends&#39; birthdays.</div>
-          <div class="detail">From special homemade treats to &#39;bark-day&#39; parties with other canine chums, these celebrations are becoming quite the occasion!</div>
+          <div class="lead">More people are finding joy in the simple act of mending and upcycling old clothes rather than buying new ones.</div>
+          <div class="detail">This sustainable trend not only gives beloved garments a new lease of life but also offers a creative outlet, turning minor repairs into stylish personal touches.</div>
         </div>
       </li>
       <li>
         <div class="num">7</div>
         <div class="body">
-          <div class="lead">The refreshing trend of &#39;wild swimming&#39; continues to attract enthusiasts to Britain&#39;s rivers and lakes.</div>
-          <div class="detail">Advocates praise the invigorating experience and the unique connection it offers with nature, even if the water is a tad chilly!</div>
+          <div class="lead">Researchers have found that spending just a few minutes observing local wildlife, even in a city park, can lower blood pressure.</div>
+          <div class="detail">A quiet moment watching a squirrel bury its nuts or a bird pecking for worms provides a calming escape from daily hustle and bustle, connecting us with nature.</div>
         </div>
       </li>
     </ul>
@@ -361,15 +373,15 @@
       <li>
         <div class="num">Q</div>
         <div class="body">
-          <div class="lead">Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?</div>
-          <div class="qa"><b>Answer:</b> That&#39;s right, a secret stash of biscuits or chocolate that we don&#39;t want to share!</div>
+          <div class="lead">Our survey said that over 70% of us admit to singing *what* aloud when we think nobody&#39;s listening?</div>
+          <div class="qa"><b>Answer:</b> The jingles from TV adverts!</div>
         </div>
       </li>
       <li>
         <div class="num">Q</div>
         <div class="body">
-          <div class="lead">A recent poll asked Brits what everyday sound instantly makes them feel cosy and at home. What came out on top?</div>
-          <div class="qa"><b>Answer:</b> The gentle patter of rain against the window, especially when you&#39;re tucked up indoors!</div>
+          <div class="lead">A recent poll asked Brits what small, everyday item they always seem to misplace, no matter how hard they try?</div>
+          <div class="qa"><b>Answer:</b> The matching lid for a food container.</div>
         </div>
       </li>
     </ul>
@@ -379,25 +391,25 @@
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">You know, there&#39;s something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.</div>
-          <div class="detail">What’s the one daily habit or small ritual that you absolutely couldn’t do without, and why is it so important to you?</div>
+          <div class="lead">Remember those classic playground games from your childhood, like &#39;tag&#39; or &#39;hide-and-seek&#39;?</div>
+          <div class="detail">We&#39;d love to hear which traditional playground game brings back the fondest memories for you, and why! What was your signature move?</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">We all have those little &#39;life hacks&#39; that make our days a bit easier or more enjoyable, whether it&#39;s a clever way to fold laundry or a shortcut through town.</div>
-          <div class="detail">What&#39;s your best-kept, simple life hack that you think everyone should know about? Give us a call!</div>
+          <div class="lead">We often have a &#39;go-to&#39; meal that we cook when we&#39;re feeling a bit low or want something comforting and familiar.</div>
+          <div class="detail">What&#39;s your ultimate comfort food to prepare at home, the dish that always hits the spot, and what makes it so special to you?</div>
         </div>
       </li>
     </ul>
 
     <h3 class="sub">True story or Jackanory — listeners guess</h3>
     <div class="tf-card fact">
-      <span class="tag">Fact</span><b>Nature.</b> Did you know that a group of owls is called a &#39;parliament&#39;? It&#39;s thought to be because of their wise and solemn appearance.
+      <span class="tag">Fact</span><b>Animals.</b> A group of owls is called a parliament.
     </div>
     <div class="tf-card fiction">
-      <span class="tag">Fiction</span><b>Made up, but believable.</b> In medieval England, gardeners would often plant a single sunflower in the centre of their vegetable patches, believing it would scare away garden pests.
+      <span class="tag">Fiction</span><b>Made up, but believable.</b> Goldfish, if kept in a dark room, can turn completely white over time due to a lack of sunlight affecting their pigment cells.
     </div>
   </section>
 
@@ -429,49 +441,49 @@
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">A snail can sleep for up to three years.</div>
+          <div class="lead">A standard cloud weighs more than 100 elephants.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Honey never spoils and can be stored indefinitely.</div>
+          <div class="lead">Strawberries are the only fruit with seeds on the outside.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The Great Barrier Reef is the largest living structure on Earth.</div>
+          <div class="lead">The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Bananas are technically berries, but strawberries are not.</div>
+          <div class="lead">The smell of freshly cut grass is actually a plant distress call.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">Humans share approximately 50% of their DNA with bananas.</div>
+          <div class="lead">A day on Venus is longer than a year on Venus.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.</div>
+          <div class="lead">Britain&#39;s smallest bird is the Goldcrest, weighing about the same as a 20 pence coin.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The sound of a &#39;v&#39; (like in &#39;very&#39;) does not exist in the Irish language.</div>
+          <div class="lead">The King owns all the unmarked mute swans in open waters in England and Wales.</div>
         </div>
       </li>
       <li>
         <div class="num">●</div>
         <div class="body">
-          <div class="lead">The dot over the letters &#39;i&#39; and &#39;j&#39; is called a tittle.</div>
+          <div class="lead">There are more possible chess games than atoms in the observable universe.</div>
         </div>
       </li>
     </ul>
