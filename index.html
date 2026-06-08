@@ -96,47 +96,47 @@
     <p class="text-[15px] text-ink-soft mb-6">Prepflow stitches together fresh news, sport and showbiz with talkback prompts, lottery numbers, day notes and forward-planning calendars. Pick what you need, drop it into your show.</p>
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
-      <a href="/editions/wednesday.html#sec-news" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-news" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">01 — News</div>
         <div class="font-semibold text-[15px] leading-snug">Three top UK stories, rewritten for radio. Max one political — the rest is what your listeners are actually talking about.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-showbiz" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-showbiz" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">02 — Showbiz</div>
         <div class="font-semibold text-[15px] leading-snug">Forward-looking only. What's launching, who's touring, what's screening — never yesterday's red-carpet pictures.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-sport" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-sport" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">03 — Sport</div>
         <div class="font-semibold text-[15px] leading-snug">UK-relevant sport with this week's talking points. Football, cricket, racing, tennis — whatever's actually on.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-newsbrief" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-newsbrief" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">04 — Newsbrief</div>
         <div class="font-semibold text-[15px] leading-snug">Eight light bites — pick and mix research, surveys, oddities.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-talkback" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-talkback" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">05 — Talkback</div>
         <div class="font-semibold text-[15px] leading-snug">Our Survey Said, talk topic, True Story or Jackanory — listener fuel.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-lottery" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-lottery" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">06 — Lottery</div>
         <div class="font-semibold text-[15px] leading-snug">EuroMillions &amp; National Lottery jackpots, ready to read in.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-facts" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-facts" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">07 — Facts</div>
         <div class="font-semibold text-[15px] leading-snug">Eight 'did-you-knows' for the breaks.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-today" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-today" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">08 — Today's Day Notes</div>
         <div class="font-semibold text-[15px] leading-snug">National days, birthdays, on this day, in music, in history.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-tomorrow" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-tomorrow" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">09 — Tomorrow's Day Notes</div>
         <div class="font-semibold text-[15px] leading-snug">Same again, but a day ahead — for the breakfast team.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-film" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-film" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">10 — Forward Planning · Film</div>
         <div class="font-semibold text-[15px] leading-snug">2026 cinema release schedule, May through October.</div>
       </a>
-      <a href="/editions/wednesday.html#sec-sport-cal" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
+      <a data-today-link="html" href="/editions/wednesday.html#sec-sport-cal" class="border border-hairline rounded-2xl p-4 hover:bg-cream block">
         <div class="mono-label text-[11px] text-muted mb-1">11 — Forward Planning · Sport</div>
         <div class="font-semibold text-[15px] leading-snug">Every major event from PGA to the Premier League restart.</div>
       </a>
@@ -260,8 +260,11 @@
     var openTodayLinks = document.querySelectorAll('a[data-today-link]');
     openTodayLinks.forEach(function (el) {
       var fmt = el.getAttribute('data-today-link');
-      if (fmt === 'pdf') el.setAttribute('href', '/editions/' + todayName + '.pdf');
-      else el.setAttribute('href', '/editions/' + todayName + '.html');
+      if (fmt === 'pdf') { el.setAttribute('href', '/editions/' + todayName + '.pdf'); }
+      else {
+        var hash = (el.getAttribute('href') || '').split('#')[1];
+        el.setAttribute('href', '/editions/' + todayName + '.html' + (hash ? '#' + hash : ''));
+      }
     });
 
     // 3) Week grid — render a card for each day, with today highlighted
