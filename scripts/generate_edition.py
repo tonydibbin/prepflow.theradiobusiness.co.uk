@@ -567,7 +567,8 @@ def curate_sections_with_gemini(news_pool, showbiz_pool, sport_pool, ledger, iso
                 system_instruction=CURATE_SYSTEM,
                 response_mime_type="application/json",
                 temperature=0.6,
-                max_output_tokens=3500,
+                max_output_tokens=6000,
+                thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
         text = (response.text or "").strip()
@@ -1101,7 +1102,8 @@ def generate_bank_with_gemini(iso_date: str, full_date: str, ledger: dict):
                 system_instruction=GEMINI_BANK_SYSTEM,
                 response_mime_type="application/json",
                 temperature=0.95,
-                max_output_tokens=4000,
+                max_output_tokens=6000,
+                thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
         text = (response.text or "").strip()
