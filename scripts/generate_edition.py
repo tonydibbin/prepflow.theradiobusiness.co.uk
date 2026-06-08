@@ -50,10 +50,18 @@ USER_AGENT = "Prepflow/1.0 (+https://prepflow.theradiobusiness.co.uk)"
 
 BBC_FEEDS = {
     "news_top": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+    "news_main": "https://feeds.bbci.co.uk/news/rss.xml",
     "news_politics": "https://feeds.bbci.co.uk/news/politics/rss.xml",
     "news_world": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "showbiz": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "showbiz_extra": "https://feeds.bbci.co.uk/news/newsbeat/rss.xml",
     "sport": "https://feeds.bbci.co.uk/sport/rss.xml",
+    "sport_football": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "sport_cricket": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
+    "sport_f1": "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+    "sport_tennis": "https://feeds.bbci.co.uk/sport/tennis/rss.xml",
+    "sport_rugby": "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml",
+    "sport_golf": "https://feeds.bbci.co.uk/sport/golf/rss.xml",
 }
 
 
@@ -405,6 +413,200 @@ def _format_raw_sport(items: list[dict]) -> list[dict]:
         "detail": (it["description"] or "More to follow.").strip(),
         "tag": "Sport · UK",
     } for it in items]
+
+
+# ----------------------------------------------------------------------------
+# Wide candidate pools + AI curation for News / Showbiz / Sport
+# ----------------------------------------------------------------------------
+
+def _dedupe_items(items):
+    seen, out = set(), []
+    for it in items:
+        k = (it.get("title") or "").strip().lower()
+        if k and k not in seen:
+            seen.add(k)
+            out.append(it)
+    return out
+
+
+def _fresh_first(items, target_date, ledger, section, iso_date, n):
+    items = [it for it in _dedupe_items(items) if not is_past_event_story(it, target_date)]
+    blocked = _blocked_keys(ledger, section, iso_date)
+    fresh = [it for it in items if item_key(it) not in blocked]
+    stale = [it for it in items if item_key(it) in blocked]
+    return (fresh + stale)[:n]
+
+
+def _pool_news(target_date, ledger, iso_date, n=18):
+    pool = (fetch_bbc("news_top") + fetch_bbc("news_main")
+            + fetch_bbc("news_world") + fetch_bbc("news_politics"))
+    return _fresh_first(pool, target_date, ledger, "news", iso_date, n)
+
+
+def _pool_showbiz(target_date, ledger, iso_date, n=18):
+    pool = fetch_bbc("showbiz") + fetch_bbc("showbiz_extra")
+    return _fresh_first(pool, target_date, ledger, "showbiz", iso_date, n)
+
+
+def _pool_sport(target_date, ledger, iso_date, n=26):
+    pool = (fetch_bbc("sport") + fetch_bbc("sport_football")
+            + fetch_bbc("sport_cricket") + fetch_bbc("sport_f1")
+            + fetch_bbc("sport_tennis") + fetch_bbc("sport_rugby")
+            + fetch_bbc("sport_golf"))
+    return _fresh_first(pool, target_date, ledger, "sport", iso_date, n)
+
+
+def _format_candidates(items, mark_political=False):
+    if not items:
+        return "(none available)"
+    lines = []
+    for i, it in enumerate(items, 1):
+        title = (it.get("title") or "").strip()
+        desc = (it.get("description") or "").strip()
+        if len(desc) > 240:
+            desc = desc[:237].rstrip() + "..."
+        flag = " [POLITICAL]" if (mark_political and is_political(it)) else ""
+        lines.append(f"{i}.{flag} {title}\n   {desc}")
+    return "\n".join(lines)
+
+
+CURATE_SYSTEM = (
+    "You are Prepflow's senior editor, choosing and writing the top News, "
+    "Showbiz and Sport items for British radio presenter Tony Dibbin's daily "
+    "prep. Be ruthless about picking the BIGGEST, most talkable, UK-relevant "
+    "stories listeners are actually discussing - never minor, niche or filler. "
+    "Write in a warm, conversational on-air British voice, never tabloid. Never "
+    "invent facts not in the source. Never quote more than 12 words verbatim. "
+    "Never include song lyrics."
+)
+
+CURATE_PROMPT = """From the candidate pools below, SELECT and REWRITE the strongest items for tomorrow's Prepflow edition ({full_date}).
+
+Return ONE JSON object, no commentary, EXACTLY this shape:
+
+{{
+  "news":    [{{"source": 1, "lead": "...", "detail": "...", "angle": "...", "tag": "Topic \u00b7 UK"}}],
+  "showbiz": [{{"source": 1, "lead": "...", "detail": "...", "angle": "...", "tag": "Topic \u00b7 When"}}],
+  "sport":   [{{"source": 1, "lead": "...", "detail": "...", "angle": "...", "tag": "Sport \u00b7 UK"}}]
+}}
+
+news = exactly 3 items. showbiz = exactly 3 items. sport = 3 or 4 items.
+
+For every item:
+- "source": the NUMBER of the candidate you chose (so we can track it). Pick distinct, strong candidates; ignore weak ones.
+- "lead": one punchy sentence the presenter reads first (max 25 words).
+- "detail": 2-3 short sentences of context.
+- "angle": ONE on-air talking point OR a question to throw to listeners - the thing that makes it land on radio.
+- "tag": short categorisation pill.
+
+Selection rules:
+- NEWS: the 3 biggest UK-relevant stories people are actually talking about. AT MOST ONE political (items marked [POLITICAL]). Skip minor or local-only items unless genuinely striking.
+- SHOWBIZ: forward-looking and upbeat ONLY - what is COMING UP (releases, returns, tours, premieres, awards, castings). NEVER a death, obituary, tragedy, court case or pure recap. If the pool is thin, choose the most positive, entertaining options.
+- SPORT: what matters THIS WEEK - real fixtures, results and talking points with UK relevance (football, cricket, F1, tennis, rugby, golf, racing). Avoid generic features and health explainers.
+
+=== NEWS CANDIDATES ===
+{news}
+
+=== SHOWBIZ CANDIDATES ===
+{showbiz}
+
+=== SPORT CANDIDATES ===
+{sport}
+"""
+
+
+def _fallback_select(pool, n, tagger):
+    chosen = pool[:n]
+    items = [{
+        "lead": (it.get("title") or "").rstrip(".") + ".",
+        "detail": (it.get("description") or "More to follow.").strip(),
+        "angle": "",
+        "tag": tagger(it),
+    } for it in chosen]
+    keys = [item_key(it) for it in chosen]
+    return items, keys
+
+
+def curate_sections_with_gemini(news_pool, showbiz_pool, sport_pool, ledger, iso_date, full_date):
+    """Pick + write the strongest News/Showbiz/Sport via Gemini, with an on-air
+    angle per item. Falls back to the top BBC items on any problem."""
+    fb_news, k_news = _fallback_select(
+        news_pool, 3, lambda it: "Politics · UK" if is_political(it) else "UK · News")
+    fb_showbiz, k_showbiz = _fallback_select(showbiz_pool, 3, lambda it: "Showbiz · UK")
+    fb_sport, k_sport = _fallback_select(sport_pool, 4, lambda it: "Sport · UK")
+
+    def use_fallback(msg):
+        if msg:
+            print(msg)
+        _record(ledger, "news", iso_date, k_news)
+        _record(ledger, "showbiz", iso_date, k_showbiz)
+        _record(ledger, "sport", iso_date, k_sport)
+        return fb_news, fb_showbiz, fb_sport
+
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        return use_fallback("  · No GEMINI_API_KEY - using top BBC items (no AI curation)")
+    try:
+        from google import genai
+        from google.genai import types
+    except ImportError as e:
+        return use_fallback(f"  ! google-genai not installed: {e}")
+
+    prompt = CURATE_PROMPT.format(
+        full_date=full_date,
+        news=_format_candidates(news_pool, mark_political=True),
+        showbiz=_format_candidates(showbiz_pool),
+        sport=_format_candidates(sport_pool),
+    )
+    try:
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=CURATE_SYSTEM,
+                response_mime_type="application/json",
+                temperature=0.6,
+                max_output_tokens=3500,
+            ),
+        )
+        text = (response.text or "").strip()
+        m = re.search(r"```(?:json)?\s*(\{.*\})\s*```", text, re.DOTALL)
+        if m:
+            text = m.group(1)
+        data = json.loads(text)
+
+        def shape(section, pool, want_min):
+            arr = data.get(section)
+            if not isinstance(arr, list):
+                raise ValueError(f"{section} not a list")
+            out, keys = [], []
+            for x in arr:
+                if not (isinstance(x, dict) and x.get("lead") and x.get("detail")):
+                    continue
+                out.append({
+                    "lead": str(x["lead"]).strip(),
+                    "detail": str(x["detail"]).strip(),
+                    "angle": str(x.get("angle") or "").strip(),
+                    "tag": (str(x.get("tag") or "").strip() or "UK"),
+                })
+                si = x.get("source")
+                if isinstance(si, int) and 1 <= si <= len(pool):
+                    keys.append(item_key(pool[si - 1]))
+            if len(out) < want_min:
+                raise ValueError(f"{section} too few valid items")
+            return out, keys
+
+        n_out, n_keys = shape("news", news_pool, 2)
+        s_out, s_keys = shape("showbiz", showbiz_pool, 2)
+        sp_out, sp_keys = shape("sport", sport_pool, 2)
+        _record(ledger, "news", iso_date, n_keys)
+        _record(ledger, "showbiz", iso_date, s_keys)
+        _record(ledger, "sport", iso_date, sp_keys)
+        print(f"  · Gemini curated sections ({len(n_out)} news, {len(s_out)} showbiz, {len(sp_out)} sport)")
+        return n_out, s_out, sp_out
+    except Exception as e:
+        return use_fallback(f"  ! Gemini curation failed ({type(e).__name__}: {e})")
 
 
 # ----------------------------------------------------------------------------
@@ -989,28 +1191,14 @@ def build_content(iso_date: str, target: dict, day_after: dict, ledger: dict) ->
     # Live sources — fetch raw, format as fallback, then optionally polish via Gemini.
     # All three selectors take the edition's target_date so they can drop stories
     # whose event has already passed by the time this edition is read.
-    print("  · Fetching BBC News, Politics, World...")
-    news_raw = _select_news_raw(iso_date, target_d, ledger)
-    print(f"    → {len(news_raw)} news items")
-    print("  · Fetching BBC Entertainment & Arts...")
-    showbiz_raw = _select_showbiz_raw(iso_date, target_d, ledger)
-    print(f"    → {len(showbiz_raw)} showbiz items")
-    print("  · Fetching BBC Sport...")
-    sport_raw = _select_sport_raw(iso_date, target_d, ledger)
-    print(f"    → {len(sport_raw)} sport items")
-
-    # Raw (fallback) formatting — used as-is if Gemini is unavailable
-    news_fb = _format_raw_news(news_raw)
-    showbiz_fb = _format_raw_showbiz(showbiz_raw)
-    sport_fb = _format_raw_sport(sport_raw)
-
-    # Optional radio-voice polish via Gemini Flash (free tier).
-    # Falls back to the raw BBC text silently if no key, no package, or any error.
-    print("  · Attempting Gemini Flash radio-voice polish...")
-    news, showbiz, sport = polish_with_gemini(
-        news_raw, showbiz_raw, sport_raw,
-        news_fb, showbiz_fb, sport_fb,
-    )
+    print("  · Building wide BBC candidate pools (news/showbiz/sport)...")
+    news_pool = _pool_news(target_d, ledger, iso_date)
+    showbiz_pool = _pool_showbiz(target_d, ledger, iso_date)
+    sport_pool = _pool_sport(target_d, ledger, iso_date)
+    print(f"    → pools: {len(news_pool)} news, {len(showbiz_pool)} showbiz, {len(sport_pool)} sport")
+    print("  · Curating + writing the strongest stories (Gemini if available)...")
+    news, showbiz, sport = curate_sections_with_gemini(
+        news_pool, showbiz_pool, sport_pool, ledger, iso_date, target["full_date"])
     print("  · Fetching lottery estimates...")
     lottery_live = fetch_lottery_estimates()
     print("  · Fetching Wikipedia on-this-day for target date...")
