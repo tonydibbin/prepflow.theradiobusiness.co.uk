@@ -42,7 +42,12 @@
   "53dbab47bc90038a": "2026-06-09",
   "e7aa2a811f63c013": "2026-06-09",
   "df757794b6426913": "2026-06-09",
-  "c14301353e19c5d5": "2026-06-09"
+  "c14301353e19c5d5": "2026-06-09",
+  "027292674d83a035": "2026-06-09",
+  "0057f813d1861f80": "2026-06-09",
+  "aac94d4df727cb63": "2026-06-09",
+  "0512fda7dc89ae84": "2026-06-09",
+  "532856a2c4ae942c": "2026-06-09"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -66,7 +71,12 @@
   "661d8ec83dd727b8": "2026-06-09",
   "cea4b2511e892621": "2026-06-09",
   "ffc73d3b29c9362b": "2026-06-09",
-  "5de3ab68a9f842a1": "2026-06-09"
+  "5de3ab68a9f842a1": "2026-06-09",
+  "fbec3f63d90eacc5": "2026-06-09",
+  "fbc12b3a9f51aa0a": "2026-06-09",
+  "241c1ef54acd54fb": "2026-06-09",
+  "c981ef478f4d80bf": "2026-06-09",
+  "0570a96a7df7df60": "2026-06-09"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -94,12 +104,15 @@
   "7ee02f43a17a6b67": "2026-06-09",
   "2d9a5a2fb5565ce4": "2026-06-09",
   "336562ec6ffd6641": "2026-06-09",
-  "dd5c591522f7382b": "2026-06-09"
+  "dd5c591522f7382b": "2026-06-09",
+  "da59e56b3d734bcc": "2026-06-09",
+  "fd15c029ca2a530c": "2026-06-09",
+  "0be04f1b9575a547": "2026-06-09",
+  "a2d3960ddaecee20": "2026-06-09",
+  "283a6b05bd99530f": "2026-06-09"
  },
  "_ai_recent": {
   "newsbrief": [
-   "New research suggests that a daily dose of laughter might be as good for you as a gentle walk.",
-   "Gardeners across the UK are discovering the surprising joy of growing their own exotic fruit.",
    "The humble teacup is experiencing a delightful renaissance as collectable items become popular again.",
    "A recent study highlighted how much pleasure people get from simply watching the clouds drift by.",
    "More families are choosing board games for their evening entertainment, sparking a surge in demand for classic and new titles.",
@@ -132,7 +145,14 @@
    "The humble art of mending clothes and household items is making a fashionable comeback.",
    "British parks are seeing a surge in popularity for outdoor group fitness classes, from yoga to boot camps.",
    "The satisfying click of a physical camera shutter is being rediscovered by a generation used to phone photography.",
-   "More people are starting 'curiosity cabinets' at home, filled with found objects, natural history specimens, and personal treasures."
+   "More people are starting 'curiosity cabinets' at home, filled with found objects, natural history specimens, and personal treasures.",
+   "British households are increasingly turning to 'upcycling' old furniture, giving beloved pieces a new lease of life.",
+   "The surprising popularity of 'plogging' is sweeping across UK parks and green spaces.",
+   "A new trend sees people embracing the joy of 'micro-adventures' close to home.",
+   "More of us are rediscovering the simple pleasure of handwritten letters and postcards.",
+   "The delightful art of 'guerilla gardening' is bringing bursts of colour to neglected urban spots.",
+   "Many Brits are finding new hobbies in traditional crafts, such as knitting, pottery, and woodworking.",
+   "The humble picnic is enjoying a major revival across the UK, from city parks to country fields."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -144,7 +164,9 @@
    "Our survey said that over 65% of us admit to having a specific 'comfort movie' we watch when we need a pick-me-up. What's yours?",
    "A recent poll asked Brits what small, everyday 'good deed' they secretly enjoy doing for others. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'borrowing' *what* from our children's snack stash?",
-   "A recent poll asked Brits what everyday household chore they secretly find quite therapeutic. What came out on top?"
+   "A recent poll asked Brits what everyday household chore they secretly find quite therapeutic. What came out on top?",
+   "Our survey said that over 60% of us admit to having a specific 'lucky' parking spot at the supermarket. What's yours?",
+   "A recent poll asked Brits what everyday sound instantly makes them feel productive. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -156,17 +178,11 @@
    "You know how sometimes you discover a new local shop or café and it instantly becomes your new favourite spot?",
    "We all have those little 'unwritten rules' in life, don't we? Things we just instinctively do, even if no one ever told us to.",
    "You know how sometimes a scent can instantly transport you back to a specific memory or place?",
-   "We all have those moments when we feel like we've spotted a little bit of magic in the everyday, don't we?"
+   "We all have those moments when we feel like we've spotted a little bit of magic in the everyday, don't we?",
+   "You know how sometimes a specific colour can just instantly lift your mood or remind you of something wonderful?",
+   "We all have those little 'comfort' objects from our childhood that we still remember fondly, don't we?"
   ],
   "facts": [
-   "A snail can sleep for up to three years.",
-   "Honey never spoils and can be stored indefinitely.",
-   "The Great Barrier Reef is the largest living structure on Earth.",
-   "Bananas are technically berries, but strawberries are not.",
-   "Humans share approximately 50% of their DNA with bananas.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "The sound of a 'v' (like in 'very') does not exist in the Irish language.",
-   "The dot over the letters 'i' and 'j' is called a tittle.",
    "A standard cloud weighs more than 100 elephants.",
    "Strawberries are the only fruit with seeds on the outside.",
    "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
@@ -198,7 +214,15 @@
    "Octopuses have three hearts.",
    "The original name for the butterfly was 'flutterby'.",
    "The average person walks the equivalent of three times around the world in their lifetime.",
-   "Bananas are berries, but strawberries are not."
+   "Bananas are berries, but strawberries are not.",
+   "The world's smallest chameleon, the Brookesia micra, can fit comfortably on a human fingernail.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The 'sixth sick sheik's sixth sheep's sick' is considered the toughest tongue twister in the English language.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
+   "There is a town in Norway called 'Hell', and it freezes over every winter.",
+   "The inventor of the Pringles can is buried in one.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "The human nose can remember 50,000 different scents."
   ]
  }
 }
