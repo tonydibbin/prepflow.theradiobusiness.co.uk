@@ -83,7 +83,7 @@ jobs:
           git config user.email "actions@github.com"
           mkdir -p editions
           cp -f dist/*.html dist/*.pdf editions/ 2>/dev/null || true
-          git add editions/
+          git add editions/ scripts/used_history.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
