@@ -173,10 +173,12 @@ def load_ledger() -> dict:
 def save_ledger(ledger: dict, iso_date: str) -> None:
     cutoff = (dt.date.fromisoformat(iso_date)
               - dt.timedelta(days=LEDGER_MAX_AGE)).isoformat()
-    pruned = {
-        sec: {k: v for k, v in entries.items() if v >= cutoff}
-        for sec, entries in ledger.items()
-    }
+    pruned = {}
+    for sec, entries in ledger.items():
+        if not isinstance(entries, dict) or any(not isinstance(v, str) for v in entries.values()):
+            pruned[sec] = entries  # e.g. "_ai_recent" holds lists, keep as-is
+            continue
+        pruned[sec] = {k: v for k, v in entries.items() if v >= cutoff}
     LEDGER_PATH.write_text(
         json.dumps(pruned, indent=1, ensure_ascii=False), encoding="utf-8")
 
@@ -813,6 +815,135 @@ def polish_with_gemini(news_raw, showbiz_raw, sport_raw,
 
 
 # ----------------------------------------------------------------------------
+# Gemini bank generation — fresh Newsbrief / Talkback / Facts each day
+# ----------------------------------------------------------------------------
+
+GEMINI_BANK_SYSTEM = (
+    "You are Prepflow's daily editor, writing light prep material for a British "
+    "radio presenter, Tony Dibbin. Voice: warm, conversational, family-friendly, "
+    "lightly British, never tabloid, never crude. Everything must be read-aloud "
+    "friendly. CRITICAL RULES: every item in 'facts' and every 'fact' you label as "
+    "true MUST be genuinely true and verifiable — if you are not sure, leave it out "
+    "and use a safer well-known fact. Never include song lyrics. Never quote more "
+    "than 12 words from any source. Keep it evergreen and UK-appropriate. Avoid "
+    "anything political, medical, tragic, or controversial in these light sections."
+)
+
+GEMINI_BANK_PROMPT = """Write the light, evergreen sections of tomorrow's Prepflow edition for {full_date}.
+
+Return ONE JSON object, no commentary, EXACTLY this shape:
+
+{{
+  "newsbrief": [{{"lead": "...", "detail": "..."}} , ... exactly 7 items ...],
+  "survey":    [{{"question": "...", "answer": "..."}}, {{"question": "...", "answer": "..."}}],
+  "talk_topic":[{{"lead": "...", "detail": "..."}}, {{"lead": "...", "detail": "..."}}],
+  "true_false":{{"fact_label": "Topic", "fact": "...", "fiction": "..."}},
+  "facts":     ["...", "...", "...", "...", "...", "...", "...", "..."]
+}}
+
+Section guidance:
+- newsbrief: 7 short, light human-interest / lifestyle / quirky research bites. Each lead is one punchy sentence; each detail is 1-2 sentences. Upbeat, the sort of thing a presenter drops between records.
+- survey: 2 playful "Our Survey Said" question + answer pairs in the classic radio style ("X% of us admit to... what is it?" with a funny everyday answer). These are entertainment, not real statistics.
+- talk_topic: 2 phone-in conversation starters. Each has a 'lead' (a light hook) and a 'detail' (the talk-back question to listeners).
+- true_false: one "True Story or Jackanory" pair. 'fact' is a GENUINELY TRUE, surprising-but-real story or fact. 'fiction' is an invented but believable story. 'fact_label' is a short topic word (e.g. "Animals", "Space", "Records").
+- facts: 8 short, genuinely TRUE "did you know" trivia bullets. Each one sentence, accurate, and the kind that makes people go "ooh".
+
+AVOID reusing any of these recently-used lines:
+{avoid}
+
+Keep everything fresh, varied, and different from the avoid-list. British spelling.
+"""
+
+
+def _ai_recent_lines(ledger: dict) -> str:
+    rec = ledger.get("_ai_recent", {})
+    lines = []
+    for sec in ("newsbrief", "survey", "talk_topic", "facts"):
+        for txt in rec.get(sec, [])[-12:]:
+            lines.append(f"- {txt}")
+    return "\n".join(lines) if lines else "(none yet)"
+
+
+def _remember_ai(ledger: dict, ai: dict) -> None:
+    rec = ledger.setdefault("_ai_recent", {})
+    def add(sec, vals):
+        cur = rec.setdefault(sec, [])
+        cur.extend(vals)
+        rec[sec] = cur[-40:]  # keep last 40
+    add("newsbrief", [x.get("lead", "") for x in ai.get("newsbrief", [])])
+    add("survey", [x.get("question", "") for x in ai.get("survey", [])])
+    add("talk_topic", [x.get("lead", "") for x in ai.get("talk_topic", [])])
+    add("facts", list(ai.get("facts", []))[:8])
+
+
+def generate_bank_with_gemini(iso_date: str, full_date: str, ledger: dict):
+    """Return a dict with fresh newsbrief/survey/talk_topic/true_false/facts, or
+    None on any problem (caller then falls back to the static banks)."""
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        return None
+    try:
+        from google import genai
+        from google.genai import types
+    except ImportError as e:
+        print(f"  ! google-genai not installed: {e} — using static banks")
+        return None
+
+    prompt = GEMINI_BANK_PROMPT.format(full_date=full_date, avoid=_ai_recent_lines(ledger))
+    try:
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=GEMINI_BANK_SYSTEM,
+                response_mime_type="application/json",
+                temperature=0.95,
+                max_output_tokens=4000,
+            ),
+        )
+        text = (response.text or "").strip()
+        m = re.search(r"```(?:json)?\s*(\{.*\})\s*```", text, re.DOTALL)
+        if m:
+            text = m.group(1)
+        data = json.loads(text)
+
+        # ---- strict shape validation; any failure -> None (use banks) ----
+        nb = data.get("newsbrief")
+        sv = data.get("survey")
+        tt = data.get("talk_topic")
+        tf = data.get("true_false")
+        fa = data.get("facts")
+        ok = (
+            isinstance(nb, list) and len(nb) >= 5
+            and all(isinstance(x, dict) and x.get("lead") and x.get("detail") for x in nb)
+            and isinstance(sv, list) and len(sv) >= 2
+            and all(isinstance(x, dict) and x.get("question") and x.get("answer") for x in sv)
+            and isinstance(tt, list) and len(tt) >= 2
+            and all(isinstance(x, dict) and x.get("lead") and x.get("detail") for x in tt)
+            and isinstance(tf, dict) and tf.get("fact") and tf.get("fiction")
+            and isinstance(fa, list) and len(fa) >= 8
+            and all(isinstance(x, str) and len(x) > 15 for x in fa)
+        )
+        if not ok:
+            print("  ! Gemini bank output failed shape check — using static banks")
+            return None
+        tf.setdefault("fact_label", "True or False")
+        result = {
+            "newsbrief": nb[:7],
+            "survey": sv[:2],
+            "talk_topic": tt[:2],
+            "true_false": tf,
+            "facts": fa[:8],
+        }
+        print("  · Gemini generated fresh Newsbrief/Talkback/Facts")
+        return result
+    except Exception as e:
+        print(f"  ! Gemini bank generation failed ({type(e).__name__}: {e}) — using static banks")
+        return None
+
+
+# ----------------------------------------------------------------------------
 # Content bank
 # ----------------------------------------------------------------------------
 
@@ -824,16 +955,26 @@ def load_bank() -> dict:
 def build_content(iso_date: str, target: dict, day_after: dict, ledger: dict) -> dict:
     bank = load_bank()
 
-    # Newsbrief: 7 unique items, avoiding anything used recently.
-    newsbrief = pick_unique_fresh(bank["newsbrief"], iso_date, "newsbrief", 7, ledger, "newsbrief")
-
-    # Survey, talk topic, true_false — one each, avoiding recent reuse.
-    survey = pick_one_fresh(bank["survey"], iso_date, "survey", ledger, "survey")
-    talk_topic = pick_one_fresh(bank["talk_topic"], iso_date, "talk_topic", ledger, "talk_topic")
-    true_false = pick_one_fresh(bank["true_false"], iso_date, "true_false", ledger, "true_false")
-
-    # Facts of the day: one set of 8, avoiding recent reuse.
-    facts = pick_one_fresh(bank["facts"], iso_date, "facts", ledger, "facts")
+    # Try fresh AI generation first (when GEMINI_API_KEY is set); on any problem
+    # fall back to the ledger-aware static banks below.
+    print("  · Attempting Gemini fresh Newsbrief/Talkback/Facts...")
+    ai = generate_bank_with_gemini(iso_date, target["full_date"], ledger)
+    if ai:
+        newsbrief = ai["newsbrief"]
+        survey = ai["survey"]
+        talk_topic = ai["talk_topic"]
+        true_false = ai["true_false"]
+        facts = ai["facts"]
+        _remember_ai(ledger, ai)
+    else:
+        # Newsbrief: 7 unique items, avoiding anything used recently.
+        newsbrief = pick_unique_fresh(bank["newsbrief"], iso_date, "newsbrief", 7, ledger, "newsbrief")
+        # Survey, talk topic, true_false — one each, avoiding recent reuse.
+        survey = pick_one_fresh(bank["survey"], iso_date, "survey", ledger, "survey")
+        talk_topic = pick_one_fresh(bank["talk_topic"], iso_date, "talk_topic", ledger, "talk_topic")
+        true_false = pick_one_fresh(bank["true_false"], iso_date, "true_false", ledger, "true_false")
+        # Facts of the day: one set of 8, avoiding recent reuse.
+        facts = pick_one_fresh(bank["facts"], iso_date, "facts", ledger, "facts")
 
     # Weather — tomorrow's UK overview (free, no key)
     print("  · Fetching weather (Open-Meteo)...")
