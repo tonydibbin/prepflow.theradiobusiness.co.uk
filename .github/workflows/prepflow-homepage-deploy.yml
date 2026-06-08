@@ -1,0 +1,45 @@
+name: Prepflow homepage deploy
+
+# Deploys the homepage (index.html) and assets to the IONOS webspace.
+# The daily-edition workflow only SFTPs the generated editions into
+# /prepflow/_generated, so index.html itself was never being redeployed —
+# this fills that gap. Runs automatically whenever the homepage or assets
+# change on main, and can also be run on demand from the Actions tab.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'assets/**'
+  workflow_dispatch:
+
+concurrency:
+  group: prepflow-homepage-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Stage homepage files
+        run: |
+          mkdir -p _deploy
+          cp index.html _deploy/
+          if [ -d assets ]; then cp -r assets _deploy/assets; fi
+          ls -la _deploy
+
+      - name: Deploy homepage + assets to IONOS via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          server: 'access814933954.webspace-data.io'
+          username: 'u99864759'
+          password: ${{ secrets.IONOS_SFTP_PASSWORD }}
+          port: 22
+          local_path: './_deploy/*'
+          remote_path: '/prepflow'
+          sftp_only: true
+          delete_remote_files: false
