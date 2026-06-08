@@ -437,18 +437,18 @@ def _fresh_first(items, target_date, ledger, section, iso_date, n):
     return (fresh + stale)[:n]
 
 
-def _pool_news(target_date, ledger, iso_date, n=18):
+def _pool_news(target_date, ledger, iso_date, n=22):
     pool = (fetch_bbc("news_top") + fetch_bbc("news_main")
             + fetch_bbc("news_world") + fetch_bbc("news_politics"))
     return _fresh_first(pool, target_date, ledger, "news", iso_date, n)
 
 
-def _pool_showbiz(target_date, ledger, iso_date, n=18):
+def _pool_showbiz(target_date, ledger, iso_date, n=22):
     pool = fetch_bbc("showbiz") + fetch_bbc("showbiz_extra")
     return _fresh_first(pool, target_date, ledger, "showbiz", iso_date, n)
 
 
-def _pool_sport(target_date, ledger, iso_date, n=26):
+def _pool_sport(target_date, ledger, iso_date, n=30):
     pool = (fetch_bbc("sport") + fetch_bbc("sport_football")
             + fetch_bbc("sport_cricket") + fetch_bbc("sport_f1")
             + fetch_bbc("sport_tennis") + fetch_bbc("sport_rugby")
@@ -490,7 +490,7 @@ Return ONE JSON object, no commentary, EXACTLY this shape:
   "sport":   [{{"source": 1, "lead": "...", "detail": "...", "angle": "...", "tag": "Sport \u00b7 UK"}}]
 }}
 
-news = exactly 3 items. showbiz = exactly 3 items. sport = 3 or 4 items.
+news = exactly 5 items. showbiz = exactly 5 items. sport = exactly 5 items.
 
 For every item:
 - "source": the NUMBER of the candidate you chose (so we can track it). Pick distinct, strong candidates; ignore weak ones.
@@ -531,9 +531,9 @@ def curate_sections_with_gemini(news_pool, showbiz_pool, sport_pool, ledger, iso
     """Pick + write the strongest News/Showbiz/Sport via Gemini, with an on-air
     angle per item. Falls back to the top BBC items on any problem."""
     fb_news, k_news = _fallback_select(
-        news_pool, 3, lambda it: "Politics · UK" if is_political(it) else "UK · News")
-    fb_showbiz, k_showbiz = _fallback_select(showbiz_pool, 3, lambda it: "Showbiz · UK")
-    fb_sport, k_sport = _fallback_select(sport_pool, 4, lambda it: "Sport · UK")
+        news_pool, 5, lambda it: "Politics · UK" if is_political(it) else "UK · News")
+    fb_showbiz, k_showbiz = _fallback_select(showbiz_pool, 5, lambda it: "Showbiz · UK")
+    fb_sport, k_sport = _fallback_select(sport_pool, 5, lambda it: "Sport · UK")
 
     def use_fallback(msg):
         if msg:
