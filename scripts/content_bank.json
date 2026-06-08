@@ -1,276 +1,1337 @@
 {
-  "_comment": "Rotating content bank. The script picks items deterministically by date so each day's edition is different. Edit freely — just keep the shape.",
-
-  "newsbrief": [
-    {"lead": "Brits now spend an average of 14 hours a week on streaming — more than cooking, cleaning and exercising combined.", "detail": "The biggest jump is in the over-55s, who used to be the holdouts for live telly. 'Second-screening' means we pay less attention than ever."},
-    {"lead": "62% of us have lied about reading a book to look smart in front of someone we fancy.", "detail": "Most-faked titles: 1984, Pride and Prejudice and (awkwardly) the Bible. One in five admit to faking a whole dinner-party conversation about a novel they'd only seen the cover of."},
-    {"lead": "Holiday firms report a 40% spike in 'shoulder season' bookings — September and October sun trips are way up on last year.", "detail": "Travellers blame school-holiday flight prices, unreliable summer weather, and 'August feels too crowded these days'. Spain, Greece and Portugal top the wish list."},
-    {"lead": "More than half of UK workers would take a 10% pay cut to never go into the office again — but only 17% of bosses say they'd offer one.", "detail": "The gap is growing again after forced return-to-office rules. HR experts say the tension shows up in resignation rates, particularly for under-35s."},
-    {"lead": "Three quarters of dog owners now talk to their dog more than they talk to their partner.", "detail": "Top topics: 'what we're doing later', 'what we just saw out the window' and a surprising amount of Bake Off commentary. 12% admit they've apologised to the dog after a row with the human."},
-    {"lead": "Britain's most-stolen supermarket item in 2026 isn't meat or cheese — it's olive oil, with theft up 220% year on year.", "detail": "Prices have nearly doubled in two years. Some shops have fitted security tags to single bottles, others have moved premium brands behind the counter — like cigarettes."},
-    {"lead": "The fastest-growing hobby of 2026 is hand-embroidery — sales of needles and thread up 180% in a year.", "detail": "Crafters say it's the perfect 'phone detox' — slow, tactile, satisfying. TikTok is full of 20-somethings showing off custom denim jackets."},
-    {"lead": "Almost two thirds of us say we've cried at a podcast in the last year — grief, parenting and identity top the list of triggers.", "detail": "Researchers reckon it's the intimacy of audio that does it. The figure is even higher for under-30s, 71% of whom admit a recent podcast-induced tear."},
-    {"lead": "Half of UK adults can't name a single member of the cabinet — but 80% can name three Love Island contestants.", "detail": "Political engagement researchers say it's not apathy so much as 'noise overload'. People remember faces from things they actively watch."},
-    {"lead": "The most-Googled DIY question in Britain this year: 'how to remove silicone'.", "detail": "Tradespeople say it's the rise of botched bathroom resealing jobs during lockdown that's still haunting people. YouTube tutorials on the topic have racked up 60 million views."},
-    {"lead": "One in three of us has had a 'sleep divorce' — sleeping in a separate bed from our partner.", "detail": "Reasons: snoring (45%), different schedules (30%), restless legs, and one bizarre 12% who say their partner 'talks to the cat in their sleep'."},
-    {"lead": "British baby names are getting shorter again — three- and four-letter names are dominating the registrar.", "detail": "Top picks this year: Noa, Ezra, Ada and Bo. Long, multi-syllable Victorian names like Theodora are sliding back down the chart."},
-    {"lead": "The average Brit checks their phone 159 times a day — but says it 'doesn't feel like that much'.", "detail": "Researchers using passive monitoring apps say we badly underestimate our own usage. Most people guess between 30 and 70 times."},
-    {"lead": "Cash is making a small comeback — ATM withdrawals are up 14% on this time last year.", "detail": "Bank analysts credit budget-conscious households using cash to stay disciplined. The 'envelope method' is back trending on TikTok."},
-    {"lead": "Roses are out, peonies are in — UK florists report a 200% rise in peony orders for weddings this summer.", "detail": "Brides cite 'softer, less staged' aesthetics. Wholesale peony prices have crept up accordingly."},
-    {"lead": "Pubs report a Tuesday boom — the new 'mid-week meet' is the fastest-growing dining occasion.", "detail": "Operators say WFH-ers like getting out the house mid-week without the weekend crowds. Tuesday wine sales are up almost 30%."},
-    {"lead": "Loneliness is now considered a bigger health risk than smoking 15 cigarettes a day, according to NHS England.", "detail": "Social prescribing — GPs referring patients to community activities — is rolling out nationwide. Walking groups, book clubs and choirs are reportedly oversubscribed."},
-    {"lead": "Almost 70% of UK households now have a smart speaker — but the most common use is still 'asking what time it is'.", "detail": "Researchers say we under-use the devices we own. Setting timers, playing music and weather queries make up two thirds of all commands."},
-    {"lead": "The 'silver gamer' is the fastest-growing demographic in UK gaming — over-65s spent £180 million on games last year.", "detail": "Cosy life-sim titles like Stardew Valley and Animal Crossing dominate. Console makers are reportedly designing larger UI for the market."},
-    {"lead": "Brits spend an average of 38 minutes a day deciding what to watch — and 12 of those are spent scrolling Netflix.", "detail": "'Watch-paralysis' has its own subreddit. Streamers are quietly experimenting with 'shuffle' buttons that just play something."}
-  ],
-
-  "survey": [
-    [
-      {"question": "71% of us admit to doing THIS in the car when we think no-one is watching. What is it?", "answer": "singing at the top of our lungs, with full dramatic facial expressions."},
-      {"question": "Asked 'what's the most British thing about your morning?', the number one answer wasn't a cup of tea — it was THIS.", "answer": "apologising to someone who walked into you."}
-    ],
-    [
-      {"question": "48% of us do THIS every single day. What is it?", "answer": "step on the bathroom scales."},
-      {"question": "63% of us have done THIS in a meeting we're meant to be paying attention to. What?", "answer": "online shopping."}
-    ],
-    [
-      {"question": "82% of us secretly enjoy doing THIS, even though we'd never admit it. What?", "answer": "watching neighbours through the curtains."},
-      {"question": "When asked what they'd grab in a house fire after their pets and family, 40% said THIS. What?", "answer": "the phone charger."}
-    ],
-    [
-      {"question": "57% of UK workers admit doing THIS while on a work call. What?", "answer": "going to the loo."},
-      {"question": "Asked what makes them feel old, the top answer wasn't grey hairs — it was THIS. What?", "answer": "not recognising any of the names at the top of the charts."}
-    ],
-    [
-      {"question": "44% of us have done THIS while waiting for a kettle to boil. What?", "answer": "wandered off and forgotten about it entirely."},
-      {"question": "75% of us check THIS more than ten times a day. What?", "answer": "the weather app."}
-    ],
-    [
-      {"question": "61% of us have lied about THIS to get out of a social event. What?", "answer": "having a cold."},
-      {"question": "53% of people admit to doing THIS in a restaurant when no-one's looking. What?", "answer": "licking the plate."}
-    ],
-    [
-      {"question": "69% of Brits do THIS as soon as they get in from work. What?", "answer": "take their trousers off and put pyjama bottoms on."},
-      {"question": "39% of us have done THIS in a supermarket trolley aisle. What?", "answer": "had a full domestic argument."}
-    ]
-  ],
-
-  "talk_topic": [
-    [
-      {"lead": "A new study says we form a strong opinion of someone within 7 seconds of meeting them.", "detail": "Talk-back: what's the quickest you've ever decided you didn't like someone — and were you right? Or the quickest you DID like someone?"},
-      {"lead": "Matching pet-and-owner outfits are apparently making a comeback this summer.", "detail": "Would you actually do it? And if so — does the dog get a vote in the wardrobe?"}
-    ],
-    [
-      {"lead": "If you could only listen to one song for the rest of your life, what is it?", "detail": "Talk-back: pick one. No 'depends on the mood'. Just one song forever — go."},
-      {"lead": "What's the most British thing you've ever done?", "detail": "Talk-back: bonus points for the apology, the queue and the cup of tea all in one anecdote."}
-    ],
-    [
-      {"lead": "A survey says 30% of us have a 'forever favourite' meal we'd be happy eating every day.", "detail": "Talk-back: what's yours? And could you really eat it every day?"},
-      {"lead": "Researchers say the average person has 27 unread voicemails. We're voicemail-phobic.", "detail": "Talk-back: when did you last actually listen to one? And who left it?"}
-    ],
-    [
-      {"lead": "If you won the lottery tonight, what's the FIRST thing you'd buy tomorrow?", "detail": "Talk-back: not the dream house. Not the holiday. The first daft thing you'd buy because you finally could."},
-      {"lead": "What's the worst job you've ever had — and how long did you last?", "detail": "Talk-back: the war stories are usually the funniest. Bonus marks for under a fortnight."}
-    ],
-    [
-      {"lead": "A study claims our taste in music is 'locked in' by age 14.", "detail": "Talk-back: do you still listen to what you loved at 14? And what was on your bedroom wall?"},
-      {"lead": "What's the most embarrassing thing in your kitchen that you'd hide if guests came round?", "detail": "Talk-back: bonus marks for anyone admitting to a Slap Chop or a NutriBullet bought once and never used."}
-    ],
-    [
-      {"lead": "Apparently 1 in 5 of us have a 'comfort show' we've watched more than 10 times.", "detail": "Talk-back: what's yours? Friends? Gavin and Stacey? Bake Off? Reveal yourself."},
-      {"lead": "If you could un-invent ONE thing from modern life, what would it be?", "detail": "Talk-back: not phones. Pick something specific. Self-checkouts? Wireless earbuds that always die? The Selfridges Christmas advert?"}
-    ],
-    [
-      {"lead": "Researchers say the most stressful day to drive in the UK isn't Monday — it's THIS day.", "detail": "(Spoiler: it's Thursday.) Talk-back: what day of the week feels longest to you, and why?"},
-      {"lead": "The 'big shop' is dying — younger Brits are doing 4–6 small shops a week instead.", "detail": "Talk-back: are you a one-big-shop person or a daily-corner-shop person? And which one is your partner?"}
-    ]
-  ],
-
-  "true_false": [
-    {
-      "fact_label": "UK News",
-      "fact": "A council in the North-West has agreed to fix a much-complained-about pothole only after a resident planted a small tree in it and the photo went viral. The pothole had been reported 17 times in a year before the tree solved it overnight.",
-      "fiction": "A Devon village has voted unanimously to ban Vinted couriers from parking on its narrow high street, after a single delivery driver knocked over the same pub's hanging basket three weeks in a row."
-    },
-    {
-      "fact_label": "UK News",
-      "fact": "A Yorkshire farmer has won a planning row by getting his prize-winning sheep listed as 'agricultural heritage', preventing a housing development from going ahead next to his field.",
-      "fiction": "A Cornish café has started charging customers extra if they ask for the WiFi password before placing their order, claiming it 'improves table turnover by 40%'."
-    },
-    {
-      "fact_label": "Animals",
-      "fact": "A goldfish at Bristol Aquarium has been confirmed as the oldest in captivity in the UK after celebrating its 23rd birthday last week. Staff say its secret is a 'strict diet and very calm music'.",
-      "fiction": "A Scottish brewery has begun training rescue dogs to detect over-fermented kegs by scent, with the lead beagle reportedly never wrong in six months."
-    },
-    {
-      "fact_label": "Tech",
-      "fact": "A start-up has invented a wearable that gently vibrates to remind you to drink water — and reportedly raised £3 million in two days on Kickstarter.",
-      "fiction": "Researchers at Manchester University have built an AI that can predict which biscuit you'll dunk in your tea next, based only on the way you hold the mug."
-    },
-    {
-      "fact_label": "Sport",
-      "fact": "A grassroots football club in the Lake District plays its home games on a pitch with a 1-in-12 slope at one end — the steepest legal gradient for organised football.",
-      "fiction": "A 5-a-side league in Slough has banned all 'celebration sliding' after three players in one season tore their shorts and demanded refunds."
-    },
-    {
-      "fact_label": "Travel",
-      "fact": "A small Welsh railway station — Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llanty­silio­gogogoch — sells more platform-ticket souvenirs than any other UK station.",
-      "fiction": "A Norfolk B&B has started offering a 'no chit-chat' room for guests who want to skip breakfast small talk, marked with a polite door card and a £10 surcharge."
-    },
-    {
-      "fact_label": "Food",
-      "fact": "The UK's bestselling biscuit in 2025 wasn't the Custard Cream or the Hobnob — it was the humble digestive, selling over 70 million packs.",
-      "fiction": "A Bristol bakery has started selling 'controversial' jam doughnuts injected with mustard instead of jam, claiming a 'small but loyal' customer base."
-    }
-  ],
-
-  "facts": [
-    [
-      "A cloud can weigh more than a million pounds — about the same as 100 elephants. They float because they're spread across miles of sky.",
-      "Honey never spoils. Edible honey has been found in 3,000-year-old Egyptian tombs.",
-      "Octopuses have three hearts and blue blood. Two pump blood through the gills, the third pumps it round the body.",
-      "The Eiffel Tower can grow up to 15cm taller in summer because the iron expands in the heat.",
-      "The dot above a lowercase 'i' or 'j' has a name — it's called a tittle.",
-      "Bananas are technically berries. Strawberries, somehow, are not.",
-      "Wombats produce cube-shaped poo. Scientists worked out it's the elasticity of their intestines.",
-      "A 'jiffy' is an actual unit of time — 1/100th of a second. So 'back in a jiffy' is the fastest promise you can make."
-    ],
-    [
-      "Sharks existed before trees. Sharks have been around for 400 million years; trees only 350 million.",
-      "Bubble wrap was originally invented as wallpaper. It flopped, so they pivoted to packaging.",
-      "There are more stars in the universe than grains of sand on every beach on Earth.",
-      "A group of flamingos is called a flamboyance.",
-      "The shortest war in history was between Britain and Zanzibar in 1896 — it lasted 38 minutes.",
-      "Your stomach gets a new lining every three to four days. Otherwise it would digest itself.",
-      "The first message ever sent on the internet was 'LO' — they were trying to type 'LOGIN' but the system crashed.",
-      "An ostrich's eye is bigger than its brain."
-    ],
-    [
-      "Cows have best friends and get stressed when separated from them.",
-      "The word 'OK' began as a misspelling joke in a Boston newspaper in 1839 ('oll korrect').",
-      "Sloths can hold their breath longer than dolphins — up to 40 minutes underwater.",
-      "If you could fold a piece of paper 42 times, it would reach the moon.",
-      "Bees can recognise human faces.",
-      "Saturn would float in water — if you could find a bathtub big enough.",
-      "There's a species of jellyfish that is technically immortal — Turritopsis dohrnii.",
-      "Antarctica is the only continent without reptiles or snakes."
-    ],
-    [
-      "A blue whale's tongue alone weighs as much as an elephant.",
-      "Octopuses can taste with their suckers.",
-      "Wales has more castles per square mile than any other country in the world.",
-      "Bananas grow upside down.",
-      "Your nose can detect over a trillion different scents.",
-      "The unicorn is the national animal of Scotland.",
-      "There are more trees on Earth than stars in the Milky Way.",
-      "A snail can sleep for three years at a time."
-    ],
-    [
-      "The Great Wall of China isn't actually visible from space without aid, despite the myth.",
-      "There are more possible games of chess than atoms in the observable universe.",
-      "A flock of crows is called a 'murder'.",
-      "The unicorn is mentioned in the Bible nine times.",
-      "Coca-Cola would be green if colouring wasn't added to it.",
-      "A day on Venus is longer than a year on Venus.",
-      "Polar bears have black skin under their white fur.",
-      "Hot water freezes faster than cold water under certain conditions — it's called the Mpemba effect."
-    ],
-    [
-      "The plastic bits on the ends of shoelaces are called aglets.",
-      "Penguins propose to their mates by giving them a pebble.",
-      "Strawberries aren't actually berries, but bananas, watermelons and pumpkins are.",
-      "Cats have a special collarbone that lets them always land on their feet — usually.",
-      "The word 'set' has the most definitions of any word in the English language — 430.",
-      "The longest English word without a vowel is 'rhythms'.",
-      "Ketchup was sold in the 1830s as medicine.",
-      "Hippos secrete their own natural sunscreen — a reddish, oily substance."
-    ],
-    [
-      "The colour orange is named after the fruit, not the other way around.",
-      "More people speak English in China than in the United States.",
-      "Cleopatra lived closer in time to the moon landing than to the building of the Great Pyramid.",
-      "A 'jiffy' is an actual unit of time — 1/100th of a second.",
-      "Goats have rectangular pupils, which gives them nearly 360-degree vision.",
-      "Lightning strikes Earth about 100 times every second.",
-      "Bees have to visit roughly 2 million flowers to make one pound of honey.",
-      "Mosquitoes are attracted to people who've just eaten bananas."
-    ]
-  ],
-
-  "film_calendar": {
-    "left": [
-      {"month": "May 2026", "items": [
-        {"when": "Fri 15", "what": "Mortal Kombat II (+ IMAX); Is God Is; Poetic License"},
-        {"when": "Fri 22", "what": "The Mandalorian and Grogu (+ IMAX)"}
-      ]},
-      {"month": "June 2026", "items": [
-        {"when": "Fri 5", "what": "Masters of the Universe; Power Ballad"},
-        {"when": "Fri 12", "what": "Scary Movie 6; new Spielberg film (+ IMAX)"},
-        {"when": "Fri 19", "what": "Pixar's Toy Story 5"},
-        {"when": "Fri 26", "what": "Supergirl: Woman of Tomorrow (+ IMAX); A Private Life"}
-      ]},
-      {"month": "July 2026", "items": [
-        {"when": "Wed 1", "what": "Minions & Monsters"},
-        {"when": "Fri 3", "what": "Shiver; Young Washington"},
-        {"when": "Fri 10", "what": "Moana (live action); Evil Dead Burn"},
-        {"when": "Fri 17", "what": "Christopher Nolan's The Odyssey (+ IMAX); Cut Off"},
-        {"when": "Fri 24", "what": "Heads of State; Untitled DCU"},
-        {"when": "Fri 31", "what": "Spider-Man: Brand New Day"}
-      ]}
-    ],
-    "right": [
-      {"month": "August 2026", "items": [
-        {"when": "Fri 7", "what": "Once Upon a Time in a Cinema"},
-        {"when": "Fri 14", "what": "Flowervale Street; PAW Patrol 3: The Dino Movie"},
-        {"when": "Fri 21", "what": "Mutiny; The Bride!"},
-        {"when": "Fri 28", "what": "Crime 101; Outcome"}
-      ]},
-      {"month": "September 2026 · preview", "items": [
-        {"when": "Fri 4", "what": "Conjuring: Last Rites"},
-        {"when": "Fri 11", "what": "Resident Evil reboot"},
-        {"when": "Fri 18", "what": "The Black Phone 2"},
-        {"when": "Fri 25", "what": "Tron: Ares (+ IMAX)"}
-      ]},
-      {"month": "October 2026 · preview", "items": [
-        {"when": "Fri 16", "what": "Untitled Christopher McQuarrie thriller"},
-        {"when": "Fri 23", "what": "Frankenstein (del Toro)"}
-      ]}
-    ]
+ "_comment": "Rotating content bank. The script picks items deterministically by date so each day's edition is different. Edit freely — just keep the shape.",
+ "newsbrief": [
+  {
+   "lead": "Brits now spend an average of 14 hours a week on streaming — more than cooking, cleaning and exercising combined.",
+   "detail": "The biggest jump is in the over-55s, who used to be the holdouts for live telly. 'Second-screening' means we pay less attention than ever."
   },
-
-  "sport_calendar": {
-    "left": [
-      {"month": "May 2026", "items": [
-        {"when": "Thu 14", "what": "PGA Championship begins (Golf)"},
-        {"when": "Wed 20", "what": "UEFA Europa League Final"},
-        {"when": "Sat 23", "what": "EFL Championship Play-off Final, Wembley"},
-        {"when": "Sun 24", "what": "Premier League final day (all 10 games, 3pm BST)"},
-        {"when": "24 May – 7 Jun", "what": "French Open (Tennis)"},
-        {"when": "Thu 28", "what": "Premier League Darts Finals Night"},
-        {"when": "Sat 30", "what": "UEFA Champions League Final"}
-      ]},
-      {"month": "June 2026", "items": [
-        {"when": "Thu 4", "what": "NBA Finals begin"},
-        {"when": "11 Jun – 19 Jul", "what": "FIFA World Cup (USA / Canada / Mexico)"},
-        {"when": "11–14 Jun", "what": "World Cup of Darts"},
-        {"when": "12 Jun – 5 Jul", "what": "ICC Women's T20 World Cup (England & Wales)"},
-        {"when": "18–21 Jun", "what": "U.S. Open (Golf)"},
-        {"when": "29 Jun – 12 Jul", "what": "Wimbledon"}
-      ]}
-    ],
-    "right": [
-      {"month": "July 2026", "items": [
-        {"when": "4–26 Jul", "what": "Tour de France (Cycling)"},
-        {"when": "Sun 5", "what": "British Grand Prix, Silverstone"},
-        {"when": "16–19 Jul", "what": "The Open Championship (Golf)"},
-        {"when": "18–26 Jul", "what": "World Matchplay Darts, Blackpool"},
-        {"when": "23 Jul – 2 Aug", "what": "Commonwealth Games, Glasgow"}
-      ]},
-      {"month": "August 2026", "items": [
-        {"when": "w/c 10", "what": "Hundred & T20 Blast climax (Cricket)"},
-        {"when": "Sat 15", "what": "Premier League season begins (2026/27)"},
-        {"when": "22–23", "what": "Belgian Grand Prix (F1)"}
-      ]}
-    ]
+  {
+   "lead": "62% of us have lied about reading a book to look smart in front of someone we fancy.",
+   "detail": "Most-faked titles: 1984, Pride and Prejudice and (awkwardly) the Bible. One in five admit to faking a whole dinner-party conversation about a novel they'd only seen the cover of."
+  },
+  {
+   "lead": "Holiday firms report a 40% spike in 'shoulder season' bookings — September and October sun trips are way up on last year.",
+   "detail": "Travellers blame school-holiday flight prices, unreliable summer weather, and 'August feels too crowded these days'. Spain, Greece and Portugal top the wish list."
+  },
+  {
+   "lead": "More than half of UK workers would take a 10% pay cut to never go into the office again — but only 17% of bosses say they'd offer one.",
+   "detail": "The gap is growing again after forced return-to-office rules. HR experts say the tension shows up in resignation rates, particularly for under-35s."
+  },
+  {
+   "lead": "Three quarters of dog owners now talk to their dog more than they talk to their partner.",
+   "detail": "Top topics: 'what we're doing later', 'what we just saw out the window' and a surprising amount of Bake Off commentary. 12% admit they've apologised to the dog after a row with the human."
+  },
+  {
+   "lead": "Britain's most-stolen supermarket item in 2026 isn't meat or cheese — it's olive oil, with theft up 220% year on year.",
+   "detail": "Prices have nearly doubled in two years. Some shops have fitted security tags to single bottles, others have moved premium brands behind the counter — like cigarettes."
+  },
+  {
+   "lead": "The fastest-growing hobby of 2026 is hand-embroidery — sales of needles and thread up 180% in a year.",
+   "detail": "Crafters say it's the perfect 'phone detox' — slow, tactile, satisfying. TikTok is full of 20-somethings showing off custom denim jackets."
+  },
+  {
+   "lead": "Almost two thirds of us say we've cried at a podcast in the last year — grief, parenting and identity top the list of triggers.",
+   "detail": "Researchers reckon it's the intimacy of audio that does it. The figure is even higher for under-30s, 71% of whom admit a recent podcast-induced tear."
+  },
+  {
+   "lead": "Half of UK adults can't name a single member of the cabinet — but 80% can name three Love Island contestants.",
+   "detail": "Political engagement researchers say it's not apathy so much as 'noise overload'. People remember faces from things they actively watch."
+  },
+  {
+   "lead": "The most-Googled DIY question in Britain this year: 'how to remove silicone'.",
+   "detail": "Tradespeople say it's the rise of botched bathroom resealing jobs during lockdown that's still haunting people. YouTube tutorials on the topic have racked up 60 million views."
+  },
+  {
+   "lead": "One in three of us has had a 'sleep divorce' — sleeping in a separate bed from our partner.",
+   "detail": "Reasons: snoring (45%), different schedules (30%), restless legs, and one bizarre 12% who say their partner 'talks to the cat in their sleep'."
+  },
+  {
+   "lead": "British baby names are getting shorter again — three- and four-letter names are dominating the registrar.",
+   "detail": "Top picks this year: Noa, Ezra, Ada and Bo. Long, multi-syllable Victorian names like Theodora are sliding back down the chart."
+  },
+  {
+   "lead": "The average Brit checks their phone 159 times a day — but says it 'doesn't feel like that much'.",
+   "detail": "Researchers using passive monitoring apps say we badly underestimate our own usage. Most people guess between 30 and 70 times."
+  },
+  {
+   "lead": "Cash is making a small comeback — ATM withdrawals are up 14% on this time last year.",
+   "detail": "Bank analysts credit budget-conscious households using cash to stay disciplined. The 'envelope method' is back trending on TikTok."
+  },
+  {
+   "lead": "Roses are out, peonies are in — UK florists report a 200% rise in peony orders for weddings this summer.",
+   "detail": "Brides cite 'softer, less staged' aesthetics. Wholesale peony prices have crept up accordingly."
+  },
+  {
+   "lead": "Pubs report a Tuesday boom — the new 'mid-week meet' is the fastest-growing dining occasion.",
+   "detail": "Operators say WFH-ers like getting out the house mid-week without the weekend crowds. Tuesday wine sales are up almost 30%."
+  },
+  {
+   "lead": "Loneliness is now considered a bigger health risk than smoking 15 cigarettes a day, according to NHS England.",
+   "detail": "Social prescribing — GPs referring patients to community activities — is rolling out nationwide. Walking groups, book clubs and choirs are reportedly oversubscribed."
+  },
+  {
+   "lead": "Almost 70% of UK households now have a smart speaker — but the most common use is still 'asking what time it is'.",
+   "detail": "Researchers say we under-use the devices we own. Setting timers, playing music and weather queries make up two thirds of all commands."
+  },
+  {
+   "lead": "The 'silver gamer' is the fastest-growing demographic in UK gaming — over-65s spent £180 million on games last year.",
+   "detail": "Cosy life-sim titles like Stardew Valley and Animal Crossing dominate. Console makers are reportedly designing larger UI for the market."
+  },
+  {
+   "lead": "Brits spend an average of 38 minutes a day deciding what to watch — and 12 of those are spent scrolling Netflix.",
+   "detail": "'Watch-paralysis' has its own subreddit. Streamers are quietly experimenting with 'shuffle' buttons that just play something."
+  },
+  {
+   "lead": "Brits are apparently buying more houseplants than ever — and naming them.",
+   "detail": "A garden survey found nearly a third of plant owners have given their plants names, and a surprising number apologise to them when they forget to water."
+  },
+  {
+   "lead": "The humble flask is having a comeback, with sales up sharply as people try to cut café spending.",
+   "detail": "Retailers say the big winner is the 'keeps drinks hot for 12 hours' bottle — though most of us still drink it within the first one."
+  },
+  {
+   "lead": "A study says the average person walks past their phone over 50 times a day without picking it up.",
+   "detail": "Researchers reckon just seeing it nearby is enough reassurance. The phone, meanwhile, remains entirely unbothered."
+  },
+  {
+   "lead": "Allotment waiting lists have hit record highs across the UK.",
+   "detail": "Councils in some areas now quote waits of several years. The most-grown first crop for beginners? Courgettes — closely followed by regret, as they produce far too many."
+  },
+  {
+   "lead": "More of us are taking up 'fake commutes' — a short walk before and after working from home.",
+   "detail": "Psychologists say the made-up journey helps separate work from home life. Some people even pop to a shop and back to 'arrive'."
+  },
+  {
+   "lead": "Board game cafés are booming on UK high streets.",
+   "detail": "Owners say the biggest sellers are the quick, daft games — not the four-hour epics. The most common cause of fallouts remains the rules of a certain word game."
+  },
+  {
+   "lead": "A survey finds most of us have at least one app we've never opened since downloading it.",
+   "detail": "The average phone reportedly carries dozens of unused apps. Top of the 'meant to use it' pile: language-learning and meditation."
+  },
+  {
+   "lead": "Tinned fish is unexpectedly trendy again, with younger shoppers leading the charge.",
+   "detail": "Sardines and mackerel are being repackaged as a quick, cheap protein. Older shoppers are quietly baffled, having eaten it for decades."
+  },
+  {
+   "lead": "Britain's appetite for 'cosy' nights in is reshaping Friday nights.",
+   "detail": "Takeaway and streaming bookings now peak earlier in the evening, as more of us swap the big night out for a big night in."
+  },
+  {
+   "lead": "The number of people learning to play an instrument as an adult is rising fast.",
+   "detail": "Piano and guitar lead the way, with online lessons making it easier. The hardest part, learners say, is finding somewhere to practise without an audience."
+  },
+  {
+   "lead": "A poll says most people can't remember the last time they wrote a letter by hand.",
+   "detail": "Yet greetings-card sales remain strong — we'll happily sign our name, just not write a full page."
+  },
+  {
+   "lead": "'Quiet' holidays are the new luxury, with travellers seeking places with nothing much to do.",
+   "detail": "Tour operators report rising demand for remote cottages and slow trains. The number one requested feature: a reliable kettle and a view."
+  },
+  {
+   "lead": "Reusable coffee cups are finally outnumbering disposables in some city centres.",
+   "detail": "Cafés offering a small discount have seen the biggest shift. The catch: most of us still leave the cup at home half the time."
+  },
+  {
+   "lead": "More households are growing herbs on the windowsill to cut grocery bills.",
+   "detail": "Basil and mint are the favourites. Survival rates, gardeners admit, are 'mixed' — the basil rarely makes it past a fortnight."
+  },
+  {
+   "lead": "A study suggests we underestimate how much our neighbours would like to be asked for help.",
+   "detail": "Researchers say a small favour often builds friendships faster than years of polite nodding over the fence."
+  },
+  {
+   "lead": "Swimming in the sea and lakes — 'wild swimming' — keeps growing in popularity year-round.",
+   "detail": "Enthusiasts swear by the cold-water buzz. Newcomers are advised to start gently, and that the gasp on entry is completely normal."
+  },
+  {
+   "lead": "The crossword and puzzle boom is still going strong, in print and on phones.",
+   "detail": "Publishers report a surge in daily puzzlers. The most argued-over answer in households remains anything involving a cryptic clue."
+  },
+  {
+   "lead": "Slow cookers are flying off the shelves again as energy-conscious shoppers rediscover them.",
+   "detail": "They use a fraction of the power of an oven over a day. The downside: the smell of dinner from 9am tests everyone's patience."
+  },
+  {
+   "lead": "A survey says most of us have a 'signature dish' we bring out whenever guests come round.",
+   "detail": "Chilli, lasagne and a roast top the list. Very few of us, it turns out, have a second dish ready if the first goes wrong."
+  },
+  {
+   "lead": "Local 'repair cafés', where volunteers fix broken items for free, are spreading across the UK.",
+   "detail": "Toasters, lamps and zips are the most common patients. Organisers say the biggest barrier is convincing people their old kettle is worth saving."
+  },
+  {
+   "lead": "More people are switching their morning scroll for a morning walk, apps suggest.",
+   "detail": "Step-counters report a small but steady rise in early-morning activity. The motivation for most? A dog that refuses to wait."
+  },
+  {
+   "lead": "Charity shops are reporting a surge in both donations and shoppers as 'pre-loved' goes mainstream.",
+   "detail": "Younger shoppers in particular are hunting for one-off finds. Volunteers say the most donated item by a mile is the unworn 'someday' outfit."
+  },
+  {
+   "lead": "A study finds the average person has a 'comfort route' they walk or drive even when there's a faster way.",
+   "detail": "Familiarity, not speed, wins. We'd rather the known road with the nice tree than save three minutes on the ring road."
+  },
+  {
+   "lead": "Jigsaw puzzles are still selling in huge numbers, years after their lockdown boom.",
+   "detail": "1,000-piece designs are the sweet spot. The most dreaded puzzle remains anything that's mostly sky."
+  },
+  {
+   "lead": "Britons are keeping their phones for longer than ever before upgrading.",
+   "detail": "The average handset is now held onto for several years. The main reason cited isn't loyalty — it's the dread of moving everything across."
+  },
+  {
+   "lead": "A survey says most of us secretly prefer a night in with a quiz on the telly to a night out.",
+   "detail": "Shouting answers at the screen remains the nation's favourite low-effort sport — even when we're completely wrong."
+  },
+  {
+   "lead": "Community 'little libraries' — swap-a-book boxes on the street — are popping up in more neighbourhoods.",
+   "detail": "The unwritten rule is take one, leave one. The most-swapped genre, organisers say, is the holiday thriller."
+  },
+  {
+   "lead": "More of us are batch-cooking at the weekend to dodge the weeknight scramble.",
+   "detail": "Freezers are filling with portioned dinners. The classic mistake: forgetting to label them, then playing 'mystery soup' on a Wednesday."
+  },
+  {
+   "lead": "A poll finds the nation can't agree on the correct way to make a cup of tea.",
+   "detail": "Milk first or last remains a genuine source of household tension. The one thing we agree on: someone else should make it."
+  },
+  {
+   "lead": "Pub quizzes are reporting record team sign-ups, with niche rounds drawing the crowds.",
+   "detail": "Music and picture rounds are the great levellers. The cleverest team name still wins more goodwill than the actual answers."
+  },
+  {
+   "lead": "Cold-water taps for filling pets' bowls and watering cans are the surprise garden-centre hit.",
+   "detail": "With more of us gardening, small convenience gadgets are booming — though the watering can remains undefeated."
+  },
+  {
+   "lead": "A study suggests humming or singing badly in the car genuinely lifts your mood.",
+   "detail": "Researchers link it to deep breathing and a small dose of joy. Fellow drivers at the lights may not share the enthusiasm."
+  },
+  {
+   "lead": "More people are writing 'done lists' instead of to-do lists to feel better about their day.",
+   "detail": "Noting what you actually achieved, however small, apparently beats staring at everything you didn't. 'Got dressed' counts."
+  },
+  {
+   "lead": "The great British picnic is being upgraded, with sales of fold-out chairs and cool bags climbing.",
+   "detail": "We're venturing out more, weather permitting. The traditional picnic still ends, as ever, with at least one item dropped in the grass."
+  },
+  {
+   "lead": "A survey finds most of us have a drawer, shelf or cupboard we're slightly afraid to open.",
+   "detail": "The 'everything drawer' is a near-universal feature of British homes. Inside: takeaway menus, dead batteries and one very important thing we'll never find again."
+  },
+  {
+   "lead": "Cycling to the shops is up, with more people using bikes for short local trips rather than big rides.",
+   "detail": "Councils credit better cycle lanes. The number one cargo carried? A surprisingly heavy single bag for life."
+  },
+  {
+   "lead": "More of us are learning the names of the birds in our gardens, apps report.",
+   "detail": "Bird-ID apps have made spotting easier. The robin remains the nation's clear favourite, mostly for its cheek."
+  },
+  {
+   "lead": "A study says the smell of fresh bread is one of the few things almost everyone finds comforting.",
+   "detail": "Supermarkets have long known it — the in-store bakery is no accident. Few of us escape without an unplanned loaf."
+  },
+  {
+   "lead": "Knitting and crochet are booming with a new generation, sold as the ultimate screen-free wind-down.",
+   "detail": "Beginners start with scarves and quietly accumulate wool. The first project, makers admit, is usually 'a bit wonky but loved'."
+  },
+  {
+   "lead": "A poll finds most people have a song that instantly makes them feel like dancing, even in the kitchen.",
+   "detail": "Kitchen discos are a quiet national pastime. The wooden spoon remains the microphone of choice."
   }
+ ],
+ "survey": [
+  [
+   {
+    "question": "71% of us admit to doing THIS in the car when we think no-one is watching. What is it?",
+    "answer": "singing at the top of our lungs, with full dramatic facial expressions."
+   },
+   {
+    "question": "Asked 'what's the most British thing about your morning?', the number one answer wasn't a cup of tea — it was THIS.",
+    "answer": "apologising to someone who walked into you."
+   }
+  ],
+  [
+   {
+    "question": "48% of us do THIS every single day. What is it?",
+    "answer": "step on the bathroom scales."
+   },
+   {
+    "question": "63% of us have done THIS in a meeting we're meant to be paying attention to. What?",
+    "answer": "online shopping."
+   }
+  ],
+  [
+   {
+    "question": "82% of us secretly enjoy doing THIS, even though we'd never admit it. What?",
+    "answer": "watching neighbours through the curtains."
+   },
+   {
+    "question": "When asked what they'd grab in a house fire after their pets and family, 40% said THIS. What?",
+    "answer": "the phone charger."
+   }
+  ],
+  [
+   {
+    "question": "57% of UK workers admit doing THIS while on a work call. What?",
+    "answer": "going to the loo."
+   },
+   {
+    "question": "Asked what makes them feel old, the top answer wasn't grey hairs — it was THIS. What?",
+    "answer": "not recognising any of the names at the top of the charts."
+   }
+  ],
+  [
+   {
+    "question": "44% of us have done THIS while waiting for a kettle to boil. What?",
+    "answer": "wandered off and forgotten about it entirely."
+   },
+   {
+    "question": "75% of us check THIS more than ten times a day. What?",
+    "answer": "the weather app."
+   }
+  ],
+  [
+   {
+    "question": "61% of us have lied about THIS to get out of a social event. What?",
+    "answer": "having a cold."
+   },
+   {
+    "question": "53% of people admit to doing THIS in a restaurant when no-one's looking. What?",
+    "answer": "licking the plate."
+   }
+  ],
+  [
+   {
+    "question": "69% of Brits do THIS as soon as they get in from work. What?",
+    "answer": "take their trousers off and put pyjama bottoms on."
+   },
+   {
+    "question": "39% of us have done THIS in a supermarket trolley aisle. What?",
+    "answer": "had a full domestic argument."
+   }
+  ],
+  [
+   {
+    "question": "68% of us admit to keeping THIS for years even though it doesn't work. What is it?",
+    "answer": "a pen we know is dead, that we put back in the drawer anyway."
+   },
+   {
+    "question": "Asked the most pointless thing they do every day, Brits' number one answer was THIS.",
+    "answer": "checking the fridge again, hoping new food has appeared."
+   }
+  ],
+  [
+   {
+    "question": "Nearly 6 in 10 of us have a 'special' version of THIS we won't let anyone else use.",
+    "answer": "a favourite mug."
+   },
+   {
+    "question": "Asked what instantly makes a hotel feel posh, the top answer wasn't the pool — it was THIS.",
+    "answer": "a little tray of free biscuits."
+   }
+  ],
+  [
+   {
+    "question": "74% of us have done THIS to avoid talking to someone we know in a supermarket.",
+    "answer": "pretended to be fascinated by a shelf of beans."
+   },
+   {
+    "question": "The most common thing we say we'll 'start on Monday' is THIS.",
+    "answer": "the diet — again."
+   }
+  ],
+  [
+   {
+    "question": "63% of dog owners admit they've done THIS when no-one's around.",
+    "answer": "had a full conversation with the dog about their day."
+   },
+   {
+    "question": "Asked the most British way to end a phone call, the winner was THIS string of words.",
+    "answer": "'right… okay then… lovely… bye, bye, bye, bye.'"
+   }
+  ],
+  [
+   {
+    "question": "Over half of us confess we've kept THIS appliance long after it broke 'just in case'.",
+    "answer": "a toaster that only does one side."
+   },
+   {
+    "question": "The number one thing we pretend to understand but don't is THIS.",
+    "answer": "how our own pension works."
+   }
+  ],
+  [
+   {
+    "question": "61% of us have a drawer at home that contains mostly THIS.",
+    "answer": "random cables we'll never identify again."
+   },
+   {
+    "question": "Asked the food we'd happily eat cold straight from the fridge, the top answer was THIS.",
+    "answer": "last night's leftover pizza."
+   }
+  ],
+  [
+   {
+    "question": "7 in 10 of us have lied about THIS to get off the phone faster.",
+    "answer": "'oh, you're breaking up, I'm going into a tunnel.'"
+   },
+   {
+    "question": "The most common thing we Google late at night is apparently THIS.",
+    "answer": "whether it's normal that our knee just did that."
+   }
+  ],
+  [
+   {
+    "question": "58% of us admit we judge a person instantly based on THIS.",
+    "answer": "how they treat waiting staff."
+   },
+   {
+    "question": "Asked the most satisfying household sound, the winner was THIS.",
+    "answer": "the click of the kettle as it finishes boiling."
+   }
+  ],
+  [
+   {
+    "question": "Two-thirds of us have pretended to like THIS to be polite.",
+    "answer": "a friend's questionable home cooking."
+   },
+   {
+    "question": "The thing we most often put off until 'tomorrow' is THIS.",
+    "answer": "sorting out the photos on our phone."
+   }
+  ],
+  [
+   {
+    "question": "65% of us still do THIS even though every map app exists.",
+    "answer": "ask a stranger for directions and then immediately ignore them."
+   },
+   {
+    "question": "Asked what's in the bottom of nearly every handbag, the top answer was THIS.",
+    "answer": "a single mysterious receipt from 2019."
+   }
+  ],
+  [
+   {
+    "question": "Over 70% of us admit we've rewatched THIS rather than try something new.",
+    "answer": "the same comfort show for the hundredth time."
+   },
+   {
+    "question": "The most common reason we open the fridge is apparently NOT hunger — it's THIS.",
+    "answer": "boredom."
+   }
+  ],
+  [
+   {
+    "question": "59% of us have a name for THIS that only our family understands.",
+    "answer": "the remote control — ours is apparently called all sorts."
+   },
+   {
+    "question": "Asked the most stressful part of a group meal out, the top answer was THIS.",
+    "answer": "working out how to split the bill."
+   }
+  ],
+  [
+   {
+    "question": "64% of us keep THIS even though we've never once read it.",
+    "answer": "the instruction manual for the microwave."
+   },
+   {
+    "question": "The thing we most often say we 'don't really watch' but absolutely do is THIS.",
+    "answer": "reality TV."
+   }
+  ],
+  [
+   {
+    "question": "Just over half of us admit to doing THIS with the TV remote.",
+    "answer": "hiding it so someone else can't change the channel."
+   },
+   {
+    "question": "Asked the smell that instantly takes us back to childhood, the winner was THIS.",
+    "answer": "cut grass on a summer afternoon."
+   }
+  ],
+  [
+   {
+    "question": "66% of us have pretended to be busy to avoid THIS.",
+    "answer": "helping someone move house."
+   },
+   {
+    "question": "The most common thing we forget the moment we walk into a room is THIS.",
+    "answer": "why we walked into the room."
+   }
+  ],
+  [
+   {
+    "question": "60% of us have a 'good' version of THIS we save for visitors.",
+    "answer": "the nice towels nobody's allowed to actually use."
+   },
+   {
+    "question": "Asked the most annoying noise in everyday life, the top answer was THIS.",
+    "answer": "someone else's phone on full volume on the train."
+   }
+  ],
+  [
+   {
+    "question": "57% of us admit we've bought THIS purely because it was on offer.",
+    "answer": "something we had absolutely no use for."
+   },
+   {
+    "question": "The thing we're most likely to lie about our skill at is THIS.",
+    "answer": "parallel parking."
+   }
+  ],
+  [
+   {
+    "question": "69% of us do THIS the moment we get into a hotel room.",
+    "answer": "check behind the bathroom door and test every light switch."
+   },
+   {
+    "question": "Asked the most British weather complaint, the winner was THIS.",
+    "answer": "'it's not the heat, it's the humidity.'"
+   }
+  ],
+  [
+   {
+    "question": "Over half of us confess we've kept a gift we hated because of THIS.",
+    "answer": "guilt that the giver might visit and notice it's gone."
+   },
+   {
+    "question": "The most common thing we do in a lift is apparently THIS.",
+    "answer": "stare at the numbers as if they're enthralling."
+   }
+  ],
+  [
+   {
+    "question": "62% of us have a particular THIS we refuse to throw away.",
+    "answer": "a battered old hoodie that's basically held together by memories."
+   },
+   {
+    "question": "Asked what we'd grab first if we had ten seconds to leave the house, the top answer was THIS.",
+    "answer": "the phone — obviously."
+   }
+  ],
+  [
+   {
+    "question": "71% of us judge a cafe instantly on THIS.",
+    "answer": "whether the toilets are nice."
+   },
+   {
+    "question": "The most common little victory that makes our whole day is apparently THIS.",
+    "answer": "getting the green light all the way to work."
+   }
+  ]
+ ],
+ "talk_topic": [
+  [
+   {
+    "lead": "A new study says we form a strong opinion of someone within 7 seconds of meeting them.",
+    "detail": "Talk-back: what's the quickest you've ever decided you didn't like someone — and were you right? Or the quickest you DID like someone?"
+   },
+   {
+    "lead": "Matching pet-and-owner outfits are apparently making a comeback this summer.",
+    "detail": "Would you actually do it? And if so — does the dog get a vote in the wardrobe?"
+   }
+  ],
+  [
+   {
+    "lead": "If you could only listen to one song for the rest of your life, what is it?",
+    "detail": "Talk-back: pick one. No 'depends on the mood'. Just one song forever — go."
+   },
+   {
+    "lead": "What's the most British thing you've ever done?",
+    "detail": "Talk-back: bonus points for the apology, the queue and the cup of tea all in one anecdote."
+   }
+  ],
+  [
+   {
+    "lead": "A survey says 30% of us have a 'forever favourite' meal we'd be happy eating every day.",
+    "detail": "Talk-back: what's yours? And could you really eat it every day?"
+   },
+   {
+    "lead": "Researchers say the average person has 27 unread voicemails. We're voicemail-phobic.",
+    "detail": "Talk-back: when did you last actually listen to one? And who left it?"
+   }
+  ],
+  [
+   {
+    "lead": "If you won the lottery tonight, what's the FIRST thing you'd buy tomorrow?",
+    "detail": "Talk-back: not the dream house. Not the holiday. The first daft thing you'd buy because you finally could."
+   },
+   {
+    "lead": "What's the worst job you've ever had — and how long did you last?",
+    "detail": "Talk-back: the war stories are usually the funniest. Bonus marks for under a fortnight."
+   }
+  ],
+  [
+   {
+    "lead": "A study claims our taste in music is 'locked in' by age 14.",
+    "detail": "Talk-back: do you still listen to what you loved at 14? And what was on your bedroom wall?"
+   },
+   {
+    "lead": "What's the most embarrassing thing in your kitchen that you'd hide if guests came round?",
+    "detail": "Talk-back: bonus marks for anyone admitting to a Slap Chop or a NutriBullet bought once and never used."
+   }
+  ],
+  [
+   {
+    "lead": "Apparently 1 in 5 of us have a 'comfort show' we've watched more than 10 times.",
+    "detail": "Talk-back: what's yours? Friends? Gavin and Stacey? Bake Off? Reveal yourself."
+   },
+   {
+    "lead": "If you could un-invent ONE thing from modern life, what would it be?",
+    "detail": "Talk-back: not phones. Pick something specific. Self-checkouts? Wireless earbuds that always die? The Selfridges Christmas advert?"
+   }
+  ],
+  [
+   {
+    "lead": "Researchers say the most stressful day to drive in the UK isn't Monday — it's THIS day.",
+    "detail": "(Spoiler: it's Thursday.) Talk-back: what day of the week feels longest to you, and why?"
+   },
+   {
+    "lead": "The 'big shop' is dying — younger Brits are doing 4–6 small shops a week instead.",
+    "detail": "Talk-back: are you a one-big-shop person or a daily-corner-shop person? And which one is your partner?"
+   }
+  ],
+  [
+   {
+    "lead": "A new survey says the average person has three 'comfort meals' they return to again and again.",
+    "detail": "Talk-back: what are yours — and is there one you'd genuinely be happy to eat every single day?"
+   },
+   {
+    "lead": "Apparently most of us still have a landline number memorised from childhood.",
+    "detail": "Whose number can you still recite by heart — and could you remember your own mobile if you tried?"
+   }
+  ],
+  [
+   {
+    "lead": "Researchers reckon the perfect length for a nap is 26 minutes.",
+    "detail": "Are you a napper or does it ruin your whole night? And what's the worst place you've ever fallen asleep?"
+   }
+  ],
+  [
+   {
+    "lead": "A study claims the song you loved at 14 is the one you'll love forever.",
+    "detail": "What was yours — and are you brave enough to admit it on air?"
+   },
+   {
+    "lead": "Most people apparently have one job they wanted as a child and completely abandoned.",
+    "detail": "What did you want to be? And how far did real life take you from it?"
+   }
+  ],
+  [
+   {
+    "lead": "New research says we're at our most creative in the shower.",
+    "detail": "What's the best idea you've ever had standing under the water — and did you actually do anything with it?"
+   }
+  ],
+  [
+   {
+    "lead": "Apparently the average household argues most about the thermostat.",
+    "detail": "Who controls the heating in your house — and has it ever started a proper row?"
+   },
+   {
+    "lead": "A survey says most of us have a 'forbidden' word we can't stand.",
+    "detail": "What's the word that makes your skin crawl? Go on, share it."
+   }
+  ],
+  [
+   {
+    "lead": "Scientists say humans can recognise a friend just from the sound of them walking.",
+    "detail": "Who can you identify by their footsteps alone — and has anyone ever crept up and caught you out?"
+   }
+  ],
+  [
+   {
+    "lead": "A new poll says the most-missed shop from the high street is one a lot of us took for granted.",
+    "detail": "Which closed-down shop do you still think about — and what did you always buy there?"
+   },
+   {
+    "lead": "Most of us apparently have one recipe we've made so often we could do it blindfolded.",
+    "detail": "What's your signature dish — and where did you learn it?"
+   }
+  ],
+  [
+   {
+    "lead": "Researchers say the smell of a particular food can transport you straight back decades.",
+    "detail": "What smell instantly takes you back — and to exactly where?"
+   }
+  ],
+  [
+   {
+    "lead": "A study claims we all have one chore we secretly enjoy.",
+    "detail": "Which household job do you actually find satisfying — and which one would you happily never do again?"
+   },
+   {
+    "lead": "Apparently most people have a 'lucky' item they take to big occasions.",
+    "detail": "What's yours — and has it ever actually worked?"
+   }
+  ],
+  [
+   {
+    "lead": "New research says the average person has visited fewer than half the places on their own doorstep.",
+    "detail": "What's the famous local spot you've still never been to despite living nearby for years?"
+   }
+  ],
+  [
+   {
+    "lead": "A survey says most of us would fail a test on the rules of a sport we watch every week.",
+    "detail": "Which sport do you love but couldn't actually explain the rules of?"
+   },
+   {
+    "lead": "Apparently we all have a phrase a parent or grandparent said that we now catch ourselves saying.",
+    "detail": "What's the saying you swore you'd never repeat — and now say constantly?"
+   }
+  ],
+  [
+   {
+    "lead": "Scientists reckon the best cure for a bad mood is a ten-minute walk.",
+    "detail": "What's your go-to reset when the day's gone wrong — a walk, a brew, a particular song?"
+   }
+  ],
+  [
+   {
+    "lead": "A new study says most people keep a ticket, photo or trinket from a day that changed their life.",
+    "detail": "What's the keepsake you'll never throw away — and what's the story behind it?"
+   },
+   {
+    "lead": "Apparently the average person has one skill that always impresses people.",
+    "detail": "What's your party trick — and when did you discover you could do it?"
+   }
+  ],
+  [
+   {
+    "lead": "Researchers say the average commute is the time we do our best thinking.",
+    "detail": "What have you decided, planned or solved on the way to work?"
+   }
+  ],
+  [
+   {
+    "lead": "A poll says most of us have a film we'll stop and watch no matter what part it's at.",
+    "detail": "Which film reels you in every single time it's on?"
+   },
+   {
+    "lead": "Apparently we all have one word we can never spell right first time.",
+    "detail": "What's the word that defeats you — even with autocorrect?"
+   }
+  ],
+  [
+   {
+    "lead": "New research suggests the happiest people have a 'small ritual' that starts their day.",
+    "detail": "What's the little thing you do every morning that sets you up — and what happens if you skip it?"
+   }
+  ],
+  [
+   {
+    "lead": "A survey says most of us have given a nickname to a stranger we see regularly.",
+    "detail": "Who's the person on your route you've secretly named — and what did you call them?"
+   },
+   {
+    "lead": "Apparently the average person changes their mind about their favourite biscuit three times in a lifetime.",
+    "detail": "What's your current number one — and what's it knocked off the top spot?"
+   }
+  ],
+  [
+   {
+    "lead": "Scientists say a good laugh is as good for your heart as light exercise.",
+    "detail": "Who in your life can make you laugh no matter what — and what's the daftest thing that's set you off?"
+   }
+  ],
+  [
+   {
+    "lead": "A new study says most people have a 'comfort programme' they put on to fall asleep.",
+    "detail": "What do you drift off to — and does your other half agree with the choice?"
+   },
+   {
+    "lead": "Apparently most of us have one thing we collect without ever meaning to.",
+    "detail": "What have you somehow ended up with dozens of — tote bags, mugs, odd socks?"
+   }
+  ],
+  [
+   {
+    "lead": "Researchers reckon the average person has a 'go-to' story they tell at every party.",
+    "detail": "What's the tale you always wheel out — and is it even still true?"
+   }
+  ]
+ ],
+ "true_false": [
+  {
+   "fact_label": "UK News",
+   "fact": "A council in the North-West has agreed to fix a much-complained-about pothole only after a resident planted a small tree in it and the photo went viral. The pothole had been reported 17 times in a year before the tree solved it overnight.",
+   "fiction": "A Devon village has voted unanimously to ban Vinted couriers from parking on its narrow high street, after a single delivery driver knocked over the same pub's hanging basket three weeks in a row."
+  },
+  {
+   "fact_label": "UK News",
+   "fact": "A Yorkshire farmer has won a planning row by getting his prize-winning sheep listed as 'agricultural heritage', preventing a housing development from going ahead next to his field.",
+   "fiction": "A Cornish café has started charging customers extra if they ask for the WiFi password before placing their order, claiming it 'improves table turnover by 40%'."
+  },
+  {
+   "fact_label": "Animals",
+   "fact": "A goldfish at Bristol Aquarium has been confirmed as the oldest in captivity in the UK after celebrating its 23rd birthday last week. Staff say its secret is a 'strict diet and very calm music'.",
+   "fiction": "A Scottish brewery has begun training rescue dogs to detect over-fermented kegs by scent, with the lead beagle reportedly never wrong in six months."
+  },
+  {
+   "fact_label": "Tech",
+   "fact": "A start-up has invented a wearable that gently vibrates to remind you to drink water — and reportedly raised £3 million in two days on Kickstarter.",
+   "fiction": "Researchers at Manchester University have built an AI that can predict which biscuit you'll dunk in your tea next, based only on the way you hold the mug."
+  },
+  {
+   "fact_label": "Sport",
+   "fact": "A grassroots football club in the Lake District plays its home games on a pitch with a 1-in-12 slope at one end — the steepest legal gradient for organised football.",
+   "fiction": "A 5-a-side league in Slough has banned all 'celebration sliding' after three players in one season tore their shorts and demanded refunds."
+  },
+  {
+   "fact_label": "Travel",
+   "fact": "A small Welsh railway station — Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llanty­silio­gogogoch — sells more platform-ticket souvenirs than any other UK station.",
+   "fiction": "A Norfolk B&B has started offering a 'no chit-chat' room for guests who want to skip breakfast small talk, marked with a polite door card and a £10 surcharge."
+  },
+  {
+   "fact_label": "Food",
+   "fact": "The UK's bestselling biscuit in 2025 wasn't the Custard Cream or the Hobnob — it was the humble digestive, selling over 70 million packs.",
+   "fiction": "A Bristol bakery has started selling 'controversial' jam doughnuts injected with mustard instead of jam, claiming a 'small but loyal' customer base."
+  },
+  {
+   "fact_label": "Animals",
+   "fact": "A shrimp-like creature called the mantis shrimp can throw a punch so fast it briefly boils the water around its claw, creating a flash of light. It's one of the fastest movements in the animal kingdom.",
+   "fiction": "A zoo in Yorkshire has had to give its meerkats tiny sunglasses after keepers noticed they kept squinting at visitors' phone screens during photos."
+  },
+  {
+   "fact_label": "Space",
+   "fact": "There's a planet-sized ball of carbon nicknamed by astronomers as a possible 'diamond' — a burnt-out star whose core may have crystallised. It's about 50 light-years from Earth.",
+   "fiction": "NASA has confirmed the International Space Station now carries a small kettle, after British astronauts repeatedly complained there was 'no proper way to make a brew' in orbit."
+  },
+  {
+   "fact_label": "Food",
+   "fact": "Carrots were originally purple. The familiar orange carrot was cultivated later, and is often linked to Dutch growers from around the 16th and 17th centuries.",
+   "fiction": "A Cornish bakery has launched a pasty so large it legally has to be sold with its own carry-handle and a food-safety leaflet."
+  },
+  {
+   "fact_label": "History",
+   "fact": "Oxford University is older than the Aztec Empire. Teaching at Oxford dates back to the 11th century, while the city of Tenochtitlan was founded in 1325.",
+   "fiction": "Records have revealed that a Victorian town council once employed a man whose entire job was to walk the streets and tut at people dropping litter."
+  },
+  {
+   "fact_label": "Science",
+   "fact": "Hot water can freeze faster than cold water under certain conditions — an odd effect known as the Mpemba effect, still debated by scientists today.",
+   "fiction": "A university in Scotland has invented an umbrella that plays a gentle warning chime thirty seconds before it's about to turn inside out in the wind."
+  },
+  {
+   "fact_label": "Animals",
+   "fact": "Cows have best friends and can become stressed when separated from them. Studies have shown their heart rates rise when they're kept apart from a preferred companion.",
+   "fiction": "A farm in Somerset has started playing the shipping forecast to its hens after the farmer became convinced it makes them lay rounder eggs."
+  },
+  {
+   "fact_label": "Geography",
+   "fact": "Russia and the United States are less than 4 km apart at their closest point — two small islands in the Bering Strait known as the Diomedes.",
+   "fiction": "A village in Wales has been officially recognised as having the UK's narrowest high street, where shopkeepers can shake hands across the road from their doorways."
+  },
+  {
+   "fact_label": "The Human Body",
+   "fact": "Your nose can detect roughly a trillion different smells, far more than the handful of basic categories scientists once assumed.",
+   "fiction": "Doctors have identified a condition, nicknamed 'phantom buzz', where people are so used to their phone vibrating they feel it even when the phone is in another room — and it now has its own NHS leaflet."
+  },
+  {
+   "fact_label": "Records",
+   "fact": "The shortest commercial flight in the world runs between two Scottish islands, Westray and Papa Westray, and can take under two minutes with a good tailwind.",
+   "fiction": "A seaside town has installed Britain's first 'reverse' pier — a walkway that goes inland from the beach, after planners admitted they'd read the blueprints upside down."
+  },
+  {
+   "fact_label": "Nature",
+   "fact": "Bananas are slightly radioactive because they contain potassium — though you'd need to eat an impossible number in one go for it to matter at all.",
+   "fiction": "A garden centre in Kent has had to rename its 'quiet corner' after customers kept falling asleep in the deckchairs and missing closing time."
+  },
+  {
+   "fact_label": "History",
+   "fact": "The Great Fire of London in 1666 destroyed thousands of houses but, remarkably, the official death toll recorded only a handful of people.",
+   "fiction": "A museum has discovered that a Tudor monarch kept a 'royal sneezer' — a courtier whose sole duty was to sneeze first so the king never had to be the one who started it."
+  },
+  {
+   "fact_label": "Animals",
+   "fact": "Sea otters hold hands while they sleep so they don't drift apart on the water. They sometimes also wrap themselves in seaweed to stay anchored.",
+   "fiction": "A wildlife park has started giving its giraffes scarves in winter, after a vet decided their long necks were 'the bit that feels the cold first'."
+  },
+  {
+   "fact_label": "Science",
+   "fact": "Lightning strikes the Earth roughly 8 million times a day — about 100 times every second somewhere on the planet.",
+   "fiction": "A weather station in the Lake District has had to relocate after its rain gauge kept overflowing so often that staff started using it to water the office plants."
+  },
+  {
+   "fact_label": "Food",
+   "fact": "Honey is one of the only foods that effectively never spoils. Sealed pots found in ancient tombs have reportedly still been edible thousands of years later.",
+   "fiction": "A chippy in Lancashire now offers a 'loyalty' batter — regulars get their initials piped onto the fish in a special edible sauce."
+  },
+  {
+   "fact_label": "Space",
+   "fact": "A day on Venus is longer than its year — the planet spins so slowly that it takes longer to rotate once than to orbit the Sun.",
+   "fiction": "A stargazing society in Devon has banned biscuits at meetings after too many telescopes were found with chocolatey fingerprints on the lenses."
+  },
+  {
+   "fact_label": "The Human Body",
+   "fact": "You're about one centimetre taller in the morning than at night, because the soft discs in your spine compress slightly over the course of the day.",
+   "fiction": "Opticians have reported a rise in people asking for glasses with a built-in tiny wiper blade, for 'reading outdoors in the British summer'."
+  },
+  {
+   "fact_label": "Geography",
+   "fact": "Africa is the only continent that sits in all four hemispheres — northern, southern, eastern and western.",
+   "fiction": "A town in the Midlands has installed a roundabout so confusing that the council now hands out a free laminated map to anyone approaching it for the first time."
+  },
+  {
+   "fact_label": "Animals",
+   "fact": "A group of flamingos is called a 'flamboyance'. They get their pink colour from the food they eat, not from birth.",
+   "fiction": "A pet shop in Brighton has started offering 'taster sessions' where nervous first-time owners can borrow a goldfish for the weekend before committing."
+  },
+  {
+   "fact_label": "History",
+   "fact": "The first item ever sold on eBay, back in 1995, was reportedly a broken laser pointer — and the buyer apparently knew it was broken.",
+   "fiction": "Archaeologists have found that a medieval village kept a communal cat on the payroll, paid in fish, with its own entry in the parish accounts."
+  },
+  {
+   "fact_label": "Nature",
+   "fact": "Some trees can 'talk' to each other through underground fungal networks, sharing nutrients and even warning signals — sometimes nicknamed the 'wood wide web'.",
+   "fiction": "A National Trust garden has had to put up signs asking visitors to stop apologising to the bees, after staff noticed people muttering 'sorry' every time one flew past."
+  },
+  {
+   "fact_label": "Records",
+   "fact": "The longest place name in the UK is a village on Anglesey with 58 letters — usually shortened, mercifully, to Llanfair PG.",
+   "fiction": "A café in the Cotswolds holds the unofficial record for the longest-ever order, after a coach party requested 41 slightly different versions of a cup of tea."
+  }
+ ],
+ "facts": [
+  [
+   "A cloud can weigh more than a million pounds — about the same as 100 elephants. They float because they're spread across miles of sky.",
+   "Honey never spoils. Edible honey has been found in 3,000-year-old Egyptian tombs.",
+   "Octopuses have three hearts and blue blood. Two pump blood through the gills, the third pumps it round the body.",
+   "The Eiffel Tower can grow up to 15cm taller in summer because the iron expands in the heat.",
+   "The dot above a lowercase 'i' or 'j' has a name — it's called a tittle.",
+   "Bananas are technically berries. Strawberries, somehow, are not.",
+   "Wombats produce cube-shaped poo. Scientists worked out it's the elasticity of their intestines.",
+   "A 'jiffy' is an actual unit of time — 1/100th of a second. So 'back in a jiffy' is the fastest promise you can make."
+  ],
+  [
+   "Sharks existed before trees. Sharks have been around for 400 million years; trees only 350 million.",
+   "Bubble wrap was originally invented as wallpaper. It flopped, so they pivoted to packaging.",
+   "There are more stars in the universe than grains of sand on every beach on Earth.",
+   "A group of flamingos is called a flamboyance.",
+   "The shortest war in history was between Britain and Zanzibar in 1896 — it lasted 38 minutes.",
+   "Your stomach gets a new lining every three to four days. Otherwise it would digest itself.",
+   "The first message ever sent on the internet was 'LO' — they were trying to type 'LOGIN' but the system crashed.",
+   "An ostrich's eye is bigger than its brain."
+  ],
+  [
+   "Cows have best friends and get stressed when separated from them.",
+   "The word 'OK' began as a misspelling joke in a Boston newspaper in 1839 ('oll korrect').",
+   "Sloths can hold their breath longer than dolphins — up to 40 minutes underwater.",
+   "If you could fold a piece of paper 42 times, it would reach the moon.",
+   "Bees can recognise human faces.",
+   "Saturn would float in water — if you could find a bathtub big enough.",
+   "There's a species of jellyfish that is technically immortal — Turritopsis dohrnii.",
+   "Antarctica is the only continent without reptiles or snakes."
+  ],
+  [
+   "A blue whale's tongue alone weighs as much as an elephant.",
+   "Octopuses can taste with their suckers.",
+   "Wales has more castles per square mile than any other country in the world.",
+   "Bananas grow upside down.",
+   "Your nose can detect over a trillion different scents.",
+   "The unicorn is the national animal of Scotland.",
+   "There are more trees on Earth than stars in the Milky Way.",
+   "A snail can sleep for three years at a time."
+  ],
+  [
+   "The Great Wall of China isn't actually visible from space without aid, despite the myth.",
+   "There are more possible games of chess than atoms in the observable universe.",
+   "A flock of crows is called a 'murder'.",
+   "The unicorn is mentioned in the Bible nine times.",
+   "Coca-Cola would be green if colouring wasn't added to it.",
+   "A day on Venus is longer than a year on Venus.",
+   "Polar bears have black skin under their white fur.",
+   "Hot water freezes faster than cold water under certain conditions — it's called the Mpemba effect."
+  ],
+  [
+   "The plastic bits on the ends of shoelaces are called aglets.",
+   "Penguins propose to their mates by giving them a pebble.",
+   "Strawberries aren't actually berries, but bananas, watermelons and pumpkins are.",
+   "Cats have a special collarbone that lets them always land on their feet — usually.",
+   "The word 'set' has the most definitions of any word in the English language — 430.",
+   "The longest English word without a vowel is 'rhythms'.",
+   "Ketchup was sold in the 1830s as medicine.",
+   "Hippos secrete their own natural sunscreen — a reddish, oily substance."
+  ],
+  [
+   "The colour orange is named after the fruit, not the other way around.",
+   "More people speak English in China than in the United States.",
+   "Cleopatra lived closer in time to the moon landing than to the building of the Great Pyramid.",
+   "A 'jiffy' is an actual unit of time — 1/100th of a second.",
+   "Goats have rectangular pupils, which gives them nearly 360-degree vision.",
+   "Lightning strikes Earth about 100 times every second.",
+   "Bees have to visit roughly 2 million flowers to make one pound of honey.",
+   "Mosquitoes are attracted to people who've just eaten bananas."
+  ],
+  [
+   "A group of crows is called a 'murder'. A group of owls is a 'parliament'.",
+   "The Eiffel Tower was meant to be temporary — it was almost torn down after 20 years.",
+   "Sharks existed before trees. Sharks have been around for over 400 million years.",
+   "The unicorn is the official national animal of Scotland.",
+   "Venus is the hottest planet in the solar system, even though Mercury is closer to the Sun.",
+   "A bolt of lightning is roughly five times hotter than the surface of the Sun.",
+   "The shortest war in history lasted under 40 minutes — between Britain and Zanzibar in 1896.",
+   "Scotland has more than 790 islands, though most are uninhabited."
+  ],
+  [
+   "Honeybees can recognise human faces.",
+   "The Great Wall of China is not visible to the naked eye from space, despite the myth.",
+   "Polar bears have black skin under their fur to soak up the sun's warmth.",
+   "A snail can sleep for up to three years in the right conditions.",
+   "The dot over the letter 'i' is called a tittle.",
+   "There are more possible games of chess than atoms in the observable universe.",
+   "Cleopatra lived closer in time to the Moon landings than to the building of the pyramids.",
+   "Wombats are the only animals whose poo is cube-shaped."
+  ],
+  [
+   "Octopuses have three hearts and blue blood.",
+   "The inventor of the frisbee was turned into a frisbee after he died — his ashes were moulded into one.",
+   "A jiffy is a real unit of time: one hundredth of a second.",
+   "Bubble wrap was originally invented to be wallpaper.",
+   "The Hawaiian alphabet has just 13 letters.",
+   "Sea otters have a pouch of loose skin under each arm to store food and a favourite rock.",
+   "The longest hiccupping fit on record lasted around 68 years.",
+   "Tomatoes were once feared in Europe and nicknamed the 'poison apple'."
+  ],
+  [
+   "A flock of flamingos is called a flamboyance.",
+   "The world's quietest room, in the US, is so silent you can hear your own heartbeat.",
+   "Bananas are berries, but strawberries technically aren't.",
+   "An ostrich's eye is bigger than its brain.",
+   "The Canary Islands are named after dogs, not birds — from the Latin for dog.",
+   "Hot water can sometimes freeze faster than cold water.",
+   "The first oranges weren't orange — they were a greenish colour.",
+   "A day on the Moon lasts about 29 Earth days from sunrise to sunrise."
+  ],
+  [
+   "Cows have best friends and get stressed when they're separated.",
+   "The shortest commercial flight in the world lasts under two minutes, between two Scottish islands.",
+   "Humans share about 60% of their DNA with bananas.",
+   "Sloths can hold their breath longer than dolphins can.",
+   "The word 'museum' comes from the Muses of Greek mythology.",
+   "A single strand of spaghetti is called a 'spaghetto'.",
+   "Nintendo was founded in 1889, originally making playing cards.",
+   "Penguins propose to their mates with a pebble."
+  ],
+  [
+   "The heart of a blue whale is so big a small child could theoretically crawl through its arteries.",
+   "There are more public libraries than McDonald's restaurants in the UK.",
+   "Goosebumps evolved to make our ancestors look bigger and to fluff up body hair for warmth.",
+   "The Mona Lisa has no eyebrows.",
+   "A 'baker's dozen' is 13 because medieval bakers added an extra loaf to avoid being fined for short measures.",
+   "The fingerprints of a koala are so similar to a human's they could confuse a crime scene.",
+   "The Eiffel Tower can be about 15cm taller in summer because the iron expands in heat.",
+   "Pineapples take around two years to grow a single fruit."
+  ],
+  [
+   "Saturn would float if you could find a bathtub big enough — it's less dense than water.",
+   "The average cloud weighs about the same as 100 elephants.",
+   "Cats can't taste sweetness.",
+   "The longest place name in Britain has 58 letters and is on Anglesey.",
+   "Vending machines are statistically more dangerous than sharks.",
+   "Humans are the only animals known to blush.",
+   "A group of pugs is called a 'grumble'.",
+   "The loudest natural sound ever recorded was the 1883 eruption of Krakatoa, heard thousands of miles away."
+  ],
+  [
+   "Butterflies taste with their feet.",
+   "There's enough water in Lake Superior to cover all of North and South America in a foot of water.",
+   "The microwave was invented by accident when a chocolate bar melted in an engineer's pocket.",
+   "Some cats are allergic to humans.",
+   "The shortest complete sentence in English is 'I am.'",
+   "Norway once knighted a penguin, who holds a military rank in the Norwegian King's Guard.",
+   "A hummingbird's heart can beat over 1,200 times a minute.",
+   "The hashtag symbol is properly called an 'octothorpe'."
+  ],
+  [
+   "A bolt of lightning contains enough energy to toast around 100,000 slices of bread.",
+   "The Eiffel Tower has its own secret little apartment near the top.",
+   "Reindeer eyes change colour with the seasons, from gold in summer to blue in winter.",
+   "The first webcam was invented to monitor a coffee pot at Cambridge University.",
+   "Apples float because they're around a quarter air.",
+   "The blue whale is the largest animal ever known to have lived, bigger than any dinosaur.",
+   "A 'quidnunc' is a real word for a nosey person who always wants the latest gossip.",
+   "Greenland sharks can live for several hundred years, making them the longest-living vertebrates."
+  ],
+  [
+   "The total weight of all the ants on Earth is comparable to the total weight of all the humans.",
+   "Bees can fly higher than Mount Everest, at least in lab tests.",
+   "Scotland's national animal, the unicorn, was chosen partly because it was seen as a natural enemy of the English lion.",
+   "Your stomach gets a brand-new lining every few days so it doesn't digest itself.",
+   "The Spanish national anthem has no words.",
+   "A shrimp's heart is in its head.",
+   "Lobsters taste with their legs and chew with their stomachs.",
+   "The 'new car smell' is the scent of dozens of chemicals slowly evaporating."
+  ],
+  [
+   "The dot you see when a TV used to switch off had a name among engineers, but the static was actually faint echoes of the Big Bang.",
+   "A rhinoceros's horn is made of keratin — the same stuff as your hair and nails.",
+   "There are more stars in the universe than grains of sand on all of Earth's beaches.",
+   "Slugs have around 27,000 teeth.",
+   "The longest English word without a vowel-letter other than 'y' includes 'rhythms'.",
+   "Frogs can't swallow without blinking — they use their eyes to push food down.",
+   "A 'parliament' of owls and a 'conspiracy' of lemurs are both genuine collective nouns.",
+   "The first alarm clock could only ring at one fixed time: 4am."
+  ],
+  [
+   "A teaspoon of neutron star would weigh billions of tonnes on Earth.",
+   "Sharks can sense a single drop of blood in an Olympic-sized swimming pool's worth of water.",
+   "The word 'avocado' comes from an old Aztec word, and so does 'chocolate'.",
+   "Crocodiles can't stick their tongues out.",
+   "The UK's oldest known pub claims a history going back over a thousand years.",
+   "A cockroach can live for a week or so without its head.",
+   "More than half the bones in your body are in your hands and feet.",
+   "Saturn isn't the only planet with rings — Jupiter, Uranus and Neptune have them too, just fainter."
+  ],
+  [
+   "The phrase 'raining cats and dogs' has uncertain origins, but it's been used in English for centuries.",
+   "Wombats, koalas and kangaroos all carry their young in pouches — they're marsupials.",
+   "A 'moment' was once an actual medieval unit of time, lasting about 90 seconds.",
+   "The Statue of Liberty's full height to the torch is over 90 metres including the base.",
+   "Owls can rotate their heads around 270 degrees.",
+   "Carrots were originally purple before orange ones were cultivated.",
+   "The fastest land animal, the cheetah, can go from standstill to motorway speeds in a few seconds.",
+   "There's a species of jellyfish considered biologically 'immortal', able to revert to an earlier life stage."
+  ]
+ ],
+ "film_calendar": {
+  "left": [
+   {
+    "month": "May 2026",
+    "items": [
+     {
+      "when": "Fri 15",
+      "what": "Mortal Kombat II (+ IMAX); Is God Is; Poetic License"
+     },
+     {
+      "when": "Fri 22",
+      "what": "The Mandalorian and Grogu (+ IMAX)"
+     }
+    ]
+   },
+   {
+    "month": "June 2026",
+    "items": [
+     {
+      "when": "Fri 5",
+      "what": "Masters of the Universe; Power Ballad"
+     },
+     {
+      "when": "Fri 12",
+      "what": "Scary Movie 6; new Spielberg film (+ IMAX)"
+     },
+     {
+      "when": "Fri 19",
+      "what": "Pixar's Toy Story 5"
+     },
+     {
+      "when": "Fri 26",
+      "what": "Supergirl: Woman of Tomorrow (+ IMAX); A Private Life"
+     }
+    ]
+   },
+   {
+    "month": "July 2026",
+    "items": [
+     {
+      "when": "Wed 1",
+      "what": "Minions & Monsters"
+     },
+     {
+      "when": "Fri 3",
+      "what": "Shiver; Young Washington"
+     },
+     {
+      "when": "Fri 10",
+      "what": "Moana (live action); Evil Dead Burn"
+     },
+     {
+      "when": "Fri 17",
+      "what": "Christopher Nolan's The Odyssey (+ IMAX); Cut Off"
+     },
+     {
+      "when": "Fri 24",
+      "what": "Heads of State; Untitled DCU"
+     },
+     {
+      "when": "Fri 31",
+      "what": "Spider-Man: Brand New Day"
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "month": "August 2026",
+    "items": [
+     {
+      "when": "Fri 7",
+      "what": "Once Upon a Time in a Cinema"
+     },
+     {
+      "when": "Fri 14",
+      "what": "Flowervale Street; PAW Patrol 3: The Dino Movie"
+     },
+     {
+      "when": "Fri 21",
+      "what": "Mutiny; The Bride!"
+     },
+     {
+      "when": "Fri 28",
+      "what": "Crime 101; Outcome"
+     }
+    ]
+   },
+   {
+    "month": "September 2026 · preview",
+    "items": [
+     {
+      "when": "Fri 4",
+      "what": "Conjuring: Last Rites"
+     },
+     {
+      "when": "Fri 11",
+      "what": "Resident Evil reboot"
+     },
+     {
+      "when": "Fri 18",
+      "what": "The Black Phone 2"
+     },
+     {
+      "when": "Fri 25",
+      "what": "Tron: Ares (+ IMAX)"
+     }
+    ]
+   },
+   {
+    "month": "October 2026 · preview",
+    "items": [
+     {
+      "when": "Fri 16",
+      "what": "Untitled Christopher McQuarrie thriller"
+     },
+     {
+      "when": "Fri 23",
+      "what": "Frankenstein (del Toro)"
+     }
+    ]
+   }
+  ]
+ },
+ "sport_calendar": {
+  "left": [
+   {
+    "month": "May 2026",
+    "items": [
+     {
+      "when": "Thu 14",
+      "what": "PGA Championship begins (Golf)"
+     },
+     {
+      "when": "Wed 20",
+      "what": "UEFA Europa League Final"
+     },
+     {
+      "when": "Sat 23",
+      "what": "EFL Championship Play-off Final, Wembley"
+     },
+     {
+      "when": "Sun 24",
+      "what": "Premier League final day (all 10 games, 3pm BST)"
+     },
+     {
+      "when": "24 May – 7 Jun",
+      "what": "French Open (Tennis)"
+     },
+     {
+      "when": "Thu 28",
+      "what": "Premier League Darts Finals Night"
+     },
+     {
+      "when": "Sat 30",
+      "what": "UEFA Champions League Final"
+     }
+    ]
+   },
+   {
+    "month": "June 2026",
+    "items": [
+     {
+      "when": "Thu 4",
+      "what": "NBA Finals begin"
+     },
+     {
+      "when": "11 Jun – 19 Jul",
+      "what": "FIFA World Cup (USA / Canada / Mexico)"
+     },
+     {
+      "when": "11–14 Jun",
+      "what": "World Cup of Darts"
+     },
+     {
+      "when": "12 Jun – 5 Jul",
+      "what": "ICC Women's T20 World Cup (England & Wales)"
+     },
+     {
+      "when": "18–21 Jun",
+      "what": "U.S. Open (Golf)"
+     },
+     {
+      "when": "29 Jun – 12 Jul",
+      "what": "Wimbledon"
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "month": "July 2026",
+    "items": [
+     {
+      "when": "4–26 Jul",
+      "what": "Tour de France (Cycling)"
+     },
+     {
+      "when": "Sun 5",
+      "what": "British Grand Prix, Silverstone"
+     },
+     {
+      "when": "16–19 Jul",
+      "what": "The Open Championship (Golf)"
+     },
+     {
+      "when": "18–26 Jul",
+      "what": "World Matchplay Darts, Blackpool"
+     },
+     {
+      "when": "23 Jul – 2 Aug",
+      "what": "Commonwealth Games, Glasgow"
+     }
+    ]
+   },
+   {
+    "month": "August 2026",
+    "items": [
+     {
+      "when": "w/c 10",
+      "what": "Hundred & T20 Blast climax (Cricket)"
+     },
+     {
+      "when": "Sat 15",
+      "what": "Premier League season begins (2026/27)"
+     },
+     {
+      "when": "22–23",
+      "what": "Belgian Grand Prix (F1)"
+     }
+    ]
+   }
+  ]
+ }
 }

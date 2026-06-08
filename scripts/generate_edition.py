@@ -134,6 +134,94 @@ def pick_unique(items: list, iso_date: str, salt: str, n: int) -> list:
 
 
 # ----------------------------------------------------------------------------
+# Cross-edition no-repeat ledger
+# ----------------------------------------------------------------------------
+# A small JSON file (committed by the daily workflow) remembering which items
+# each section used and when, so nothing reappears within its window. When the
+# fresh pool is exhausted it falls back to the least-recently-used items.
+
+import hashlib as _hashlib
+
+LEDGER_PATH = SCRIPT_DIR / "used_history.json"
+
+# Days an item stays blocked from reuse, per section.
+LEDGER_WINDOWS = {
+    "news": 12, "showbiz": 16, "sport": 12,
+    "newsbrief": 45, "survey": 75, "talk_topic": 75,
+    "true_false": 75, "facts": 45,
+}
+LEDGER_MAX_AGE = 150  # prune ledger entries older than this many days
+
+
+def item_key(item) -> str:
+    """Stable identity for a bank item or a raw RSS dict."""
+    if isinstance(item, dict) and item.get("title"):
+        basis = re.sub(r"\s+", " ", str(item["title"]).strip().lower())
+    else:
+        basis = json.dumps(item, sort_keys=True, ensure_ascii=False)
+    return _hashlib.sha1(basis.encode("utf-8")).hexdigest()[:16]
+
+
+def load_ledger() -> dict:
+    try:
+        with LEDGER_PATH.open("r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_ledger(ledger: dict, iso_date: str) -> None:
+    cutoff = (dt.date.fromisoformat(iso_date)
+              - dt.timedelta(days=LEDGER_MAX_AGE)).isoformat()
+    pruned = {
+        sec: {k: v for k, v in entries.items() if v >= cutoff}
+        for sec, entries in ledger.items()
+    }
+    LEDGER_PATH.write_text(
+        json.dumps(pruned, indent=1, ensure_ascii=False), encoding="utf-8")
+
+
+def _blocked_keys(ledger: dict, section: str, iso_date: str) -> set:
+    window = LEDGER_WINDOWS.get(section, 30)
+    cutoff = (dt.date.fromisoformat(iso_date)
+              - dt.timedelta(days=window)).isoformat()
+    return {k for k, last in ledger.get(section, {}).items() if last >= cutoff}
+
+
+def _record(ledger: dict, section: str, iso_date: str, keys: list) -> None:
+    ledger.setdefault(section, {})
+    for k in keys:
+        ledger[section][k] = iso_date
+
+
+def pick_unique_fresh(items, iso_date, salt, n, ledger, section, key_fn=item_key):
+    """Pick n items, preferring ones not used within the section's window.
+    Falls back to least-recently-used items when not enough fresh remain."""
+    if not items:
+        return []
+    n = min(n, len(items))
+    blocked = _blocked_keys(ledger, section, iso_date)
+    fresh = [it for it in items if key_fn(it) not in blocked]
+    chosen = pick_unique(fresh, iso_date, salt, n) if fresh else []
+    if len(chosen) < n:
+        last = ledger.get(section, {})
+        stale = [it for it in items if it not in chosen]
+        stale.sort(key=lambda it: last.get(key_fn(it), ""))  # oldest first
+        for it in stale:
+            if len(chosen) >= n:
+                break
+            chosen.append(it)
+    chosen = chosen[:n]
+    _record(ledger, section, iso_date, [key_fn(it) for it in chosen])
+    return chosen
+
+
+def pick_one_fresh(items, iso_date, salt, ledger, section, key_fn=item_key):
+    res = pick_unique_fresh(items, iso_date, salt, 1, ledger, section, key_fn)
+    return res[0] if res else None
+
+
+# ----------------------------------------------------------------------------
 # BBC RSS
 # ----------------------------------------------------------------------------
 
@@ -246,7 +334,7 @@ def is_past_event_story(item: dict, target_date: dt.date) -> bool:
     return False
 
 
-def _select_news_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+def _select_news_raw(iso_date: str, target_date: dt.date, ledger: dict) -> list[dict]:
     """Return chosen raw RSS items for News (3 items, max 1 political).
 
     Past-event stories (anything tied to 'tonight', a date before target_date,
@@ -272,21 +360,21 @@ def _select_news_raw(iso_date: str, target_date: dt.date) -> list[dict]:
 
     chosen = []
     if pol:
-        chosen.append(pol[pick_index(iso_date, "news_pol", min(len(pol), 5))])
+        chosen += pick_unique_fresh(pol, iso_date, "news_pol", 1, ledger, "news")
     needed = 3 - len(chosen)
-    np_picks = pick_unique(non_pol[:20], iso_date, "news_np", needed) if non_pol else []
-    chosen.extend(np_picks)
+    if non_pol and needed > 0:
+        chosen += pick_unique_fresh(non_pol[:25], iso_date, "news_np", needed, ledger, "news")
     return chosen[:3]
 
 
-def _select_showbiz_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+def _select_showbiz_raw(iso_date: str, target_date: dt.date, ledger: dict) -> list[dict]:
     items = [it for it in fetch_bbc("showbiz") if not is_past_event_story(it, target_date)]
-    return pick_unique(items[:25], iso_date, "showbiz", 3)
+    return pick_unique_fresh(items[:25], iso_date, "showbiz", 3, ledger, "showbiz")
 
 
-def _select_sport_raw(iso_date: str, target_date: dt.date) -> list[dict]:
+def _select_sport_raw(iso_date: str, target_date: dt.date, ledger: dict) -> list[dict]:
     items = [it for it in fetch_bbc("sport") if not is_past_event_story(it, target_date)]
-    return pick_unique(items[:30], iso_date, "sport", 4)
+    return pick_unique_fresh(items[:30], iso_date, "sport", 4, ledger, "sport")
 
 
 def _format_raw_news(items: list[dict]) -> list[dict]:
@@ -733,19 +821,19 @@ def load_bank() -> dict:
         return json.load(f)
 
 
-def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
+def build_content(iso_date: str, target: dict, day_after: dict, ledger: dict) -> dict:
     bank = load_bank()
 
-    # Newsbrief: 7 unique items from the pool
-    newsbrief = pick_unique(bank["newsbrief"], iso_date, "newsbrief", 7)
+    # Newsbrief: 7 unique items, avoiding anything used recently.
+    newsbrief = pick_unique_fresh(bank["newsbrief"], iso_date, "newsbrief", 7, ledger, "newsbrief")
 
-    # Survey, talk topic, true_false — pick one PAIR/triple from the array of options
-    survey = pick_one(bank["survey"], iso_date, "survey")
-    talk_topic = pick_one(bank["talk_topic"], iso_date, "talk_topic")
-    true_false = pick_one(bank["true_false"], iso_date, "true_false")
+    # Survey, talk topic, true_false — one each, avoiding recent reuse.
+    survey = pick_one_fresh(bank["survey"], iso_date, "survey", ledger, "survey")
+    talk_topic = pick_one_fresh(bank["talk_topic"], iso_date, "talk_topic", ledger, "talk_topic")
+    true_false = pick_one_fresh(bank["true_false"], iso_date, "true_false", ledger, "true_false")
 
-    # Facts of the day: pick one set of 8
-    facts = pick_one(bank["facts"], iso_date, "facts")
+    # Facts of the day: one set of 8, avoiding recent reuse.
+    facts = pick_one_fresh(bank["facts"], iso_date, "facts", ledger, "facts")
 
     # Weather — tomorrow's UK overview (free, no key)
     print("  · Fetching weather (Open-Meteo)...")
@@ -761,13 +849,13 @@ def build_content(iso_date: str, target: dict, day_after: dict) -> dict:
     # All three selectors take the edition's target_date so they can drop stories
     # whose event has already passed by the time this edition is read.
     print("  · Fetching BBC News, Politics, World...")
-    news_raw = _select_news_raw(iso_date, target_d)
+    news_raw = _select_news_raw(iso_date, target_d, ledger)
     print(f"    → {len(news_raw)} news items")
     print("  · Fetching BBC Entertainment & Arts...")
-    showbiz_raw = _select_showbiz_raw(iso_date, target_d)
+    showbiz_raw = _select_showbiz_raw(iso_date, target_d, ledger)
     print(f"    → {len(showbiz_raw)} showbiz items")
     print("  · Fetching BBC Sport...")
-    sport_raw = _select_sport_raw(iso_date, target_d)
+    sport_raw = _select_sport_raw(iso_date, target_d, ledger)
     print(f"    → {len(sport_raw)} sport items")
 
     # Raw (fallback) formatting — used as-is if Gemini is unavailable
@@ -953,7 +1041,8 @@ def main() -> int:
     print(f"→ Generating Prepflow edition for {tgt['full_date']} "
           f"(→ {tgt['day_name']}.html / .pdf)")
 
-    content = build_content(tgt["iso"], tgt, day_after)
+    ledger = load_ledger()
+    content = build_content(tgt["iso"], tgt, day_after, ledger)
     html_str = render_html(content, tgt, day_after["short_date"])
 
     html_path = out_dir / f"{tgt['day_name']}.html"
@@ -963,6 +1052,7 @@ def main() -> int:
     pages = render_pdf(html_path, pdf_path)
     size_kb = round(pdf_path.stat().st_size / 1024)
 
+    save_ledger(ledger, tgt["iso"])
     lead = (content.get("news") or [{}])[0].get("lead", "(no lead)")
     print(f"✓ Saved {html_path.name} and {pdf_path.name} "
           f"({pages} pages, {size_kb} KB)")
