@@ -52,7 +52,12 @@
   "ee76251512ae4ee9": "2026-06-10",
   "92492c211585a97f": "2026-06-10",
   "c6e8b2eeafa8d611": "2026-06-10",
-  "9f09a958c71852ca": "2026-06-10"
+  "9f09a958c71852ca": "2026-06-10",
+  "504d49d35f22ac3d": "2026-06-10",
+  "3a1dc4086b6d5e0b": "2026-06-10",
+  "fd551bdb5af98c11": "2026-06-10",
+  "3ef27c4865902eb9": "2026-06-10",
+  "203a4613ba6cb3e6": "2026-06-10"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -86,7 +91,10 @@
   "997a4f453699071e": "2026-06-10",
   "b4425b860894481e": "2026-06-10",
   "ca38a3d68f26c0e5": "2026-06-10",
-  "87c97943d0c8e40a": "2026-06-10"
+  "87c97943d0c8e40a": "2026-06-10",
+  "f691d3a7531be994": "2026-06-10",
+  "f73aea50b470e463": "2026-06-10",
+  "8f160edd0f90e902": "2026-06-10"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -124,17 +132,15 @@
   "6cd11dc10516a4f1": "2026-06-10",
   "dd6b1610404def1f": "2026-06-10",
   "79e6109c00e13a04": "2026-06-10",
-  "491d3cde54e32148": "2026-06-10"
+  "491d3cde54e32148": "2026-06-10",
+  "e1995df40b029dd5": "2026-06-10",
+  "9f253a19a3121bbf": "2026-06-10",
+  "4b9be5c6d3021f1b": "2026-06-10",
+  "266a31728fb10082": "2026-06-10",
+  "e4ef95e668f9f9b4": "2026-06-10"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Local parks are becoming unexpected hubs for spontaneous outdoor dance classes, attracting people of all ages.",
-   "A study reveals that the sound of rain falling can significantly improve concentration and reduce stress levels.",
-   "Homemade lemonade stands are making a charming comeback this summer, often raising money for local charities.",
-   "More people are finding joy in the simple act of mending and upcycling old clothes rather than buying new ones.",
-   "Researchers have found that spending just a few minutes observing local wildlife, even in a city park, can lower blood pressure.",
-   "Amateur stargazers across the UK are discovering a new passion for astrophotography using just their smartphones.",
-   "The trend of 'micro-breaks' is gaining popularity, encouraging people to take short, mindful pauses throughout their day.",
    "Community gardens are flourishing as more urban dwellers embrace growing their own fruit and vegetables.",
    "A new appreciation for handwritten notes and postcards is emerging, bringing a touch of traditional charm back to communication.",
    "The simple pleasure of 'window shopping' is being rediscovered as a mindful leisure activity.",
@@ -167,7 +173,14 @@
    "The trend of 'library tourism' is quietly growing, as people seek out beautiful and historic libraries to visit.",
    "British homes are increasingly embracing 'biophilic design', bringing more of the outdoors inside.",
    "The delightful art of 'gifting experiences' rather than physical presents is gaining popularity.",
-   "More people are discovering the meditative benefits of 'forest bathing', or Shinrin-yoku, in local woodlands."
+   "More people are discovering the meditative benefits of 'forest bathing', or Shinrin-yoku, in local woodlands.",
+   "British dog owners are increasingly treating their furry friends to 'paw-dicures' and luxury grooming experiences.",
+   "The trend of 'urban foraging' is growing, with city dwellers discovering edible plants and herbs in unexpected places.",
+   "More people are embracing 'slow travel', opting for longer, more immersive holidays closer to home.",
+   "The delightful sound of 'chime choirs' is becoming a popular new community activity across the UK.",
+   "A new appreciation for 'vintage technology' is emerging, with many collecting and restoring old radios, record players, and typewriters.",
+   "British households are increasingly experimenting with 'vertical gardening' to maximise small spaces.",
+   "The simple joy of 'board game cafes' is seeing a resurgence across the country, offering a fun alternative to traditional pubs."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -183,7 +196,9 @@
    "Our survey said that over 60% of us admit to having a specific 'lucky' parking spot at the supermarket. What's yours?",
    "A recent poll asked Brits what everyday sound instantly makes them feel productive. What came out on top?",
    "Our survey said that over 70% of us admit to having a specific 'lucky' mug or cup that makes our morning brew taste even better. What's yours?",
-   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the one they actually need. What came out on top?"
+   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the one they actually need. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'rearranging' what in someone else's house to make it 'neater'?",
+   "A recent poll asked Brits what small, everyday sound instantly makes them feel nostalgic. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -199,17 +214,11 @@
    "You know how sometimes a specific colour can just instantly lift your mood or remind you of something wonderful?",
    "We all have those little 'comfort' objects from our childhood that we still remember fondly, don't we?",
    "Do you ever find yourself having an imaginary conversation with someone when you're alone, perhaps rehearsing what you'd say or just thinking aloud?",
-   "You know how sometimes a particular piece of music just perfectly matches the weather or your mood, almost like a soundtrack to your day?"
+   "You know how sometimes a particular piece of music just perfectly matches the weather or your mood, almost like a soundtrack to your day?",
+   "We all have those little 'life hacks' that we swear by, don't we? Those clever shortcuts or tricks that just make everyday tasks a bit easier.",
+   "You know how sometimes you spot something in nature that's just a bit unusual or surprising, like an oddly shaped cloud or a particularly colourful bird?"
   ],
   "facts": [
-   "The world's smallest valid passport belongs to a British woman named Wendi Brown, measuring just 1.7cm x 2.4cm.",
-   "Bumblebees can fly higher than Mount Everest.",
-   "The highest number of successful paper planes ever launched simultaneously was 300, achieved in the UK.",
-   "There are more permutations of a deck of cards than there are atoms on Earth.",
-   "The iconic red telephone box was designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
-   "The 'richest' soil on Earth is called chernozem, found primarily in Eastern Europe.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "A group of owls is called a parliament.",
    "The inventor of the Pringle, Fredric Baur, requested to be buried in one of his iconic potato chip cans.",
    "The world's first ever postage stamp, the Penny Black, was issued in the United Kingdom in 1840.",
@@ -241,7 +250,15 @@
    "Strawberries are the only fruit with seeds on the outside.",
    "The world's largest known snowflake was 15 inches wide and 8 inches thick, recorded in Montana in 1887.",
    "It is impossible for most people to lick their own elbow.",
-   "The tiny 'pocket' on jeans was originally designed for pocket watches."
+   "The tiny 'pocket' on jeans was originally designed for pocket watches.",
+   "The official residence of the British monarch, Buckingham Palace, has over 775 rooms.",
+   "A group of flamingos is called a flamboyance.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The 'Unsinkable Molly Brown' survived the sinking of the Titanic and was also on another ship that sank three years later, and she survived that too.",
+   "The Great Wall of China is not a single continuous wall, but rather a series of walls and fortifications built over many centuries.",
+   "The 'pineapple' got its name because it resembled a pinecone and a fruit.",
+   "Butterflies taste with their feet."
   ]
  }
 }
