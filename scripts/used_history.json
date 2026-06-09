@@ -47,7 +47,12 @@
   "0057f813d1861f80": "2026-06-09",
   "aac94d4df727cb63": "2026-06-09",
   "0512fda7dc89ae84": "2026-06-09",
-  "532856a2c4ae942c": "2026-06-09"
+  "532856a2c4ae942c": "2026-06-09",
+  "940cbbd4661e617c": "2026-06-10",
+  "ee76251512ae4ee9": "2026-06-10",
+  "92492c211585a97f": "2026-06-10",
+  "c6e8b2eeafa8d611": "2026-06-10",
+  "9f09a958c71852ca": "2026-06-10"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -76,7 +81,12 @@
   "fbc12b3a9f51aa0a": "2026-06-09",
   "241c1ef54acd54fb": "2026-06-09",
   "c981ef478f4d80bf": "2026-06-09",
-  "0570a96a7df7df60": "2026-06-09"
+  "0570a96a7df7df60": "2026-06-09",
+  "a6b56537a2030c78": "2026-06-10",
+  "997a4f453699071e": "2026-06-10",
+  "b4425b860894481e": "2026-06-10",
+  "ca38a3d68f26c0e5": "2026-06-10",
+  "87c97943d0c8e40a": "2026-06-10"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -109,17 +119,15 @@
   "fd15c029ca2a530c": "2026-06-09",
   "0be04f1b9575a547": "2026-06-09",
   "a2d3960ddaecee20": "2026-06-09",
-  "283a6b05bd99530f": "2026-06-09"
+  "283a6b05bd99530f": "2026-06-09",
+  "760e2f4204014e1e": "2026-06-10",
+  "6cd11dc10516a4f1": "2026-06-10",
+  "dd6b1610404def1f": "2026-06-10",
+  "79e6109c00e13a04": "2026-06-10",
+  "491d3cde54e32148": "2026-06-10"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The humble teacup is experiencing a delightful renaissance as collectable items become popular again.",
-   "A recent study highlighted how much pleasure people get from simply watching the clouds drift by.",
-   "More families are choosing board games for their evening entertainment, sparking a surge in demand for classic and new titles.",
-   "Pet owners are increasingly finding creative ways to celebrate their furry friends' birthdays.",
-   "The refreshing trend of 'wild swimming' continues to attract enthusiasts to Britain's rivers and lakes.",
-   "A new trend sees commuters embracing brightly coloured socks to brighten their morning journeys.",
-   "Enthusiasts are rediscovering the lost art of letter writing, opting for pen and paper over digital messages.",
    "Local parks are becoming unexpected hubs for spontaneous outdoor dance classes, attracting people of all ages.",
    "A study reveals that the sound of rain falling can significantly improve concentration and reduce stress levels.",
    "Homemade lemonade stands are making a charming comeback this summer, often raising money for local charities.",
@@ -152,7 +160,14 @@
    "More of us are rediscovering the simple pleasure of handwritten letters and postcards.",
    "The delightful art of 'guerilla gardening' is bringing bursts of colour to neglected urban spots.",
    "Many Brits are finding new hobbies in traditional crafts, such as knitting, pottery, and woodworking.",
-   "The humble picnic is enjoying a major revival across the UK, from city parks to country fields."
+   "The humble picnic is enjoying a major revival across the UK, from city parks to country fields.",
+   "British gardeners are finding joy in 'cottagecore' aesthetics, turning their plots into whimsical, abundant havens.",
+   "The simple pleasure of stargazing is making a comeback across the UK.",
+   "A new appreciation for 'heritage crafts' is emerging, with many Brits learning traditional skills.",
+   "The trend of 'library tourism' is quietly growing, as people seek out beautiful and historic libraries to visit.",
+   "British homes are increasingly embracing 'biophilic design', bringing more of the outdoors inside.",
+   "The delightful art of 'gifting experiences' rather than physical presents is gaining popularity.",
+   "More people are discovering the meditative benefits of 'forest bathing', or Shinrin-yoku, in local woodlands."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -166,7 +181,9 @@
    "Our survey said that over 50% of us admit to secretly 'borrowing' *what* from our children's snack stash?",
    "A recent poll asked Brits what everyday household chore they secretly find quite therapeutic. What came out on top?",
    "Our survey said that over 60% of us admit to having a specific 'lucky' parking spot at the supermarket. What's yours?",
-   "A recent poll asked Brits what everyday sound instantly makes them feel productive. What came out on top?"
+   "A recent poll asked Brits what everyday sound instantly makes them feel productive. What came out on top?",
+   "Our survey said that over 70% of us admit to having a specific 'lucky' mug or cup that makes our morning brew taste even better. What's yours?",
+   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the one they actually need. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -180,17 +197,11 @@
    "You know how sometimes a scent can instantly transport you back to a specific memory or place?",
    "We all have those moments when we feel like we've spotted a little bit of magic in the everyday, don't we?",
    "You know how sometimes a specific colour can just instantly lift your mood or remind you of something wonderful?",
-   "We all have those little 'comfort' objects from our childhood that we still remember fondly, don't we?"
+   "We all have those little 'comfort' objects from our childhood that we still remember fondly, don't we?",
+   "Do you ever find yourself having an imaginary conversation with someone when you're alone, perhaps rehearsing what you'd say or just thinking aloud?",
+   "You know how sometimes a particular piece of music just perfectly matches the weather or your mood, almost like a soundtrack to your day?"
   ],
   "facts": [
-   "A standard cloud weighs more than 100 elephants.",
-   "Strawberries are the only fruit with seeds on the outside.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
-   "The smell of freshly cut grass is actually a plant distress call.",
-   "A day on Venus is longer than a year on Venus.",
-   "Britain's smallest bird is the Goldcrest, weighing about the same as a 20 pence coin.",
-   "The King owns all the unmarked mute swans in open waters in England and Wales.",
-   "There are more possible chess games than atoms in the observable universe.",
    "The world's smallest valid passport belongs to a British woman named Wendi Brown, measuring just 1.7cm x 2.4cm.",
    "Bumblebees can fly higher than Mount Everest.",
    "The highest number of successful paper planes ever launched simultaneously was 300, achieved in the UK.",
@@ -222,7 +233,15 @@
    "There is a town in Norway called 'Hell', and it freezes over every winter.",
    "The inventor of the Pringles can is buried in one.",
    "A bolt of lightning is five times hotter than the surface of the sun.",
-   "The human nose can remember 50,000 different scents."
+   "The human nose can remember 50,000 different scents.",
+   "A group of owls is called a parliament.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "The average person spends six months of their life waiting for red lights to turn green.",
+   "The 'richest' bird in the world is the Kea, a parrot from New Zealand, known for its intelligence and curious nature.",
+   "Strawberries are the only fruit with seeds on the outside.",
+   "The world's largest known snowflake was 15 inches wide and 8 inches thick, recorded in Montana in 1887.",
+   "It is impossible for most people to lick their own elbow.",
+   "The tiny 'pocket' on jeans was originally designed for pocket watches."
   ]
  }
 }
