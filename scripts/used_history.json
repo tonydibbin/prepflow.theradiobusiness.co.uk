@@ -57,7 +57,12 @@
   "3a1dc4086b6d5e0b": "2026-06-10",
   "fd551bdb5af98c11": "2026-06-10",
   "3ef27c4865902eb9": "2026-06-10",
-  "203a4613ba6cb3e6": "2026-06-10"
+  "203a4613ba6cb3e6": "2026-06-10",
+  "439f946d83857992": "2026-06-08",
+  "b51bf2db31b21126": "2026-06-08",
+  "0691a59002858503": "2026-06-08",
+  "62cbf00d856b277f": "2026-06-08",
+  "59226d09c8ea4e7c": "2026-06-08"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -78,23 +83,24 @@
   "6c08b5b1b064a89c": "2026-06-08",
   "a1f32e9b86b94af6": "2026-06-08",
   "d900519f16045d43": "2026-06-09",
-  "661d8ec83dd727b8": "2026-06-09",
+  "661d8ec83dd727b8": "2026-06-08",
   "cea4b2511e892621": "2026-06-09",
   "ffc73d3b29c9362b": "2026-06-09",
   "5de3ab68a9f842a1": "2026-06-09",
   "fbec3f63d90eacc5": "2026-06-09",
   "fbc12b3a9f51aa0a": "2026-06-09",
-  "241c1ef54acd54fb": "2026-06-09",
+  "241c1ef54acd54fb": "2026-06-08",
   "c981ef478f4d80bf": "2026-06-09",
   "0570a96a7df7df60": "2026-06-09",
   "a6b56537a2030c78": "2026-06-10",
-  "997a4f453699071e": "2026-06-10",
+  "997a4f453699071e": "2026-06-08",
   "b4425b860894481e": "2026-06-10",
   "ca38a3d68f26c0e5": "2026-06-10",
   "87c97943d0c8e40a": "2026-06-10",
   "f691d3a7531be994": "2026-06-10",
   "f73aea50b470e463": "2026-06-10",
-  "8f160edd0f90e902": "2026-06-10"
+  "8f160edd0f90e902": "2026-06-10",
+  "fcf40d9df1c7bc34": "2026-06-08"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -137,17 +143,15 @@
   "9f253a19a3121bbf": "2026-06-10",
   "4b9be5c6d3021f1b": "2026-06-10",
   "266a31728fb10082": "2026-06-10",
-  "e4ef95e668f9f9b4": "2026-06-10"
+  "e4ef95e668f9f9b4": "2026-06-10",
+  "b153e25355f03c80": "2026-06-08",
+  "ffd0f5b5fcea149a": "2026-06-08",
+  "a5634e5289de5e30": "2026-06-08",
+  "7bfd2bc3030e017b": "2026-06-08",
+  "80ac09b07036ceea": "2026-06-08"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Community gardens are flourishing as more urban dwellers embrace growing their own fruit and vegetables.",
-   "A new appreciation for handwritten notes and postcards is emerging, bringing a touch of traditional charm back to communication.",
-   "The simple pleasure of 'window shopping' is being rediscovered as a mindful leisure activity.",
-   "Retro video games consoles are experiencing a huge resurgence, with many adults revisiting beloved titles from their youth.",
-   "The art of picnic planning has been elevated, with many families and friends putting extra effort into creating delightful outdoor dining experiences.",
-   "A quirky new trend sees people creating miniature 'fairy doors' on trees in local woodlands and parks.",
-   "The simple art of doodling during meetings or phone calls has been found to boost memory and concentration.",
    "More British households are embracing 'theme nights' for their weekly dinners, turning meal times into fun events.",
    "The delightful scent of freshly baked bread is being used in some workplaces to subtly improve employee morale.",
    "The unexpected hobby of 'competitive rock stacking' is gaining popularity in scenic outdoor locations.",
@@ -180,7 +184,14 @@
    "The delightful sound of 'chime choirs' is becoming a popular new community activity across the UK.",
    "A new appreciation for 'vintage technology' is emerging, with many collecting and restoring old radios, record players, and typewriters.",
    "British households are increasingly experimenting with 'vertical gardening' to maximise small spaces.",
-   "The simple joy of 'board game cafes' is seeing a resurgence across the country, offering a fun alternative to traditional pubs."
+   "The simple joy of 'board game cafes' is seeing a resurgence across the country, offering a fun alternative to traditional pubs.",
+   "A recent study suggests that listening to certain types of music while gardening can help plants grow faster.",
+   "The trend of 'micro-adventures' is gaining momentum across the UK, encouraging people to explore their local areas.",
+   "British pet owners are increasingly creating bespoke 'adventure playgrounds' for their indoor cats.",
+   "A new appreciation for the simple joy of 'letter writing' is blossoming amongst younger generations.",
+   "Researchers have found that looking at photos of cute animals can improve concentration and productivity.",
+   "The delightful art of 'guerilla gardening' is transforming neglected urban spaces into colourful oases.",
+   "Many Brits are embracing the calming ritual of 'tea tasting', akin to wine appreciation but with a cuppa."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -198,7 +209,9 @@
    "Our survey said that over 70% of us admit to having a specific 'lucky' mug or cup that makes our morning brew taste even better. What's yours?",
    "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the one they actually need. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in someone else's house to make it 'neater'?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel nostalgic. What came out on top?"
+   "A recent poll asked Brits what small, everyday sound instantly makes them feel nostalgic. What came out on top?",
+   "Our survey said that over 55% of us admit to having a specific 'lucky' item of clothing that we wear for important events. What's yours?",
+   "A recent poll asked Brits what small, everyday sound instantly makes them feel optimistic. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -216,17 +229,11 @@
    "Do you ever find yourself having an imaginary conversation with someone when you're alone, perhaps rehearsing what you'd say or just thinking aloud?",
    "You know how sometimes a particular piece of music just perfectly matches the weather or your mood, almost like a soundtrack to your day?",
    "We all have those little 'life hacks' that we swear by, don't we? Those clever shortcuts or tricks that just make everyday tasks a bit easier.",
-   "You know how sometimes you spot something in nature that's just a bit unusual or surprising, like an oddly shaped cloud or a particularly colourful bird?"
+   "You know how sometimes you spot something in nature that's just a bit unusual or surprising, like an oddly shaped cloud or a particularly colourful bird?",
+   "We all have those little 'traditions' that we carry on, perhaps from our childhood or from family.",
+   "You know how sometimes you hear a phrase or a saying and it just perfectly sums up a situation or gives you a little lift?"
   ],
   "facts": [
-   "A group of owls is called a parliament.",
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of his iconic potato chip cans.",
-   "The world's first ever postage stamp, the Penny Black, was issued in the United Kingdom in 1840.",
-   "It is illegal to sing 'Happy Birthday' in public for commercial purposes without paying royalties in some parts of the world, due to copyright.",
-   "The small plastic tip on the end of a shoelace is called an aglet.",
-   "The iconic 'red bus' in London is officially called a Routemaster.",
-   "There are more flamingos in the world than there are people living in Wales.",
-   "The average cloud weighs about 550 tons, roughly the same as 100 elephants.",
    "Butterflies taste with their feet.",
    "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
    "A 'jiffy' is an actual unit of time: 1/100th of a second.",
@@ -258,7 +265,15 @@
    "The 'Unsinkable Molly Brown' survived the sinking of the Titanic and was also on another ship that sank three years later, and she survived that too.",
    "The Great Wall of China is not a single continuous wall, but rather a series of walls and fortifications built over many centuries.",
    "The 'pineapple' got its name because it resembled a pinecone and a fruit.",
-   "Butterflies taste with their feet."
+   "Butterflies taste with their feet.",
+   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic Pringle cans, and his wish was granted.",
+   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
+   "It is illegal to sing in a public place in Florida while wearing a swimsuit.",
+   "The world's oldest known living tree, 'Methuselah', is a Great Basin bristlecone pine over 4,800 years old.",
+   "The dot over the letters 'i' and 'j' is called a tittle.",
+   "The human nose can remember 50,000 different scents.",
+   "Japan has a 'Rabbit Island' (Ōkunoshima) that is home to hundreds of wild rabbits.",
+   "Some species of jellyfish are biologically immortal, meaning they can potentially live forever by reverting to an earlier life stage."
   ]
  }
 }
