@@ -419,6 +419,18 @@ def _format_raw_sport(items: list[dict]) -> list[dict]:
 # Wide candidate pools + AI curation for News / Showbiz / Sport
 # ----------------------------------------------------------------------------
 
+RADIO_BLOCK = re.compile(
+    r"\bBBC Radio\b|\bRadio (?:1|2|3|4|5)\b|\b5 Live\b|\b6 Music\b|\bBBC Sounds\b"
+    r"|\b1Xtra\b|\bAsian Network\b|\bGreatest Hits Radio\b|\bAbsolute Radio\b"
+    r"|\bClassic FM\b|\btalkSPORT\b|\btalkRADIO\b|\bCapital FM\b|\bHeart FM\b|\bSmooth Radio\b",
+    re.IGNORECASE)
+
+
+def _is_radio_competitor(it):
+    blob = (it.get("title") or "") + " " + (it.get("description") or "")
+    return bool(RADIO_BLOCK.search(blob))
+
+
 def _dedupe_items(items):
     seen, out = set(), []
     for it in items:
@@ -430,7 +442,8 @@ def _dedupe_items(items):
 
 
 def _fresh_first(items, target_date, ledger, section, iso_date, n):
-    items = [it for it in _dedupe_items(items) if not is_past_event_story(it, target_date)]
+    items = [it for it in _dedupe_items(items)
+             if not is_past_event_story(it, target_date) and not _is_radio_competitor(it)]
     blocked = _blocked_keys(ledger, section, iso_date)
     fresh = [it for it in items if item_key(it) not in blocked]
     stale = [it for it in items if item_key(it) in blocked]
@@ -496,13 +509,15 @@ For every item:
 - "source": the NUMBER of the candidate you chose (so we can track it). Pick distinct, strong candidates; ignore weak ones.
 - "lead": one punchy sentence the presenter reads first (max 25 words).
 - "detail": 2-3 short sentences of context.
-- "angle": ONE on-air talking point OR a question to throw to listeners - the thing that makes it land on radio.
+- "angle": for SHOWBIZ and SPORT only, ONE on-air talking point or a question to throw to listeners. For NEWS, always leave it empty ("angle": "") - news needs no prompt.
 - "tag": short categorisation pill.
 
 Selection rules:
-- NEWS: the 3 biggest UK-relevant stories people are actually talking about. AT MOST ONE political (items marked [POLITICAL]). Skip minor or local-only items unless genuinely striking.
+- NEWS: the 5 BIGGEST national news stories of the day - the ones leading the TV and radio bulletins. Candidates are listed roughly in the BBC's own priority order, so lean towards the higher ones. Choose serious, significant stories; do NOT pick quirky, soft, novelty, human-interest or purely local items. AT MOST ONE political (items marked [POLITICAL]).
 - SHOWBIZ: forward-looking and upbeat ONLY - what is COMING UP (releases, returns, tours, premieres, awards, castings). NEVER a death, obituary, tragedy, court case or pure recap. If the pool is thin, choose the most positive, entertaining options.
 - SPORT: what matters THIS WEEK - real fixtures, results and talking points with UK relevance (football, cricket, F1, tennis, rugby, golf, racing). Avoid generic features and health explainers.
+
+IMPORTANT: NEVER select or mention ANY radio station or radio brand (BBC Radio, Radio 1, Radio 2, Radio 3, Radio 4, 5 Live, 6 Music, BBC Sounds, or any commercial radio station) - they are direct competitors. If a candidate is about a radio station or its event, skip it entirely.
 
 === NEWS CANDIDATES ===
 {news}
@@ -599,6 +614,8 @@ def curate_sections_with_gemini(news_pool, showbiz_pool, sport_pool, ledger, iso
             return out, keys
 
         n_out, n_keys = shape("news", news_pool, 2)
+        for _it in n_out:
+            _it["angle"] = ""  # news carries no on-air angle
         s_out, s_keys = shape("showbiz", showbiz_pool, 2)
         sp_out, sp_keys = shape("sport", sport_pool, 2)
         _record(ledger, "news", iso_date, n_keys)
