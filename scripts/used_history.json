@@ -77,7 +77,12 @@
   "426ee2b169594e06": "2026-06-12",
   "678f086ad778a5f8": "2026-06-12",
   "5299a4b6e8362161": "2026-06-12",
-  "0716a7fd0b686953": "2026-06-12"
+  "0716a7fd0b686953": "2026-06-12",
+  "c4694b8dee2d6660": "2026-06-12",
+  "e9df883941a74a9c": "2026-06-12",
+  "15d772ede3565731": "2026-06-12",
+  "4fd10b42e255fd91": "2026-06-12",
+  "6ac11a03ba6a8230": "2026-06-12"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -118,7 +123,8 @@
   "fcf40d9df1c7bc34": "2026-06-12",
   "90559484be2cb487": "2026-06-11",
   "a231ba0a5eb7d27e": "2026-06-12",
-  "4e55648f3c305e30": "2026-06-12"
+  "4e55648f3c305e30": "2026-06-12",
+  "0ba05224b6ea2d61": "2026-06-12"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -181,17 +187,15 @@
   "1f48f8f5a6a1546b": "2026-06-12",
   "74696918cfef3f8a": "2026-06-12",
   "1b57106060ba367b": "2026-06-12",
-  "12fef028266cd81e": "2026-06-12"
+  "12fef028266cd81e": "2026-06-12",
+  "691d3acc15d25cd9": "2026-06-12",
+  "af5acb890114812f": "2026-06-12",
+  "78a743f4b90f22e4": "2026-06-12",
+  "cd2f09adde8cb805": "2026-06-12",
+  "2251c06e4ea028a6": "2026-06-12"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new appreciation for 'heritage crafts' is emerging, with many Brits learning traditional skills.",
-   "The trend of 'library tourism' is quietly growing, as people seek out beautiful and historic libraries to visit.",
-   "British homes are increasingly embracing 'biophilic design', bringing more of the outdoors inside.",
-   "The delightful art of 'gifting experiences' rather than physical presents is gaining popularity.",
-   "More people are discovering the meditative benefits of 'forest bathing', or Shinrin-yoku, in local woodlands.",
-   "British dog owners are increasingly treating their furry friends to 'paw-dicures' and luxury grooming experiences.",
-   "The trend of 'urban foraging' is growing, with city dwellers discovering edible plants and herbs in unexpected places.",
    "More people are embracing 'slow travel', opting for longer, more immersive holidays closer to home.",
    "The delightful sound of 'chime choirs' is becoming a popular new community activity across the UK.",
    "A new appreciation for 'vintage technology' is emerging, with many collecting and restoring old radios, record players, and typewriters.",
@@ -224,7 +228,14 @@
    "The humble 'picnic blanket' is getting a stylish makeover, becoming a must-have accessory for outdoor gatherings.",
    "A new appreciation for 'local history walks' is emerging, with communities exploring the hidden stories of their own neighbourhoods.",
    "The delightful practice of 'seed swapping' is blooming, allowing gardeners to share rare and interesting plant varieties.",
-   "More people are embracing 'mindful photography', focusing on capturing beauty in everyday moments."
+   "More people are embracing 'mindful photography', focusing on capturing beauty in everyday moments.",
+   "Many Brits are discovering the simple joy of 'letterboxing' as a charming outdoor activity.",
+   "The humble 'garden shed' is undergoing a stylish transformation, becoming much more than just a storage space.",
+   "A fascinating trend of 'community astronomy nights' is bringing stargazers together across the country.",
+   "The delightful art of 'pebble painting' is seeing a surge in popularity, adding splashes of colour to our parks and pathways.",
+   "More people are embracing 'upcycled fashion' as a creative and sustainable way to refresh their wardrobes.",
+   "The traditional 'village fete' is experiencing a wonderful resurgence, becoming a hub for local community spirit.",
+   "A new appreciation for the simple elegance of 'pressed flower art' is blooming among craft enthusiasts."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -250,7 +261,9 @@
    "Our survey said that over 50% of us admit to secretly 'rescuing' what from the bottom of our crisp packet?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel cosy and content. What came out on top?",
    "Our survey said that over 65% of us admit to having a secret 'good luck' route to avoid traffic, even if it adds a few minutes to the journey. What's your top tip?",
-   "A recent poll asked Brits what small, everyday item they always seem to 'collect' without really trying. What came out on top?"
+   "A recent poll asked Brits what small, everyday item they always seem to 'collect' without really trying. What came out on top?",
+   "Our survey said that over 70% of us admit to having a secret 'good luck' pen that we use for important paperwork or crosswords. What makes your pen so special?",
+   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the specific one they actually need. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -276,17 +289,11 @@
    "You know how sometimes you hear a piece of music and it just makes you want to get up and dance, no matter where you are?",
    "We all have those moments when a piece of advice, perhaps from a family member or a wise friend, just really sticks with you.",
    "You know how sometimes you discover a new use for an everyday object that just makes life a little bit easier or more fun?",
-   "We all have those little 'comfort' sounds, don't we? The ones that just instantly make us feel relaxed, happy, or nostalgic."
+   "We all have those little 'comfort' sounds, don't we? The ones that just instantly make us feel relaxed, happy, or nostalgic.",
+   "You know how sometimes you hear a particular phrase or word, and you suddenly realise you've been pronouncing it slightly differently your whole life?",
+   "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right, or help us get started."
   ],
   "facts": [
-   "The official residence of the British monarch, Buckingham Palace, has over 775 rooms.",
-   "A group of flamingos is called a flamboyance.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The 'Unsinkable Molly Brown' survived the sinking of the Titanic and was also on another ship that sank three years later, and she survived that too.",
-   "The Great Wall of China is not a single continuous wall, but rather a series of walls and fortifications built over many centuries.",
-   "The 'pineapple' got its name because it resembled a pinecone and a fruit.",
-   "Butterflies taste with their feet.",
    "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic Pringle cans, and his wish was granted.",
    "A 'jiffy' is an actual unit of time: 1/100th of a second.",
    "It is illegal to sing in a public place in Florida while wearing a swimsuit.",
@@ -318,7 +325,15 @@
    "The first recorded game of golf was played in Scotland in the 15th century.",
    "The colour orange was named after the fruit, not the other way around.",
    "Dolphins sleep with one eye open and one half of their brain awake to watch for predators.",
-   "The world's largest pyramid is not in Egypt; it's the Great Pyramid of Cholula, an ancient Aztec temple in Mexico."
+   "The world's largest pyramid is not in Egypt; it's the Great Pyramid of Cholula, an ancient Aztec temple in Mexico.",
+   "The tiny pocket on jeans was originally designed to hold pocket watches.",
+   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
+   "The sound of crunching autumn leaves is called 'frondescence'.",
+   "Bubble wrap was originally intended to be used as wallpaper.",
+   "Butterflies taste with their feet.",
+   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
+   "A group of flamingos is called a 'flamboyance'.",
+   "The longest recorded flight of a chicken is 13 seconds."
   ]
  }
 }
