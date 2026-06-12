@@ -87,7 +87,12 @@
   "bdc2b9a03802ed03": "2026-06-13",
   "7c4acf7b68f838f3": "2026-06-13",
   "88e74101f7d9276c": "2026-06-13",
-  "7fe47e37b70ccc4f": "2026-06-13"
+  "7fe47e37b70ccc4f": "2026-06-13",
+  "62ecf10f668bebce": "2026-06-13",
+  "f86e8d1f68c9e877": "2026-06-13",
+  "827c2409a1d86c8b": "2026-06-13",
+  "cb658c503f41a12b": "2026-06-13",
+  "bf871b01034e70fd": "2026-06-13"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -127,14 +132,16 @@
   "8f160edd0f90e902": "2026-06-10",
   "fcf40d9df1c7bc34": "2026-06-12",
   "90559484be2cb487": "2026-06-11",
-  "a231ba0a5eb7d27e": "2026-06-12",
+  "a231ba0a5eb7d27e": "2026-06-13",
   "4e55648f3c305e30": "2026-06-12",
   "0ba05224b6ea2d61": "2026-06-12",
   "3b38ed7fe5b8cfd9": "2026-06-13",
   "0b43608bdd528091": "2026-06-13",
   "9b2c11fe67ef6c95": "2026-06-13",
   "fa84e8301e212216": "2026-06-13",
-  "94aa1ae982200f76": "2026-06-13"
+  "94aa1ae982200f76": "2026-06-13",
+  "d3239281c6f321ee": "2026-06-13",
+  "33717af330383ff2": "2026-06-13"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -207,17 +214,15 @@
   "a54c8949ce76bf95": "2026-06-13",
   "42ae81155cd947ea": "2026-06-13",
   "57395387f1648fb5": "2026-06-13",
-  "f9c893bf520d1b60": "2026-06-13"
+  "f9c893bf520d1b60": "2026-06-13",
+  "726062437d3f3cf3": "2026-06-13",
+  "2d917e73fe1d1541": "2026-06-13",
+  "c7dca8db02339635": "2026-06-13",
+  "7a509917ddac4d61": "2026-06-13",
+  "dff5638b4b7551e4": "2026-06-13"
  },
  "_ai_recent": {
   "newsbrief": [
-   "British pet owners are increasingly creating bespoke 'adventure playgrounds' for their indoor cats.",
-   "A new appreciation for the simple joy of 'letter writing' is blossoming amongst younger generations.",
-   "Researchers have found that looking at photos of cute animals can improve concentration and productivity.",
-   "The delightful art of 'guerilla gardening' is transforming neglected urban spaces into colourful oases.",
-   "Many Brits are embracing the calming ritual of 'tea tasting', akin to wine appreciation but with a cuppa.",
-   "British gardeners are finding joy in 'miniature gardening', creating tiny landscapes in pots and terrariums.",
-   "The simple pleasure of 'porch parcels' is gaining popularity, where neighbours leave small gifts or treats for each other.",
    "More people are discovering the relaxing art of 'pebble painting', decorating stones to leave in public places for others to find.",
    "A new trend sees friends and families swapping 'recipe boxes', sharing their favourite home-cooked meals ready for reheating.",
    "The humble 'bird feeder' is being re-imagined as a decorative garden feature, with intricate and artistic designs.",
@@ -250,7 +255,14 @@
    "More Brits are discovering the charm of 'vintage board game' evenings.",
    "The unique hobby of 'urban foraging' is gaining traction in cities and towns.",
    "A new appreciation for the simple beauty of 'window box gardening' is flourishing.",
-   "The delightful practice of 'nature journaling' is helping people document their outdoor adventures."
+   "The delightful practice of 'nature journaling' is helping people document their outdoor adventures.",
+   "A delightful trend of 'community book swaps' is flourishing, encouraging neighbours to share their favourite reads.",
+   "The simple joy of 'stargazing picnics' is capturing the imagination of many, turning an evening meal into a celestial event.",
+   "More people are embracing the rewarding craft of 'basket weaving', creating beautiful and practical items from natural materials.",
+   "The charming hobby of 'train spotting' is experiencing a quiet renaissance, attracting new generations to platforms across the country.",
+   "A new appreciation for the simple artistry of 'pressed flower art' is blooming among craft enthusiasts.",
+   "The soothing practice of 'wild swimming' is gaining popularity, with more Brits taking to rivers, lakes, and the sea for a refreshing dip.",
+   "There's a growing buzz around 'retro computing clubs', where enthusiasts gather to restore and play with vintage computer systems."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -280,7 +292,9 @@
    "Our survey said that over 70% of us admit to having a secret 'good luck' pen that we use for important paperwork or crosswords. What makes your pen so special?",
    "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the specific one they actually need. What came out on top?",
    "Our survey said that over 60% of us admit to having a secret 'happy' song that we play when we need a quick mood boost. What's yours?",
-   "Our survey said that over 55% of us admit to secretly 'naming' what in our house, even if we don't tell anyone?"
+   "Our survey said that over 55% of us admit to secretly 'naming' what in our house, even if we don't tell anyone?",
+   "Our survey said that over 55% of us admit to discreetly 'testing' what in a shop before buying it, even if it's not strictly allowed?",
+   "A recent poll asked Brits what small, everyday sound instantly makes them feel productive and ready to tackle the day. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -310,17 +324,11 @@
    "You know how sometimes you hear a particular phrase or word, and you suddenly realise you've been pronouncing it slightly differently your whole life?",
    "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right, or help us get started.",
    "You know how sometimes a particular flavour or smell can just instantly transport you back to a specific memory or time?",
-   "We all have those little 'lucky charms' or superstitions we secretly abide by, don't we?"
+   "We all have those little 'lucky charms' or superstitions we secretly abide by, don't we?",
+   "You know how sometimes you hear a piece of advice, perhaps from a family member or a wise friend, and it just really sticks with you?",
+   "We all have those little 'comfort' foods, don't we? The ones that just instantly make us feel relaxed, happy, or nostalgic."
   ],
   "facts": [
-   "A group of owls is called a parliament.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The 'unicorn' is the national animal of Scotland.",
-   "Strawberries are the only fruit that wear their seeds on the outside.",
-   "The world's largest desert is not hot; it's the Antarctic Polar Desert, which covers most of the continent.",
-   "Before erasers were invented, people used breadcrumbs to rub out pencil marks.",
-   "The original name for the butterfly was 'flutterby'.",
    "A group of ferrets is called a business.",
    "The world's oldest known living tree, named Methuselah, is a Great Basin bristlecone pine located in the White Mountains of California and is over 4,850 years old.",
    "Bananas are technically berries, while strawberries are not.",
@@ -352,7 +360,15 @@
    "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
    "The 'kingfisher' bird actually has very poor hearing and relies mostly on its excellent eyesight for hunting.",
    "Mount Everest grows by about 4 millimetres each year due to geological uplift.",
-   "The iconic red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral."
+   "The iconic red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
+   "A group of ferrets is known as a 'business'.",
+   "The shortest complete sentence in the English language is 'Go'.",
+   "Bubble wrap was originally intended to be used as 3D wallpaper.",
+   "The deepest point in the world's oceans is the Mariana Trench, which is deeper than Mount Everest is tall.",
+   "The human nose can remember 50,000 different scents.",
+   "Oxford University is older than the Aztec Empire.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
+   "Bananas are technically berries, but strawberries are not."
   ]
  }
 }
