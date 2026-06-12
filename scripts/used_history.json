@@ -82,7 +82,12 @@
   "e9df883941a74a9c": "2026-06-12",
   "15d772ede3565731": "2026-06-12",
   "4fd10b42e255fd91": "2026-06-12",
-  "6ac11a03ba6a8230": "2026-06-12"
+  "6ac11a03ba6a8230": "2026-06-12",
+  "ed39cf97cf2c8f75": "2026-06-13",
+  "bdc2b9a03802ed03": "2026-06-13",
+  "7c4acf7b68f838f3": "2026-06-13",
+  "88e74101f7d9276c": "2026-06-13",
+  "7fe47e37b70ccc4f": "2026-06-13"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -124,7 +129,12 @@
   "90559484be2cb487": "2026-06-11",
   "a231ba0a5eb7d27e": "2026-06-12",
   "4e55648f3c305e30": "2026-06-12",
-  "0ba05224b6ea2d61": "2026-06-12"
+  "0ba05224b6ea2d61": "2026-06-12",
+  "3b38ed7fe5b8cfd9": "2026-06-13",
+  "0b43608bdd528091": "2026-06-13",
+  "9b2c11fe67ef6c95": "2026-06-13",
+  "fa84e8301e212216": "2026-06-13",
+  "94aa1ae982200f76": "2026-06-13"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -192,17 +202,15 @@
   "af5acb890114812f": "2026-06-12",
   "78a743f4b90f22e4": "2026-06-12",
   "cd2f09adde8cb805": "2026-06-12",
-  "2251c06e4ea028a6": "2026-06-12"
+  "2251c06e4ea028a6": "2026-06-12",
+  "0f4cec26367caa0e": "2026-06-13",
+  "a54c8949ce76bf95": "2026-06-13",
+  "42ae81155cd947ea": "2026-06-13",
+  "57395387f1648fb5": "2026-06-13",
+  "f9c893bf520d1b60": "2026-06-13"
  },
  "_ai_recent": {
   "newsbrief": [
-   "More people are embracing 'slow travel', opting for longer, more immersive holidays closer to home.",
-   "The delightful sound of 'chime choirs' is becoming a popular new community activity across the UK.",
-   "A new appreciation for 'vintage technology' is emerging, with many collecting and restoring old radios, record players, and typewriters.",
-   "British households are increasingly experimenting with 'vertical gardening' to maximise small spaces.",
-   "The simple joy of 'board game cafes' is seeing a resurgence across the country, offering a fun alternative to traditional pubs.",
-   "A recent study suggests that listening to certain types of music while gardening can help plants grow faster.",
-   "The trend of 'micro-adventures' is gaining momentum across the UK, encouraging people to explore their local areas.",
    "British pet owners are increasingly creating bespoke 'adventure playgrounds' for their indoor cats.",
    "A new appreciation for the simple joy of 'letter writing' is blossoming amongst younger generations.",
    "Researchers have found that looking at photos of cute animals can improve concentration and productivity.",
@@ -235,7 +243,14 @@
    "The delightful art of 'pebble painting' is seeing a surge in popularity, adding splashes of colour to our parks and pathways.",
    "More people are embracing 'upcycled fashion' as a creative and sustainable way to refresh their wardrobes.",
    "The traditional 'village fete' is experiencing a wonderful resurgence, becoming a hub for local community spirit.",
-   "A new appreciation for the simple elegance of 'pressed flower art' is blooming among craft enthusiasts."
+   "A new appreciation for the simple elegance of 'pressed flower art' is blooming among craft enthusiasts.",
+   "The delightful art of 'book nook' creation is captivating enthusiasts across the UK.",
+   "A new trend sees people embracing 'mindful walking' as a way to connect with their surroundings.",
+   "The simple pleasure of 'homemade preserves' is making a big comeback in British kitchens.",
+   "More Brits are discovering the charm of 'vintage board game' evenings.",
+   "The unique hobby of 'urban foraging' is gaining traction in cities and towns.",
+   "A new appreciation for the simple beauty of 'window box gardening' is flourishing.",
+   "The delightful practice of 'nature journaling' is helping people document their outdoor adventures."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -263,7 +278,9 @@
    "Our survey said that over 65% of us admit to having a secret 'good luck' route to avoid traffic, even if it adds a few minutes to the journey. What's your top tip?",
    "A recent poll asked Brits what small, everyday item they always seem to 'collect' without really trying. What came out on top?",
    "Our survey said that over 70% of us admit to having a secret 'good luck' pen that we use for important paperwork or crosswords. What makes your pen so special?",
-   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the specific one they actually need. What came out on top?"
+   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the specific one they actually need. What came out on top?",
+   "Our survey said that over 60% of us admit to having a secret 'happy' song that we play when we need a quick mood boost. What's yours?",
+   "Our survey said that over 55% of us admit to secretly 'naming' what in our house, even if we don't tell anyone?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -291,17 +308,11 @@
    "You know how sometimes you discover a new use for an everyday object that just makes life a little bit easier or more fun?",
    "We all have those little 'comfort' sounds, don't we? The ones that just instantly make us feel relaxed, happy, or nostalgic.",
    "You know how sometimes you hear a particular phrase or word, and you suddenly realise you've been pronouncing it slightly differently your whole life?",
-   "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right, or help us get started."
+   "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right, or help us get started.",
+   "You know how sometimes a particular flavour or smell can just instantly transport you back to a specific memory or time?",
+   "We all have those little 'lucky charms' or superstitions we secretly abide by, don't we?"
   ],
   "facts": [
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic Pringle cans, and his wish was granted.",
-   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
-   "It is illegal to sing in a public place in Florida while wearing a swimsuit.",
-   "The world's oldest known living tree, 'Methuselah', is a Great Basin bristlecone pine over 4,800 years old.",
-   "The dot over the letters 'i' and 'j' is called a tittle.",
-   "The human nose can remember 50,000 different scents.",
-   "Japan has a 'Rabbit Island' (Ōkunoshima) that is home to hundreds of wild rabbits.",
-   "Some species of jellyfish are biologically immortal, meaning they can potentially live forever by reverting to an earlier life stage.",
    "A group of owls is called a parliament.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
@@ -333,7 +344,15 @@
    "Butterflies taste with their feet.",
    "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
    "A group of flamingos is called a 'flamboyance'.",
-   "The longest recorded flight of a chicken is 13 seconds."
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "A group of owls is called a 'parliament'.",
+   "The world's smallest chameleon, the Brookesia micra, is so tiny it can sit comfortably on the head of a match.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
+   "The 'kingfisher' bird actually has very poor hearing and relies mostly on its excellent eyesight for hunting.",
+   "Mount Everest grows by about 4 millimetres each year due to geological uplift.",
+   "The iconic red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral."
   ]
  }
 }
