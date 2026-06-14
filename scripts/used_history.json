@@ -107,7 +107,12 @@
   "570941d028b058e4": "2026-06-15",
   "231906d599899406": "2026-06-15",
   "1fc49b838d16ccfb": "2026-06-15",
-  "895bfc14de22c7b7": "2026-06-15"
+  "895bfc14de22c7b7": "2026-06-15",
+  "a1a27761173b4af1": "2026-06-15",
+  "a6c2225d8f11a0cf": "2026-06-15",
+  "4b63b70877b5d39e": "2026-06-15",
+  "3df8f20680c9e08a": "2026-06-15",
+  "f335511d19843fd9": "2026-06-15"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -157,9 +162,9 @@
   "94aa1ae982200f76": "2026-06-13",
   "d3239281c6f321ee": "2026-06-13",
   "33717af330383ff2": "2026-06-13",
-  "a2d04e0ef6d2185f": "2026-06-14",
+  "a2d04e0ef6d2185f": "2026-06-15",
   "071804cff1573223": "2026-06-15",
-  "3782b01dfd56de06": "2026-06-14",
+  "3782b01dfd56de06": "2026-06-15",
   "7c6f7130ef973f6f": "2026-06-15",
   "b25abc06fe39dd47": "2026-06-15",
   "4a8d3ebd42f173d0": "2026-06-14",
@@ -257,17 +262,15 @@
   "200a12a57d38d0a9": "2026-06-15",
   "a4f6a81d567e74dc": "2026-06-15",
   "3a9b953119ed1db8": "2026-06-15",
-  "d917ec8a24c34565": "2026-06-15"
+  "d917ec8a24c34565": "2026-06-15",
+  "af715ccee93b795b": "2026-06-15",
+  "69c3e497a555e5fe": "2026-06-15",
+  "e5cbecdc57679265": "2026-06-15",
+  "d88cc7a4ebc2954b": "2026-06-15",
+  "50d4320e048b152c": "2026-06-15"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A fascinating trend of 'community astronomy nights' is bringing stargazers together across the country.",
-   "The delightful art of 'pebble painting' is seeing a surge in popularity, adding splashes of colour to our parks and pathways.",
-   "More people are embracing 'upcycled fashion' as a creative and sustainable way to refresh their wardrobes.",
-   "The traditional 'village fete' is experiencing a wonderful resurgence, becoming a hub for local community spirit.",
-   "A new appreciation for the simple elegance of 'pressed flower art' is blooming among craft enthusiasts.",
-   "The delightful art of 'book nook' creation is captivating enthusiasts across the UK.",
-   "A new trend sees people embracing 'mindful walking' as a way to connect with their surroundings.",
    "The simple pleasure of 'homemade preserves' is making a big comeback in British kitchens.",
    "More Brits are discovering the charm of 'vintage board game' evenings.",
    "The unique hobby of 'urban foraging' is gaining traction in cities and towns.",
@@ -300,7 +303,14 @@
    "The humble 'packed lunch' is seeing a gourmet upgrade, with more people opting for homemade, healthy, and imaginative meals to take to work or school.",
    "A fascinating report indicates that listening to podcasts while doing chores can make mundane tasks feel much more enjoyable.",
    "The simple pleasure of 'picnic blankets' is evolving, with new designs featuring built-in pockets, waterproof linings, and even integrated cooling sections.",
-   "Researchers have found that trying out a new recipe once a week can significantly boost your mood and sense of accomplishment."
+   "Researchers have found that trying out a new recipe once a week can significantly boost your mood and sense of accomplishment.",
+   "A new trend sees city residents transforming tiny balconies and windowsills into thriving miniature vegetable patches.",
+   "Researchers are exploring the power of 'comfort colours' – specific hues that consistently make people feel calm and happy.",
+   "The humble 'charity shop chic' movement is gaining momentum, with fashionistas embracing pre-loved clothing for unique styles.",
+   "A fascinating study reveals that spending time near water, like rivers, lakes, or the sea, can significantly reduce stress levels.",
+   "Local communities are seeing a rise in 'skill-sharing' groups, where neighbours swap expertise from baking to basic DIY.",
+   "Experts are highlighting the benefits of a 'digital detox day' to improve focus and reduce screen fatigue.",
+   "There's a growing appreciation for the art of 'slow travel', where journeys are savoured rather than rushed."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -338,7 +348,9 @@
    "Our survey said that over 70% of us admit to secretly 'tidying' what in someone else's house when we visit, even if it's just a tiny adjustment?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel completely relaxed and at ease. What came out on top?",
    "Our survey said that over 60% of us admit to having a secret 'parking spot' ritual or habit that we believe helps us find a space. What's yours?",
-   "A recent poll asked Brits what small, everyday 'reunion' instantly makes them happy, even if it's just for a moment. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'reunion' instantly makes them happy, even if it's just for a moment. What came out on top?",
+   "Our survey said that over 65% of us admit to secretly 'saving' what everyday item, convinced it will be useful one day, even though it rarely is?",
+   "Our survey said that over 70% of us admit to having a particular 'lucky' item of clothing that we wear for important occasions or when we need a confidence boost. What is it?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -376,17 +388,11 @@
    "You know how sometimes you stumble upon a really brilliant 'shortcut' in life, something that saves you time or effort in a really clever way?",
    "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
    "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
-   "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic."
+   "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
+   "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
+   "You know how sometimes you hear a particular piece of music, and it just instantly reminds you of a specific place you've visited, or a time in your life?"
   ],
   "facts": [
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "A group of owls is called a 'parliament'.",
-   "The world's smallest chameleon, the Brookesia micra, is so tiny it can sit comfortably on the head of a match.",
-   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
-   "The 'kingfisher' bird actually has very poor hearing and relies mostly on its excellent eyesight for hunting.",
-   "Mount Everest grows by about 4 millimetres each year due to geological uplift.",
-   "The iconic red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
    "A group of ferrets is known as a 'business'.",
    "The shortest complete sentence in the English language is 'Go'.",
    "Bubble wrap was originally intended to be used as 3D wallpaper.",
@@ -418,7 +424,15 @@
    "The Great Barrier Reef is the largest living structure on Earth.",
    "Scotland has 421 words for 'snow'.",
    "The highest mountain in the British Isles is Ben Nevis, located in Scotland.",
-   "A 'quaternity' is a group of four, similar to a trio for three."
+   "A 'quaternity' is a group of four, similar to a trio for three.",
+   "The world's smallest fish is the Paedocypris progenetica, which is less than a centimetre long.",
+   "The British currency note for £20 features the economist Adam Smith.",
+   "Bumblebees can fly higher than Mount Everest.",
+   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+   "A bolt of lightning is six times hotter than the surface of the sun.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
+   "The human heart creates enough pressure to squirt blood 30 feet.",
+   "Strawberries are the only fruit with seeds on the outside."
   ]
  }
 }
