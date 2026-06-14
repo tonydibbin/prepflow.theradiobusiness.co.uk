@@ -102,7 +102,12 @@
   "2f438f70aa4b07c1": "2026-06-14",
   "880b9addde3ae4ef": "2026-06-14",
   "06f87e5505dd61d0": "2026-06-14",
-  "9d484cd35724066e": "2026-06-14"
+  "9d484cd35724066e": "2026-06-14",
+  "8b2109dd1abbed03": "2026-06-15",
+  "570941d028b058e4": "2026-06-15",
+  "231906d599899406": "2026-06-15",
+  "1fc49b838d16ccfb": "2026-06-15",
+  "895bfc14de22c7b7": "2026-06-15"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -153,11 +158,13 @@
   "d3239281c6f321ee": "2026-06-13",
   "33717af330383ff2": "2026-06-13",
   "a2d04e0ef6d2185f": "2026-06-14",
-  "071804cff1573223": "2026-06-14",
+  "071804cff1573223": "2026-06-15",
   "3782b01dfd56de06": "2026-06-14",
-  "7c6f7130ef973f6f": "2026-06-14",
-  "b25abc06fe39dd47": "2026-06-14",
-  "4a8d3ebd42f173d0": "2026-06-14"
+  "7c6f7130ef973f6f": "2026-06-15",
+  "b25abc06fe39dd47": "2026-06-15",
+  "4a8d3ebd42f173d0": "2026-06-14",
+  "1ad7f2a04dd4003d": "2026-06-15",
+  "49e9ba120f83b176": "2026-06-15"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -245,17 +252,15 @@
   "187246f961c385c1": "2026-06-14",
   "1d921cf9df967453": "2026-06-14",
   "29b09cb6fb362779": "2026-06-14",
-  "f25e887e5af0a0e5": "2026-06-14"
+  "f25e887e5af0a0e5": "2026-06-14",
+  "2522234b6804ae17": "2026-06-15",
+  "200a12a57d38d0a9": "2026-06-15",
+  "a4f6a81d567e74dc": "2026-06-15",
+  "3a9b953119ed1db8": "2026-06-15",
+  "d917ec8a24c34565": "2026-06-15"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Many Brits are discovering the simple pleasure of 'porch light reading', enjoying a good book under the gentle glow of an evening light.",
-   "The humble 'picnic blanket' is getting a stylish makeover, becoming a must-have accessory for outdoor gatherings.",
-   "A new appreciation for 'local history walks' is emerging, with communities exploring the hidden stories of their own neighbourhoods.",
-   "The delightful practice of 'seed swapping' is blooming, allowing gardeners to share rare and interesting plant varieties.",
-   "More people are embracing 'mindful photography', focusing on capturing beauty in everyday moments.",
-   "Many Brits are discovering the simple joy of 'letterboxing' as a charming outdoor activity.",
-   "The humble 'garden shed' is undergoing a stylish transformation, becoming much more than just a storage space.",
    "A fascinating trend of 'community astronomy nights' is bringing stargazers together across the country.",
    "The delightful art of 'pebble painting' is seeing a surge in popularity, adding splashes of colour to our parks and pathways.",
    "More people are embracing 'upcycled fashion' as a creative and sustainable way to refresh their wardrobes.",
@@ -288,7 +293,14 @@
    "A new trend sees people embracing 'book swaps' in their local communities, sharing favourite reads with neighbours and friends.",
    "Researchers have found that looking at photos of cute animals can actually improve your focus and concentration.",
    "There's a growing interest in 'urban foraging', with city dwellers learning to identify edible plants and berries in parks and green spaces.",
-   "The humble 'board game night' is making a huge comeback, bringing families and friends together for screen-free fun."
+   "The humble 'board game night' is making a huge comeback, bringing families and friends together for screen-free fun.",
+   "A recent study suggests that a brisk walk in nature could be more effective for boosting creativity than a stroll through city streets.",
+   "The trend for 'micro-gardening' is taking off in a big way, especially for those with limited outdoor space.",
+   "Experts are highlighting the power of 'power naps' for improving alertness and productivity during the day.",
+   "The humble 'packed lunch' is seeing a gourmet upgrade, with more people opting for homemade, healthy, and imaginative meals to take to work or school.",
+   "A fascinating report indicates that listening to podcasts while doing chores can make mundane tasks feel much more enjoyable.",
+   "The simple pleasure of 'picnic blankets' is evolving, with new designs featuring built-in pockets, waterproof linings, and even integrated cooling sections.",
+   "Researchers have found that trying out a new recipe once a week can significantly boost your mood and sense of accomplishment."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -324,7 +336,9 @@
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in our kitchen cupboards, even if we're not the primary cook?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel productive and ready to tackle the day. What came out on top?",
    "Our survey said that over 70% of us admit to secretly 'tidying' what in someone else's house when we visit, even if it's just a tiny adjustment?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel completely relaxed and at ease. What came out on top?"
+   "A recent poll asked Brits what small, everyday sound instantly makes them feel completely relaxed and at ease. What came out on top?",
+   "Our survey said that over 60% of us admit to having a secret 'parking spot' ritual or habit that we believe helps us find a space. What's yours?",
+   "A recent poll asked Brits what small, everyday 'reunion' instantly makes them happy, even if it's just for a moment. What came out on top?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -360,17 +374,11 @@
    "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
    "We all have those little 'traditions' we stick to, especially when the weather turns warmer, don't we?",
    "You know how sometimes you stumble upon a really brilliant 'shortcut' in life, something that saves you time or effort in a really clever way?",
+   "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
+   "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
    "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic."
   ],
   "facts": [
-   "The tiny pocket on jeans was originally designed to hold pocket watches.",
-   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
-   "The sound of crunching autumn leaves is called 'frondescence'.",
-   "Bubble wrap was originally intended to be used as wallpaper.",
-   "Butterflies taste with their feet.",
-   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
-   "A group of flamingos is called a 'flamboyance'.",
-   "The longest recorded flight of a chicken is 13 seconds.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "A group of owls is called a 'parliament'.",
@@ -402,7 +410,15 @@
    "The inventor of the Pringles can is buried in one.",
    "Before alarm clocks, there were 'knocker-uppers' in Britain who would tap on windows to wake people for work.",
    "The first recorded game of golf was played in Scotland in 1457.",
-   "It is impossible for most people to lick their own elbow."
+   "It is impossible for most people to lick their own elbow.",
+   "The official residence of the British Prime Minister, 10 Downing Street, is actually three houses combined.",
+   "There are more than 1,000 different types of cheese in France.",
+   "Oxford University is older than the Aztec Empire.",
+   "A group of owls is called a parliament.",
+   "The Great Barrier Reef is the largest living structure on Earth.",
+   "Scotland has 421 words for 'snow'.",
+   "The highest mountain in the British Isles is Ben Nevis, located in Scotland.",
+   "A 'quaternity' is a group of four, similar to a trio for three."
   ]
  }
 }
