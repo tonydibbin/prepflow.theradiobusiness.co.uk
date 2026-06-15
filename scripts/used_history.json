@@ -112,7 +112,12 @@
   "a6c2225d8f11a0cf": "2026-06-15",
   "4b63b70877b5d39e": "2026-06-15",
   "3df8f20680c9e08a": "2026-06-15",
-  "f335511d19843fd9": "2026-06-15"
+  "f335511d19843fd9": "2026-06-15",
+  "a84b772e303f1973": "2026-06-16",
+  "8c392e02e2720758": "2026-06-16",
+  "96014996298f4106": "2026-06-16",
+  "ecda755fa55b1df1": "2026-06-16",
+  "07701896eee7dcb2": "2026-06-16"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -169,7 +174,12 @@
   "b25abc06fe39dd47": "2026-06-15",
   "4a8d3ebd42f173d0": "2026-06-14",
   "1ad7f2a04dd4003d": "2026-06-15",
-  "49e9ba120f83b176": "2026-06-15"
+  "49e9ba120f83b176": "2026-06-15",
+  "db1b0c8575d1c817": "2026-06-16",
+  "5cab4906edec30ed": "2026-06-16",
+  "6c8ace473f02f36f": "2026-06-16",
+  "cdac928e3dfb0252": "2026-06-16",
+  "b55faa647fa43cdc": "2026-06-16"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -267,17 +277,15 @@
   "69c3e497a555e5fe": "2026-06-15",
   "e5cbecdc57679265": "2026-06-15",
   "d88cc7a4ebc2954b": "2026-06-15",
-  "50d4320e048b152c": "2026-06-15"
+  "50d4320e048b152c": "2026-06-15",
+  "f12c6939ed0ee368": "2026-06-16",
+  "9fd1827bc373836c": "2026-06-16",
+  "1a5e4b712fdb2503": "2026-06-16",
+  "82ed9905ca9f2684": "2026-06-16",
+  "a836d9fdb551621f": "2026-06-16"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The simple pleasure of 'homemade preserves' is making a big comeback in British kitchens.",
-   "More Brits are discovering the charm of 'vintage board game' evenings.",
-   "The unique hobby of 'urban foraging' is gaining traction in cities and towns.",
-   "A new appreciation for the simple beauty of 'window box gardening' is flourishing.",
-   "The delightful practice of 'nature journaling' is helping people document their outdoor adventures.",
-   "A delightful trend of 'community book swaps' is flourishing, encouraging neighbours to share their favourite reads.",
-   "The simple joy of 'stargazing picnics' is capturing the imagination of many, turning an evening meal into a celestial event.",
    "More people are embracing the rewarding craft of 'basket weaving', creating beautiful and practical items from natural materials.",
    "The charming hobby of 'train spotting' is experiencing a quiet renaissance, attracting new generations to platforms across the country.",
    "A new appreciation for the simple artistry of 'pressed flower art' is blooming among craft enthusiasts.",
@@ -310,7 +318,14 @@
    "A fascinating study reveals that spending time near water, like rivers, lakes, or the sea, can significantly reduce stress levels.",
    "Local communities are seeing a rise in 'skill-sharing' groups, where neighbours swap expertise from baking to basic DIY.",
    "Experts are highlighting the benefits of a 'digital detox day' to improve focus and reduce screen fatigue.",
-   "There's a growing appreciation for the art of 'slow travel', where journeys are savoured rather than rushed."
+   "There's a growing appreciation for the art of 'slow travel', where journeys are savoured rather than rushed.",
+   "A new trend sees garden enthusiasts creating miniature 'wildlife hotels' in their backyards to support local biodiversity.",
+   "The enduring appeal of 'board game nights' is making a strong comeback, with families and friends rediscovering classic and new tabletop games.",
+   "Research suggests that wearing bright colours can genuinely boost your mood and even make you feel more energetic.",
+   "There's a growing movement towards 'upcycling' old furniture, transforming forgotten pieces into stylish, unique items for the home.",
+   "A study has found that listening to the sound of rainfall can significantly improve concentration and reduce stress levels.",
+   "The art of 'letter writing' is experiencing a quiet revival, with many finding joy in sending and receiving handwritten notes.",
+   "Experts are suggesting that even a short daily walk in nature can drastically improve mental well-being and creative thinking."
   ],
   "survey": [
    "Our survey said that over 60% of us admit to having a secret stash of *what* in the house, just for ourselves?",
@@ -350,7 +365,9 @@
    "Our survey said that over 60% of us admit to having a secret 'parking spot' ritual or habit that we believe helps us find a space. What's yours?",
    "A recent poll asked Brits what small, everyday 'reunion' instantly makes them happy, even if it's just for a moment. What came out on top?",
    "Our survey said that over 65% of us admit to secretly 'saving' what everyday item, convinced it will be useful one day, even though it rarely is?",
-   "Our survey said that over 70% of us admit to having a particular 'lucky' item of clothing that we wear for important occasions or when we need a confidence boost. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'lucky' item of clothing that we wear for important occasions or when we need a confidence boost. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'tidying' what on a hotel breakfast buffet, even if it's not our job?",
+   "Our survey said that over 55% of us admit to having a specific 'ritual' when making a cup of tea or coffee that we absolutely must follow. What is it?"
   ],
   "talk_topic": [
    "You know, there's something wonderfully comforting about routine, like that first cup of tea in the morning or your favourite walk.",
@@ -390,17 +407,11 @@
    "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
    "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
    "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
-   "You know how sometimes you hear a particular piece of music, and it just instantly reminds you of a specific place you've visited, or a time in your life?"
+   "You know how sometimes you hear a particular piece of music, and it just instantly reminds you of a specific place you've visited, or a time in your life?",
+   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
+   "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient."
   ],
   "facts": [
-   "A group of ferrets is known as a 'business'.",
-   "The shortest complete sentence in the English language is 'Go'.",
-   "Bubble wrap was originally intended to be used as 3D wallpaper.",
-   "The deepest point in the world's oceans is the Mariana Trench, which is deeper than Mount Everest is tall.",
-   "The human nose can remember 50,000 different scents.",
-   "Oxford University is older than the Aztec Empire.",
-   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
-   "Bananas are technically berries, but strawberries are not.",
    "A group of owls is known as a 'parliament'.",
    "The world's first public railway line, the Stockton and Darlington Railway, opened in England in 1825.",
    "Butterflies taste with their feet.",
@@ -432,7 +443,15 @@
    "A bolt of lightning is six times hotter than the surface of the sun.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
    "The human heart creates enough pressure to squirt blood 30 feet.",
-   "Strawberries are the only fruit with seeds on the outside."
+   "Strawberries are the only fruit with seeds on the outside.",
+   "The world's smallest independently owned country is Sealand, located on an old WWII sea fort off the coast of Suffolk.",
+   "A group of owls is called a parliament.",
+   "Butterflies taste with their feet.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "Scotland has a national animal, and it's the unicorn.",
+   "The 'king' in a deck of cards is the only one without a moustache.",
+   "It is illegal to sing in public after 9 PM in Hawaii.",
+   "Human tooth enamel is the hardest substance in the human body."
   ]
  }
 }
