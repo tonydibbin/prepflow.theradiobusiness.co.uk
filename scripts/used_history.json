@@ -127,7 +127,12 @@
   "72c90a1d6cda895d": "2026-06-17",
   "9908e9c85052578b": "2026-06-17",
   "cb0b50dc92e47669": "2026-06-17",
-  "38f51d00d6c17053": "2026-06-17"
+  "38f51d00d6c17053": "2026-06-17",
+  "cf32c114bf72a283": "2026-06-17",
+  "b9b4e20b5e58b0cf": "2026-06-17",
+  "be3e3e61cf79e748": "2026-06-17",
+  "bdc48af7d193b7b8": "2026-06-17",
+  "05a7b6dc0f48d161": "2026-06-17"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -311,17 +316,15 @@
   "5793568808f86872": "2026-06-17",
   "f43543b8b4f82868": "2026-06-17",
   "4935809b41996c8b": "2026-06-17",
-  "c6b4bbc09da2c5e4": "2026-06-17"
+  "c6b4bbc09da2c5e4": "2026-06-17",
+  "7027de151029c5a0": "2026-06-17",
+  "a707d9b432ea6c32": "2026-06-17",
+  "88e9a4bb2efa6ae4": "2026-06-17",
+  "7399d57c862237c9": "2026-06-17",
+  "e1890aa5607226b6": "2026-06-17"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The charming hobby of 'cloud spotting' is gaining popularity, with enthusiasts finding shapes and stories in the sky.",
-   "A new trend sees people embracing 'book swaps' in their local communities, sharing favourite reads with neighbours and friends.",
-   "Researchers have found that looking at photos of cute animals can actually improve your focus and concentration.",
-   "There's a growing interest in 'urban foraging', with city dwellers learning to identify edible plants and berries in parks and green spaces.",
-   "The humble 'board game night' is making a huge comeback, bringing families and friends together for screen-free fun.",
-   "A recent study suggests that a brisk walk in nature could be more effective for boosting creativity than a stroll through city streets.",
-   "The trend for 'micro-gardening' is taking off in a big way, especially for those with limited outdoor space.",
    "Experts are highlighting the power of 'power naps' for improving alertness and productivity during the day.",
    "The humble 'packed lunch' is seeing a gourmet upgrade, with more people opting for homemade, healthy, and imaginative meals to take to work or school.",
    "A fascinating report indicates that listening to podcasts while doing chores can make mundane tasks feel much more enjoyable.",
@@ -354,11 +357,16 @@
    "The simple pleasure of 'window bird watching' is becoming a popular mindfulness activity.",
    "There's a growing appreciation for 'slow travel', focusing on enjoying the journey rather than just the destination.",
    "The humble 'board game night' is experiencing a resurgence, bringing families and friends together for unplugged fun.",
-   "A report reveals that many people are finding joy in 'micro-gardening' – cultivating plants in small spaces like windowsills and balconies."
+   "A report reveals that many people are finding joy in 'micro-gardening' – cultivating plants in small spaces like windowsills and balconies.",
+   "The joy of 'post-it note compliments' is brightening up workplaces and homes across the country.",
+   "New research suggests that 'mindful dishwashing' can reduce stress and improve well-being.",
+   "The trend for 'library picnics' is encouraging more families to enjoy reading outdoors.",
+   "A study reveals that people who regularly 'rearrange their furniture' report feeling more invigorated.",
+   "The popularity of 'swap shops' for garden tools and equipment is growing amongst green-fingered enthusiasts.",
+   "Experts are highlighting the benefits of a 'digital detox day' for improving focus and sleep.",
+   "A fascinating report reveals that early morning 'dewdrop photography' is becoming a popular hobby."
   ],
   "survey": [
-   "Our survey said that over 55% of us admit to having a secret 'good luck charm' that we carry with us or keep at home. What is it?",
-   "A recent poll asked Brits what small, everyday treat instantly brightens their day, no matter what. What came out on top?",
    "Our survey said that over 65% of us admit to having a specific 'comfort movie' we watch when we need a pick-me-up. What's yours?",
    "A recent poll asked Brits what small, everyday 'good deed' they secretly enjoy doing for others. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'borrowing' *what* from our children's snack stash?",
@@ -396,11 +404,11 @@
    "Our survey said that over 50% of us admit to discreetly 'correcting' what in a public place, even if it's not our responsibility?",
    "A recent poll asked Brits what small, everyday 'achievement' instantly makes them feel accomplished and satisfied. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'tidying' what in a restaurant, even if it's not our table?",
-   "A recent poll asked Brits what small, everyday 'discovery' instantly brightens their day. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'discovery' instantly brightens their day. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'naming' what in our homes, even if it's just a funny nickname?",
+   "A recent poll asked Brits what small, everyday 'victory' instantly makes them feel clever and accomplished. What came out on top?"
   ],
   "talk_topic": [
-   "We all have those little rituals or habits that make us feel ready for the day, whether it's how you make your morning brew or a particular song you listen to.",
-   "Remember those wonderful school trips, whether it was to a museum, a farm, or even just the local park?",
    "You know how sometimes you discover a new local shop or café and it instantly becomes your new favourite spot?",
    "We all have those little 'unwritten rules' in life, don't we? Things we just instinctively do, even if no one ever told us to.",
    "You know how sometimes a scent can instantly transport you back to a specific memory or place?",
@@ -438,17 +446,11 @@
    "You know how sometimes a particular 'colour' just instantly makes you feel happy, calm, or energetic?",
    "We all have those little 'rituals' we stick to, especially when preparing for a special occasion or a big event, don't we?",
    "You know how sometimes a particular 'sound' just instantly makes you feel calm, or happy, or nostalgic?",
-   "We all have those little 'traditions' we stick to, especially when the weather starts to improve, don't we?"
+   "We all have those little 'traditions' we stick to, especially when the weather starts to improve, don't we?",
+   "You know how sometimes you spot a specific 'type of cloud' in the sky, and it just instantly catches your eye or brings back a memory?",
+   "We all have those certain 'comfort' foods, don't we? Things we turn to when we need a bit of a pick-me-up or a taste of nostalgia."
   ],
   "facts": [
-   "The official residence of the British Prime Minister, 10 Downing Street, is actually three houses combined.",
-   "There are more than 1,000 different types of cheese in France.",
-   "Oxford University is older than the Aztec Empire.",
-   "A group of owls is called a parliament.",
-   "The Great Barrier Reef is the largest living structure on Earth.",
-   "Scotland has 421 words for 'snow'.",
-   "The highest mountain in the British Isles is Ben Nevis, located in Scotland.",
-   "A 'quaternity' is a group of four, similar to a trio for three.",
    "The world's smallest fish is the Paedocypris progenetica, which is less than a centimetre long.",
    "The British currency note for £20 features the economist Adam Smith.",
    "Bumblebees can fly higher than Mount Everest.",
@@ -480,7 +482,15 @@
    "The inventor of the frisbee was turned into a frisbee after he died.",
    "Sea otters hold hands when they sleep so they don't drift away from each other.",
    "The average person walks the equivalent of three times around the world in their lifetime.",
-   "Strawberries are the only fruit with seeds on the outside."
+   "Strawberries are the only fruit with seeds on the outside.",
+   "A group of owls is called a parliament.",
+   "The world's quietest room is located at Microsoft's headquarters in Washington State and is so silent you can hear your own heartbeat.",
+   "Bumblebees can fly higher than Mount Everest.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
+   "Penguins are the only birds that can swim but not fly.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The 'king of fruits', the durian, is known for its strong odour, which some describe as a mix of onions, sewage, and gym socks.",
+   "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space."
   ]
  }
 }
