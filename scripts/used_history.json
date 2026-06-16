@@ -122,7 +122,12 @@
   "3f7cc6745ad0f014": "2026-06-16",
   "0bff438ee9eea265": "2026-06-16",
   "96dcc42c48565dec": "2026-06-16",
-  "e1529095d6f1e9c2": "2026-06-16"
+  "e1529095d6f1e9c2": "2026-06-16",
+  "81a7af4694ae4ebf": "2026-06-17",
+  "72c90a1d6cda895d": "2026-06-17",
+  "9908e9c85052578b": "2026-06-17",
+  "cb0b50dc92e47669": "2026-06-17",
+  "38f51d00d6c17053": "2026-06-17"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -178,7 +183,7 @@
   "7c6f7130ef973f6f": "2026-06-15",
   "b25abc06fe39dd47": "2026-06-15",
   "4a8d3ebd42f173d0": "2026-06-14",
-  "1ad7f2a04dd4003d": "2026-06-15",
+  "1ad7f2a04dd4003d": "2026-06-17",
   "49e9ba120f83b176": "2026-06-15",
   "db1b0c8575d1c817": "2026-06-16",
   "5cab4906edec30ed": "2026-06-16",
@@ -189,7 +194,11 @@
   "4f7794b9e131bd21": "2026-06-16",
   "4301bacfef498f32": "2026-06-16",
   "d4d29655e39692c1": "2026-06-16",
-  "b2e25a30c1a74288": "2026-06-16"
+  "b2e25a30c1a74288": "2026-06-16",
+  "d6e9022d6fe603dd": "2026-06-17",
+  "a9c5cfdf64a6fd37": "2026-06-17",
+  "d4608a8de45d2799": "2026-06-17",
+  "8b7e07a7588fcac2": "2026-06-17"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -297,17 +306,15 @@
   "6576a6a51faf03a9": "2026-06-16",
   "d5979c97a8cd6152": "2026-06-16",
   "70424f2e8f687398": "2026-06-16",
-  "f482b80cc3b13368": "2026-06-16"
+  "f482b80cc3b13368": "2026-06-16",
+  "c3ffc4f6fc16982b": "2026-06-17",
+  "5793568808f86872": "2026-06-17",
+  "f43543b8b4f82868": "2026-06-17",
+  "4935809b41996c8b": "2026-06-17",
+  "c6b4bbc09da2c5e4": "2026-06-17"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A recent poll revealed that 'the smell of freshly baked bread' is the most comforting scent for Brits.",
-   "The trend of 'upcycling old furniture' into new, stylish pieces is transforming homes across the country.",
-   "A fascinating study found that houseplants can actually 'improve concentration' in home offices.",
-   "The simple pleasure of 'writing postcards' is experiencing a quiet revival as people seek more personal ways to connect.",
-   "More people are discovering the joy of 'outdoor cinema' nights, transforming gardens and parks into movie theatres under the stars.",
-   "A recent study suggests that listening to certain types of music while exercising can significantly boost your performance.",
-   "More people are discovering the simple joy of 'letterboxing', a treasure hunt where participants seek out hidden boxes containing a unique stamp.",
    "The charming hobby of 'cloud spotting' is gaining popularity, with enthusiasts finding shapes and stories in the sky.",
    "A new trend sees people embracing 'book swaps' in their local communities, sharing favourite reads with neighbours and friends.",
    "Researchers have found that looking at photos of cute animals can actually improve your focus and concentration.",
@@ -340,11 +347,16 @@
    "There's a growing trend for 'community noticeboards' to go digital, making it easier for neighbours to share news and services.",
    "A fascinating report reveals that early birds are more likely to have a tidy home.",
    "The art of 'pickleball' is taking the nation by storm, offering a fun and accessible sport for all ages.",
-   "New research suggests that the smell of freshly baked bread can genuinely make people feel more generous and helpful."
+   "New research suggests that the smell of freshly baked bread can genuinely make people feel more generous and helpful.",
+   "A new trend sees garden sheds transformed into luxurious home offices and creative retreats.",
+   "The joy of 'porch parcels' is on the rise, with neighbours sharing excess garden produce and homemade treats.",
+   "Research highlights the surprising benefits of 'daydreaming' for problem-solving and creativity.",
+   "The simple pleasure of 'window bird watching' is becoming a popular mindfulness activity.",
+   "There's a growing appreciation for 'slow travel', focusing on enjoying the journey rather than just the destination.",
+   "The humble 'board game night' is experiencing a resurgence, bringing families and friends together for unplugged fun.",
+   "A report reveals that many people are finding joy in 'micro-gardening' – cultivating plants in small spaces like windowsills and balconies."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to singing *what* aloud when we think nobody's listening?",
-   "A recent poll asked Brits what small, everyday item they always seem to misplace, no matter how hard they try?",
    "Our survey said that over 55% of us admit to having a secret 'good luck charm' that we carry with us or keep at home. What is it?",
    "A recent poll asked Brits what small, everyday treat instantly brightens their day, no matter what. What came out on top?",
    "Our survey said that over 65% of us admit to having a specific 'comfort movie' we watch when we need a pick-me-up. What's yours?",
@@ -382,11 +394,11 @@
    "Our survey said that over 60% of us admit to secretly 'tidying' what on a hotel breakfast buffet, even if it's not our job?",
    "Our survey said that over 55% of us admit to having a specific 'ritual' when making a cup of tea or coffee that we absolutely must follow. What is it?",
    "Our survey said that over 50% of us admit to discreetly 'correcting' what in a public place, even if it's not our responsibility?",
-   "A recent poll asked Brits what small, everyday 'achievement' instantly makes them feel accomplished and satisfied. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'achievement' instantly makes them feel accomplished and satisfied. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'tidying' what in a restaurant, even if it's not our table?",
+   "A recent poll asked Brits what small, everyday 'discovery' instantly brightens their day. What came out on top?"
   ],
   "talk_topic": [
-   "Remember those classic playground games from your childhood, like 'tag' or 'hide-and-seek'?",
-   "We often have a 'go-to' meal that we cook when we're feeling a bit low or want something comforting and familiar.",
    "We all have those little rituals or habits that make us feel ready for the day, whether it's how you make your morning brew or a particular song you listen to.",
    "Remember those wonderful school trips, whether it was to a museum, a farm, or even just the local park?",
    "You know how sometimes you discover a new local shop or café and it instantly becomes your new favourite spot?",
@@ -424,17 +436,11 @@
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
    "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
    "You know how sometimes a particular 'colour' just instantly makes you feel happy, calm, or energetic?",
-   "We all have those little 'rituals' we stick to, especially when preparing for a special occasion or a big event, don't we?"
+   "We all have those little 'rituals' we stick to, especially when preparing for a special occasion or a big event, don't we?",
+   "You know how sometimes a particular 'sound' just instantly makes you feel calm, or happy, or nostalgic?",
+   "We all have those little 'traditions' we stick to, especially when the weather starts to improve, don't we?"
   ],
   "facts": [
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "A 'jiffy' is an actual unit of time, specifically 1/100th of a second.",
-   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
-   "Cows have best friends and get stressed when they are separated from them.",
-   "The inventor of the Pringles can is buried in one.",
-   "Before alarm clocks, there were 'knocker-uppers' in Britain who would tap on windows to wake people for work.",
-   "The first recorded game of golf was played in Scotland in 1457.",
-   "It is impossible for most people to lick their own elbow.",
    "The official residence of the British Prime Minister, 10 Downing Street, is actually three houses combined.",
    "There are more than 1,000 different types of cheese in France.",
    "Oxford University is older than the Aztec Empire.",
@@ -466,7 +472,15 @@
    "The world's largest hot desert, the Sahara, is growing in size.",
    "The sound of crickets chirping can actually be used to estimate the air temperature.",
    "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
-   "The small plastic table often found in the middle of a pizza box is called a 'pizza saver' or 'package saver'."
+   "The small plastic table often found in the middle of a pizza box is called a 'pizza saver' or 'package saver'.",
+   "Butterflies taste with their feet.",
+   "The world's smallest chameleon can fit on the tip of your finger.",
+   "A 'jiffy' is an actual unit of time: one hundredth of a second.",
+   "Fingernails grow faster than toenails.",
+   "The inventor of the frisbee was turned into a frisbee after he died.",
+   "Sea otters hold hands when they sleep so they don't drift away from each other.",
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "Strawberries are the only fruit with seeds on the outside."
   ]
  }
 }
