@@ -137,7 +137,12 @@
   "969e1e97410a441d": "2026-06-18",
   "351ebc277418ebb2": "2026-06-18",
   "35d49701b8744fe0": "2026-06-18",
-  "69f1a115eeecc1fc": "2026-06-18"
+  "69f1a115eeecc1fc": "2026-06-18",
+  "f6d5a002735f201b": "2026-06-18",
+  "2b652f7142843eb6": "2026-06-18",
+  "f82537ea91cdf46b": "2026-06-18",
+  "3afdbc75f4624187": "2026-06-18",
+  "335aa7a7f385ed2f": "2026-06-18"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -334,17 +339,15 @@
   "9a87e68539e5f32b": "2026-06-18",
   "e03c6f04fa88508d": "2026-06-18",
   "35e9744f248e96ac": "2026-06-18",
-  "a5404679fa78df61": "2026-06-18"
+  "a5404679fa78df61": "2026-06-18",
+  "f2b7360b3e3c710b": "2026-06-18",
+  "e4ad6681ece09f37": "2026-06-18",
+  "9bb4a764c4664026": "2026-06-18",
+  "94fb0ff0a3973eae": "2026-06-18",
+  "dcb6386c10d666e3": "2026-06-18"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The humble 'charity shop chic' movement is gaining momentum, with fashionistas embracing pre-loved clothing for unique styles.",
-   "A fascinating study reveals that spending time near water, like rivers, lakes, or the sea, can significantly reduce stress levels.",
-   "Local communities are seeing a rise in 'skill-sharing' groups, where neighbours swap expertise from baking to basic DIY.",
-   "Experts are highlighting the benefits of a 'digital detox day' to improve focus and reduce screen fatigue.",
-   "There's a growing appreciation for the art of 'slow travel', where journeys are savoured rather than rushed.",
-   "A new trend sees garden enthusiasts creating miniature 'wildlife hotels' in their backyards to support local biodiversity.",
-   "The enduring appeal of 'board game nights' is making a strong comeback, with families and friends rediscovering classic and new tabletop games.",
    "Research suggests that wearing bright colours can genuinely boost your mood and even make you feel more energetic.",
    "There's a growing movement towards 'upcycling' old furniture, transforming forgotten pieces into stylish, unique items for the home.",
    "A study has found that listening to the sound of rainfall can significantly improve concentration and reduce stress levels.",
@@ -377,11 +380,16 @@
    "The simple pleasure of 'leaf art' is encouraging more people to explore nature creatively.",
    "New research indicates that 'mindful walking' in urban parks can significantly improve mood and reduce anxiety.",
    "The popularity of 'recycled craft workshops' is soaring, turning everyday items into unique treasures.",
-   "Experts are noting a rise in 'book-swapping clubs' as a sustainable way to enjoy new reads."
+   "Experts are noting a rise in 'book-swapping clubs' as a sustainable way to enjoy new reads.",
+   "A recent trend sees more people embracing 'wild swimming' in designated natural spots.",
+   "The popularity of 'micro-gardening' in small urban spaces is on the rise.",
+   "Research highlights the unexpected benefits of learning a new, non-digital skill.",
+   "The simple pleasure of 'porch sitting' is being rediscovered across the country.",
+   "A new study suggests that listening to 'nature sounds' can significantly reduce stress levels.",
+   "The trend for 'upcycled fashion' workshops is empowering people to transform old clothes.",
+   "Experts are noting a rise in 'community art projects' brightening public spaces."
   ],
   "survey": [
-   "Our survey said that over 50% of us admit to secretly 'borrowing' *what* from our children's snack stash?",
-   "A recent poll asked Brits what everyday household chore they secretly find quite therapeutic. What came out on top?",
    "Our survey said that over 60% of us admit to having a specific 'lucky' parking spot at the supermarket. What's yours?",
    "A recent poll asked Brits what everyday sound instantly makes them feel productive. What came out on top?",
    "Our survey said that over 70% of us admit to having a specific 'lucky' mug or cup that makes our morning brew taste even better. What's yours?",
@@ -419,11 +427,11 @@
    "Our survey said that over 60% of us admit to secretly 'naming' what in our homes, even if it's just a funny nickname?",
    "A recent poll asked Brits what small, everyday 'victory' instantly makes them feel clever and accomplished. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in a supermarket, just to make it look neater?",
-   "Our survey said that over 55% of us admit to having a specific 'greeting' or 'farewell' phrase we use with our pets, even if they don't quite understand?"
+   "Our survey said that over 55% of us admit to having a specific 'greeting' or 'farewell' phrase we use with our pets, even if they don't quite understand?",
+   "Our survey said that over 60% of us admit to secretly 'rehearsing' what in front of a mirror, just to make sure we've got it right?",
+   "Our survey said that over 55% of us admit to having a specific 'mug' or 'cup' that no one else in the house is allowed to use. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a scent can instantly transport you back to a specific memory or place?",
-   "We all have those moments when we feel like we've spotted a little bit of magic in the everyday, don't we?",
    "You know how sometimes a specific colour can just instantly lift your mood or remind you of something wonderful?",
    "We all have those little 'comfort' objects from our childhood that we still remember fondly, don't we?",
    "Do you ever find yourself having an imaginary conversation with someone when you're alone, perhaps rehearsing what you'd say or just thinking aloud?",
@@ -461,17 +469,11 @@
    "You know how sometimes you spot a specific 'type of cloud' in the sky, and it just instantly catches your eye or brings back a memory?",
    "We all have those certain 'comfort' foods, don't we? Things we turn to when we need a bit of a pick-me-up or a taste of nostalgia.",
    "You know how sometimes you discover a new 'local gem' – a little shop, a cafe, or a park – that you wish you'd known about sooner?",
-   "We all have those 'unwritten rules' in life, don't we? Things that aren't officially rules, but we all just sort of know to do or not do."
+   "We all have those 'unwritten rules' in life, don't we? Things that aren't officially rules, but we all just sort of know to do or not do.",
+   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
+   "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient."
   ],
   "facts": [
-   "The world's smallest independently owned country is Sealand, located on an old WWII sea fort off the coast of Suffolk.",
-   "A group of owls is called a parliament.",
-   "Butterflies taste with their feet.",
-   "The longest recorded flight of a chicken is 13 seconds.",
-   "Scotland has a national animal, and it's the unicorn.",
-   "The 'king' in a deck of cards is the only one without a moustache.",
-   "It is illegal to sing in public after 9 PM in Hawaii.",
-   "Human tooth enamel is the hardest substance in the human body.",
    "The Great Fire of London in 1666 actually started in a baker's shop on Pudding Lane.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The inventor of the Pringle's can, Fredric Baur, requested to be buried in one.",
@@ -503,7 +505,15 @@
    "The inventor of the Pringles can is buried in one.",
    "Cows have best friends and get stressed when separated from them.",
    "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron.",
-   "Bananas are berries, but strawberries are not."
+   "Bananas are berries, but strawberries are not.",
+   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, located in New Zealand.",
+   "The average cloud weighs around 550 tons, which is roughly the same as 100 elephants.",
+   "Strawberries are the only fruit with seeds on the outside.",
+   "A full moon is nine times brighter than a half moon.",
+   "The world's oldest known living tree is over 5,000 years old and is a Bristlecone Pine.",
+   "A snail can sleep for three years.",
+   "The shortest complete sentence in the English language is 'I am'.",
+   "Bubble wrap was originally intended to be used as wallpaper."
   ]
  }
 }
