@@ -147,7 +147,12 @@
   "8db17bc997a2ca6c": "2026-06-19",
   "dd36a970d77a6fdd": "2026-06-19",
   "8c3fb32855ce1ad2": "2026-06-19",
-  "015aba885cd65b12": "2026-06-19"
+  "015aba885cd65b12": "2026-06-19",
+  "e25c8f185776a127": "2026-06-19",
+  "080cbe55564ee825": "2026-06-19",
+  "860210fbaebd49b8": "2026-06-19",
+  "afaf9676ad856725": "2026-06-19",
+  "a9eb6380653f0b1b": "2026-06-19"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -222,7 +227,8 @@
   "75341d5b194b37b2": "2026-06-19",
   "2e0e952273f82f62": "2026-06-18",
   "72e31344eb37f72d": "2026-06-18",
-  "2348a9941af64da2": "2026-06-19"
+  "2348a9941af64da2": "2026-06-19",
+  "5510c02d0c7d85cc": "2026-06-19"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -355,17 +361,15 @@
   "c7cf55676bd14c4e": "2026-06-19",
   "77ef8ff34c44898b": "2026-06-19",
   "df5497da4eff7aee": "2026-06-19",
-  "dad734dcc2d55545": "2026-06-19"
+  "dad734dcc2d55545": "2026-06-19",
+  "4a06558539357e39": "2026-06-19",
+  "f653c6b3edec5bad": "2026-06-19",
+  "4bcc4c9d36d5188f": "2026-06-19",
+  "43aaf196fac19d2d": "2026-06-19",
+  "f232e8da9a780bbb": "2026-06-19"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are highlighting the benefits of a 'favourite mug' for boosting morning morale.",
-   "There's a growing trend for 'community noticeboards' to go digital, making it easier for neighbours to share news and services.",
-   "A fascinating report reveals that early birds are more likely to have a tidy home.",
-   "The art of 'pickleball' is taking the nation by storm, offering a fun and accessible sport for all ages.",
-   "New research suggests that the smell of freshly baked bread can genuinely make people feel more generous and helpful.",
-   "A new trend sees garden sheds transformed into luxurious home offices and creative retreats.",
-   "The joy of 'porch parcels' is on the rise, with neighbours sharing excess garden produce and homemade treats.",
    "Research highlights the surprising benefits of 'daydreaming' for problem-solving and creativity.",
    "The simple pleasure of 'window bird watching' is becoming a popular mindfulness activity.",
    "There's a growing appreciation for 'slow travel', focusing on enjoying the journey rather than just the destination.",
@@ -398,11 +402,16 @@
    "Experts are noting a rise in 'vintage board game clubs', bringing classic table-top fun back into fashion.",
    "A study reveals that regularly looking at 'green spaces' – even just through a window – can significantly lower stress levels.",
    "The trend for 'DIY fermented foods' is bubbling up, with more people trying their hand at making kimchi, kombucha, and sourdough.",
-   "New research highlights the joy and mental benefits of 'puzzle solving', from jigsaws to crosswords."
+   "New research highlights the joy and mental benefits of 'puzzle solving', from jigsaws to crosswords.",
+   "A new trend is seeing people create 'analogue photo albums' to cherish physical memories.",
+   "Research highlights the calming benefits of 'slow walking' in natural environments.",
+   "The popularity of 'vintage stationery' is on the rise, sparking a return to letter writing.",
+   "Experts note a growing interest in 'urban foraging' for wild edibles in city green spaces.",
+   "A study suggests that incorporating 'storytelling' into daily routines can boost family bonding.",
+   "The trend for 'micro-gardening' in small spaces is helping city residents embrace green fingers.",
+   "New research shows that 'daydreaming' can actually improve problem-solving skills and creativity."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to having a specific 'lucky' mug or cup that makes our morning brew taste even better. What's yours?",
-   "A recent poll asked Brits what small, everyday item they always seem to have an abundance of, even though they can never find the one they actually need. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in someone else's house to make it 'neater'?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel nostalgic. What came out on top?",
    "Our survey said that over 55% of us admit to having a specific 'lucky' item of clothing that we wear for important events. What's yours?",
@@ -440,11 +449,11 @@
    "Our survey said that over 60% of us admit to secretly 'rehearsing' what in front of a mirror, just to make sure we've got it right?",
    "Our survey said that over 55% of us admit to having a specific 'mug' or 'cup' that no one else in the house is allowed to use. What is it?",
    "Our survey said that over 65% of us admit to secretly 'rearranging' what in our kitchen cupboards, even if it's not strictly necessary?",
-   "Our survey said that over 50% of us admit to having a specific 'lucky' item of clothing or accessory we wear for important occasions. What is it?"
+   "Our survey said that over 50% of us admit to having a specific 'lucky' item of clothing or accessory we wear for important occasions. What is it?",
+   "Our survey said that over 50% of us admit to secretly 'rehearsing' what in our heads before we say it out loud?",
+   "A recent poll asked Brits what small, everyday 'task' instantly makes them feel satisfied and organised. What came out on top?"
   ],
   "talk_topic": [
-   "Do you ever find yourself having an imaginary conversation with someone when you're alone, perhaps rehearsing what you'd say or just thinking aloud?",
-   "You know how sometimes a particular piece of music just perfectly matches the weather or your mood, almost like a soundtrack to your day?",
    "We all have those little 'life hacks' that we swear by, don't we? Those clever shortcuts or tricks that just make everyday tasks a bit easier.",
    "You know how sometimes you spot something in nature that's just a bit unusual or surprising, like an oddly shaped cloud or a particularly colourful bird?",
    "We all have those little 'traditions' that we carry on, perhaps from our childhood or from family.",
@@ -482,17 +491,11 @@
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
    "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
    "You know how sometimes you find a new 'local shop' or business that just instantly becomes your go-to for something specific?",
-   "We all have those little 'soundtrack moments' in life, don't we? Where a particular piece of music just perfectly fits the moment you're in."
+   "We all have those little 'soundtrack moments' in life, don't we? Where a particular piece of music just perfectly fits the moment you're in.",
+   "You know how sometimes you hear a particular 'word' or 'phrase' that just instantly grates on you, even if it's perfectly innocent?",
+   "We all have those little 'superstitions' or 'rituals' we stick to, even if we don't truly believe in them, just in case!"
   ],
   "facts": [
-   "Butterflies taste with their feet.",
-   "The world's smallest chameleon can fit on the tip of your finger.",
-   "A 'jiffy' is an actual unit of time: one hundredth of a second.",
-   "Fingernails grow faster than toenails.",
-   "The inventor of the frisbee was turned into a frisbee after he died.",
-   "Sea otters hold hands when they sleep so they don't drift away from each other.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
-   "Strawberries are the only fruit with seeds on the outside.",
    "A group of owls is called a parliament.",
    "The world's quietest room is located at Microsoft's headquarters in Washington State and is so silent you can hear your own heartbeat.",
    "Bumblebees can fly higher than Mount Everest.",
@@ -524,7 +527,15 @@
    "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space.",
    "It is impossible for most people to lick their own elbow.",
    "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
-   "Mount Everest grows by about 4 millimetres every year due to geological activity."
+   "Mount Everest grows by about 4 millimetres every year due to geological activity.",
+   "A group of flamingos is called a 'flamboyance'.",
+   "It is impossible to hum while holding your nose.",
+   "The inventor of the Pringles can is buried in one.",
+   "Butterflies taste with their feet.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+   "Cows have best friends and get stressed when separated from them.",
+   "The original name for the search engine Google was 'Backrub'.",
+   "Chameleons change their skin colour not just to blend in, but also to reflect their mood and temperature."
   ]
  }
 }
