@@ -157,7 +157,12 @@
   "5ea2a8843d5cdaf4": "2026-06-20",
   "61198cdab5dc00ea": "2026-06-20",
   "8c7a94c91db9b48a": "2026-06-20",
-  "b61b7ac126576014": "2026-06-20"
+  "b61b7ac126576014": "2026-06-20",
+  "2ec364419f91ba07": "2026-06-20",
+  "fe8b1fd6faffa9de": "2026-06-20",
+  "436083945d7ed8a4": "2026-06-20",
+  "56dd28ffe746e448": "2026-06-20",
+  "f06337722c78e5b0": "2026-06-20"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -236,7 +241,9 @@
   "5510c02d0c7d85cc": "2026-06-19",
   "bf27700f48f56c4a": "2026-06-20",
   "6125a2884f763d8b": "2026-06-20",
-  "83b468d8655dc2bd": "2026-06-20"
+  "83b468d8655dc2bd": "2026-06-20",
+  "ec682590f99c7e9c": "2026-06-20",
+  "9d6fde0dea2c7f74": "2026-06-20"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -379,17 +386,15 @@
   "4e4ea6ec71c8c7d0": "2026-06-20",
   "86286edb569a5a28": "2026-06-20",
   "8febd4bf8d4b0d0d": "2026-06-20",
-  "5aa0bf8fd23eeb0b": "2026-06-20"
+  "5aa0bf8fd23eeb0b": "2026-06-20",
+  "467f894ea0030246": "2026-06-20",
+  "1c94aa249db199d5": "2026-06-20",
+  "ccdff69d25619b1f": "2026-06-20",
+  "6327cb535a03d6da": "2026-06-20",
+  "60f0c243e7b58f61": "2026-06-20"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The trend for 'library picnics' is encouraging more families to enjoy reading outdoors.",
-   "A study reveals that people who regularly 'rearrange their furniture' report feeling more invigorated.",
-   "The popularity of 'swap shops' for garden tools and equipment is growing amongst green-fingered enthusiasts.",
-   "Experts are highlighting the benefits of a 'digital detox day' for improving focus and sleep.",
-   "A fascinating report reveals that early morning 'dewdrop photography' is becoming a popular hobby.",
-   "Research highlights a growing trend for 'digital decluttering' – organising digital files and photos.",
-   "The humble 'picnic blanket' is getting a stylish makeover, with unique designs becoming popular.",
    "A study suggests that 'communal cooking' – preparing meals with neighbours or friends – is boosting community spirit.",
    "The simple pleasure of 'leaf art' is encouraging more people to explore nature creatively.",
    "New research indicates that 'mindful walking' in urban parks can significantly improve mood and reduce anxiety.",
@@ -422,11 +427,16 @@
    "New research indicates that regularly listening to 'nature sounds' can improve concentration and lower anxiety.",
    "There's a growing interest in 'retro video game nights', as friends gather to relive classic gaming console memories.",
    "A study highlights the positive impact of 'volunteering with animals' on emotional health.",
-   "The popularity of 'themed picnic baskets' is on the rise for outdoor dining."
+   "The popularity of 'themed picnic baskets' is on the rise for outdoor dining.",
+   "A new study suggests that taking a 'digital detox' can significantly improve sleep quality and reduce stress.",
+   "The trend for 'slow tourism' is growing, with more people choosing to immerse themselves in local cultures rather than rushing through destinations.",
+   "Experts are noting a rise in 'intergenerational hobbies', where different age groups come together to share skills and interests.",
+   "A study reveals that 'singing in a choir' can boost mood and strengthen social connections.",
+   "There's a growing interest in 'heritage crafts', as people seek to learn traditional skills like pottery, weaving, and woodworking.",
+   "New research indicates that regularly spending time near 'water features' like rivers or fountains can reduce anxiety.",
+   "The popularity of 'guerilla gardening' is on the rise, with communities transforming neglected public spaces into green oases."
   ],
   "survey": [
-   "Our survey said that over 55% of us admit to having a specific 'lucky' item of clothing that we wear for important events. What's yours?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel optimistic. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'tidying up' *what* in our local supermarket aisle?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel peaceful. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'rescuing' what from the bottom of our crisp packet?",
@@ -464,11 +474,11 @@
    "Our survey said that over 50% of us admit to secretly 'rehearsing' what in our heads before we say it out loud?",
    "A recent poll asked Brits what small, everyday 'task' instantly makes them feel satisfied and organised. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
-   "A recent poll asked Brits what small, everyday 'moment of quiet' instantly recharges their batteries. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'moment of quiet' instantly recharges their batteries. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
+   "A recent poll asked Brits what small, everyday 'moment' instantly makes them feel genuinely chuffed with themselves. What came out on top?"
   ],
   "talk_topic": [
-   "We all have those little 'traditions' that we carry on, perhaps from our childhood or from family.",
-   "You know how sometimes you hear a phrase or a saying and it just perfectly sums up a situation or gives you a little lift?",
    "You know how sometimes a specific smell can just instantly make you feel incredibly calm and happy?",
    "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right.",
    "You know how sometimes you hear a piece of music and it just makes you want to get up and dance, no matter where you are?",
@@ -506,17 +516,11 @@
    "You know how sometimes you hear a particular 'word' or 'phrase' that just instantly grates on you, even if it's perfectly innocent?",
    "We all have those little 'superstitions' or 'rituals' we stick to, even if we don't truly believe in them, just in case!",
    "You know how sometimes you discover a new 'short cut' or a clever 'hack' that just makes a household chore so much easier?",
-   "We all have those certain 'little joys' that just instantly brighten our day, don't we? Things that might seem small, but mean a lot to us."
+   "We all have those certain 'little joys' that just instantly brighten our day, don't we? Things that might seem small, but mean a lot to us.",
+   "You know how sometimes you hear a 'specific sound' that just instantly brings a smile to your face, or takes you back to a happy memory?",
+   "We all have those certain 'little rituals' that we do, often without thinking, that just make our day feel right."
   ],
   "facts": [
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "A bolt of lightning is six times hotter than the surface of the sun.",
-   "Butterflies taste with their feet.",
-   "The total weight of all ants on Earth is estimated to be greater than the total weight of all humans.",
-   "The inventor of the Pringles can is buried in one.",
-   "Cows have best friends and get stressed when separated from them.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron.",
-   "Bananas are berries, but strawberries are not.",
    "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, located in New Zealand.",
    "The average cloud weighs around 550 tons, which is roughly the same as 100 elephants.",
    "Strawberries are the only fruit with seeds on the outside.",
@@ -548,7 +552,15 @@
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 to 45 minutes.",
    "There are more possible iterations of a game of chess than there are atoms in the known universe.",
    "The colour orange was named after the fruit, not the other way around.",
-   "Snails can sleep for up to three years, waiting for the right environmental conditions."
+   "Snails can sleep for up to three years, waiting for the right environmental conditions.",
+   "The Great Barrier Reef is the only living thing on Earth visible from space.",
+   "A 'butt' is an actual unit of measurement, often used for wine, equivalent to two hogsheads.",
+   "The shortest complete sentence in the English language is 'I am'.",
+   "Butterflies taste with their feet.",
+   "The world's oldest known living tree is over 5,000 years old and is a bristlecone pine in California.",
+   "The inventor of the Pringle can, Fredric Baur, requested to be buried in one.",
+   "The human nose can remember 50,000 different scents.",
+   "The first successful photograph of a human was taken in 1838, but the person was getting their shoes shined so they were stationary for the long exposure."
   ]
  }
 }
