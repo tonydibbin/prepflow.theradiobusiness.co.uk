@@ -162,7 +162,12 @@
   "fe8b1fd6faffa9de": "2026-06-20",
   "436083945d7ed8a4": "2026-06-20",
   "56dd28ffe746e448": "2026-06-20",
-  "f06337722c78e5b0": "2026-06-20"
+  "f06337722c78e5b0": "2026-06-20",
+  "b6f54c91ac66b14c": "2026-06-21",
+  "47bc635144475e59": "2026-06-21",
+  "52b267126d9d2a44": "2026-06-21",
+  "1b0a04332af3b9b2": "2026-06-21",
+  "98845d576e335e3d": "2026-06-21"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -237,13 +242,15 @@
   "75341d5b194b37b2": "2026-06-20",
   "2e0e952273f82f62": "2026-06-18",
   "72e31344eb37f72d": "2026-06-18",
-  "2348a9941af64da2": "2026-06-20",
+  "2348a9941af64da2": "2026-06-21",
   "5510c02d0c7d85cc": "2026-06-19",
-  "bf27700f48f56c4a": "2026-06-20",
+  "bf27700f48f56c4a": "2026-06-21",
   "6125a2884f763d8b": "2026-06-20",
   "83b468d8655dc2bd": "2026-06-20",
-  "ec682590f99c7e9c": "2026-06-20",
-  "9d6fde0dea2c7f74": "2026-06-20"
+  "ec682590f99c7e9c": "2026-06-21",
+  "9d6fde0dea2c7f74": "2026-06-20",
+  "8ed40d84314ee07b": "2026-06-21",
+  "c7749ab703747bb5": "2026-06-21"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -391,17 +398,15 @@
   "1c94aa249db199d5": "2026-06-20",
   "ccdff69d25619b1f": "2026-06-20",
   "6327cb535a03d6da": "2026-06-20",
-  "60f0c243e7b58f61": "2026-06-20"
+  "60f0c243e7b58f61": "2026-06-20",
+  "b329367690dd401a": "2026-06-21",
+  "a8945b78c27261f7": "2026-06-21",
+  "a9380d590a2ea646": "2026-06-21",
+  "a511611aa0ac18c4": "2026-06-21",
+  "0139f69eee4efd4f": "2026-06-21"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A study suggests that 'communal cooking' – preparing meals with neighbours or friends – is boosting community spirit.",
-   "The simple pleasure of 'leaf art' is encouraging more people to explore nature creatively.",
-   "New research indicates that 'mindful walking' in urban parks can significantly improve mood and reduce anxiety.",
-   "The popularity of 'recycled craft workshops' is soaring, turning everyday items into unique treasures.",
-   "Experts are noting a rise in 'book-swapping clubs' as a sustainable way to enjoy new reads.",
-   "A recent trend sees more people embracing 'wild swimming' in designated natural spots.",
-   "The popularity of 'micro-gardening' in small urban spaces is on the rise.",
    "Research highlights the unexpected benefits of learning a new, non-digital skill.",
    "The simple pleasure of 'porch sitting' is being rediscovered across the country.",
    "A new study suggests that listening to 'nature sounds' can significantly reduce stress levels.",
@@ -434,11 +439,16 @@
    "A study reveals that 'singing in a choir' can boost mood and strengthen social connections.",
    "There's a growing interest in 'heritage crafts', as people seek to learn traditional skills like pottery, weaving, and woodworking.",
    "New research indicates that regularly spending time near 'water features' like rivers or fountains can reduce anxiety.",
-   "The popularity of 'guerilla gardening' is on the rise, with communities transforming neglected public spaces into green oases."
+   "The popularity of 'guerilla gardening' is on the rise, with communities transforming neglected public spaces into green oases.",
+   "A new study suggests that 'micro-breaks' can significantly boost productivity and overall well-being at work.",
+   "The trend for 'upcycled fashion' is growing, with more people transforming old clothes into stylish new outfits.",
+   "Research indicates that 'listening to classical music' can improve concentration during complex tasks.",
+   "There's a growing interest in 'urban foraging', where city dwellers learn to identify edible plants in their local parks and green spaces.",
+   "A new report highlights the benefits of 'daily journaling' for mental clarity and emotional regulation.",
+   "The popularity of 'indoor gardening' is flourishing, with more people creating green havens inside their homes.",
+   "Experts are noting a rise in 'community repair cafes', where volunteers help fix broken household items for free."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'tidying up' *what* in our local supermarket aisle?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel peaceful. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'rescuing' what from the bottom of our crisp packet?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel cosy and content. What came out on top?",
    "Our survey said that over 65% of us admit to having a secret 'good luck' route to avoid traffic, even if it adds a few minutes to the journey. What's your top tip?",
@@ -476,11 +486,11 @@
    "Our survey said that over 50% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
    "A recent poll asked Brits what small, everyday 'moment of quiet' instantly recharges their batteries. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
-   "A recent poll asked Brits what small, everyday 'moment' instantly makes them feel genuinely chuffed with themselves. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'moment' instantly makes them feel genuinely chuffed with themselves. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'tidying' what when we're visiting someone else's house?",
+   "Our survey said that over 55% of us admit to having a specific 'voice' or 'accent' we put on when we're talking to our pets. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a specific smell can just instantly make you feel incredibly calm and happy?",
-   "We all have those little 'rituals' we do, don't we? Things we do every day, almost without thinking, that just make life feel right.",
    "You know how sometimes you hear a piece of music and it just makes you want to get up and dance, no matter where you are?",
    "We all have those moments when a piece of advice, perhaps from a family member or a wise friend, just really sticks with you.",
    "You know how sometimes you discover a new use for an everyday object that just makes life a little bit easier or more fun?",
@@ -518,17 +528,11 @@
    "You know how sometimes you discover a new 'short cut' or a clever 'hack' that just makes a household chore so much easier?",
    "We all have those certain 'little joys' that just instantly brighten our day, don't we? Things that might seem small, but mean a lot to us.",
    "You know how sometimes you hear a 'specific sound' that just instantly brings a smile to your face, or takes you back to a happy memory?",
-   "We all have those certain 'little rituals' that we do, often without thinking, that just make our day feel right."
+   "We all have those certain 'little rituals' that we do, often without thinking, that just make our day feel right.",
+   "You know how sometimes you discover a new 'flavour combination' that just instantly blows your mind and you wonder where it's been all your life?",
+   "We all have those certain 'everyday sounds' that, for whatever reason, we find incredibly satisfying or calming."
   ],
   "facts": [
-   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, located in New Zealand.",
-   "The average cloud weighs around 550 tons, which is roughly the same as 100 elephants.",
-   "Strawberries are the only fruit with seeds on the outside.",
-   "A full moon is nine times brighter than a half moon.",
-   "The world's oldest known living tree is over 5,000 years old and is a Bristlecone Pine.",
-   "A snail can sleep for three years.",
-   "The shortest complete sentence in the English language is 'I am'.",
-   "Bubble wrap was originally intended to be used as wallpaper.",
    "A group of owls is called a parliament.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 to 45 minutes.",
@@ -560,7 +564,15 @@
    "The world's oldest known living tree is over 5,000 years old and is a bristlecone pine in California.",
    "The inventor of the Pringle can, Fredric Baur, requested to be buried in one.",
    "The human nose can remember 50,000 different scents.",
-   "The first successful photograph of a human was taken in 1838, but the person was getting their shoes shined so they were stationary for the long exposure."
+   "The first successful photograph of a human was taken in 1838, but the person was getting their shoes shined so they were stationary for the long exposure.",
+   "Honey never spoils and can be stored indefinitely, thanks to its unique chemical composition.",
+   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
+   "A jiffy is an actual unit of time, equal to one hundredth of a second.",
+   "The human eye can distinguish approximately 10 million different colours.",
+   "Flamingos get their pink colour from the beta-carotene in the brine shrimp and algae they eat.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
+   "It is impossible for most people to lick their own elbow.",
+   "The longest recorded flight of a chicken is 13 seconds."
   ]
  }
 }
