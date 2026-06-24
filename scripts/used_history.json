@@ -240,7 +240,12 @@
   "a0bc07cee8a38836": "2026-06-25",
   "16f4ae4d45f2cb2f": "2026-06-25",
   "8a209a348278c69a": "2026-06-25",
-  "0464ab7a22ff7aad": "2026-06-25"
+  "0464ab7a22ff7aad": "2026-06-25",
+  "7c373c72c7bfccbb": "2026-06-25",
+  "d18a91683a85ec4a": "2026-06-25",
+  "b053dfce7f66bd8e": "2026-06-25",
+  "9a621d013deb2073": "2026-06-25",
+  "1b678d107494daec": "2026-06-25"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -340,7 +345,12 @@
   "aa9e727e65369273": "2026-06-24",
   "5b83b7bd37801b4b": "2026-06-24",
   "0afb53b68beacc8e": "2026-06-25",
-  "c83fe91c34303d7e": "2026-06-25"
+  "c83fe91c34303d7e": "2026-06-25",
+  "f0102ed93b0cbf92": "2026-06-25",
+  "f1ad249feaa663db": "2026-06-25",
+  "83d5c6e14b8e8c83": "2026-06-25",
+  "b0d82f287a462d34": "2026-06-25",
+  "56e14e599a7d0237": "2026-06-25"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -533,17 +543,15 @@
   "a20bba51a80c1579": "2026-06-25",
   "c62f96342a691042": "2026-06-25",
   "ec74f0db574ba8e8": "2026-06-25",
-  "1a53f3fcb714406e": "2026-06-25"
+  "1a53f3fcb714406e": "2026-06-25",
+  "5443e61766ba9a46": "2026-06-25",
+  "ddd43ab4851c56be": "2026-06-25",
+  "40235beb5ce6c8c2": "2026-06-25",
+  "e57930cab950a5fd": "2026-06-25",
+  "92299e9325dbdd5e": "2026-06-25"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research indicates that 'listening to classical music' can improve concentration during complex tasks.",
-   "There's a growing interest in 'urban foraging', where city dwellers learn to identify edible plants in their local parks and green spaces.",
-   "A new report highlights the benefits of 'daily journaling' for mental clarity and emotional regulation.",
-   "The popularity of 'indoor gardening' is flourishing, with more people creating green havens inside their homes.",
-   "Experts are noting a rise in 'community repair cafes', where volunteers help fix broken household items for free.",
-   "Gardeners are increasingly turning to 'no-dig' methods to cultivate healthier soil and happier plants.",
-   "There's a growing trend for 'slow travel', encouraging holidaymakers to immerse themselves more deeply in local culture.",
    "A recent study suggests that listening to 'nature sounds' can significantly reduce stress and improve relaxation.",
    "The popularity of 'retro gaming' is soaring, with more people rediscovering classic video games from decades past.",
    "Experts are noting a rise in 'mindful eating', where individuals pay closer attention to their food and eating experience.",
@@ -576,11 +584,16 @@
    "The charm of 'second-hand books' is winning over more readers, moving beyond just thriftiness.",
    "A recent study highlights the mood-boosting power of 'sunlight' – even on cloudy days.",
    "The art of 'jam making' is making a sweet comeback in many British kitchens.",
-   "There's a growing enthusiasm for 'open-air cinema' experiences as summer approaches."
+   "There's a growing enthusiasm for 'open-air cinema' experiences as summer approaches.",
+   "A new appreciation for 'community gardens' is blossoming across the UK.",
+   "The trend of 'upcycling old furniture' is gaining momentum, transforming forgotten pieces into stylish home additions.",
+   "Experts are suggesting that indulging in a 'midday nap' could be the secret to increased productivity and a brighter mood.",
+   "A delightful new study indicates that spending time near 'water features' like fountains or streams can significantly reduce stress.",
+   "The simple joy of 'board games' is making a big comeback, bringing families and friends together for offline fun.",
+   "More people are discovering the meditative benefits of 'birdwatching' right from their own gardens.",
+   "The art of 'homemade greetings cards' is seeing a charming resurgence, adding a personal touch to special messages."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'rearranging' what in our kitchen cupboards, even if we're not the primary cook?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel productive and ready to tackle the day. What came out on top?",
    "Our survey said that over 70% of us admit to secretly 'tidying' what in someone else's house when we visit, even if it's just a tiny adjustment?",
    "A recent poll asked Brits what small, everyday sound instantly makes them feel completely relaxed and at ease. What came out on top?",
    "Our survey said that over 60% of us admit to having a secret 'parking spot' ritual or habit that we believe helps us find a space. What's yours?",
@@ -618,11 +631,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what with the car radio volume when a really good song comes on?",
    "A recent poll asked Brits what small, everyday 'annoyance' instantly makes them sigh and mentally roll their eyes. What came out on top?",
    "Our survey said that over 65% of us admit to secretly 'rearranging' what when we're browsing in a shop, just to make it look a bit tidier?",
-   "Our survey said that over 50% of us admit to having a specific 'mug' or 'cup' that we absolutely insist on using for our hot drinks, even if others are clean?"
+   "Our survey said that over 50% of us admit to having a specific 'mug' or 'cup' that we absolutely insist on using for our hot drinks, even if others are clean?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
+   "Our survey said that over 55% of us admit to having a specific 'biscuit' that we always reach for first in a mixed selection. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
-   "We all have those little 'traditions' we stick to, especially when the weather turns warmer, don't we?",
    "You know how sometimes you stumble upon a really brilliant 'shortcut' in life, something that saves you time or effort in a really clever way?",
    "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
    "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
@@ -660,17 +673,11 @@
    "You know how sometimes you try a 'food combination' that sounds a bit odd on paper, but turns out to be absolutely delicious?",
    "We all have those little 'superstitions' or 'rituals' that we follow, even if we don't really believe in them.",
    "You know how sometimes you try a 'new route' to work or the shops, and you suddenly discover something wonderful you'd never noticed before?",
-   "We all have those little 'household gadgets' that we bought on a whim, thinking they'd be brilliant, but they ended up gathering dust in a cupboard."
+   "We all have those little 'household gadgets' that we bought on a whim, thinking they'd be brilliant, but they ended up gathering dust in a cupboard.",
+   "You know how sometimes you hear a 'word' or a 'phrase' that you absolutely love, and you try to slip it into conversation whenever you can?",
+   "We all have those little 'shortcuts' or 'hacks' that we use in the kitchen to make cooking a bit easier or quicker."
   ],
   "facts": [
-   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
-   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Hawaii is the only U.S. state that grows coffee.",
-   "A 'tsundoku' is a Japanese term for the act of buying books and letting them pile up unread.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to the expansion of the iron from the heat.",
-   "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
    "The 'rewind' button on a remote control was originally called 'backscan'.",
    "A 'jiffy' is an actual unit of time: one hundredth of a second.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
@@ -702,7 +709,15 @@
    "A standard golf ball has 336 dimples.",
    "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
    "There are more permutations of a Rubik's Cube than there are atoms in the observable universe.",
-   "Butterflies taste with their feet."
+   "Butterflies taste with their feet.",
+   "The British Isles are home to over 100 different types of native trees.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The world's first public park was Birkenhead Park in Merseyside, inspiring New York's Central Park.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
+   "Astronauts grow taller in space due to the lack of gravity decompressing their spines.",
+   "The original purpose of chewing gum was to quench thirst and stave off hunger.",
+   "The 'clink' of glasses when toasting originated from a time when people would clink their glasses together hard enough to spill a little into each other's drink, to prove no one was poisoning anyone."
   ]
  }
 }
