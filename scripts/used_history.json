@@ -245,7 +245,12 @@
   "d18a91683a85ec4a": "2026-06-25",
   "b053dfce7f66bd8e": "2026-06-25",
   "9a621d013deb2073": "2026-06-25",
-  "1b678d107494daec": "2026-06-25"
+  "1b678d107494daec": "2026-06-25",
+  "082497b8cd5eaf1f": "2026-06-26",
+  "2ba9ad694d648fb2": "2026-06-26",
+  "3b3b354dcfef9815": "2026-06-26",
+  "5a5a048e3af8c0e8": "2026-06-26",
+  "6902cbf3fd426012": "2026-06-26"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -344,13 +349,17 @@
   "729965b242c9923e": "2026-06-24",
   "aa9e727e65369273": "2026-06-24",
   "5b83b7bd37801b4b": "2026-06-24",
-  "0afb53b68beacc8e": "2026-06-25",
+  "0afb53b68beacc8e": "2026-06-26",
   "c83fe91c34303d7e": "2026-06-25",
   "f0102ed93b0cbf92": "2026-06-25",
   "f1ad249feaa663db": "2026-06-25",
   "83d5c6e14b8e8c83": "2026-06-25",
   "b0d82f287a462d34": "2026-06-25",
-  "56e14e599a7d0237": "2026-06-25"
+  "56e14e599a7d0237": "2026-06-25",
+  "6e9a5ba51e82a081": "2026-06-26",
+  "09dae6d54436828b": "2026-06-26",
+  "327d749265b043bc": "2026-06-26",
+  "2875e0ac3b1e302b": "2026-06-26"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -548,17 +557,15 @@
   "ddd43ab4851c56be": "2026-06-25",
   "40235beb5ce6c8c2": "2026-06-25",
   "e57930cab950a5fd": "2026-06-25",
-  "92299e9325dbdd5e": "2026-06-25"
+  "92299e9325dbdd5e": "2026-06-25",
+  "07dafb29448bb85e": "2026-06-26",
+  "7a7a8bb43fe283f6": "2026-06-26",
+  "6eb771f77bc98b3f": "2026-06-26",
+  "4fa244cfa2288680": "2026-06-26",
+  "417206dfa790df71": "2026-06-26"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A recent study suggests that listening to 'nature sounds' can significantly reduce stress and improve relaxation.",
-   "The popularity of 'retro gaming' is soaring, with more people rediscovering classic video games from decades past.",
-   "Experts are noting a rise in 'mindful eating', where individuals pay closer attention to their food and eating experience.",
-   "There's a renewed interest in 'letter writing', as people seek a more personal and thoughtful way to communicate.",
-   "The trend for 'micro-adventures' is gaining momentum, encouraging short, local escapades to boost well-being.",
-   "Good news for early risers: new research suggests a morning cuppa might do more than just wake you up.",
-   "The humble art of 'doodling' is getting a serious reappraisal.",
    "Forget grand gestures, it's the 'tiny treats' that really make us happy, according to a recent lifestyle survey.",
    "Birdwatching is soaring in popularity, not just in rural areas but also right here in our urban jungles.",
    "Research into 'comfort colours' suggests that specific hues can genuinely make us feel more relaxed and secure.",
@@ -591,11 +598,16 @@
    "A delightful new study indicates that spending time near 'water features' like fountains or streams can significantly reduce stress.",
    "The simple joy of 'board games' is making a big comeback, bringing families and friends together for offline fun.",
    "More people are discovering the meditative benefits of 'birdwatching' right from their own gardens.",
-   "The art of 'homemade greetings cards' is seeing a charming resurgence, adding a personal touch to special messages."
+   "The art of 'homemade greetings cards' is seeing a charming resurgence, adding a personal touch to special messages.",
+   "A charming new trend sees people embracing the simple joy of 'letter writing' once more.",
+   "The humble 'picnic' is being rediscovered as a delightful way to enjoy the great outdoors.",
+   "A recent study suggests that listening to 'podcasts' while doing chores can make household tasks feel much less like a burden.",
+   "More Brits are finding serenity in the art of 'cloud watching', turning sky-gazing into a mindful moment.",
+   "The enduring appeal of 'vintage vinyl records' continues to spin, with sales seeing a resurgence among music lovers.",
+   "Experts are highlighting the benefits of a 'digital detox', encouraging short breaks from screens for better well-being.",
+   "A new appreciation for 'local markets' is blossoming, with more people seeking out fresh, artisan produce."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'tidying' what in someone else's house when we visit, even if it's just a tiny adjustment?",
-   "A recent poll asked Brits what small, everyday sound instantly makes them feel completely relaxed and at ease. What came out on top?",
    "Our survey said that over 60% of us admit to having a secret 'parking spot' ritual or habit that we believe helps us find a space. What's yours?",
    "A recent poll asked Brits what small, everyday 'reunion' instantly makes them happy, even if it's just for a moment. What came out on top?",
    "Our survey said that over 65% of us admit to secretly 'saving' what everyday item, convinced it will be useful one day, even though it rarely is?",
@@ -633,11 +645,11 @@
    "Our survey said that over 65% of us admit to secretly 'rearranging' what when we're browsing in a shop, just to make it look a bit tidier?",
    "Our survey said that over 50% of us admit to having a specific 'mug' or 'cup' that we absolutely insist on using for our hot drinks, even if others are clean?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
-   "Our survey said that over 55% of us admit to having a specific 'biscuit' that we always reach for first in a mixed selection. What is it?"
+   "Our survey said that over 55% of us admit to having a specific 'biscuit' that we always reach for first in a mixed selection. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what with our houseplants, even though we know they can't really understand us?",
+   "Our survey said that over 60% of us admit to having a particular 'food' that we absolutely have to have with a cup of tea. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you stumble upon a really brilliant 'shortcut' in life, something that saves you time or effort in a really clever way?",
-   "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
    "You know how sometimes you spot a particular type of bird, or a unique flower, and it just makes your day a little bit brighter?",
    "We all have those certain 'comfort' objects, don't we? Things we've had for ages that just make us feel secure, happy, or nostalgic.",
    "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
@@ -675,17 +687,11 @@
    "You know how sometimes you try a 'new route' to work or the shops, and you suddenly discover something wonderful you'd never noticed before?",
    "We all have those little 'household gadgets' that we bought on a whim, thinking they'd be brilliant, but they ended up gathering dust in a cupboard.",
    "You know how sometimes you hear a 'word' or a 'phrase' that you absolutely love, and you try to slip it into conversation whenever you can?",
-   "We all have those little 'shortcuts' or 'hacks' that we use in the kitchen to make cooking a bit easier or quicker."
+   "We all have those little 'shortcuts' or 'hacks' that we use in the kitchen to make cooking a bit easier or quicker.",
+   "You know how sometimes you hear a 'jingle' or a 'catchphrase' from an old advert, and it instantly gets stuck in your head for the rest of the day?",
+   "We all have those 'little things' that we collect, don't we? Maybe it's not a grand collection, but just a small gathering of items that bring you joy."
   ],
   "facts": [
-   "The 'rewind' button on a remote control was originally called 'backscan'.",
-   "A 'jiffy' is an actual unit of time: one hundredth of a second.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
-   "Banananas are berries, but strawberries are not.",
-   "The first computer mouse was made of wood.",
-   "There are more fake flamingos in the world than real ones.",
-   "The iconic 'red phone box' was designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
-   "The human nose can remember 50,000 different scents.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 to 45 minutes.",
    "A 'bibliosmia' is the enjoyable act of smelling old books.",
    "Butterflies taste with their feet.",
@@ -717,7 +723,15 @@
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
    "Astronauts grow taller in space due to the lack of gravity decompressing their spines.",
    "The original purpose of chewing gum was to quench thirst and stave off hunger.",
-   "The 'clink' of glasses when toasting originated from a time when people would clink their glasses together hard enough to spill a little into each other's drink, to prove no one was poisoning anyone."
+   "The 'clink' of glasses when toasting originated from a time when people would clink their glasses together hard enough to spill a little into each other's drink, to prove no one was poisoning anyone.",
+   "The world's first successful passenger railway opened in Stockton and Darlington in 1825.",
+   "A group of owls is called a parliament.",
+   "The inventor of the Pringles can, Fredric Baur, was buried in one.",
+   "The only letter that doesn't appear in the name of any US state is the letter 'Q'.",
+   "The 'sixth sick sheik's sixth sheep's sick' is considered the toughest tongue twister in the English language.",
+   "Bananas are technically berries, but strawberries are not.",
+   "The shortest complete English sentence is 'I am'.",
+   "Bubble wrap was originally intended to be used as three-dimensional wallpaper."
   ]
  }
 }
