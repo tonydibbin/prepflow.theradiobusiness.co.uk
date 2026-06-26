@@ -260,7 +260,12 @@
   "08e1c6b41f563475": "2026-06-27",
   "5ee3194707dfff3a": "2026-06-27",
   "d685ed9603d0281f": "2026-06-27",
-  "faa5434642188dfe": "2026-06-27"
+  "faa5434642188dfe": "2026-06-27",
+  "7e09104f5ac77cfb": "2026-06-27",
+  "3db40cf3c8f6c351": "2026-06-27",
+  "8f4530fd7e8caebe": "2026-06-27",
+  "993b731b9328c62f": "2026-06-27",
+  "801554b26f092e9b": "2026-06-27"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -279,7 +284,7 @@
   "fc102ea5b222e14e": "2026-06-25",
   "6ebc0bd568ad36a6": "2026-06-11",
   "6c08b5b1b064a89c": "2026-06-25",
-  "a1f32e9b86b94af6": "2026-06-08",
+  "a1f32e9b86b94af6": "2026-06-27",
   "d900519f16045d43": "2026-06-09",
   "661d8ec83dd727b8": "2026-06-12",
   "cea4b2511e892621": "2026-06-09",
@@ -592,17 +597,15 @@
   "6802d314229c2c6c": "2026-06-27",
   "04d897e302221c3d": "2026-06-27",
   "1f17c740e5b3686a": "2026-06-27",
-  "7a7acf9a78810b29": "2026-06-27"
+  "7a7acf9a78810b29": "2026-06-27",
+  "b7c0431bce1efd65": "2026-06-27",
+  "b03f53b7cdd8c386": "2026-06-27",
+  "10d9844d71f18b80": "2026-06-27",
+  "908c79d43b44a0c5": "2026-06-27",
+  "4c7105b71db26a77": "2026-06-27"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Gardening experts are championing the benefits of 'container gardening' for those with limited space.",
-   "A charming trend sees people embracing the art of 'letter writing' once again, sending thoughtful notes to loved ones.",
-   "Research into 'memory lane' moments suggests that certain everyday sounds are particularly good at triggering nostalgic feelings.",
-   "The humble 'picnic' is being celebrated as a perfect way to enjoy the outdoors and good company without much fuss.",
-   "A new appreciation for 'star gazing' is encouraging more of us to look up at the night sky.",
-   "A new trend is seeing people embracing 'slow travel' to truly immerse themselves in local cultures.",
-   "The simple pleasure of 'baking bread' from scratch is experiencing a surprising resurgence in popularity.",
    "Experts are suggesting that collecting and pressing 'wildflowers' is a delightful way to reconnect with nature.",
    "The charm of 'second-hand books' is winning over more readers, moving beyond just thriftiness.",
    "A recent study highlights the mood-boosting power of 'sunlight' – even on cloudy days.",
@@ -635,11 +638,16 @@
    "Experts are highlighting the benefits of a 'digital detox', encouraging short breaks from screens for better well-being.",
    "The charm of 'letter writing' is making a small but significant comeback, with more individuals choosing pen and paper over digital messages.",
    "A new appreciation for 'local markets' is blossoming, with more people seeking out fresh, artisan produce and unique crafts.",
-   "The humble 'packed lunch' is getting a gourmet makeover, with more people opting for homemade, healthy, and exciting midday meals."
+   "The humble 'packed lunch' is getting a gourmet makeover, with more people opting for homemade, healthy, and exciting midday meals.",
+   "Gardeners are finding new joy in growing their own 'microgreens' indoors.",
+   "The trend of 'silent discos' is moving beyond festivals and into everyday celebrations.",
+   "A surge in popularity for 'vintage fountain pens' is delighting calligraphy enthusiasts.",
+   "More people are embracing the simple pleasure of 'picnic planning' with a modern twist.",
+   "The art of 'patchwork quilting' is seeing a vibrant resurgence among craft lovers.",
+   "The calming pastime of 'birdwatching' is attracting a new generation of enthusiasts.",
+   "Home bakers are experimenting with 'sourdough starters' at an unprecedented rate."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'tidying' what on a hotel breakfast buffet, even if it's not our job?",
-   "Our survey said that over 55% of us admit to having a specific 'ritual' when making a cup of tea or coffee that we absolutely must follow. What is it?",
    "Our survey said that over 50% of us admit to discreetly 'correcting' what in a public place, even if it's not our responsibility?",
    "A recent poll asked Brits what small, everyday 'achievement' instantly makes them feel accomplished and satisfied. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'tidying' what in a restaurant, even if it's not our table?",
@@ -677,11 +685,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're in a public toilet, even if there's no one else around?",
    "Our survey said that over 55% of us admit to having a particular 'item of clothing' that we absolutely refuse to throw away, even though it's seen better days?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks when we're folding laundry, even though we know it's not very efficient?",
-   "A recent poll asked Brits what small, everyday 'sound' instantly makes them feel cosy and content. What came out on top?"
+   "A recent poll asked Brits what small, everyday 'sound' instantly makes them feel cosy and content. What came out on top?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
+   "Our survey said that over 55% of us admit to having a particular 'song' that we absolutely have to sing along to, no matter where we are?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
-   "We all have those little 'shortcuts' we take in life, don't we? Things we've discovered that make a task quicker, easier, or just a bit more efficient.",
    "You know how sometimes a particular 'colour' just instantly makes you feel happy, calm, or energetic?",
    "We all have those little 'rituals' we stick to, especially when preparing for a special occasion or a big event, don't we?",
    "You know how sometimes a particular 'sound' just instantly makes you feel calm, or happy, or nostalgic?",
@@ -719,17 +727,11 @@
    "We all have those little 'comfort foods' that instantly make us feel better, don't we?",
    "You know how sometimes you pick up a 'new skill' or 'hobby' later in life and wonder why you didn't start sooner?",
    "You know how sometimes you try a 'new recipe' that sounds a bit adventurous, and it turns out to be an absolute revelation?",
-   "We all have those 'little rituals' or 'habits' that just make our day feel right, don't we?"
+   "We all have those 'little rituals' or 'habits' that just make our day feel right, don't we?",
+   "You know how sometimes you try a 'new tea or coffee' blend and it completely changes your morning routine for the better?",
+   "We all have those 'little rituals' we do before heading out for the day, don't we?"
   ],
   "facts": [
-   "A group of flamingos is called a flamboyance.",
-   "The world's oldest known living tree is over 5,000 years old and is located in California.",
-   "Cows don't have upper front teeth; they have a dental pad instead.",
-   "The Great Wall of China is not visible from space with the naked eye.",
-   "A standard golf ball has 336 dimples.",
-   "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
-   "There are more permutations of a Rubik's Cube than there are atoms in the observable universe.",
-   "Butterflies taste with their feet.",
    "The British Isles are home to over 100 different types of native trees.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The world's first public park was Birkenhead Park in Merseyside, inspiring New York's Central Park.",
@@ -761,7 +763,15 @@
    "It is impossible for most people to lick their own elbow.",
    "The fear of long words is called hippopotomonstrosesquippedaliophobia.",
    "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
-   "A group of owls is called a 'parliament'."
+   "A group of owls is called a 'parliament'.",
+   "Penguins have an organ above their eyes that converts saltwater into freshwater.",
+   "The Great Barrier Reef is the only living thing on Earth visible from space.",
+   "The 'unicorn' is the national animal of Scotland.",
+   "The world's oldest known piece of chewing gum is 9,000 years old.",
+   "The average cloud weighs about 550 tons, roughly the same as 100 elephants.",
+   "There are more possible chess game outcomes than there are atoms in the observable universe.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "Strawberries are the only fruit with seeds on the outside."
   ]
  }
 }
