@@ -265,7 +265,12 @@
   "3db40cf3c8f6c351": "2026-06-27",
   "8f4530fd7e8caebe": "2026-06-27",
   "993b731b9328c62f": "2026-06-27",
-  "801554b26f092e9b": "2026-06-27"
+  "801554b26f092e9b": "2026-06-27",
+  "9f67347675e0480d": "2026-06-28",
+  "d8f4764ae2f147be": "2026-06-28",
+  "9ed6ffed04f1bc81": "2026-06-28",
+  "c8c414b7ef28f520": "2026-06-28",
+  "59618f22693bb319": "2026-06-28"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -297,7 +302,7 @@
   "0570a96a7df7df60": "2026-06-09",
   "a6b56537a2030c78": "2026-06-10",
   "997a4f453699071e": "2026-06-11",
-  "b4425b860894481e": "2026-06-10",
+  "b4425b860894481e": "2026-06-28",
   "ca38a3d68f26c0e5": "2026-06-10",
   "87c97943d0c8e40a": "2026-06-10",
   "f691d3a7531be994": "2026-06-10",
@@ -380,11 +385,13 @@
   "7fe1ed66dfcb4125": "2026-06-26",
   "7cf05d3132a16305": "2026-06-26",
   "621f507ca594588d": "2026-06-26",
-  "adcaab01e2f2180d": "2026-06-27",
+  "adcaab01e2f2180d": "2026-06-28",
   "9b6149ab7f00ef74": "2026-06-27",
   "ee3367793e281f66": "2026-06-27",
-  "a6a6356944544051": "2026-06-27",
-  "4d2300a0f11a806e": "2026-06-27"
+  "a6a6356944544051": "2026-06-28",
+  "4d2300a0f11a806e": "2026-06-27",
+  "cf9cb08f6a8f876e": "2026-06-28",
+  "fce4630c53a8dbbb": "2026-06-28"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -602,17 +609,15 @@
   "b03f53b7cdd8c386": "2026-06-27",
   "10d9844d71f18b80": "2026-06-27",
   "908c79d43b44a0c5": "2026-06-27",
-  "4c7105b71db26a77": "2026-06-27"
+  "4c7105b71db26a77": "2026-06-27",
+  "07ce49343e9fa2ea": "2026-06-28",
+  "abd687a778b5050d": "2026-06-28",
+  "e7ae719c3d5c2b3a": "2026-06-28",
+  "aba56a89820bbbbb": "2026-06-28",
+  "1e6eda50d60d6db9": "2026-06-28"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are suggesting that collecting and pressing 'wildflowers' is a delightful way to reconnect with nature.",
-   "The charm of 'second-hand books' is winning over more readers, moving beyond just thriftiness.",
-   "A recent study highlights the mood-boosting power of 'sunlight' – even on cloudy days.",
-   "The art of 'jam making' is making a sweet comeback in many British kitchens.",
-   "There's a growing enthusiasm for 'open-air cinema' experiences as summer approaches.",
-   "A new appreciation for 'community gardens' is blossoming across the UK.",
-   "The trend of 'upcycling old furniture' is gaining momentum, transforming forgotten pieces into stylish home additions.",
    "Experts are suggesting that indulging in a 'midday nap' could be the secret to increased productivity and a brighter mood.",
    "A delightful new study indicates that spending time near 'water features' like fountains or streams can significantly reduce stress.",
    "The simple joy of 'board games' is making a big comeback, bringing families and friends together for offline fun.",
@@ -645,11 +650,16 @@
    "More people are embracing the simple pleasure of 'picnic planning' with a modern twist.",
    "The art of 'patchwork quilting' is seeing a vibrant resurgence among craft lovers.",
    "The calming pastime of 'birdwatching' is attracting a new generation of enthusiasts.",
-   "Home bakers are experimenting with 'sourdough starters' at an unprecedented rate."
+   "Home bakers are experimenting with 'sourdough starters' at an unprecedented rate.",
+   "A recent study found that listening to certain types of music can significantly improve plant growth.",
+   "The trend of 'library lending' for unusual items is gaining traction across the UK.",
+   "More people are discovering the meditative benefits of 'forest bathing', or 'shinrin-yoku' as it's known in Japan.",
+   "The humble 'teatowel' is having a moment, with designers creating artistic and personalised versions.",
+   "A surge in popularity for 'community gardening projects' is bringing neighbours closer together.",
+   "Researchers are exploring the fascinating link between 'dream recall' and daily creativity.",
+   "The joy of 'upcycling old furniture' is captivating many, turning forgotten pieces into cherished treasures."
   ],
   "survey": [
-   "Our survey said that over 50% of us admit to discreetly 'correcting' what in a public place, even if it's not our responsibility?",
-   "A recent poll asked Brits what small, everyday 'achievement' instantly makes them feel accomplished and satisfied. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'tidying' what in a restaurant, even if it's not our table?",
    "A recent poll asked Brits what small, everyday 'discovery' instantly brightens their day. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'naming' what in our homes, even if it's just a funny nickname?",
@@ -687,11 +697,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks when we're folding laundry, even though we know it's not very efficient?",
    "A recent poll asked Brits what small, everyday 'sound' instantly makes them feel cosy and content. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
-   "Our survey said that over 55% of us admit to having a particular 'song' that we absolutely have to sing along to, no matter where we are?"
+   "Our survey said that over 55% of us admit to having a particular 'song' that we absolutely have to sing along to, no matter where we are?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying on clothes in a shop, just to see how they really look?",
+   "Our survey said that over 65% of us admit to having a particular 'word' or 'phrase' that we always mispronounce, even though we know the correct way?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'colour' just instantly makes you feel happy, calm, or energetic?",
-   "We all have those little 'rituals' we stick to, especially when preparing for a special occasion or a big event, don't we?",
    "You know how sometimes a particular 'sound' just instantly makes you feel calm, or happy, or nostalgic?",
    "We all have those little 'traditions' we stick to, especially when the weather starts to improve, don't we?",
    "You know how sometimes you spot a specific 'type of cloud' in the sky, and it just instantly catches your eye or brings back a memory?",
@@ -729,17 +739,11 @@
    "You know how sometimes you try a 'new recipe' that sounds a bit adventurous, and it turns out to be an absolute revelation?",
    "We all have those 'little rituals' or 'habits' that just make our day feel right, don't we?",
    "You know how sometimes you try a 'new tea or coffee' blend and it completely changes your morning routine for the better?",
-   "We all have those 'little rituals' we do before heading out for the day, don't we?"
+   "We all have those 'little rituals' we do before heading out for the day, don't we?",
+   "You know how sometimes you discover a 'hidden gem' of a local shop or cafe that you just can't believe you hadn't noticed before?",
+   "We all have those little 'comfort sounds' that instantly make us feel relaxed and at home, don't we?"
   ],
   "facts": [
-   "The British Isles are home to over 100 different types of native trees.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The world's first public park was Birkenhead Park in Merseyside, inspiring New York's Central Park.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
-   "Astronauts grow taller in space due to the lack of gravity decompressing their spines.",
-   "The original purpose of chewing gum was to quench thirst and stave off hunger.",
-   "The 'clink' of glasses when toasting originated from a time when people would clink their glasses together hard enough to spill a little into each other's drink, to prove no one was poisoning anyone.",
    "The world's first successful passenger railway opened in Stockton and Darlington in 1825.",
    "A group of owls is called a parliament.",
    "The inventor of the Pringles can, Fredric Baur, was buried in one.",
@@ -771,7 +775,15 @@
    "The average cloud weighs about 550 tons, roughly the same as 100 elephants.",
    "There are more possible chess game outcomes than there are atoms in the observable universe.",
    "A bolt of lightning is five times hotter than the surface of the sun.",
-   "Strawberries are the only fruit with seeds on the outside."
+   "Strawberries are the only fruit with seeds on the outside.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+   "The world's largest snowflake on record was 15 inches wide and 8 inches thick, reported in Montana, USA, in 1887.",
+   "The 'richest' soil on Earth is found in the Amazon rainforest, where a single teaspoon can contain more organisms than there are people on Earth.",
+   "The first successful photograph of a human being was taken in 1838 by Louis Daguerre, though the person was simply having their shoes shined.",
+   "The 'Punt' in a wine bottle refers to the indentation at the bottom, which adds strength and makes pouring easier.",
+   "A 'jiffy' is an actual unit of time, defined as 1/100th of a second, particularly in physics.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Cracking your knuckles does not cause arthritis; the sound is simply gas bubbles bursting in the synovial fluid of your joints."
   ]
  }
 }
