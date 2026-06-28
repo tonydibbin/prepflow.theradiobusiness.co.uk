@@ -275,7 +275,12 @@
   "de8dd03bc1d25f4f": "2026-06-28",
   "e7dbc0aae13a17fd": "2026-06-28",
   "bba25dbb209733b2": "2026-06-28",
-  "89b057df3dadb512": "2026-06-28"
+  "89b057df3dadb512": "2026-06-28",
+  "86391f45ba931264": "2026-06-29",
+  "692f05be3d6f98cb": "2026-06-29",
+  "a13ac0986b6d771d": "2026-06-29",
+  "33b16ca14ea5c1f6": "2026-06-29",
+  "f59f4df63cef7e09": "2026-06-29"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -316,7 +321,7 @@
   "fcf40d9df1c7bc34": "2026-06-12",
   "90559484be2cb487": "2026-06-11",
   "a231ba0a5eb7d27e": "2026-06-13",
-  "4e55648f3c305e30": "2026-06-12",
+  "4e55648f3c305e30": "2026-06-29",
   "0ba05224b6ea2d61": "2026-06-12",
   "3b38ed7fe5b8cfd9": "2026-06-13",
   "0b43608bdd528091": "2026-06-13",
@@ -393,10 +398,12 @@
   "adcaab01e2f2180d": "2026-06-28",
   "9b6149ab7f00ef74": "2026-06-27",
   "ee3367793e281f66": "2026-06-28",
-  "a6a6356944544051": "2026-06-28",
-  "4d2300a0f11a806e": "2026-06-28",
+  "a6a6356944544051": "2026-06-29",
+  "4d2300a0f11a806e": "2026-06-29",
   "cf9cb08f6a8f876e": "2026-06-28",
-  "fce4630c53a8dbbb": "2026-06-28"
+  "fce4630c53a8dbbb": "2026-06-28",
+  "57aab0b06a4d3b9c": "2026-06-29",
+  "a91b0195c2bcbfc2": "2026-06-29"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -624,17 +631,15 @@
   "5b167fe19b94d19e": "2026-06-28",
   "9fa516d45b327a95": "2026-06-28",
   "b92150e9f566dc8a": "2026-06-28",
-  "dbf8db3885a11a02": "2026-06-28"
+  "dbf8db3885a11a02": "2026-06-28",
+  "26272097761886e4": "2026-06-29",
+  "b320b9412440baf0": "2026-06-29",
+  "969802121c4199af": "2026-06-29",
+  "ea1070bb4ecfdcd6": "2026-06-29",
+  "5956bf57ba5cf284": "2026-06-29"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A recent study suggests that listening to 'podcasts' while doing chores can make household tasks feel much less like a burden.",
-   "More Brits are finding serenity in the art of 'cloud watching', turning sky-gazing into a mindful moment.",
-   "The enduring appeal of 'vintage vinyl records' continues to spin, with sales seeing a resurgence among music lovers.",
-   "Experts are highlighting the benefits of a 'digital detox', encouraging short breaks from screens for better well-being.",
-   "A new appreciation for 'local markets' is blossoming, with more people seeking out fresh, artisan produce.",
-   "Gardeners across the UK are finding creative ways to attract more wildlife to their outdoor spaces.",
-   "The humble 'packed lunch' is getting a gourmet makeover, with more people opting for homemade, healthy, and exciting midday meals.",
    "A new trend sees people embracing the simple joy of 'stargazing', turning dark nights into magical celestial shows.",
    "The art of 'upcycling old furniture' is experiencing a renewed popularity, giving pre-loved pieces a new lease of life.",
    "Experts are suggesting that indulging in 'mindful walking' could be the key to boosting both physical and mental well-being.",
@@ -667,11 +672,16 @@
    "A study reveals that the colour of your coffee mug can actually influence how you perceive its taste.",
    "The art of 'pressed flower crafts' is blooming again, captivating a new generation of enthusiasts.",
    "Experts are highlighting the surprising benefits of 'daydreaming' for creativity and problem-solving.",
-   "The popularity of 'board game cafes' is soaring, offering a social alternative to traditional pubs."
+   "The popularity of 'board game cafes' is soaring, offering a social alternative to traditional pubs.",
+   "A new study suggests that the simple act of looking at clouds can significantly reduce stress levels.",
+   "The trend of 'micro-adventures' is gaining momentum, with more people embracing short, local escapades.",
+   "Experts are highlighting the benefits of 'soundscaping' for creating a more peaceful home environment.",
+   "The resurgence of 'vintage board games' is bringing families together for screen-free fun.",
+   "More people are discovering the joy and creativity of 'found object art'.",
+   "The simple pleasure of 'writing postcards' is experiencing a charming revival.",
+   "Researchers are exploring how 'colour therapy' can subtly influence our daily moods."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'naming' what in our homes, even if it's just a funny nickname?",
-   "A recent poll asked Brits what small, everyday 'victory' instantly makes them feel clever and accomplished. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in a supermarket, just to make it look neater?",
    "Our survey said that over 55% of us admit to having a specific 'greeting' or 'farewell' phrase we use with our pets, even if they don't quite understand?",
    "Our survey said that over 60% of us admit to secretly 'rehearsing' what in front of a mirror, just to make sure we've got it right?",
@@ -709,11 +719,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying on clothes in a shop, just to see how they really look?",
    "Our survey said that over 65% of us admit to having a particular 'word' or 'phrase' that we always mispronounce, even though we know the correct way?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're alone in the house, even though we know we probably look a bit silly?",
-   "Our survey said that over 55% of us admit to having a particular 'mug' that we absolutely have to use for our morning tea or coffee. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'mug' that we absolutely have to use for our morning tea or coffee. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what with our shopping trolleys when we're walking back to the car, even if there are people watching?",
+   "Our survey said that over 50% of us admit to having a particular 'vegetable' that we absolutely loved as a child, but now can't stand. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you spot a specific 'type of cloud' in the sky, and it just instantly catches your eye or brings back a memory?",
-   "We all have those certain 'comfort' foods, don't we? Things we turn to when we need a bit of a pick-me-up or a taste of nostalgia.",
    "You know how sometimes you discover a new 'local gem' – a little shop, a cafe, or a park – that you wish you'd known about sooner?",
    "We all have those 'unwritten rules' in life, don't we? Things that aren't officially rules, but we all just sort of know to do or not do.",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment in time?",
@@ -751,17 +761,11 @@
    "You know how sometimes you discover a 'hidden gem' of a local shop or cafe that you just can't believe you hadn't noticed before?",
    "We all have those little 'comfort sounds' that instantly make us feel relaxed and at home, don't we?",
    "We all have those little 'sound triggers' that instantly transport us back to a specific memory or feeling, don't we?",
-   "You know how sometimes you try a 'new way of doing things' around the house, and it turns out to be an absolute game-changer?"
+   "You know how sometimes you try a 'new way of doing things' around the house, and it turns out to be an absolute game-changer?",
+   "We all have those 'little habits' that we picked up from our parents, don't we?",
+   "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?"
   ],
   "facts": [
-   "The Great Fire of London in 1666 stopped at Pudding Lane where it started, thanks to a change in wind direction.",
-   "Bumblebees can fly higher than Mount Everest.",
-   "The world's oldest known recipe is for beer, dating back to ancient Mesopotamia.",
-   "Flamingos get their pink colour from the food they eat, particularly brine shrimp.",
-   "The British monarch technically owns all the unmarked swans in open water in England and Wales.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "A group of ferrets is called a 'business'.",
-   "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
    "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
    "Butterflies taste with their feet.",
@@ -793,7 +797,15 @@
    "The Great Barrier Reef is so vast that it can be seen from outer space, stretching for over 2,300 kilometres (1,400 miles) off the coast of Queensland, Australia.",
    "A newborn kangaroo is about the size of a jelly bean when it is born.",
    "The 'Panda's thumb' is not a true digit but an elongated wrist bone that acts like a thumb, helping it grip bamboo.",
-   "The distinctive stripes on a zebra are like human fingerprints – no two zebras have the exact same pattern."
+   "The distinctive stripes on a zebra are like human fingerprints – no two zebras have the exact same pattern.",
+   "The 'ears' on a cat are controlled by 32 individual muscles, allowing them to swivel 180 degrees.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The shortest complete English sentence is believed to be 'Go.'",
+   "The world's largest known snowflake was reported to be 38 cm (15 inches) wide and 20 cm (8 inches) thick.",
+   "A group of owls is called a 'parliament'.",
+   "The 'smell of rain' has a specific name: petrichor, caused by a combination of plant oils and bacterial spores.",
+   "You can tell the age of a fish by the number of growth rings on its scales, similar to trees.",
+   "The 'untrimmed wick' on a candle can create a mushroom-shaped carbon deposit, making the flame flicker and smoke."
   ]
  }
 }
