@@ -311,7 +311,12 @@
   "24a72e2a84679d4b": "2026-07-01",
   "7e9d3e9a22dab68c": "2026-07-01",
   "a4a1cdbfadf85946": "2026-07-01",
-  "d37ed8c59102b7d3": "2026-07-01"
+  "d37ed8c59102b7d3": "2026-07-01",
+  "ed7cd6d1d1fce10e": "2026-07-01",
+  "a350e648de77a90c": "2026-07-01",
+  "9ebdd6d128ccee19": "2026-07-01",
+  "b4bf92e7af2e6e45": "2026-07-01",
+  "1e878e1e1465b690": "2026-07-01"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -442,7 +447,12 @@
   "1e878e1e1465b690": "2026-07-01",
   "bb583a4c8d16434e": "2026-07-01",
   "7a1e627fe65f9099": "2026-07-01",
-  "8a06579a5404f598": "2026-07-01"
+  "8a06579a5404f598": "2026-07-01",
+  "dd14c068631df062": "2026-07-01",
+  "55c08b622b6c474e": "2026-07-01",
+  "b7f01aa74064e0e3": "2026-07-01",
+  "ea93a876962bb7dc": "2026-07-01",
+  "82bcd1a82a3188d5": "2026-07-01"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -695,17 +705,15 @@
   "206848587af274c5": "2026-07-01",
   "ad136537ef913bc6": "2026-07-01",
   "6b4f9c864083623b": "2026-07-01",
-  "0b987d1f09107cfd": "2026-07-01"
+  "0b987d1f09107cfd": "2026-07-01",
+  "cba113d65e385cef": "2026-07-01",
+  "47ad0ab181af604c": "2026-07-01",
+  "bb33ec9e7dd2b572": "2026-07-01",
+  "10cbce4265a1e2a6": "2026-07-01",
+  "52e386854d0e87b2": "2026-07-01"
  },
  "_ai_recent": {
   "newsbrief": [
-   "More people are discovering the meditative benefits of 'forest bathing', or 'shinrin-yoku' as it's known in Japan.",
-   "The humble 'teatowel' is having a moment, with designers creating artistic and personalised versions.",
-   "A surge in popularity for 'community gardening projects' is bringing neighbours closer together.",
-   "Researchers are exploring the fascinating link between 'dream recall' and daily creativity.",
-   "The joy of 'upcycling old furniture' is captivating many, turning forgotten pieces into cherished treasures.",
-   "A new trend sees people transforming old phone boxes into mini libraries and art galleries.",
-   "Researchers suggest that listening to rain sounds can significantly boost concentration and relaxation.",
    "The simple pleasure of 'baking bread from scratch' is experiencing a big revival.",
    "A study reveals that the colour of your coffee mug can actually influence how you perceive its taste.",
    "The art of 'pressed flower crafts' is blooming again, captivating a new generation of enthusiasts.",
@@ -738,11 +746,16 @@
    "A new trend sees people embracing 'foraging for wild ingredients' to add unique flavours to their cooking.",
    "Researchers highlight the benefits of 'walking barefoot on grass' for improving posture and reducing foot pain.",
    "The art of 'collecting vinyl records' is seeing a vibrant resurgence among music enthusiasts of all ages.",
-   "More people are finding creative joy in 'mending and repairing clothes' rather than simply replacing them."
+   "More people are finding creative joy in 'mending and repairing clothes' rather than simply replacing them.",
+   "Scientists are exploring the fascinating world of 'plant communication' and finding that trees can 'talk' to each other.",
+   "The simple pleasure of 'window shopping' is being highlighted as a free and cheerful way to lift your spirits.",
+   "A renewed interest in 'local history walks' is helping communities uncover fascinating stories right on their doorsteps.",
+   "The humble 'doorstep delivery' from local greengrocers is seeing a resurgence, bringing fresh produce directly to homes.",
+   "Embracing the charm of 'second-hand bookshops' is becoming a popular pastime for many.",
+   "The delightful art of 'homemade lemonade' is making a refreshing comeback in kitchens across the country.",
+   "Researchers are noting the positive impact of 'communal gardening projects' on both mental well-being and local environments."
   ],
   "survey": [
-   "Our survey said that over 50% of us admit to secretly 'rehearsing' what in our heads before we say it out loud?",
-   "A recent poll asked Brits what small, everyday 'task' instantly makes them feel satisfied and organised. What came out on top?",
    "Our survey said that over 50% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
    "A recent poll asked Brits what small, everyday 'moment of quiet' instantly recharges their batteries. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'doing' what to a packet of biscuits before anyone else gets to them?",
@@ -780,11 +793,11 @@
    "Our survey said that over 50% of us admit to secretly 'doing' what with the remote control, even when we're the only one watching?",
    "Our survey said that over 60% of us admit to having a particular 'food combination' that others find a bit strange, but we absolutely love. What is it?",
    "Our survey said that over 60% of us admit to secretly 'naming' what, even though we know they don't really have feelings?",
-   "Our survey said that over 55% of us admit to having a particular 'lucky item' of clothing that they absolutely have to wear on important occasions. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'lucky item' of clothing that they absolutely have to wear on important occasions. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what with our toast, even when we're in a hurry?",
+   "Our survey said that over 65% of us admit to having a particular 'song' that we absolutely have to sing along to, even if we don't know all the words?"
   ],
   "talk_topic": [
-   "You know how sometimes you hear a particular 'word' or 'phrase' that just instantly grates on you, even if it's perfectly innocent?",
-   "We all have those little 'superstitions' or 'rituals' we stick to, even if we don't truly believe in them, just in case!",
    "You know how sometimes you discover a new 'short cut' or a clever 'hack' that just makes a household chore so much easier?",
    "We all have those certain 'little joys' that just instantly brighten our day, don't we? Things that might seem small, but mean a lot to us.",
    "You know how sometimes you hear a 'specific sound' that just instantly brings a smile to your face, or takes you back to a happy memory?",
@@ -822,17 +835,11 @@
    "We all have those 'little bits of kit' around the house that we genuinely couldn't do without, don't we?",
    "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
    "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
-   "We all have those 'little bits of kit' around the house that we genuinely couldn't do without, don't we?"
+   "We all have those 'little bits of kit' around the house that we genuinely couldn't do without, don't we?",
+   "You know how sometimes you try a 'new way of making tea or coffee' – maybe a different type of milk, or a new brewing method – and it completely changes your morning routine for the better?",
+   "We all have those little 'comfort items' that we keep around the house – not necessarily valuable, but they hold a lot of sentimental worth, don't we?"
   ],
   "facts": [
-   "The world's oldest known living tree is a Great Basin bristlecone pine named Methuselah, estimated to be over 4,800 years old, located in the White Mountains of California.",
-   "Bumblebees can fly higher than Mount Everest; they have been observed at altitudes of over 9,000 metres (29,500 feet).",
-   "The 'electric eel' can produce an electric shock of up to 600 volts, enough to knock a horse off its feet.",
-   "Despite their name, 'killer whales' (or orcas) are actually the largest species of dolphin.",
-   "The Great Barrier Reef is so vast that it can be seen from outer space, stretching for over 2,300 kilometres (1,400 miles) off the coast of Queensland, Australia.",
-   "A newborn kangaroo is about the size of a jelly bean when it is born.",
-   "The 'Panda's thumb' is not a true digit but an elongated wrist bone that acts like a thumb, helping it grip bamboo.",
-   "The distinctive stripes on a zebra are like human fingerprints – no two zebras have the exact same pattern.",
    "The 'ears' on a cat are controlled by 32 individual muscles, allowing them to swivel 180 degrees.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The shortest complete English sentence is believed to be 'Go.'",
@@ -864,7 +871,15 @@
    "Pineapples are actually berries, growing from multiple flowers that fuse together.",
    "The smell of freshly cut grass is actually a plant distress signal, released to warn other plants.",
    "Mars is known as the 'Red Planet' due to the iron oxide prevalent on its surface, which is essentially rust.",
-   "The average cloud weighs around 550 tons, roughly the same as 100 elephants."
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The Great Wall of China is not visible from space with the naked eye, contrary to popular belief.",
+   "The world's largest snowflake on record was 15 inches wide and 8 inches thick, observed in Montana, USA, in 1887.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "The national animal of Scotland is the unicorn, a mythical creature symbolising purity and innocence.",
+   "Bananas are technically berries, while strawberries are not, from a botanical perspective.",
+   "It is impossible for most people to lick their own elbow, a fun fact often shared as a challenge.",
+   "The average person walks the equivalent of three times around the world in their lifetime."
   ]
  }
 }
