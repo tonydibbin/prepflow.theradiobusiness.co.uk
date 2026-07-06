@@ -393,7 +393,12 @@
   "bedf1db1713c7a0a": "2026-07-07",
   "5b13fc04da180c98": "2026-07-07",
   "d89ee662f6507101": "2026-07-07",
-  "794f729d693956dc": "2026-07-07"
+  "794f729d693956dc": "2026-07-07",
+  "88ec706bef1a41cd": "2026-07-07",
+  "bad2a171fca753a6": "2026-07-07",
+  "5a09f5f9ceffc6b1": "2026-07-07",
+  "4d282e9dd0dc07c3": "2026-07-07",
+  "1bac0a3dbf2e611b": "2026-07-07"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -557,7 +562,10 @@
   "45f75f3c3f0fb98f": "2026-07-07",
   "3597c0e1f31c2950": "2026-07-05",
   "a168003e28589ef0": "2026-07-05",
-  "27d2d398f8faf792": "2026-07-07"
+  "27d2d398f8faf792": "2026-07-07",
+  "c9844e40222c3729": "2026-07-07",
+  "106f638a1775e7eb": "2026-07-07",
+  "f215bbd1e83eb826": "2026-07-07"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -870,17 +878,15 @@
   "70f8645dbe31dbf5": "2026-07-07",
   "c5cb29a0fca1d0cd": "2026-07-07",
   "6db1ca8cf2aaadfb": "2026-07-07",
-  "1804b14e06ae5617": "2026-07-07"
+  "1804b14e06ae5617": "2026-07-07",
+  "f799a5c47ee9493f": "2026-07-07",
+  "ba7410e25ca3b5b2": "2026-07-07",
+  "c6d3e431bd0a2318": "2026-07-07",
+  "9e17866bf3119ace": "2026-07-07",
+  "b7b5767f77bc1aef": "2026-07-07"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are highlighting the mental health benefits of 'forest bathing', or simply spending mindful time among trees.",
-   "A quirky new trend sees people creating 'miniature indoor gardens' in unconventional containers.",
-   "Research suggests that the simple act of 'waving hello' to neighbours can significantly boost community spirit.",
-   "The surprising joy of 'board game cafes' is growing, offering a relaxed social alternative to traditional pubs.",
-   "Scientists have discovered that certain plants emit a 'squeaking sound' when they are thirsty.",
-   "A new study reveals that listening to the sound of 'babbling brooks' can significantly reduce stress.",
-   "The trend of 'upcycling old furniture' into stylish new pieces is booming across the UK.",
    "Scientists have discovered that 'plants can communicate' with each other through an underground fungal network.",
    "A quirky new poll suggests that over half of Britons admit to 'talking to their houseplants'.",
    "The nostalgic appeal of 'classic board games' is seeing a major revival among families and friends.",
@@ -913,11 +919,16 @@
    "The enduring appeal of 'vintage board games' is bringing families together for screen-free fun.",
    "Researchers have found that listening to the sounds of a crackling fire can actually have a calming effect on your heart rate.",
    "The simple pleasure of 'baking your own bread' is becoming a widespread and satisfying hobby across the country.",
-   "Gardening experts note a growing interest in cultivating 'edible flowers' to add flair to dishes."
+   "Gardening experts note a growing interest in cultivating 'edible flowers' to add flair to dishes.",
+   "The humble art of letter writing is making a quiet comeback, offering a mindful alternative to instant messaging.",
+   "British pet owners are increasingly sharing their snacks with their furry friends, especially during film nights.",
+   "A new trend sees people embracing 'slow cooking' as a way to unwind and enjoy the culinary process.",
+   "Gardeners are finding innovative ways to grow herbs indoors, making fresh flavours accessible all year round.",
+   "Researchers are noting the positive impact of 'nature journaling' on mental well-being.",
+   "The enduring popularity of 'jigsaw puzzles' is bringing families and friends together for screen-free entertainment.",
+   "An emerging trend sees people 'upcycling old furniture' to give it a new lease of life and unique character."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what with our houseplants, even though we know they can't really understand us?",
-   "Our survey said that over 60% of us admit to having a particular 'food' that we absolutely have to have with a cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're in a public toilet, even if there's no one else around?",
    "Our survey said that over 55% of us admit to having a particular 'item of clothing' that we absolutely refuse to throw away, even though it's seen better days?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks when we're folding laundry, even though we know it's not very efficient?",
@@ -955,11 +966,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what with our toast, even if we know it's a bit odd?",
    "Our survey said that over 55% of us admit to having a particular 'route' they absolutely have to take when walking around their local area. What's special about it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with their shopping trolley when it gets a bit wonky, even if they know it doesn't really fix it?",
-   "Our survey said that over 65% of us admit to having a particular 'song' they absolutely have to sing along to, no matter where they are or who's listening?"
+   "Our survey said that over 65% of us admit to having a particular 'song' they absolutely have to sing along to, no matter where they are or who's listening?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what with their socks in the laundry basket, even if they know it doesn't really help?",
+   "Our survey said that over 65% of us admit to having a particular 'mug' that they absolutely have to use for their morning brew. What's special about it?"
   ],
   "talk_topic": [
-   "You know how sometimes you hear a 'jingle' or a 'catchphrase' from an old advert, and it instantly gets stuck in your head for the rest of the day?",
-   "We all have those 'little things' that we collect, don't we? Maybe it's not a grand collection, but just a small gathering of items that bring you joy.",
    "We all have those little 'comfort foods' that instantly make us feel better, don't we?",
    "You know how sometimes you pick up a 'new skill' or 'hobby' later in life and wonder why you didn't start sooner?",
    "You know how sometimes you try a 'new recipe' that sounds a bit adventurous, and it turns out to be an absolute revelation?",
@@ -997,17 +1008,11 @@
    "You know how sometimes you rediscover an 'old board game' from your childhood and it's surprisingly fun to play again?",
    "We all have those 'unusual items' that we keep in our kitchen drawers – not quite sure why, but they're always there, aren't they?",
    "You know how sometimes you discover a 'new local walking path' you've never noticed before, and it feels like finding a hidden gem?",
-   "We all have those 'childhood treats' that instantly transport us back in time with just one bite, don't we?"
+   "We all have those 'childhood treats' that instantly transport us back in time with just one bite, don't we?",
+   "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
+   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?"
   ],
   "facts": [
-   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to the expansion of the iron.",
-   "Bumblebee bats are the smallest mammals in the world, weighing less than a penny.",
-   "The 'tear-drop' shape of a raindrop only occurs when it falls; otherwise, they are spherical.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "Some species of jellyfish are biologically immortal, meaning they can revert to an earlier stage of life and restart their growth.",
-   "The King James Bible is the most published book in history, with over 5 billion copies printed.",
-   "There are more possible permutations of a standard deck of 52 cards than there are atoms on Earth.",
    "The world's oldest known piece of chewing gum is 9,000 years old.",
    "Butterflies taste with their feet.",
    "A 'jiffy' is an actual unit of time: 1/100th of a second.",
@@ -1039,7 +1044,15 @@
    "Octopuses have three hearts.",
    "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
    "Cows have best friends and get stressed when separated from them.",
-   "Hawaii is the only U.S. state that grows coffee."
+   "Hawaii is the only U.S. state that grows coffee.",
+   "The inventor of the Pringles can, Fredric Baur, was so proud of his design that he requested to be buried in one.",
+   "A cloud can weigh more than a million pounds.",
+   "The world's smallest chameleon, Brookesia nana, is about the size of a sunflower seed.",
+   "It is impossible for most people to lick their own elbow.",
+   "Strawberries are the only fruit with seeds on the outside.",
+   "The sound of a whip cracking is actually a tiny sonic boom.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "There are more fake flamingos in the world than real ones."
   ]
  }
 }
