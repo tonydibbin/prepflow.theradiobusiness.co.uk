@@ -398,7 +398,12 @@
   "bad2a171fca753a6": "2026-07-07",
   "5a09f5f9ceffc6b1": "2026-07-07",
   "4d282e9dd0dc07c3": "2026-07-07",
-  "1bac0a3dbf2e611b": "2026-07-07"
+  "1bac0a3dbf2e611b": "2026-07-07",
+  "b4c99962ca7dc450": "2026-07-08",
+  "e295fa9127b1a7ff": "2026-07-08",
+  "52204849c59c8f57": "2026-07-08",
+  "341fd268dc9f123b": "2026-07-08",
+  "8276cb6b4f7fb4b3": "2026-07-08"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -563,9 +568,11 @@
   "3597c0e1f31c2950": "2026-07-05",
   "a168003e28589ef0": "2026-07-05",
   "27d2d398f8faf792": "2026-07-07",
-  "c9844e40222c3729": "2026-07-07",
-  "106f638a1775e7eb": "2026-07-07",
-  "f215bbd1e83eb826": "2026-07-07"
+  "c9844e40222c3729": "2026-07-08",
+  "106f638a1775e7eb": "2026-07-08",
+  "f215bbd1e83eb826": "2026-07-08",
+  "3db6eab0f348c8f8": "2026-07-08",
+  "172107b02918ee7f": "2026-07-08"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -883,17 +890,15 @@
   "ba7410e25ca3b5b2": "2026-07-07",
   "c6d3e431bd0a2318": "2026-07-07",
   "9e17866bf3119ace": "2026-07-07",
-  "b7b5767f77bc1aef": "2026-07-07"
+  "b7b5767f77bc1aef": "2026-07-07",
+  "4822724f11b1855d": "2026-07-08",
+  "ceadf9194ba29fea": "2026-07-08",
+  "e11626f051531c8c": "2026-07-08",
+  "a73684a4339bf686": "2026-07-08",
+  "605d4d0dc7221a85": "2026-07-08"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Scientists have discovered that 'plants can communicate' with each other through an underground fungal network.",
-   "A quirky new poll suggests that over half of Britons admit to 'talking to their houseplants'.",
-   "The nostalgic appeal of 'classic board games' is seeing a major revival among families and friends.",
-   "Research indicates that 'taking a short, brisk walk' in nature can boost your creativity by up to 60%.",
-   "The surprising joy of 'homemade bread making' continues to rise in popularity.",
-   "A new trend sees people embracing 'micro-adventures' close to home.",
-   "The surprising popularity of 'slow living' podcasts is on the rise.",
    "Research suggests that displaying 'personal artwork' in the home can significantly boost mood.",
    "A study highlights the 'comforting power of routine' in modern life.",
    "The 'joy of rediscovering old hobbies' is bringing smiles to many.",
@@ -926,11 +931,16 @@
    "Gardeners are finding innovative ways to grow herbs indoors, making fresh flavours accessible all year round.",
    "Researchers are noting the positive impact of 'nature journaling' on mental well-being.",
    "The enduring popularity of 'jigsaw puzzles' is bringing families and friends together for screen-free entertainment.",
-   "An emerging trend sees people 'upcycling old furniture' to give it a new lease of life and unique character."
+   "An emerging trend sees people 'upcycling old furniture' to give it a new lease of life and unique character.",
+   "A recent study suggests that listening to the gentle hum of a washing machine can be surprisingly calming for some.",
+   "The trend of 'urban foraging' is gaining popularity, with city dwellers discovering edible plants in unexpected places.",
+   "Experts are noting a rise in popularity for 'vintage fountain pens' as a mindful alternative to digital note-taking.",
+   "New research highlights the mood-boosting benefits of 'watching a captivating sunset' on a regular basis.",
+   "The art of 'patchwork quilting' is making a significant comeback, with many finding joy in creating unique fabric designs.",
+   "A growing number of people are embracing 'reading physical maps' again for planning journeys and exploring new areas.",
+   "Scientists have found that looking at 'clouds' and identifying shapes can significantly reduce stress levels."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're in a public toilet, even if there's no one else around?",
-   "Our survey said that over 55% of us admit to having a particular 'item of clothing' that we absolutely refuse to throw away, even though it's seen better days?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks when we're folding laundry, even though we know it's not very efficient?",
    "A recent poll asked Brits what small, everyday 'sound' instantly makes them feel cosy and content. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
@@ -968,11 +978,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what with their shopping trolley when it gets a bit wonky, even if they know it doesn't really fix it?",
    "Our survey said that over 65% of us admit to having a particular 'song' they absolutely have to sing along to, no matter where they are or who's listening?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with their socks in the laundry basket, even if they know it doesn't really help?",
-   "Our survey said that over 65% of us admit to having a particular 'mug' that they absolutely have to use for their morning brew. What's special about it?"
+   "Our survey said that over 65% of us admit to having a particular 'mug' that they absolutely have to use for their morning brew. What's special about it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we hear our favourite song come on the radio, even if we're in public?",
+   "Our survey said that over 65% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?"
   ],
   "talk_topic": [
-   "We all have those little 'comfort foods' that instantly make us feel better, don't we?",
-   "You know how sometimes you pick up a 'new skill' or 'hobby' later in life and wonder why you didn't start sooner?",
    "You know how sometimes you try a 'new recipe' that sounds a bit adventurous, and it turns out to be an absolute revelation?",
    "We all have those 'little rituals' or 'habits' that just make our day feel right, don't we?",
    "You know how sometimes you try a 'new tea or coffee' blend and it completely changes your morning routine for the better?",
@@ -1010,17 +1020,11 @@
    "You know how sometimes you discover a 'new local walking path' you've never noticed before, and it feels like finding a hidden gem?",
    "We all have those 'childhood treats' that instantly transport us back in time with just one bite, don't we?",
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
-   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?"
+   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?",
+   "You know how sometimes you rediscover an 'old childhood toy' that you thought was long gone, and it brings back a flood of memories?",
+   "We all have those 'unusual snacks' that we secretly love but might not admit to readily. Perhaps a funny combination or something a bit retro?"
   ],
   "facts": [
-   "The world's oldest known piece of chewing gum is 9,000 years old.",
-   "Butterflies taste with their feet.",
-   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "There are more fake flamingos in the world than real ones.",
-   "The deepest point in the Earth's oceans, the Mariana Trench, is deeper than Mount Everest is tall.",
-   "A group of flamingos is called a 'flamboyance'.",
    "The Great Barrier Reef is the only living thing on Earth visible from space.",
    "A 'byte' of computer memory is made up of 8 bits.",
    "The average person walks the equivalent of three times around the world in their lifetime.",
@@ -1052,7 +1056,15 @@
    "Strawberries are the only fruit with seeds on the outside.",
    "The sound of a whip cracking is actually a tiny sonic boom.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "There are more fake flamingos in the world than real ones."
+   "There are more fake flamingos in the world than real ones.",
+   "Honey never spoils and can be safe to eat even after thousands of years.",
+   "The Great Wall of China is not visible from space with the naked eye.",
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
+   "Bananas are technically berries, but strawberries are not.",
+   "The strongest muscle in the human body is the masseter, which is the jaw muscle.",
+   "There are more possible permutations of a deck of 52 playing cards than there are atoms on Earth.",
+   "Butterflies taste with their feet, allowing them to 'taste' host plants before laying eggs.",
+   "The world's quietest room is located at Microsoft's headquarters in Washington state."
   ]
  }
 }
