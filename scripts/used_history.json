@@ -403,7 +403,12 @@
   "e295fa9127b1a7ff": "2026-07-08",
   "52204849c59c8f57": "2026-07-08",
   "341fd268dc9f123b": "2026-07-08",
-  "8276cb6b4f7fb4b3": "2026-07-08"
+  "8276cb6b4f7fb4b3": "2026-07-08",
+  "8649f74cc20aa61c": "2026-07-08",
+  "10a3391d30216f8f": "2026-07-08",
+  "ae9df2ae038e42d4": "2026-07-08",
+  "b766485ea4954354": "2026-07-08",
+  "f39660081a3f1a12": "2026-07-08"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -481,7 +486,7 @@
   "2348a9941af64da2": "2026-06-21",
   "5510c02d0c7d85cc": "2026-06-19",
   "bf27700f48f56c4a": "2026-06-23",
-  "6125a2884f763d8b": "2026-06-21",
+  "6125a2884f763d8b": "2026-07-08",
   "83b468d8655dc2bd": "2026-06-20",
   "ec682590f99c7e9c": "2026-06-21",
   "9d6fde0dea2c7f74": "2026-06-21",
@@ -567,7 +572,7 @@
   "45f75f3c3f0fb98f": "2026-07-07",
   "3597c0e1f31c2950": "2026-07-05",
   "a168003e28589ef0": "2026-07-05",
-  "27d2d398f8faf792": "2026-07-07",
+  "27d2d398f8faf792": "2026-07-08",
   "c9844e40222c3729": "2026-07-08",
   "106f638a1775e7eb": "2026-07-08",
   "f215bbd1e83eb826": "2026-07-08",
@@ -895,17 +900,15 @@
   "ceadf9194ba29fea": "2026-07-08",
   "e11626f051531c8c": "2026-07-08",
   "a73684a4339bf686": "2026-07-08",
-  "605d4d0dc7221a85": "2026-07-08"
+  "605d4d0dc7221a85": "2026-07-08",
+  "2ec96c048921aa2d": "2026-07-08",
+  "4eafbfaad9267f88": "2026-07-08",
+  "765b6c47cdc9ed85": "2026-07-08",
+  "dc07007569a0a191": "2026-07-08",
+  "87d6e294d9ee168a": "2026-07-08"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research suggests that displaying 'personal artwork' in the home can significantly boost mood.",
-   "A study highlights the 'comforting power of routine' in modern life.",
-   "The 'joy of rediscovering old hobbies' is bringing smiles to many.",
-   "Experts are noting a surge in interest for 'community gardening projects'.",
-   "A quirky survey reveals the secret satisfaction of 'perfectly organised cupboards'.",
-   "A recent study suggests that the simple act of looking at clouds can significantly reduce stress.",
-   "The surprising charm of 'vintage board games' is seeing a major resurgence among families and friends.",
    "Research indicates that 'taking a short, brisk walk' in a green space can boost your creativity by up to 60%.",
    "The nostalgic appeal of 'classic radio plays' is making a comeback, with many listeners seeking out audio drama for entertainment.",
    "A quirky new poll suggests that over half of Britons admit to 'talking to their plants'.",
@@ -938,11 +941,16 @@
    "New research highlights the mood-boosting benefits of 'watching a captivating sunset' on a regular basis.",
    "The art of 'patchwork quilting' is making a significant comeback, with many finding joy in creating unique fabric designs.",
    "A growing number of people are embracing 'reading physical maps' again for planning journeys and exploring new areas.",
-   "Scientists have found that looking at 'clouds' and identifying shapes can significantly reduce stress levels."
+   "Scientists have found that looking at 'clouds' and identifying shapes can significantly reduce stress levels.",
+   "A new trend sees people embracing 'mindful walking' as a way to connect with their surroundings.",
+   "Researchers are noting the growing popularity of 'community swap shops' for household items.",
+   "The enduring appeal of 'traditional board games' is bringing families and friends together for screen-free entertainment.",
+   "An emerging trend sees people 'hand-making greeting cards' to add a personal touch to their messages.",
+   "A recent study suggests that listening to the gentle sound of 'rain on a windowpane' can be surprisingly calming for some.",
+   "The trend of 'urban gardening on balconies' is gaining popularity, with city dwellers growing herbs and vegetables in small spaces.",
+   "Experts are noting a rise in popularity for 'vintage vinyl records' as a warm alternative to digital music."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with our socks when we're folding laundry, even though we know it's not very efficient?",
-   "A recent poll asked Brits what small, everyday 'sound' instantly makes them feel cosy and content. What came out on top?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
    "Our survey said that over 55% of us admit to having a particular 'song' that we absolutely have to sing along to, no matter where we are?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying on clothes in a shop, just to see how they really look?",
@@ -980,11 +988,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what with their socks in the laundry basket, even if they know it doesn't really help?",
    "Our survey said that over 65% of us admit to having a particular 'mug' that they absolutely have to use for their morning brew. What's special about it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we hear our favourite song come on the radio, even if we're in public?",
-   "Our survey said that over 65% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?"
+   "Our survey said that over 65% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we open a new packet of biscuits, even if we know we shouldn't?",
+   "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to do before leaving the house on a big day. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you try a 'new recipe' that sounds a bit adventurous, and it turns out to be an absolute revelation?",
-   "We all have those 'little rituals' or 'habits' that just make our day feel right, don't we?",
    "You know how sometimes you try a 'new tea or coffee' blend and it completely changes your morning routine for the better?",
    "We all have those 'little rituals' we do before heading out for the day, don't we?",
    "You know how sometimes you discover a 'hidden gem' of a local shop or cafe that you just can't believe you hadn't noticed before?",
@@ -1022,17 +1030,11 @@
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
    "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?",
    "You know how sometimes you rediscover an 'old childhood toy' that you thought was long gone, and it brings back a flood of memories?",
-   "We all have those 'unusual snacks' that we secretly love but might not admit to readily. Perhaps a funny combination or something a bit retro?"
+   "We all have those 'unusual snacks' that we secretly love but might not admit to readily. Perhaps a funny combination or something a bit retro?",
+   "You know how sometimes you rediscover an 'old childhood book' that you thought was long gone, and it brings back a flood of memories?",
+   "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?"
   ],
   "facts": [
-   "The Great Barrier Reef is the only living thing on Earth visible from space.",
-   "A 'byte' of computer memory is made up of 8 bits.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron.",
-   "Polar bears have black skin under their white fur.",
-   "The world's smallest continent is Australia.",
-   "The human nose can remember 50,000 different scents.",
-   "Hot water freezes faster than cold water – this is known as the Mpemba effect.",
    "A group of owls is called a 'parliament'.",
    "The inventor of the Pringles can is buried in one.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
@@ -1064,7 +1066,15 @@
    "The strongest muscle in the human body is the masseter, which is the jaw muscle.",
    "There are more possible permutations of a deck of 52 playing cards than there are atoms on Earth.",
    "Butterflies taste with their feet, allowing them to 'taste' host plants before laying eggs.",
-   "The world's quietest room is located at Microsoft's headquarters in Washington state."
+   "The world's quietest room is located at Microsoft's headquarters in Washington state.",
+   "The inventor of the frisbee was cremated and his ashes were moulded into frisbees.",
+   "The shortest complete sentence in the English language is 'I am'.",
+   "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "Cows don't have upper front teeth; instead, they have a tough dental pad.",
+   "The world's largest snowflake on record was 15 inches wide and 8 inches thick, observed in Montana in 1887.",
+   "Mount Everest grows by about 4 millimetres every year due to geological uplift.",
+   "The only letter that doesn't appear in any U.S. state name is 'Q'."
   ]
  }
 }
