@@ -408,7 +408,12 @@
   "10a3391d30216f8f": "2026-07-08",
   "ae9df2ae038e42d4": "2026-07-08",
   "b766485ea4954354": "2026-07-08",
-  "f39660081a3f1a12": "2026-07-08"
+  "f39660081a3f1a12": "2026-07-08",
+  "e3acfaab74bca8ff": "2026-07-09",
+  "b9dfa130de680ac5": "2026-07-09",
+  "da340742141165fb": "2026-07-09",
+  "f0e07c857216e331": "2026-07-09",
+  "170abf350041fdee": "2026-07-09"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -577,7 +582,12 @@
   "106f638a1775e7eb": "2026-07-08",
   "f215bbd1e83eb826": "2026-07-08",
   "3db6eab0f348c8f8": "2026-07-08",
-  "172107b02918ee7f": "2026-07-08"
+  "172107b02918ee7f": "2026-07-08",
+  "e4667fe7edd5b955": "2026-07-09",
+  "a6235c8476010332": "2026-07-09",
+  "3244273a52404986": "2026-07-09",
+  "d2340335c9af3730": "2026-07-09",
+  "16046f8e2d752134": "2026-07-09"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -905,17 +915,15 @@
   "4eafbfaad9267f88": "2026-07-08",
   "765b6c47cdc9ed85": "2026-07-08",
   "dc07007569a0a191": "2026-07-08",
-  "87d6e294d9ee168a": "2026-07-08"
+  "87d6e294d9ee168a": "2026-07-08",
+  "72e43933c285671b": "2026-07-09",
+  "2a48a66a48b01ecf": "2026-07-09",
+  "bf2e635eee637620": "2026-07-09",
+  "ba34b161ac47b326": "2026-07-09",
+  "482c568c719e2203": "2026-07-09"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research indicates that 'taking a short, brisk walk' in a green space can boost your creativity by up to 60%.",
-   "The nostalgic appeal of 'classic radio plays' is making a comeback, with many listeners seeking out audio drama for entertainment.",
-   "A quirky new poll suggests that over half of Britons admit to 'talking to their plants'.",
-   "Scientists have discovered that 'trees in a forest can communicate' with each other through an underground network of fungi.",
-   "The unexpected joy of 'stargazing in your own garden' is becoming a popular evening activity.",
-   "The surprising pleasure of a perfectly organised pantry is gaining traction.",
-   "Scientists have found that listening to the sound of rain can genuinely lower stress levels.",
    "The simple act of writing a letter is making a heartfelt comeback.",
    "A study reveals that people who regularly visit local markets report higher levels of happiness.",
    "The charm of collecting vinyl records is experiencing a noticeable resurgence.",
@@ -948,11 +956,16 @@
    "An emerging trend sees people 'hand-making greeting cards' to add a personal touch to their messages.",
    "A recent study suggests that listening to the gentle sound of 'rain on a windowpane' can be surprisingly calming for some.",
    "The trend of 'urban gardening on balconies' is gaining popularity, with city dwellers growing herbs and vegetables in small spaces.",
-   "Experts are noting a rise in popularity for 'vintage vinyl records' as a warm alternative to digital music."
+   "Experts are noting a rise in popularity for 'vintage vinyl records' as a warm alternative to digital music.",
+   "A new study reveals the surprising comfort many find in listening to the distant rumble of a train.",
+   "The simple act of 'doodling during meetings' is being hailed as a way to boost focus and memory.",
+   "Interest in 'foraging for wild berries and mushrooms' is seeing a gentle resurgence across the UK.",
+   "The delightful trend of 'decorating letterboxes' for special occasions is adding a touch of cheer to neighbourhoods.",
+   "New research highlights the positive impact of 'spotting rainbows' on our daily mood.",
+   "The humble 'hot water bottle' is being championed as a timeless eco-friendly comfort item.",
+   "A growing number of people are discovering the meditative benefits of 'watching fish in an aquarium'."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with our houseplants, even though we know they can't understand us?",
-   "Our survey said that over 55% of us admit to having a particular 'song' that we absolutely have to sing along to, no matter where we are?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying on clothes in a shop, just to see how they really look?",
    "Our survey said that over 65% of us admit to having a particular 'word' or 'phrase' that we always mispronounce, even though we know the correct way?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're alone in the house, even though we know we probably look a bit silly?",
@@ -990,11 +1003,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we hear our favourite song come on the radio, even if we're in public?",
    "Our survey said that over 65% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we open a new packet of biscuits, even if we know we shouldn't?",
-   "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to do before leaving the house on a big day. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to do before leaving the house on a big day. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what with their shopping list, even if they know they've already memorised it?",
+   "Our survey said that over 55% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?"
   ],
   "talk_topic": [
-   "You know how sometimes you try a 'new tea or coffee' blend and it completely changes your morning routine for the better?",
-   "We all have those 'little rituals' we do before heading out for the day, don't we?",
    "You know how sometimes you discover a 'hidden gem' of a local shop or cafe that you just can't believe you hadn't noticed before?",
    "We all have those little 'comfort sounds' that instantly make us feel relaxed and at home, don't we?",
    "We all have those little 'sound triggers' that instantly transport us back to a specific memory or feeling, don't we?",
@@ -1032,17 +1045,11 @@
    "You know how sometimes you rediscover an 'old childhood toy' that you thought was long gone, and it brings back a flood of memories?",
    "We all have those 'unusual snacks' that we secretly love but might not admit to readily. Perhaps a funny combination or something a bit retro?",
    "You know how sometimes you rediscover an 'old childhood book' that you thought was long gone, and it brings back a flood of memories?",
+   "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?",
+   "You know how sometimes you rediscover an 'old childhood board game' that you thought was long gone, and it brings back a flood of memories?",
    "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?"
   ],
   "facts": [
-   "A group of owls is called a 'parliament'.",
-   "The inventor of the Pringles can is buried in one.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
-   "Bananas are technically berries, but strawberries are not.",
-   "There are more permutations of a standard deck of 52 playing cards than there are atoms on Earth.",
-   "The 'sixth sick sheik's sixth sheep's sick' is thought to be the toughest tongue twister in the English language.",
-   "The world's largest snowflake ever recorded was 15 inches wide and 8 inches thick, falling in Montana in 1887.",
-   "The human eye can distinguish approximately 10 million different colours.",
    "A group of flamingos is called a 'flamboyance'.",
    "Butterflies taste with their feet.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
@@ -1074,7 +1081,15 @@
    "Cows don't have upper front teeth; instead, they have a tough dental pad.",
    "The world's largest snowflake on record was 15 inches wide and 8 inches thick, observed in Montana in 1887.",
    "Mount Everest grows by about 4 millimetres every year due to geological uplift.",
-   "The only letter that doesn't appear in any U.S. state name is 'Q'."
+   "The only letter that doesn't appear in any U.S. state name is 'Q'.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "A group of owls is called a parliament.",
+   "Bananas are technically berries, while strawberries are not.",
+   "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space.",
+   "The 'richest' soil in the world is found in the Amazon rainforest.",
+   "A 'jiffy' is an actual unit of time: 1/100th of a second.",
+   "Some types of bamboo can grow up to 3 feet in a single day, making it one of the fastest-growing plants on Earth."
   ]
  }
 }
