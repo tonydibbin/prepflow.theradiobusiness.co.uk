@@ -423,7 +423,12 @@
   "e72cb32942a5980c": "2026-07-10",
   "aed88184eeb73ba8": "2026-07-10",
   "78fba957c124ccc9": "2026-07-10",
-  "b2e2116618831c1b": "2026-07-10"
+  "b2e2116618831c1b": "2026-07-10",
+  "5fb655176c9451f2": "2026-07-10",
+  "0a52c1f47751d6a6": "2026-07-10",
+  "828f86a5371adcd6": "2026-07-10",
+  "1187adb3d514463d": "2026-07-10",
+  "a2abc24dda7dfd69": "2026-07-10"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -602,7 +607,8 @@
   "0e8f435a92e648fd": "2026-07-09",
   "68fc513a42a27089": "2026-07-10",
   "586705a017df0c7b": "2026-07-10",
-  "16f6376f0e4187bb": "2026-07-10"
+  "16f6376f0e4187bb": "2026-07-10",
+  "e58035e82af678e9": "2026-07-10"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -945,17 +951,15 @@
   "35e89439788d0a4c": "2026-07-10",
   "3186537e457e2d76": "2026-07-10",
   "ed2c56f95af73bdb": "2026-07-10",
-  "6f2e41342cc92757": "2026-07-10"
+  "6f2e41342cc92757": "2026-07-10",
+  "285c3e2cf6940a48": "2026-07-10",
+  "6244e6e537128268": "2026-07-10",
+  "9f375e53fced7fdb": "2026-07-10",
+  "d6e90ef2c669ec8c": "2026-07-10",
+  "b3b179b926ad470f": "2026-07-10"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new trend sees people embracing 'slow cooking' as a way to unwind and enjoy the culinary process.",
-   "Gardeners are finding innovative ways to grow herbs indoors, making fresh flavours accessible all year round.",
-   "Researchers are noting the positive impact of 'nature journaling' on mental well-being.",
-   "The enduring popularity of 'jigsaw puzzles' is bringing families and friends together for screen-free entertainment.",
-   "An emerging trend sees people 'upcycling old furniture' to give it a new lease of life and unique character.",
-   "A recent study suggests that listening to the gentle hum of a washing machine can be surprisingly calming for some.",
-   "The trend of 'urban foraging' is gaining popularity, with city dwellers discovering edible plants in unexpected places.",
    "Experts are noting a rise in popularity for 'vintage fountain pens' as a mindful alternative to digital note-taking.",
    "New research highlights the mood-boosting benefits of 'watching a captivating sunset' on a regular basis.",
    "The art of 'patchwork quilting' is making a significant comeback, with many finding joy in creating unique fabric designs.",
@@ -988,11 +992,16 @@
    "The nostalgic appeal of 'collecting old postcards' is seeing a gentle resurgence among hobbyists.",
    "Interest in 'identifying cloud formations' is encouraging more people to look up and appreciate the sky.",
    "The humble 'clothes peg' is being hailed as a surprisingly versatile household item beyond the washing line.",
-   "A charming trend for 'leaving small painted stones' in public places for others to find is brightening up communities."
+   "A charming trend for 'leaving small painted stones' in public places for others to find is brightening up communities.",
+   "A recent study suggests that listening to the gentle rumble of a washing machine can be surprisingly calming.",
+   "The simple joy of 'doodling during phone calls' is making a quiet comeback.",
+   "A delightful trend for 'vintage-style picnic baskets' is encouraging more outdoor eating.",
+   "The comforting appeal of 'collecting old Ordnance Survey maps' is seeing a gentle resurgence.",
+   "Interest in 'identifying garden birds by their song' is growing among nature enthusiasts.",
+   "A charming trend for 'decorating garden sheds' is turning them into mini-havens.",
+   "The humble 'tea towel' is being celebrated as a surprisingly versatile household item beyond drying dishes."
   ],
   "survey": [
-   "Our survey said that over 65% of us admit to secretly 'doing' what with our shopping trolleys when we're walking back to the car, even if there are people watching?",
-   "Our survey said that over 50% of us admit to having a particular 'vegetable' that we absolutely loved as a child, but now can't stand. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our fruit and vegetables before we put them in the fridge, even if we've just bought them from the shop?",
    "Our survey said that over 55% of us admit to having a particular 'spot' on the sofa or in a chair that is exclusively 'theirs', and they get a bit miffed if someone else sits there? What is it?",
    "Our survey said that over 50% of us admit to secretly 'doing' what with the remote control, even when we're the only one watching?",
@@ -1030,11 +1039,11 @@
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in a friend's house if it's slightly crooked?",
    "Our survey said that over 55% of us admit to having a particular 'lucky item' they absolutely have to carry with them on important days. What is it?",
    "Our survey said that over 70% of us admit to secretly 'naming' what item of furniture in their house, even if they'd never tell anyone?",
-   "Our survey said that over 65% of us admit to having a particular 'food combination' that they absolutely love, but others might find a bit odd?"
+   "Our survey said that over 65% of us admit to having a particular 'food combination' that they absolutely love, but others might find a bit odd?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what with their remote control when the batteries are running low, even though they know it doesn't really work?",
+   "Our survey said that over 65% of us admit to having a particular 'route' they absolutely have to take when walking around their local supermarket, even if it means extra steps?"
   ],
   "talk_topic": [
-   "We all have those 'little habits' that we picked up from our parents, don't we?",
-   "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
    "You know how sometimes you hear a 'sound' that instantly takes you back to your childhood, like the jingle of an ice cream van or the specific chime of a clock?",
    "We all have those little 'shortcuts' or 'hacks' around the house that we've discovered make life just a little bit easier, don't we?",
    "We all have those 'little bits of kit' around the house that we genuinely couldn't do without, don't we?",
@@ -1072,17 +1081,11 @@
    "Do you remember a time when you really 'got into a new hobby' and it completely took over for a while?",
    "You know how sometimes you stumble upon a 'tiny independent shop' that's absolutely brilliant and you wonder how you ever lived without it?",
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
-   "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?"
+   "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?",
+   "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
+   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?"
   ],
   "facts": [
-   "Honey never spoils and can be safe to eat even after thousands of years.",
-   "The Great Wall of China is not visible from space with the naked eye.",
-   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
-   "Bananas are technically berries, but strawberries are not.",
-   "The strongest muscle in the human body is the masseter, which is the jaw muscle.",
-   "There are more possible permutations of a deck of 52 playing cards than there are atoms on Earth.",
-   "Butterflies taste with their feet, allowing them to 'taste' host plants before laying eggs.",
-   "The world's quietest room is located at Microsoft's headquarters in Washington state.",
    "The inventor of the frisbee was cremated and his ashes were moulded into frisbees.",
    "The shortest complete sentence in the English language is 'I am'.",
    "There are more stars in the universe than grains of sand on all the beaches on Earth.",
@@ -1114,7 +1117,15 @@
    "There are more than 10,000 different varieties of tomatoes worldwide.",
    "The highest mountain in the British Isles is Ben Nevis in Scotland, standing at 1,345 metres (4,413 feet) above sea level.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The world's largest living organism is a fungus, Armillaria ostoyae, which covers over 2,200 acres in Oregon, USA."
+   "The world's largest living organism is a fungus, Armillaria ostoyae, which covers over 2,200 acres in Oregon, USA.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar, weighing less than a penny.",
+   "The Great Barrier Reef off the coast of Australia is the largest living structure on Earth, visible from space.",
+   "The inventor of the Pringle chip can, Fredric Baur, had his ashes buried in one when he passed away.",
+   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar sources.",
+   "The quietest room in the world, an anechoic chamber at Microsoft's headquarters, is so silent you can hear your own heartbeat.",
+   "The first successful photograph of a human being was taken in 1838 by Louis Daguerre, though the person was simply having their shoes polished.",
+   "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+   "The national animal of Scotland is the unicorn, a mythical creature symbolising purity and innocence."
   ]
  }
 }
