@@ -438,7 +438,12 @@
   "c3b867728ab17324": "2026-07-11",
   "b919d70042db2919": "2026-07-11",
   "653d484db24c37d3": "2026-07-11",
-  "849d28bb473ed284": "2026-07-11"
+  "849d28bb473ed284": "2026-07-11",
+  "0855fc74b0df1703": "2026-07-12",
+  "b03b561d3d2fec0f": "2026-07-12",
+  "fab491fb7600158b": "2026-07-12",
+  "906b02365e5dd119": "2026-07-12",
+  "4989dc794e5c65da": "2026-07-12"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -451,7 +456,7 @@
   "9f505a9652abf1d2": "2026-06-11",
   "0801683191734911": "2026-06-08",
   "e669f7c01858cadc": "2026-06-08",
-  "7ccc2532091fea5a": "2026-06-25",
+  "7ccc2532091fea5a": "2026-07-12",
   "5534aabae50b183f": "2026-06-08",
   "8141661ef405c241": "2026-06-08",
   "fc102ea5b222e14e": "2026-06-25",
@@ -624,7 +629,11 @@
   "7841b3d1d68aeb48": "2026-07-11",
   "5242d1760e8e3863": "2026-07-11",
   "c98c204043fbaa54": "2026-07-11",
-  "2cc7dd726e395ea5": "2026-07-11"
+  "2cc7dd726e395ea5": "2026-07-11",
+  "8643bb7d92f19431": "2026-07-12",
+  "e8308ed4db9c0d34": "2026-07-12",
+  "cfe7f6660620a5d4": "2026-07-12",
+  "b8a3f7e83d1c51ab": "2026-07-12"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -982,17 +991,15 @@
   "7b3937b82c1c30db": "2026-07-11",
   "fcf554d201a56ff4": "2026-07-11",
   "a528bb6ddd1d517c": "2026-07-11",
-  "b1a6c89738b37241": "2026-07-11"
+  "b1a6c89738b37241": "2026-07-11",
+  "3375f2e592e1f364": "2026-07-12",
+  "5e267053969296fc": "2026-07-12",
+  "cc71cb84c2f15b83": "2026-07-12",
+  "c98fe8050f78c4f2": "2026-07-12",
+  "4989dc794e5c65da": "2026-07-12"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Interest in 'foraging for wild berries and mushrooms' is seeing a gentle resurgence across the UK.",
-   "The delightful trend of 'decorating letterboxes' for special occasions is adding a touch of cheer to neighbourhoods.",
-   "New research highlights the positive impact of 'spotting rainbows' on our daily mood.",
-   "The humble 'hot water bottle' is being championed as a timeless eco-friendly comfort item.",
-   "A growing number of people are discovering the meditative benefits of 'watching fish in an aquarium'.",
-   "The surprising joy of 'unplugging' for a whole weekend is being rediscovered by many.",
-   "A trend for 'home baking with forgotten ingredients' is gaining traction.",
    "The simple act of 'waving to neighbours' is making a comeback in communities.",
    "The comforting appeal of 'watching classic black and white films' is seeing a gentle resurgence.",
    "Tiny 'personal libraries on front garden walls' are popping up, encouraging local book swaps.",
@@ -1025,11 +1032,16 @@
    "A charming trend for 'decorating bird feeders' is turning them into miniature works of art.",
    "The humble 'button' is being celebrated as a surprisingly versatile item beyond fastening clothes.",
    "A recent study suggests that the simple act of 'humming a favourite tune' can actually improve concentration.",
-   "A delightful trend for 'making homemade cordials' from garden produce is flourishing."
+   "A delightful trend for 'making homemade cordials' from garden produce is flourishing.",
+   "A new appreciation for 'vintage radio sets' is encouraging a return to simpler entertainment.",
+   "The delightful trend of 'decorating garden gates' is adding character to neighbourhoods.",
+   "The humble 'clothes peg' is being hailed as a surprisingly versatile household item beyond drying laundry.",
+   "A charming trend for 'collecting unusual shaped pebbles' is seeing a gentle resurgence.",
+   "Interest in 'identifying different types of garden birds' is encouraging more people to observe nature closer to home.",
+   "A recent study suggests that the simple act of 'doodling during meetings' can actually improve memory retention.",
+   "The comforting appeal of 'making homemade preserves' from local produce is flourishing."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'naming' what, even though we know they don't really have feelings?",
-   "Our survey said that over 55% of us admit to having a particular 'lucky item' of clothing that they absolutely have to wear on important occasions. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with our toast, even when we're in a hurry?",
    "Our survey said that over 65% of us admit to having a particular 'song' that we absolutely have to sing along to, even if we don't know all the words?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if something smells bad, even if we know it probably doesn't help?",
@@ -1067,11 +1079,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what with our socks after washing, even though we know it's a bit odd?",
    "Our survey said that over 65% of us admit to having a particular 'ritual' they absolutely have to do before settling down to watch a favourite TV show. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a tricky bit of flat-pack furniture, even though we know it won't help?",
-   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to listen to first thing on a Saturday morning to get them in a good mood. What's their go-to tune?"
+   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to listen to first thing on a Saturday morning to get them in a good mood. What's their go-to tune?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out how to put together flat-pack furniture, even though we know it won't help?",
+   "Our survey said that over 55% of us admit to having a particular 'mug' that they absolutely have to use for their first cup of tea or coffee in the morning. What's so special about it?"
   ],
   "talk_topic": [
-   "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
-   "We all have those 'little bits of kit' around the house that we genuinely couldn't do without, don't we?",
    "You know how sometimes you try a 'new way of making tea or coffee' – maybe a different type of milk, or a new brewing method – and it completely changes your morning routine for the better?",
    "We all have those little 'comfort items' that we keep around the house – not necessarily valuable, but they hold a lot of sentimental worth, don't we?",
    "You know how sometimes you discover a 'new favourite walking route' right on your doorstep, and it feels like you've found a hidden gem?",
@@ -1109,17 +1121,11 @@
    "You know how sometimes you stumble upon an 'old photograph' and it instantly transports you back to that moment, perhaps even making you smell something familiar?",
    "We all have those 'little tricks' we use to make everyday chores a bit more bearable or even enjoyable, don't we?",
    "Do you remember the first time you 'mastered a new recipe' and it felt like a real culinary triumph?",
-   "We all have those 'little rituals' we do to make a trip to the supermarket a bit more organised, don't we?"
+   "We all have those 'little rituals' we do to make a trip to the supermarket a bit more organised, don't we?",
+   "You know how sometimes you rediscover an 'old family recipe book' with handwritten notes and perhaps a few food stains, and it brings back a flood of memories?",
+   "We all have those 'little quirks' when it comes to how we organise our bookshelves – perhaps by colour, author, or a very particular way the paperbacks face?"
   ],
   "facts": [
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
-   "The 'clink' sound you hear when two glasses touch is not the glass itself, but the air resonating inside.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic cans.",
-   "There are more than 1,000 different types of bananas, but only one is commonly sold in supermarkets.",
-   "The colour orange was named after the fruit, not the other way around.",
-   "Wombat faeces are cube-shaped, which stops them from rolling away when marking territory.",
-   "The humble teabag was accidentally invented in 1908 by a New York tea merchant who sent samples in silk bags.",
    "The world's smallest fish, Paedocypris progenetica, is so tiny it can fit on the head of a pin.",
    "Bumblebees have 'fur' that helps them carry an electrostatic charge, which attracts pollen to their bodies.",
    "The first successful photograph was taken in 1826 by French inventor Nicéphore Niépce.",
@@ -1151,7 +1157,15 @@
    "More than half of the world's population has never made or received a phone call.",
    "The world's largest snowflake on record was 15 inches wide and 8 inches thick, reported in Montana in 1887.",
    "The British tradition of afternoon tea began in the mid-19th century thanks to the Duchess of Bedford.",
-   "The 'penny farthing' bicycle was named for its two wheels, one much larger than the other, resembling the old British coins."
+   "The 'penny farthing' bicycle was named for its two wheels, one much larger than the other, resembling the old British coins.",
+   "The world's first public park was Birkenhead Park in Merseyside, which opened in 1847.",
+   "A newborn giant panda is smaller than a mouse.",
+   "The British Isles are home to over 20 species of bats.",
+   "Pineapples were once so rare and expensive in Europe that they were rented as centrepieces for dinner parties.",
+   "The 'skip' button on a remote control was first introduced on a VCR in the early 1980s.",
+   "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space.",
+   "Butterflies taste with their feet.",
+   "The first ever Ferris wheel was built in Chicago in 1893 for the World's Columbian Exposition."
   ]
  }
 }
