@@ -464,7 +464,12 @@
   "6ab15832936a39c5": "2026-07-13",
   "4cb475b5d4b3350d": "2026-07-13",
   "434a06f5caeafe50": "2026-07-13",
-  "2e67237424dbc832": "2026-07-13"
+  "2e67237424dbc832": "2026-07-13",
+  "b5d7fa2cda8dbfeb": "2026-07-13",
+  "c037b575829507e2": "2026-07-13",
+  "4e69abcaaf553911": "2026-07-13",
+  "597a021df972214d": "2026-07-13",
+  "966a6876dcb0addc": "2026-07-13"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -646,7 +651,7 @@
   "16f6376f0e4187bb": "2026-07-10",
   "e58035e82af678e9": "2026-07-11",
   "d9ad90f081611ccd": "2026-07-13",
-  "17760ca86639ac9c": "2026-07-12",
+  "17760ca86639ac9c": "2026-07-13",
   "7841b3d1d68aeb48": "2026-07-11",
   "5242d1760e8e3863": "2026-07-11",
   "c98c204043fbaa54": "2026-07-11",
@@ -1033,17 +1038,15 @@
   "b1b1533a8bf5fe23": "2026-07-13",
   "d1957aa5b190f299": "2026-07-13",
   "930ebdccc95e9b35": "2026-07-13",
-  "24e8d54f5ed4b840": "2026-07-13"
+  "24e8d54f5ed4b840": "2026-07-13",
+  "17d1e7998afa8ff3": "2026-07-13",
+  "592a11c40f713aaa": "2026-07-13",
+  "a189148d082bd578": "2026-07-13",
+  "8328973e81166de8": "2026-07-13",
+  "601bd091486fe4db": "2026-07-13"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new study suggests that 'watching squirrels' in your garden can significantly boost your mood.",
-   "The nostalgic appeal of 'collecting old postcards' is seeing a gentle resurgence among hobbyists.",
-   "Interest in 'identifying cloud formations' is encouraging more people to look up and appreciate the sky.",
-   "The humble 'clothes peg' is being hailed as a surprisingly versatile household item beyond the washing line.",
-   "A charming trend for 'leaving small painted stones' in public places for others to find is brightening up communities.",
-   "A recent study suggests that listening to the gentle rumble of a washing machine can be surprisingly calming.",
-   "The simple joy of 'doodling during phone calls' is making a quiet comeback.",
    "A delightful trend for 'vintage-style picnic baskets' is encouraging more outdoor eating.",
    "The comforting appeal of 'collecting old Ordnance Survey maps' is seeing a gentle resurgence.",
    "Interest in 'identifying garden birds by their song' is growing among nature enthusiasts.",
@@ -1076,11 +1079,16 @@
    "The humble 'notebook' is making a big comeback, with many opting for pen and paper over digital notes.",
    "A delightful trend for 'identifying different types of clouds' is encouraging people to look up more often.",
    "The gentle art of 'pressing flowers' is seeing a lovely resurgence as a creative and calming hobby.",
-   "Interest in 'the history of local landmarks' is encouraging more people to explore their own towns."
+   "Interest in 'the history of local landmarks' is encouraging more people to explore their own towns.",
+   "The humble art of 'darning socks' is making a stylish comeback as a sustainable fashion statement.",
+   "A surprising new study suggests that listening to 'nature sounds' like birdsong or waves can actually boost your mood and productivity.",
+   "The simple pleasure of 'writing a letter' is experiencing a quiet renaissance, with many rediscovering its unique charm.",
+   "A delightful trend for 'identifying garden insects' is encouraging more people to observe the tiny wonders in their own backyards.",
+   "The comforting appeal of 'baking your own bread' from scratch is flourishing across the nation.",
+   "A charming movement encouraging 'swapping houseplants and cuttings' with neighbours is gaining popularity.",
+   "The unexpected joy of 'rediscovering old family photo albums' is bringing smiles and shared memories to households."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if something smells bad, even if we know it probably doesn't help?",
-   "Our survey said that over 55% of us admit to having a particular 'drawer or cupboard' in the kitchen that is absolutely full of miscellaneous items and random bits?",
    "Our survey said that over 65% of us admit to secretly 'doing' what with our shoes when we come in after a long day, even if we know we shouldn't?",
    "Our survey said that over 50% of us admit to having a particular 'mug' that only we are allowed to use for our tea or coffee. What's special about it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with our socks when we're folding laundry, even if we know it doesn't really matter?",
@@ -1118,11 +1126,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out how to put together flat-pack furniture, even though we know it won't help?",
    "Our survey said that over 55% of us admit to having a particular 'mug' that they absolutely have to use for their first cup of tea or coffee in the morning. What's so special about it?",
    "Our survey said that over 60% of us admit to secretly 'tidying up' what in a restaurant or café while waiting for our order?",
-   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to hum or sing to themselves when doing the washing up. What's their go-to tune?"
+   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to hum or sing to themselves when doing the washing up. What's their go-to tune?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what with their laundry, even though they know it's a bit of a gamble?",
+   "Our survey said that over 65% of us admit to having a particular 'item of stationery' that they absolutely can't do without at work or home?"
   ],
   "talk_topic": [
-   "You know how sometimes you discover a 'new favourite walking route' right on your doorstep, and it feels like you've found a hidden gem?",
-   "We all have those 'little rituals' that help us wind down at the end of a busy day, don't we?",
    "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
    "We all have those little 'comfort items' that we keep around the house – not necessarily valuable, but they hold a lot of sentimental worth, don't we?",
    "You know how sometimes you try a 'new hot drink' that isn't tea or coffee, and it becomes your new favourite?",
@@ -1160,17 +1168,11 @@
    "You know how sometimes you rediscover an 'old family recipe book' with handwritten notes and perhaps a few food stains, and it brings back a flood of memories?",
    "We all have those 'little quirks' when it comes to how we organise our bookshelves – perhaps by colour, author, or a very particular way the paperbacks face?",
    "You know how sometimes you discover a 'hidden gem' of a charity shop and it's full of absolute treasures?",
-   "We all have those 'little habits' that make our morning brew just perfect, don't we?"
+   "We all have those 'little habits' that make our morning brew just perfect, don't we?",
+   "You know how sometimes you find a 'forgotten item' in an old coat pocket or at the back of a drawer?",
+   "We all have those 'little habits' that make our journey to work or school just a bit smoother, don't we?"
   ],
   "facts": [
-   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar, weighing less than a penny.",
-   "The Great Barrier Reef off the coast of Australia is the largest living structure on Earth, visible from space.",
-   "The inventor of the Pringle chip can, Fredric Baur, had his ashes buried in one when he passed away.",
-   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar sources.",
-   "The quietest room in the world, an anechoic chamber at Microsoft's headquarters, is so silent you can hear your own heartbeat.",
-   "The first successful photograph of a human being was taken in 1838 by Louis Daguerre, though the person was simply having their shoes polished.",
-   "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
-   "The national animal of Scotland is the unicorn, a mythical creature symbolising purity and innocence.",
    "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
    "Bumblebees can fly higher than Mount Everest, if they could actually breathe up there.",
@@ -1202,7 +1204,15 @@
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The first ever postage stamp, the Penny Black, was issued in the UK in 1840.",
    "Strawberries are the only fruit with seeds on the outside.",
-   "The iconic red telephone box was designed by Sir Giles Gilbert Scott for a competition in 1924."
+   "The iconic red telephone box was designed by Sir Giles Gilbert Scott for a competition in 1924.",
+   "The 'unicorn' is the national animal of Scotland.",
+   "A group of owls is called a 'parliament'.",
+   "Bubble wrap was originally intended to be used as three-dimensional wallpaper.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
+   "Pineapples were once so rare and expensive in Europe that they were displayed as a symbol of wealth rather than eaten.",
+   "The 'King's Guard' at Buckingham Palace wear bearskin hats that weigh about 7 pounds.",
+   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+   "Cats can make over 100 different sounds, whereas dogs can only make about 10."
   ]
  }
 }
