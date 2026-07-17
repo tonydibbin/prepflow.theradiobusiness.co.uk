@@ -509,7 +509,12 @@
   "9f20af5084951558": "2026-07-17",
   "a634d19ff634c8f9": "2026-07-17",
   "e9eea5a90141dc7e": "2026-07-17",
-  "50cf338dec42c868": "2026-07-17"
+  "50cf338dec42c868": "2026-07-17",
+  "f30178fe81d5dcc6": "2026-07-18",
+  "25e4d9743a380d15": "2026-07-18",
+  "ad9d9b9186ea8b80": "2026-07-18",
+  "7267c683fc2cb0f2": "2026-07-18",
+  "f80b0428b52b426b": "2026-07-18"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -564,7 +569,7 @@
   "3782b01dfd56de06": "2026-06-15",
   "7c6f7130ef973f6f": "2026-06-15",
   "b25abc06fe39dd47": "2026-06-15",
-  "4a8d3ebd42f173d0": "2026-07-01",
+  "4a8d3ebd42f173d0": "2026-07-18",
   "1ad7f2a04dd4003d": "2026-06-19",
   "49e9ba120f83b176": "2026-06-15",
   "db1b0c8575d1c817": "2026-06-16",
@@ -640,7 +645,7 @@
   "1e878e1e1465b690": "2026-07-01",
   "bb583a4c8d16434e": "2026-07-01",
   "7a1e627fe65f9099": "2026-07-01",
-  "8a06579a5404f598": "2026-07-01",
+  "8a06579a5404f598": "2026-07-18",
   "dd14c068631df062": "2026-07-01",
   "55c08b622b6c474e": "2026-07-01",
   "b7f01aa74064e0e3": "2026-07-01",
@@ -721,7 +726,10 @@
   "8a62a5dc61162e9a": "2026-07-17",
   "92ca5d18e5fee13d": "2026-07-17",
   "4aecc31253b0afff": "2026-07-17",
-  "2f05a3d0c5e017ac": "2026-07-17"
+  "2f05a3d0c5e017ac": "2026-07-17",
+  "5aeeb95638050653": "2026-07-18",
+  "e4a09b28482524a3": "2026-07-18",
+  "1f28a03a5f888944": "2026-07-18"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1139,17 +1147,15 @@
   "074e5c13ae818370": "2026-07-17",
   "f5b3564581785c91": "2026-07-17",
   "fc354386ee5ddb16": "2026-07-17",
-  "9c7f48fb8003458e": "2026-07-17"
+  "9c7f48fb8003458e": "2026-07-17",
+  "43e13e467e162995": "2026-07-18",
+  "1b808cdb790eb5c6": "2026-07-18",
+  "fb2999d6a0caae9a": "2026-07-18",
+  "8afa87f8f991f02f": "2026-07-18",
+  "f563d98613d7c439": "2026-07-18"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A delightful movement encouraging people to 'write letters to future selves' is gaining popularity.",
-   "The surprising joy of 'rediscovering old photo albums' is becoming a popular weekend activity.",
-   "A charming new trend involves 'decorating garden gnomes' in elaborate, quirky outfits.",
-   "Many people are finding solace in the meditative practice of 'watching clouds drift by'.",
-   "The humble 'picnic blanket' is experiencing a resurgence as the ultimate symbol of spontaneous outdoor fun.",
-   "The delightful art of 'porch parcels' is bringing smiles to neighbourhoods across the country.",
-   "A new appreciation for the simple joy of 'window gazing' is gaining traction.",
    "The trend of 'urban bird-watching' is soaring in popularity.",
    "Rediscovering the charm of 'local noticeboards' is becoming a sweet pastime.",
    "The humble 'teacup' is making a grand comeback as a versatile decorative item.",
@@ -1182,11 +1188,16 @@
    "Experts highlight the unique comfort found in 'listening to the gentle hum of household appliances'.",
    "The art of 'creating personalised mixtapes' (or playlists) for friends is making a sentimental comeback.",
    "More people are finding joy in the simple act of 'feeding garden birds' and observing their antics.",
-   "The trend of 'swapping homemade jams and preserves' with neighbours is gaining delicious momentum."
+   "The trend of 'swapping homemade jams and preserves' with neighbours is gaining delicious momentum.",
+   "A recent study suggests that listening to the gentle rumble of a distant train can be surprisingly soothing.",
+   "The simple joy of 'cloud watching' is making a delightful comeback as a mindful pastime.",
+   "More people are embracing the charm of 'vintage board games' for family entertainment.",
+   "The humble 'garden shed' is transforming into a creative sanctuary for many across the UK.",
+   "A delightful trend sees people 'exchanging handwritten recipes' with friends and family.",
+   "The surprising popularity of 'collecting interesting pebbles' from beaches and riverbanks is growing.",
+   "Experts are highlighting the unexpected benefits of 'taking a leisurely walk without a destination'."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what with their socks in the laundry basket, even if they know it doesn't really help?",
-   "Our survey said that over 65% of us admit to having a particular 'mug' that they absolutely have to use for their morning brew. What's special about it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we hear our favourite song come on the radio, even if we're in public?",
    "Our survey said that over 65% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we open a new packet of biscuits, even if we know we shouldn't?",
@@ -1224,11 +1235,11 @@
    "Our survey said that over 60% of us admit to secretly 'naming' what item in our house, even though we know it's just an inanimate object?",
    "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to hum or whistle when they're making a cup of tea or coffee. What's their go-to tune?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning?",
-   "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to perform before sending an important email, just to make sure it's perfect?"
+   "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to perform before sending an important email, just to make sure it's perfect?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a small household item, even if we know it's unlikely to help?",
+   "Our survey said that over 55% of us admit to having a particular 'lucky item' they absolutely have to carry with them on a day they want to go well. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
-   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?",
    "You know how sometimes you rediscover an 'old childhood toy' that you thought was long gone, and it brings back a flood of memories?",
    "We all have those 'unusual snacks' that we secretly love but might not admit to readily. Perhaps a funny combination or something a bit retro?",
    "You know how sometimes you rediscover an 'old childhood book' that you thought was long gone, and it brings back a flood of memories?",
@@ -1266,17 +1277,11 @@
    "You know how sometimes a 'particular smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'little everyday moments' that just make us smile, even if they seem insignificant to others.",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little everyday moments' that just make us smile, even if they seem insignificant to others."
+   "We all have those 'little everyday moments' that just make us smile, even if they seem insignificant to others.",
+   "You know how sometimes a particular 'sound' can instantly transport you back to a specific memory or a moment from your past?",
+   "We all have those 'little rituals' we perform without even thinking, especially when we're getting ready for something important."
   ],
   "facts": [
-   "A group of owls is called a parliament.",
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic chip cans.",
-   "Butterflies taste with their feet.",
-   "The world's largest officially measured snowflake was 15 inches wide and 8 inches thick, found in Montana in 1887.",
-   "It is illegal to sing out of tune in Maryland, USA, in public.",
-   "The 'richest' bird's nest in the world belongs to the Sociable Weaver, which can house hundreds of birds and weigh over a ton.",
-   "There are more permutations of a deck of 52 playing cards than there are atoms on Earth.",
-   "Penguins are the only birds that can swim but not fly.",
    "The 'richest' soil on Earth is called chernozem, found in regions like Ukraine, and is incredibly fertile.",
    "A group of rhinos is called a 'crash'.",
    "The first modern Olympic Games were held in Athens, Greece, in 1896.",
@@ -1308,7 +1313,15 @@
    "It is impossible for most people to lick their own elbow.",
    "There are more possible iterations of a game of chess than there are atoms in the known universe.",
    "The first recorded use of the word 'OK' was in 1839.",
-   "Bubble wrap was originally intended to be used as three-dimensional wallpaper."
+   "Bubble wrap was originally intended to be used as three-dimensional wallpaper.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
+   "A group of ferrets is officially called a 'business'.",
+   "The 'unicorn' is the national animal of Scotland.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "There are more permutations to shuffle a deck of cards than there are atoms on Earth.",
+   "Mount Everest grows by about 4 millimetres each year due to tectonic plate movement.",
+   "The human eye can distinguish approximately 10 million different colours.",
+   "It takes about 8 minutes for light from the Sun to reach Earth."
   ]
  }
 }
