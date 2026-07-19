@@ -542,7 +542,12 @@
   "0f08d0d7800a6110": "2026-07-20",
   "c53fc9e9e180562e": "2026-07-20",
   "0cb4eae7874637b4": "2026-07-20",
-  "66529129edbc231a": "2026-07-20"
+  "66529129edbc231a": "2026-07-20",
+  "747f1dd1aed71596": "2026-07-20",
+  "eff4da05190ef21f": "2026-07-20",
+  "2a79c90bdc4826bc": "2026-07-20",
+  "92d7bcbf819afca4": "2026-07-20",
+  "dc6c43dfb52a4123": "2026-07-20"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -760,9 +765,9 @@
   "1f28a03a5f888944": "2026-07-18",
   "b0411847478f6fed": "2026-07-18",
   "fac4195ae5983897": "2026-07-20",
-  "99c5a2d100365c67": "2026-07-19",
+  "99c5a2d100365c67": "2026-07-20",
   "d2e499d0e8b23a58": "2026-07-20",
-  "d18d929fc638278e": "2026-07-19",
+  "d18d929fc638278e": "2026-07-20",
   "10565a137e2b54ed": "2026-07-19",
   "0d67533fa7bffb5f": "2026-07-19",
   "6da100dfb4040a21": "2026-07-19",
@@ -1212,17 +1217,15 @@
   "bb44b84fe807689e": "2026-07-20",
   "2c831e9983169922": "2026-07-20",
   "7a6a241b04c6ec3a": "2026-07-20",
-  "2b82edd0d261591d": "2026-07-20"
+  "2b82edd0d261591d": "2026-07-20",
+  "b7e8333a916c10ff": "2026-07-20",
+  "72a0915f88a6d09b": "2026-07-20",
+  "71f2ba8a57dd34ea": "2026-07-20",
+  "bb292c9e9752c0a1": "2026-07-20",
+  "eb764de999996ef2": "2026-07-20"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Many are rediscovering the joy of 'writing letters to their future selves' to mark special milestones.",
-   "The delightful art of 'crafting miniature fairy gardens' is enchanting adults and children alike across the country.",
-   "Experts suggest that 'taking a mindful pause' to observe the clouds can reduce stress and boost creativity.",
-   "The humble 'picnic blanket' is seeing a resurgence as families embrace outdoor dining experiences.",
-   "A delightful movement is inspiring people to 'collect unusual leaves' during autumn walks for creative projects.",
-   "Scientists are finding that simply looking at 'green spaces' can significantly improve mood and reduce stress.",
-   "The surprising popularity of 'communal gardening plots' is blossoming in urban areas across the UK.",
    "A new trend sees people embracing the charm of 'vintage travel posters' to decorate their homes.",
    "Experts highlight the unique comfort found in 'listening to the gentle hum of household appliances'.",
    "The art of 'creating personalised mixtapes' (or playlists) for friends is making a sentimental comeback.",
@@ -1255,11 +1258,16 @@
    "The simple act of 'doodling during meetings' is now being recognised as a surprising aid to concentration.",
    "A growing number of people are embracing the quiet satisfaction of 'mending clothes' instead of discarding them.",
    "The delightful practice of 'leaving small, cheerful notes' on public transport is bringing smiles to commuters.",
-   "Experts highlight a surprising benefit of 'walking backwards' occasionally: improved balance and spatial awareness."
+   "Experts highlight a surprising benefit of 'walking backwards' occasionally: improved balance and spatial awareness.",
+   "A new study suggests that taking a moment to notice a single, interesting cloud formation can boost your mood.",
+   "The delightful art of 'decorative napkin folding' is making a surprising comeback at dinner parties across the UK.",
+   "More people are finding joy in the simple act of 'polishing their shoes' to a perfect shine.",
+   "A growing number of gardeners are planting 'night-scented flowers' to enjoy their patios after sunset.",
+   "Experts are noticing a trend in families creating 'themed movie nights' with homemade snacks to match.",
+   "The surprising pleasure of 'organising your spice rack' into alphabetical order is bringing calm to many kitchens.",
+   "New research indicates that regularly 'listening to the rain' can genuinely help improve sleep quality."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'rearranging' what in a friend's house if it's slightly crooked?",
-   "Our survey said that over 55% of us admit to having a particular 'lucky item' they absolutely have to carry with them on important days. What is it?",
    "Our survey said that over 70% of us admit to secretly 'naming' what item of furniture in their house, even if they'd never tell anyone?",
    "Our survey said that over 65% of us admit to having a particular 'food combination' that they absolutely love, but others might find a bit odd?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with their remote control when the batteries are running low, even though they know it doesn't really work?",
@@ -1297,11 +1305,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to concentrate, even though it makes us look a bit daft?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to watch their favourite TV show?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to remember where we put our keys?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before using a new pen for the first time?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before using a new pen for the first time?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're waiting for the kettle to boil, even though we know it makes no difference?",
+   "Our survey said that over 55% of us admit to having a particular 'spot' they absolutely have to sit in when they visit their favourite local cafe or pub. What's their preferred perch?"
   ],
   "talk_topic": [
-   "Do you remember a time when you really 'got into a new hobby' and it completely took over for a while?",
-   "You know how sometimes you stumble upon a 'tiny independent shop' that's absolutely brilliant and you wonder how you ever lived without it?",
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
    "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?",
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
@@ -1339,17 +1347,11 @@
    "You know those 'everyday objects' that have a surprisingly satisfying feel or sound to them?",
    "Think about those 'little domestic mysteries' that happen in your home that you can never quite explain.",
    "We all have those 'unwritten rules' in our homes, don't we? The little understandings or habits that everyone just 'knows' but are never officially discussed.",
-   "Think about those 'everyday sounds' that you find surprisingly comforting or pleasing, the ones that just make you feel a bit warm and fuzzy inside."
+   "Think about those 'everyday sounds' that you find surprisingly comforting or pleasing, the ones that just make you feel a bit warm and fuzzy inside.",
+   "You know how sometimes you spot a 'car registration plate' that spells out a funny word or a clever phrase?",
+   "Think about those 'everyday sounds' that, for some reason, just irritate you more than they should."
   ],
   "facts": [
-   "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space.",
-   "A group of owls is called a parliament.",
-   "Strawberries are the only fruit that wear their seeds on the outside.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron.",
-   "It is impossible for most people to lick their own elbow.",
-   "There are more possible iterations of a game of chess than there are atoms in the known universe.",
-   "The first recorded use of the word 'OK' was in 1839.",
-   "Bubble wrap was originally intended to be used as three-dimensional wallpaper.",
    "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
    "A group of ferrets is officially called a 'business'.",
    "The 'unicorn' is the national animal of Scotland.",
@@ -1381,7 +1383,15 @@
    "Hawaii is the only US state that grows coffee commercially.",
    "The 'sixth sick sheik's sixth sheep's sick' is considered the hardest tongue twister in the English language.",
    "Butterflies taste with their feet.",
-   "The Great Wall of China is not visible from space with the naked eye, despite popular myth."
+   "The Great Wall of China is not visible from space with the naked eye, despite popular myth.",
+   "The world's smallest commercially produced car was the Peel P50, a three-wheeled microcar made in the Isle of Man.",
+   "A 'jiffy' is an actual unit of time, defined by electrical engineers as 1/100th of a second.",
+   "Bees can be trained to detect landmines because they have an excellent sense of smell.",
+   "The inventor of the corkscrew was named Samuel Henshall, and he patented his design in England in 1795.",
+   "There are more permutations of a deck of 52 playing cards than there are atoms in many galaxies.",
+   "The phrase 'the whole nine yards' is thought to originate from the length of fabric needed for a full suit.",
+   "Oxford University is older than the Aztec Empire.",
+   "The colour orange was named after the fruit, not the other way around."
   ]
  }
 }
