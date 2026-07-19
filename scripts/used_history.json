@@ -537,7 +537,12 @@
   "8185bc4b9733c2d0": "2026-07-19",
   "1be626a3d6bb332d": "2026-07-19",
   "a6c2e7d3139f30eb": "2026-07-19",
-  "749ae9cb7999c5c1": "2026-07-19"
+  "749ae9cb7999c5c1": "2026-07-19",
+  "dc0cd3bbcdd0c955": "2026-07-20",
+  "0f08d0d7800a6110": "2026-07-20",
+  "c53fc9e9e180562e": "2026-07-20",
+  "0cb4eae7874637b4": "2026-07-20",
+  "66529129edbc231a": "2026-07-20"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -584,7 +589,7 @@
   "0b43608bdd528091": "2026-07-17",
   "9b2c11fe67ef6c95": "2026-06-13",
   "fa84e8301e212216": "2026-06-13",
-  "94aa1ae982200f76": "2026-07-03",
+  "94aa1ae982200f76": "2026-07-20",
   "d3239281c6f321ee": "2026-06-13",
   "33717af330383ff2": "2026-06-13",
   "a2d04e0ef6d2185f": "2026-06-19",
@@ -754,15 +759,17 @@
   "e4a09b28482524a3": "2026-07-18",
   "1f28a03a5f888944": "2026-07-18",
   "b0411847478f6fed": "2026-07-18",
-  "fac4195ae5983897": "2026-07-19",
+  "fac4195ae5983897": "2026-07-20",
   "99c5a2d100365c67": "2026-07-19",
-  "d2e499d0e8b23a58": "2026-07-19",
+  "d2e499d0e8b23a58": "2026-07-20",
   "d18d929fc638278e": "2026-07-19",
   "10565a137e2b54ed": "2026-07-19",
   "0d67533fa7bffb5f": "2026-07-19",
   "6da100dfb4040a21": "2026-07-19",
   "2ffffd20441aaf23": "2026-07-19",
-  "0b6aedfe75ca7cf5": "2026-07-19"
+  "0b6aedfe75ca7cf5": "2026-07-19",
+  "d49b11e7fd18f45f": "2026-07-20",
+  "3878235d849312fa": "2026-07-20"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1200,17 +1207,15 @@
   "5e638e8102825ba7": "2026-07-19",
   "b32da7df03d33211": "2026-07-19",
   "a4e0cdf56ad92ed7": "2026-07-19",
-  "1dc712cf94ab9e56": "2026-07-19"
+  "1dc712cf94ab9e56": "2026-07-19",
+  "1dd9b1f0ecfe856c": "2026-07-20",
+  "bb44b84fe807689e": "2026-07-20",
+  "2c831e9983169922": "2026-07-20",
+  "7a6a241b04c6ec3a": "2026-07-20",
+  "2b82edd0d261591d": "2026-07-20"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are encouraging us to rediscover the joy of 'writing postcards' instead of sending quick texts.",
-   "The surprising popularity of 'board game cafes' is growing, offering a refreshing alternative to traditional pubs.",
-   "A recent survey highlights that many of us are finding solace in 'collecting interesting pebbles' during walks.",
-   "The charming custom of 'leaving positive notes' in public places is subtly spreading smiles.",
-   "There's a growing appreciation for the therapeutic benefits of 'listening to the rain fall'.",
-   "A charming new trend sees people leaving 'surprise books' in public places for others to discover.",
-   "The simple act of 'waving hello' to strangers is making a surprising comeback, boosting local neighbourly cheer.",
    "Many are rediscovering the joy of 'writing letters to their future selves' to mark special milestones.",
    "The delightful art of 'crafting miniature fairy gardens' is enchanting adults and children alike across the country.",
    "Experts suggest that 'taking a mindful pause' to observe the clouds can reduce stress and boost creativity.",
@@ -1243,11 +1248,16 @@
    "More people are embracing the quiet satisfaction of 'ironing pillowcases' to perfection.",
    "The delightful practice of 'leaving small, hand-painted stones' for others to find is spreading cheer.",
    "There's a growing interest in 'identifying bird calls' during morning walks.",
-   "Many households are rediscovering the cosy tradition of 'reading aloud to each other' in the evenings."
+   "Many households are rediscovering the cosy tradition of 'reading aloud to each other' in the evenings.",
+   "A delightful new trend sees people creating 'miniature libraries' in their gardens for neighbours to share books.",
+   "More households are rediscovering the charm of 'board game evenings' as a way to unplug and reconnect.",
+   "A quirky study suggests that 'the way you load your dishwasher' might reveal aspects of your personality.",
+   "The simple act of 'doodling during meetings' is now being recognised as a surprising aid to concentration.",
+   "A growing number of people are embracing the quiet satisfaction of 'mending clothes' instead of discarding them.",
+   "The delightful practice of 'leaving small, cheerful notes' on public transport is bringing smiles to commuters.",
+   "Experts highlight a surprising benefit of 'walking backwards' occasionally: improved balance and spatial awareness."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with their shopping list, even if they know they've already memorised it?",
-   "Our survey said that over 55% of us admit to having a particular 'spot' on the sofa that they absolutely have to sit in for their evening telly. What's special about it?",
    "Our survey said that over 60% of us admit to secretly 'rearranging' what in a friend's house if it's slightly crooked?",
    "Our survey said that over 55% of us admit to having a particular 'lucky item' they absolutely have to carry with them on important days. What is it?",
    "Our survey said that over 70% of us admit to secretly 'naming' what item of furniture in their house, even if they'd never tell anyone?",
@@ -1285,11 +1295,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out which way to go in an unfamiliar place, even though it rarely helps?",
    "Our survey said that over 55% of us admit to having a particular 'item' that they absolutely have to rescue first in a game of pretend 'desert island dilemma'?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to concentrate, even though it makes us look a bit daft?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to watch their favourite TV show?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to watch their favourite TV show?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to remember where we put our keys?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before using a new pen for the first time?"
   ],
   "talk_topic": [
-   "You know how sometimes you rediscover an 'old childhood board game' that you thought was long gone, and it brings back a flood of memories?",
-   "We all have those 'little quirks' when it comes to how we organise our kitchen cupboards – perhaps a specific shelf for mugs or a very particular way the tins face?",
    "Do you remember a time when you really 'got into a new hobby' and it completely took over for a while?",
    "You know how sometimes you stumble upon a 'tiny independent shop' that's absolutely brilliant and you wonder how you ever lived without it?",
    "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
@@ -1327,17 +1337,11 @@
    "You know how sometimes you catch a 'glimpse of a familiar building' from an unexpected angle, and it suddenly looks completely different?",
    "We all have those 'little everyday sounds' that are so specific to a particular season, don't we?",
    "You know those 'everyday objects' that have a surprisingly satisfying feel or sound to them?",
-   "Think about those 'little domestic mysteries' that happen in your home that you can never quite explain."
+   "Think about those 'little domestic mysteries' that happen in your home that you can never quite explain.",
+   "We all have those 'unwritten rules' in our homes, don't we? The little understandings or habits that everyone just 'knows' but are never officially discussed.",
+   "Think about those 'everyday sounds' that you find surprisingly comforting or pleasing, the ones that just make you feel a bit warm and fuzzy inside."
   ],
   "facts": [
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
-   "The inventor of the Pringles can is buried in one.",
-   "It is illegal to sing in public after 9 PM in Hawaii.",
-   "A pineapple is not a single fruit, but a group of multiple berries fused together.",
-   "The first successful photograph was taken in 1826 by French inventor Nicéphore Niépce.",
-   "The human nose can remember 50,000 different scents.",
-   "Cows have 'best friends' and get stressed when they are separated from them.",
    "The Great Barrier Reef is the largest living structure on Earth and can be seen from outer space.",
    "A group of owls is called a parliament.",
    "Strawberries are the only fruit that wear their seeds on the outside.",
@@ -1369,7 +1373,15 @@
    "There are more possible ways to play the first four moves in a game of chess than there are atoms in the universe.",
    "The first successful photograph was taken in 1826 by French inventor Joseph Nicéphore Niépce, requiring an exposure of several hours.",
    "Bananas are technically berries, while strawberries are not.",
-   "The strongest muscle in the human body is the masseter, which is the jaw muscle."
+   "The strongest muscle in the human body is the masseter, which is the jaw muscle.",
+   "The world's largest snowflake ever recorded was 15 inches wide and 8 inches thick, found in Montana in 1887.",
+   "Cows don't have upper front teeth; instead, they have a thick, tough pad called a dental pad.",
+   "The inventor of the Pringle can, Fredric Baur, requested to be buried in one, and his wish was granted.",
+   "A group of owls is called a parliament.",
+   "Hawaii is the only US state that grows coffee commercially.",
+   "The 'sixth sick sheik's sixth sheep's sick' is considered the hardest tongue twister in the English language.",
+   "Butterflies taste with their feet.",
+   "The Great Wall of China is not visible from space with the naked eye, despite popular myth."
   ]
  }
 }
