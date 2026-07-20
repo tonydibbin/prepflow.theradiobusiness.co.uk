@@ -552,7 +552,12 @@
   "bfe1c84ec5952412": "2026-07-21",
   "84b4e210ba46d801": "2026-07-21",
   "bdc14d5cf473b154": "2026-07-21",
-  "c979a06b75ea5e2e": "2026-07-21"
+  "c979a06b75ea5e2e": "2026-07-21",
+  "0c930d4943ac7c2b": "2026-07-21",
+  "76119d0d01799e64": "2026-07-21",
+  "bbee76a9e494d0db": "2026-07-21",
+  "8e527321eda78423": "2026-07-21",
+  "b5db58ea58785882": "2026-07-21"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -772,7 +777,7 @@
   "fac4195ae5983897": "2026-07-21",
   "99c5a2d100365c67": "2026-07-20",
   "d2e499d0e8b23a58": "2026-07-21",
-  "d18d929fc638278e": "2026-07-20",
+  "d18d929fc638278e": "2026-07-21",
   "10565a137e2b54ed": "2026-07-19",
   "0d67533fa7bffb5f": "2026-07-19",
   "6da100dfb4040a21": "2026-07-19",
@@ -1234,17 +1239,15 @@
   "44b26e1ad648a6e6": "2026-07-21",
   "3666f342d289e168": "2026-07-21",
   "3841866a944b16ed": "2026-07-21",
-  "8375ee81106282cd": "2026-07-21"
+  "8375ee81106282cd": "2026-07-21",
+  "a1ffb4226fae371c": "2026-07-21",
+  "56f4a4e0826a60a2": "2026-07-21",
+  "68b33a98e77504ec": "2026-07-21",
+  "ab3496e70f2c9d10": "2026-07-21",
+  "9124a89cc721ec52": "2026-07-21"
  },
  "_ai_recent": {
   "newsbrief": [
-   "More people are embracing the charm of 'vintage board games' for family entertainment.",
-   "The humble 'garden shed' is transforming into a creative sanctuary for many across the UK.",
-   "A delightful trend sees people 'exchanging handwritten recipes' with friends and family.",
-   "The surprising popularity of 'collecting interesting pebbles' from beaches and riverbanks is growing.",
-   "Experts are highlighting the unexpected benefits of 'taking a leisurely walk without a destination'.",
-   "A new appreciation for the sounds of 'historic clock towers' is chiming across communities.",
-   "The humble 'teatowel' is having a moment, becoming a canvas for intricate designs and sentimental value.",
    "A delightful trend sees people leaving 'surprise positive notes' in public places for strangers to discover.",
    "More people are rediscovering the tactile pleasure and mental benefits of 'sorting through old photographs'.",
    "The art of 'creating miniature gardens' in unusual containers is blossoming in urban areas.",
@@ -1277,11 +1280,16 @@
    "A growing number of people are discovering the surprising satisfaction of 'tidying up public spaces' during their daily walks.",
    "Experts are suggesting that regularly 'changing the route of your daily walk' can boost creativity and mood.",
    "The unexpected joy of 'writing letters to your future self' is becoming a popular way to reflect and set goals.",
-   "A recent study highlights the positive impact of 'using colourful stationery' on workplace morale and productivity."
+   "A recent study highlights the positive impact of 'using colourful stationery' on workplace morale and productivity.",
+   "Brewing the perfect cup of tea might be less about the leaves and more about the mug.",
+   "The surprising pleasure of 'rearranging your bookshelves' is bringing unexpected calm to many homes.",
+   "Experts are noticing a trend in families creating 'homemade board game nights' with unique, self-designed games.",
+   "A growing number of people are finding joy in the simple act of 'darning socks' with colourful threads.",
+   "Scientists have found that regularly 'watching clouds drift by' can actually help improve focus and reduce stress.",
+   "The delightful art of 'collecting interesting pebbles and stones' is making a charming comeback, with many using them for craft projects.",
+   "A new trend sees people transforming forgotten kitchen cupboards into stylish 'mini home bars' or 'baking stations'."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what with their remote control when the batteries are running low, even though they know it doesn't really work?",
-   "Our survey said that over 65% of us admit to having a particular 'route' they absolutely have to take when walking around their local supermarket, even if it means extra steps?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with our socks after washing, even though we know it's a bit odd?",
    "Our survey said that over 65% of us admit to having a particular 'ritual' they absolutely have to do before settling down to watch a favourite TV show. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a tricky bit of flat-pack furniture, even though we know it won't help?",
@@ -1319,11 +1327,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're waiting for the kettle to boil, even though we know it makes no difference?",
    "Our survey said that over 55% of us admit to having a particular 'spot' they absolutely have to sit in when they visit their favourite local cafe or pub. What's their preferred perch?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep?"
+   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to choose a new book, even if we know it's not the best way to pick one?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before using a new tea towel for the first time. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you rediscover an 'old board game' from your childhood, and it's surprisingly fun to play again?",
-   "We all have those 'little rituals' we do to make a cup of tea or coffee absolutely perfect, don't we?",
    "You know how sometimes you stumble upon an 'old photograph' and it instantly transports you back to that moment, perhaps even making you smell something familiar?",
    "We all have those 'little tricks' we use to make everyday chores a bit more bearable or even enjoyable, don't we?",
    "Do you remember the first time you 'mastered a new recipe' and it felt like a real culinary triumph?",
@@ -1361,17 +1369,11 @@
    "You know how sometimes you spot a 'car registration plate' that spells out a funny word or a clever phrase?",
    "Think about those 'everyday sounds' that, for some reason, just irritate you more than they should.",
    "You know how sometimes you spot a 'familiar face' in an unexpected place, and it completely throws you off for a moment?",
-   "We all have those 'little everyday sounds' that bring a surprising sense of calm or contentment, don't we?"
+   "We all have those 'little everyday sounds' that bring a surprising sense of calm or contentment, don't we?",
+   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
+   "We all have those 'little everyday sounds' that are so specific to a particular kind of weather, don't we?"
   ],
   "facts": [
-   "The world's first public park was Birkenhead Park in Merseyside, inspiring New York's Central Park.",
-   "A group of owls is collectively known as a 'parliament'.",
-   "The inventor of the Pringles can is buried in one.",
-   "Butterflies taste with their feet.",
-   "In Japan, it's customary to eat KFC for Christmas dinner.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "The 'king' of a deck of playing cards is the only one without a moustache.",
-   "Flamingos get their pink colour from the food they eat, primarily brine shrimp and algae.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
    "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
    "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
@@ -1403,7 +1405,15 @@
    "There are more fake flamingos in the world than real ones.",
    "The world's oldest known piece of chewing gum is 9,000 years old and was found in Sweden.",
    "Hot water freezes faster than cold water under certain conditions, a phenomenon known as the Mpemba effect.",
-   "The average person walks the equivalent of three times around the world in their lifetime."
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "The British Royal Family officially owns all the swans in open waters across the country.",
+   "It is impossible for most people to lick their own elbow.",
+   "The human nose can remember 50,000 different scents."
   ]
  }
 }
