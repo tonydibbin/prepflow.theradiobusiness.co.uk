@@ -557,7 +557,12 @@
   "76119d0d01799e64": "2026-07-21",
   "bbee76a9e494d0db": "2026-07-21",
   "8e527321eda78423": "2026-07-21",
-  "b5db58ea58785882": "2026-07-21"
+  "b5db58ea58785882": "2026-07-21",
+  "8c5c2349e1f3d6c9": "2026-07-22",
+  "e35b581270dd2784": "2026-07-22",
+  "678aeed8e85d01f8": "2026-07-22",
+  "11b195d1f38abeb9": "2026-07-22",
+  "bb89fa0ddee3d786": "2026-07-22"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -628,7 +633,7 @@
   "d6e9022d6fe603dd": "2026-06-18",
   "a9c5cfdf64a6fd37": "2026-06-17",
   "d4608a8de45d2799": "2026-06-17",
-  "8b7e07a7588fcac2": "2026-07-05",
+  "8b7e07a7588fcac2": "2026-07-22",
   "75341d5b194b37b2": "2026-06-21",
   "2e0e952273f82f62": "2026-06-18",
   "72e31344eb37f72d": "2026-06-18",
@@ -785,8 +790,11 @@
   "0b6aedfe75ca7cf5": "2026-07-19",
   "d49b11e7fd18f45f": "2026-07-21",
   "3878235d849312fa": "2026-07-20",
-  "50a1cbca5d56c010": "2026-07-21",
-  "81f3a4e03239ef79": "2026-07-21"
+  "50a1cbca5d56c010": "2026-07-22",
+  "81f3a4e03239ef79": "2026-07-21",
+  "2d8d77b8d18718cd": "2026-07-22",
+  "49c5e5c0841adbd0": "2026-07-22",
+  "d8e69158c43e02f0": "2026-07-22"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1244,17 +1252,15 @@
   "56f4a4e0826a60a2": "2026-07-21",
   "68b33a98e77504ec": "2026-07-21",
   "ab3496e70f2c9d10": "2026-07-21",
-  "9124a89cc721ec52": "2026-07-21"
+  "9124a89cc721ec52": "2026-07-21",
+  "ee51a8b3d2da213d": "2026-07-22",
+  "dfb8087236c183f8": "2026-07-22",
+  "5dc98d5f6e080517": "2026-07-22",
+  "c7badfe7d66ed320": "2026-07-22",
+  "aabb77e0c6ba6785": "2026-07-22"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A delightful trend sees people leaving 'surprise positive notes' in public places for strangers to discover.",
-   "More people are rediscovering the tactile pleasure and mental benefits of 'sorting through old photographs'.",
-   "The art of 'creating miniature gardens' in unusual containers is blossoming in urban areas.",
-   "A surprising number of people are finding calm in the simple act of 'polishing household silver or cherished trinkets'.",
-   "The resurgence of 'letter writing' is bringing a personal touch back to communication.",
-   "A surprising number of people are finding joy in the simple act of 'cloud watching'.",
-   "The trend of 'swapping surplus garden produce' with neighbours is flourishing across communities.",
    "Experts are noting a rise in the appreciation for 'vintage radio jingles'.",
    "More people are embracing the quiet satisfaction of 'ironing pillowcases' to perfection.",
    "The delightful practice of 'leaving small, hand-painted stones' for others to find is spreading cheer.",
@@ -1287,11 +1293,16 @@
    "A growing number of people are finding joy in the simple act of 'darning socks' with colourful threads.",
    "Scientists have found that regularly 'watching clouds drift by' can actually help improve focus and reduce stress.",
    "The delightful art of 'collecting interesting pebbles and stones' is making a charming comeback, with many using them for craft projects.",
-   "A new trend sees people transforming forgotten kitchen cupboards into stylish 'mini home bars' or 'baking stations'."
+   "A new trend sees people transforming forgotten kitchen cupboards into stylish 'mini home bars' or 'baking stations'.",
+   "A new study suggests that 'micro-breaks' involving looking at greenery can significantly boost focus.",
+   "The delightful trend of 'creative lunchbox art' is bringing smiles to workplaces and schools alike.",
+   "Experts are noticing a rise in the popularity of 'moonlit walks' as a calming evening ritual.",
+   "A surprising new hobby involves 'identifying cloud formations' and tracking their journey across the sky.",
+   "The charming practice of 'leaving small, encouraging notes for strangers' is quietly spreading joy in communities.",
+   "Researchers highlight the benefits of 'singing in the shower' for both physical and mental well-being.",
+   "A growing number of people are discovering the satisfaction of 'restoring old photographs' to their former glory."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what with our socks after washing, even though we know it's a bit odd?",
-   "Our survey said that over 65% of us admit to having a particular 'ritual' they absolutely have to do before settling down to watch a favourite TV show. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a tricky bit of flat-pack furniture, even though we know it won't help?",
    "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to listen to first thing on a Saturday morning to get them in a good mood. What's their go-to tune?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out how to put together flat-pack furniture, even though we know it won't help?",
@@ -1329,11 +1340,11 @@
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to choose a new book, even if we know it's not the best way to pick one?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before using a new tea towel for the first time. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before using a new tea towel for the first time. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put together flat-pack furniture, even though it rarely helps?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a cup of tea. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you stumble upon an 'old photograph' and it instantly transports you back to that moment, perhaps even making you smell something familiar?",
-   "We all have those 'little tricks' we use to make everyday chores a bit more bearable or even enjoyable, don't we?",
    "Do you remember the first time you 'mastered a new recipe' and it felt like a real culinary triumph?",
    "We all have those 'little rituals' we do to make a trip to the supermarket a bit more organised, don't we?",
    "You know how sometimes you rediscover an 'old family recipe book' with handwritten notes and perhaps a few food stains, and it brings back a flood of memories?",
@@ -1371,17 +1382,11 @@
    "You know how sometimes you spot a 'familiar face' in an unexpected place, and it completely throws you off for a moment?",
    "We all have those 'little everyday sounds' that bring a surprising sense of calm or contentment, don't we?",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little everyday sounds' that are so specific to a particular kind of weather, don't we?"
+   "We all have those 'little everyday sounds' that are so specific to a particular kind of weather, don't we?",
+   "You know how sometimes you discover a 'hidden detail' in a place you visit all the time, and it makes you look at it completely differently?",
+   "Think about those 'everyday objects' that you've surprisingly had for an incredibly long time, almost like an old friend."
   ],
   "facts": [
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
-   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
-   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
-   "The distinctive smell of rain, especially after a dry spell, is called petrichor.",
-   "There are more possible ways to play the first four moves in a game of chess than there are atoms in the universe.",
-   "The first successful photograph was taken in 1826 by French inventor Joseph Nicéphore Niépce, requiring an exposure of several hours.",
-   "Bananas are technically berries, while strawberries are not.",
-   "The strongest muscle in the human body is the masseter, which is the jaw muscle.",
    "The world's largest snowflake ever recorded was 15 inches wide and 8 inches thick, found in Montana in 1887.",
    "Cows don't have upper front teeth; instead, they have a thick, tough pad called a dental pad.",
    "The inventor of the Pringle can, Fredric Baur, requested to be buried in one, and his wish was granted.",
@@ -1413,7 +1418,15 @@
    "The longest recorded flight of a chicken is 13 seconds.",
    "The British Royal Family officially owns all the swans in open waters across the country.",
    "It is impossible for most people to lick their own elbow.",
-   "The human nose can remember 50,000 different scents."
+   "The human nose can remember 50,000 different scents.",
+   "The 'unicorn' is Scotland's national animal, symbolising purity, innocence, and power.",
+   "Bumblebees can fly higher than Mount Everest, if conditions are right, due to their impressive wing strength.",
+   "There's a 'Great Emu War' in Australian history, where soldiers were deployed to combat emus destroying crops.",
+   "The world's quietest room, located at Microsoft's headquarters, is so silent you can hear your own blood flowing.",
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "In Switzerland, it is illegal to own just one guinea pig, as they are considered social animals that need company.",
+   "Plastic bags were invented in 1965 by a Swedish engineer, Sten Gustaf Thulin, as an alternative to paper bags to save trees.",
+   "The 'Smell of Rain' has a specific name: petrichor, a pleasant earthy scent produced when rain falls on dry soil."
   ]
  }
 }
