@@ -572,7 +572,12 @@
   "78200dcb86f56a4b": "2026-07-23",
   "2f58935c7745cc77": "2026-07-23",
   "878cdfa29eff32f4": "2026-07-23",
-  "71c6e35918c6a22b": "2026-07-23"
+  "71c6e35918c6a22b": "2026-07-23",
+  "9ea1ce409995c111": "2026-07-23",
+  "1531bea49cadba01": "2026-07-23",
+  "4c2027a96b7d75fb": "2026-07-23",
+  "6d3406c762037fa4": "2026-07-23",
+  "90f60d38befec5f9": "2026-07-23"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -802,7 +807,7 @@
   "3878235d849312fa": "2026-07-20",
   "50a1cbca5d56c010": "2026-07-22",
   "81f3a4e03239ef79": "2026-07-21",
-  "2d8d77b8d18718cd": "2026-07-22",
+  "2d8d77b8d18718cd": "2026-07-23",
   "49c5e5c0841adbd0": "2026-07-22",
   "d8e69158c43e02f0": "2026-07-22",
   "ea9370f616134423": "2026-07-22",
@@ -810,7 +815,9 @@
   "95ac8fae7aea5f85": "2026-07-23",
   "107ad454cb9b53ed": "2026-07-23",
   "660f4770f4cc3755": "2026-07-23",
-  "24623f6402ae7d2a": "2026-07-23"
+  "24623f6402ae7d2a": "2026-07-23",
+  "f4dae366ff5c3f5a": "2026-07-23",
+  "0525a1216a0cbb2d": "2026-07-23"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1283,17 +1290,15 @@
   "264429b59d516469": "2026-07-23",
   "9289ef7d791c811a": "2026-07-23",
   "97b8067f336096b6": "2026-07-23",
-  "5575bc221b46679e": "2026-07-23"
+  "5575bc221b46679e": "2026-07-23",
+  "7138ecfdf24dc2b3": "2026-07-23",
+  "e720e0703cc7c861": "2026-07-23",
+  "18bf05a4e2c53d29": "2026-07-23",
+  "86223335c26aa070": "2026-07-23",
+  "82bce70db8e02028": "2026-07-23"
  },
  "_ai_recent": {
   "newsbrief": [
-   "More people are finding joy in the simple act of 'polishing their shoes' to a perfect shine.",
-   "A growing number of gardeners are planting 'night-scented flowers' to enjoy their patios after sunset.",
-   "Experts are noticing a trend in families creating 'themed movie nights' with homemade snacks to match.",
-   "The surprising pleasure of 'organising your spice rack' into alphabetical order is bringing calm to many kitchens.",
-   "New research indicates that regularly 'listening to the rain' can genuinely help improve sleep quality.",
-   "A new trend sees people transforming forgotten garden sheds into stylish 'reading nooks' and 'hobby hubs'.",
-   "Scientists have found that looking at photos of 'cute animals' can actually improve your concentration and performance on tasks.",
    "The delightful art of 'illustrated recipe cards' is making a charming comeback, with many preferring them to digital versions.",
    "A growing number of people are discovering the surprising satisfaction of 'tidying up public spaces' during their daily walks.",
    "Experts are suggesting that regularly 'changing the route of your daily walk' can boost creativity and mood.",
@@ -1326,11 +1331,16 @@
    "The simple pleasure of 'writing a physical letter' is experiencing a charming resurgence among all age groups.",
    "A new report highlights the benefits of 'taking a scenic route' even for everyday journeys.",
    "The surprising popularity of 'board game cafes' continues to grow across the UK.",
-   "Research indicates that 'listening to gentle rain sounds' can significantly improve focus and relaxation."
+   "Research indicates that 'listening to gentle rain sounds' can significantly improve focus and relaxation.",
+   "The delightful art of 'cloud-gazing' is quietly making a comeback as a soothing pastime.",
+   "A new trend sees people 'swapping skills' with neighbours instead of paying for services.",
+   "Researchers are noting a surprising increase in the popularity of 'retro arcade games'.",
+   "The humble 'picnic blanket' is seeing a stylish revival, becoming a must-have accessory for outdoor dining.",
+   "A study suggests that 'listening to the crackle of a log fire' can significantly reduce stress levels.",
+   "There's a growing movement for 'community book-sharing boxes' popping up in neighbourhoods.",
+   "The simple act of 'doodling' during meetings or while on the phone has been found to boost memory and concentration."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'tidying up' what in a restaurant or café while waiting for our order?",
-   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to hum or sing to themselves when doing the washing up. What's their go-to tune?",
    "Our survey said that over 70% of us admit to secretly 'doing' what with their laundry, even though they know it's a bit of a gamble?",
    "Our survey said that over 65% of us admit to having a particular 'item of stationery' that they absolutely can't do without at work or home?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when trying to decide what to wear in the morning, even if it makes us a little late?",
@@ -1368,11 +1378,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to navigate somewhere new, even if we know it makes us look a bit lost?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a piece of chocolate. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put on a duvet cover?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a biscuit. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a biscuit. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to open a stubborn jar, even though we know it might not work?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a packet of crisps. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you discover a 'hidden gem' of a charity shop and it's full of absolute treasures?",
-   "We all have those 'little habits' that make our morning brew just perfect, don't we?",
    "You know how sometimes you find a 'forgotten item' in an old coat pocket or at the back of a drawer?",
    "We all have those 'little habits' that make our journey to work or school just a bit smoother, don't we?",
    "You know how sometimes you spot someone doing something really thoughtful and it just brightens your whole day?",
@@ -1410,17 +1420,11 @@
    "You know how sometimes a particular 'sound' just instantly makes you feel cosy and at home?",
    "We all have those 'little everyday moments' that just make us smile, don't we?",
    "We all have those little 'micro-routines' that we do without even thinking, don't we?",
-   "Think about those 'everyday objects' that you still own, even though they're a bit past their best, simply because they hold a special memory or just 'feel right'."
+   "Think about those 'everyday objects' that you still own, even though they're a bit past their best, simply because they hold a special memory or just 'feel right'.",
+   "You know how sometimes you hear a 'word' or a 'phrase' that you haven't heard in ages, and it suddenly reminds you of something or someone?",
+   "Think about those 'little moments of accidental kindness' you've either received or witnessed."
   ],
   "facts": [
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Bananaphobia is the fear of bananas.",
-   "The iconic red telephone box was designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
-   "A group of owls is called a parliament.",
-   "There are more fake flamingos in the world than real ones.",
-   "The world's oldest known piece of chewing gum is 9,000 years old and was found in Sweden.",
-   "Hot water freezes faster than cold water under certain conditions, a phenomenon known as the Mpemba effect.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
    "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
    "There are more stars in the universe than grains of sand on all the beaches on Earth.",
@@ -1452,7 +1456,15 @@
    "Oxford University is older than the Aztec Empire.",
    "The colour orange was named after the fruit, not the other way around.",
    "A bolt of lightning is six times hotter than the surface of the sun.",
-   "The sound of thunder is caused by the rapid expansion of air heated by a lightning bolt."
+   "The sound of thunder is caused by the rapid expansion of air heated by a lightning bolt.",
+   "Butterflies taste with their feet.",
+   "The world's smallest chameleon is found on Madagascar and is smaller than a fingernail.",
+   "A duck's quack does not echo, and no one knows why.",
+   "The human nose can remember 50,000 different scents.",
+   "Sea otters hold hands while they sleep so they don't drift away from each other.",
+   "The Great Wall of China is not visible from the Moon with the naked eye.",
+   "A single cloud can weigh more than a million pounds.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes."
   ]
  }
 }
