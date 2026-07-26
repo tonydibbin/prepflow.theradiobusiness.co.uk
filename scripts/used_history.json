@@ -612,7 +612,12 @@
   "90ee7bf1a496536b": "2026-07-27",
   "7dbe187f2291ca1e": "2026-07-27",
   "990687721ea521f9": "2026-07-27",
-  "6b9601f14faa28fa": "2026-07-27"
+  "6b9601f14faa28fa": "2026-07-27",
+  "1b312012d65b39c9": "2026-07-27",
+  "9fb5c6cfcd77ab7a": "2026-07-27",
+  "cc7f3ecb7efe9813": "2026-07-27",
+  "58170ee3ca302633": "2026-07-27",
+  "380ac0921553d07f": "2026-07-27"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -865,11 +870,12 @@
   "4734bcdf897b71e0": "2026-07-25",
   "5cfe9f167e53b36d": "2026-07-26",
   "b747a9510fb0a36a": "2026-07-27",
-  "63226ce79e8ae33d": "2026-07-26",
+  "63226ce79e8ae33d": "2026-07-27",
   "b1430353e9d6a35f": "2026-07-27",
   "3fc4f1d069d3fd05": "2026-07-27",
   "392354844d840332": "2026-07-27",
-  "9bd8d211a396954f": "2026-07-27"
+  "9bd8d211a396954f": "2026-07-27",
+  "ec079550638a1cbe": "2026-07-27"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1382,17 +1388,15 @@
   "6959750ca5f12a6b": "2026-07-27",
   "ccb71ea5c8a7b781": "2026-07-27",
   "17e61c2f2d31f1b9": "2026-07-27",
-  "3cb66b647e9e3b3f": "2026-07-27"
+  "3cb66b647e9e3b3f": "2026-07-27",
+  "af0a2db8f68f03e9": "2026-07-27",
+  "a92bd1bef3223806": "2026-07-27",
+  "8a1cff226fba2113": "2026-07-27",
+  "56f9759aaea97772": "2026-07-27",
+  "898cea8710a66770": "2026-07-27"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The humble 'hot water bottle' is seeing a stylish resurgence, becoming a comforting accessory for chilly evenings.",
-   "A study reveals that people who 'talk to their houseplants' often find them thriving more.",
-   "There's a growing appreciation for the 'art of skipping stones' as a mindful outdoor activity.",
-   "Scientists have found that looking at photos of 'cute animals' can actually improve concentration and performance on tasks.",
-   "The simple pleasure of 'baking bread from scratch' is experiencing a significant rise in popularity across all age groups.",
-   "A new study suggests that listening to the sound of 'babbling brooks' can significantly reduce stress.",
-   "The trend of 'swapping homemade jams and preserves' is quietly flourishing in local communities.",
    "Scientists have discovered that 'humming to plants' might actually encourage them to grow faster.",
    "There's a growing fascination with 'collecting vintage postcards' as a window into the past.",
    "The delightful pastime of 'spotting garden gnomes' on walks is becoming a quirky local sport.",
@@ -1425,11 +1429,16 @@
    "A study suggests that 'making your bed' in the morning can improve your overall mood.",
    "There's a growing buzz around 'upcycling old furniture' into charming new pieces.",
    "Researchers are exploring the benefits of 'forest bathing' for urban dwellers.",
-   "The nostalgic hobby of 'collecting old postcards' is seeing a resurgence."
+   "The nostalgic hobby of 'collecting old postcards' is seeing a resurgence.",
+   "A recent study suggests that spending time looking at intricate details in nature, like the patterns on a butterfly wing, can boost our focus.",
+   "The joy of 'analogue games', like classic board games and card games, is experiencing a charming revival.",
+   "Scientists are exploring how listening to 'natural ambient sounds', such as rustling leaves or gentle rain, can enhance relaxation.",
+   "There's a growing trend for creating 'tiny art installations' in unexpected public places, bringing a touch of whimsy to daily life.",
+   "The simple act of 'cloud-gazing' is being highlighted as a wonderful way to spark imagination and mindfulness.",
+   "Experts are suggesting that collecting 'found objects' on walks, like interesting pebbles or fallen leaves, can be a mindful activity.",
+   "The delightful art of 'origami', or paper folding, is gaining popularity as a relaxing and creative hobby."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'naming' what item in our house, even though we know it's just an inanimate object?",
-   "Our survey said that over 55% of us admit to having a particular 'song' they absolutely have to hum or whistle when they're making a cup of tea or coffee. What's their go-to tune?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning?",
    "Our survey said that over 55% of us admit to having a particular 'ritual' they absolutely have to perform before sending an important email, just to make sure it's perfect?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a small household item, even if we know it's unlikely to help?",
@@ -1467,11 +1476,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to reach something just out of grasp, even though we know it might not work?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot bowl of soup. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear, even though we know it rarely helps?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly baked biscuit. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly baked biscuit. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to be a good hair day, even though we know it makes no logical sense?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot slice of toast. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular smell' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little everyday moments' that just make us smile, even if they seem insignificant to others.",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'little everyday moments' that just make us smile, even if they seem insignificant to others.",
    "You know how sometimes a particular 'sound' can instantly transport you back to a specific memory or a moment from your past?",
@@ -1509,17 +1518,11 @@
    "You know how sometimes you hear a 'sound' that you haven't heard in ages, and it suddenly brings back a flood of memories?",
    "We all have those 'little everyday objects' that, for some reason, we just can't seem to part with, even if they're a bit worn or broken, don't we?",
    "You know how sometimes you spot a 'familiar face' in a completely unexpected place, like bumping into your old school teacher at a holiday resort?",
-   "Think about those 'little everyday sounds' that, for you, just instantly mean 'comfort' or 'home'."
+   "Think about those 'little everyday sounds' that, for you, just instantly mean 'comfort' or 'home'.",
+   "You know those 'little everyday sounds' that are just pure comfort to you, almost like a sonic hug?",
+   "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!"
   ],
   "facts": [
-   "The Great Fire of London in 1666 actually started in a bakery on Pudding Lane.",
-   "A 'jiffy' is an actual unit of time, specifically 1/100th of a second.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Lemons contain more sugar than strawberries do.",
-   "The 'unicorn' is the national animal of Scotland.",
-   "Before erasers, people used plain bread to rub out pencil marks.",
-   "A group of owls is called a 'parliament'.",
    "A group of rhinoceroses is collectively known as a 'crash'.",
    "The inventor of the Pringles can, Fredric Baur, requested to be buried in one of his own cans.",
    "The world's quietest room is located at Microsoft's headquarters in Washington state, where background noise is measured in negative decibels.",
@@ -1551,7 +1554,15 @@
    "Butterflies taste with their feet.",
    "The inventor of the corkscrew was an Englishman named Samuel Henshall, who patented his design in 1795.",
    "Strawberries are the only fruit with seeds on the outside.",
-   "There are more possible iterations of a game of chess than there are atoms in the known universe."
+   "There are more possible iterations of a game of chess than there are atoms in the known universe.",
+   "A group of ferrets is known as a 'business'.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "It is illegal to sing out of tune in Maryland, USA.",
+   "Bananas are technically berries, while strawberries are not.",
+   "The world's oldest known living tree is Methuselah, a Bristlecone pine in California, estimated to be over 4,800 years old.",
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second."
   ]
  }
 }
