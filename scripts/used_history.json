@@ -622,7 +622,12 @@
   "c53ef864f199a913": "2026-07-28",
   "bc32fd0a02b8c3af": "2026-07-28",
   "d819d28083308eb0": "2026-07-28",
-  "d6e380e94bbb538d": "2026-07-28"
+  "d6e380e94bbb538d": "2026-07-28",
+  "85f3cf72cada1f01": "2026-07-29",
+  "917267a7929564d2": "2026-07-29",
+  "fb30cafac038b0f0": "2026-07-29",
+  "74a89476d53aaea7": "2026-07-29",
+  "eba05e66deb366f6": "2026-07-29"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -885,7 +890,12 @@
   "ccee5dd46db8832f": "2026-07-28",
   "3fd93423a4f93b2c": "2026-07-28",
   "c63d0a9188c23b9d": "2026-07-28",
-  "cf1512c28e0d42ef": "2026-07-28"
+  "cf1512c28e0d42ef": "2026-07-28",
+  "20441dd14114e2d6": "2026-07-29",
+  "c852081fb536f0d8": "2026-07-29",
+  "cb69780d85019358": "2026-07-29",
+  "3950498ead524694": "2026-07-29",
+  "525205a0679cccfd": "2026-07-29"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1408,17 +1418,15 @@
   "9a037a09433d15a2": "2026-07-28",
   "a4419bf9182d059d": "2026-07-28",
   "6eb8f41889dab61f": "2026-07-28",
-  "50959494f4225195": "2026-07-28"
+  "50959494f4225195": "2026-07-28",
+  "9fb1eb32b8e9439e": "2026-07-29",
+  "871569f3eda08789": "2026-07-29",
+  "8bac9adb517a4309": "2026-07-29",
+  "bbc32a59e24e7829": "2026-07-29",
+  "05ac0fb361618c05": "2026-07-29"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The humble 'garden shed' is undergoing a stylish transformation, evolving into bespoke home offices and creative retreats.",
-   "A recent study highlights the mood-boosting power of 'nostalgic smells', such as freshly cut grass or old books.",
-   "There's a growing trend for 'micro-adventures' – short, local explorations that offer a taste of adventure without extensive travel.",
-   "The simple pleasure of 'watching trains go by' is experiencing a quiet resurgence as a meditative pastime.",
-   "Scientists have found that looking at photos of 'beautiful landscapes' can actually reduce feelings of stress and anxiety.",
-   "Scientists are finding that even a short walk in a local park can significantly boost creativity.",
-   "The joy of 'upcycling old furniture' is experiencing a big revival across the UK.",
    "There's a growing trend for 'community seed-swaps' in local areas.",
    "Researchers have discovered that listening to the 'sound of gentle rain' can improve focus.",
    "The simple pleasure of 'baking bread from scratch' is becoming a popular weekend pastime.",
@@ -1451,11 +1459,16 @@
    "There's a growing trend for 'neighbourhood book swaps' in local communities.",
    "Scientists are exploring how 'mindful gardening' can reduce stress levels.",
    "The delightful hobby of 'collecting vintage board games' is seeing a surge in popularity.",
-   "A study found that 'listening to instrumental music' while working can enhance focus and productivity."
+   "A study found that 'listening to instrumental music' while working can enhance focus and productivity.",
+   "The surprising power of a good 'earworm' is being explored by researchers.",
+   "A new trend is seeing people create 'miniature landscapes' in plant pots.",
+   "The simple pleasure of 'window shopping' is being rediscovered as a mindful activity.",
+   "Experts are suggesting that collecting 'interesting local facts' can deepen our connection to our communities.",
+   "The satisfying art of 'skip-watching' (observing what people put in skips) is gaining a cult following.",
+   "A study found that 'wearing mismatched socks' can subtly boost creativity and individuality.",
+   "The delightful art of 'doodling while on the phone' is being recognised for its unexpected benefits."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to fix a small household item, even if we know it's unlikely to help?",
-   "Our survey said that over 55% of us admit to having a particular 'lucky item' they absolutely have to carry with them on a day they want to go well. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out which way to go in an unfamiliar place, even though it rarely helps?",
    "Our survey said that over 55% of us admit to having a particular 'item' that they absolutely have to rescue first in a game of pretend 'desert island dilemma'?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to concentrate, even though it makes us look a bit daft?",
@@ -1493,11 +1506,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to be a good hair day, even though we know it makes no logical sense?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot slice of toast. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find something we've lost, even though we know it rarely helps?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh cup of coffee. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh cup of coffee. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to find something in a cluttered drawer?",
+   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to watch their favourite TV show. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'sound' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little rituals' we perform without even thinking, especially when we're getting ready for something important.",
    "You know how sometimes you catch a 'glimpse of a familiar building' from an unexpected angle, and it suddenly looks completely different?",
    "We all have those 'little everyday sounds' that are so specific to a particular season, don't we?",
    "You know those 'everyday objects' that have a surprisingly satisfying feel or sound to them?",
@@ -1535,17 +1548,11 @@
    "You know those 'little everyday sounds' that are just pure comfort to you, almost like a sonic hug?",
    "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
    "We all have those 'quirky family sayings' that only make sense within our own households, don't we?",
-   "Think about those 'little everyday moments' that just make you feel instantly content."
+   "Think about those 'little everyday moments' that just make you feel instantly content.",
+   "You know how sometimes a particular 'smell' instantly takes you back to a specific memory or a moment in time?",
+   "We all have those 'little everyday objects' that we can't quite bring ourselves to throw away, even if they're a bit worn or broken, don't we?"
   ],
   "facts": [
-   "The Great Barrier Reef is the only living structure visible from space.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "Bumblebees can fly higher than Mount Everest.",
-   "The world's smallest mammal is the bumblebee bat, found in Thailand.",
-   "It takes approximately 10 minutes for a spacecraft to reach space.",
-   "The deepest part of the ocean, the Mariana Trench, is deeper than Mount Everest is tall.",
-   "Polar bears have black skin under their white fur to help absorb sunlight and keep warm.",
-   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
    "The world's oldest piece of chewing gum is over 9,000 years old and was found in Finland.",
    "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
    "The inventor of the Pringles can is buried in one.",
@@ -1577,7 +1584,15 @@
    "The colour orange was named after the fruit, not the other way around.",
    "The human nose can remember 50,000 different scents.",
    "There are more active volcanoes under the sea than there are on land.",
-   "Penguins are the only birds that can't fly but can swim."
+   "Penguins are the only birds that can't fly but can swim.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
+   "A 'bibliosmia' is the pleasure of smelling old books.",
+   "It is impossible for most people to lick their own elbow.",
+   "The original name for the butterfly was 'flutterby'.",
+   "The tiny pocket on jeans was originally designed for pocket watches.",
+   "The world's largest officially named ocean is the Pacific Ocean.",
+   "The human heart creates enough pressure to squirt blood 30 feet."
   ]
  }
 }
