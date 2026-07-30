@@ -651,7 +651,12 @@
   "ca86ad2fd7ed8f60": "2026-07-31",
   "65cee82c9fee360b": "2026-07-31",
   "5a35224232f38e44": "2026-07-31",
-  "1a83113ec9d4d2a4": "2026-07-31"
+  "1a83113ec9d4d2a4": "2026-07-31",
+  "e6f9dab1492639a7": "2026-07-31",
+  "6161c37d148c4e33": "2026-07-31",
+  "0a5eaa11f38d6350": "2026-07-31",
+  "0d07ac786573212c": "2026-07-31",
+  "25d9311a51179c1d": "2026-07-31"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -851,7 +856,7 @@
   "6c08f98d5d2f3ad0": "2026-07-16",
   "b92c1bac181da767": "2026-07-14",
   "489a63c25d247b65": "2026-07-14",
-  "e9c4c477d0bb6d33": "2026-07-14",
+  "e9c4c477d0bb6d33": "2026-07-31",
   "d7330cd24414bd94": "2026-07-15",
   "79fc67c53181f114": "2026-07-16",
   "4556171b9d6ba5e5": "2026-07-16",
@@ -932,7 +937,8 @@
   "555469ff32c396c3": "2026-07-31",
   "2b9aa50e9a02d9bc": "2026-07-31",
   "25ab27f16b0cde10": "2026-07-31",
-  "0e128561ab99f4eb": "2026-07-31"
+  "0e128561ab99f4eb": "2026-07-31",
+  "eba33c0d74a7f013": "2026-07-31"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1480,17 +1486,15 @@
   "c4febf4652f01aca": "2026-07-31",
   "1b1916c854ae1d6e": "2026-07-31",
   "b9b75c4217e92f9a": "2026-07-31",
-  "8903d2e7b10b523a": "2026-07-31"
+  "8903d2e7b10b523a": "2026-07-31",
+  "39d03c0da87f17eb": "2026-07-31",
+  "5eae23db17b6d0b0": "2026-07-31",
+  "e9fe5b83ba05539a": "2026-07-31",
+  "580d42993d28ec44": "2026-07-31",
+  "21299325c8d99903": "2026-07-31"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Scientists are exploring how listening to 'natural ambient sounds', such as rustling leaves or gentle rain, can enhance relaxation.",
-   "There's a growing trend for creating 'tiny art installations' in unexpected public places, bringing a touch of whimsy to daily life.",
-   "The simple act of 'cloud-gazing' is being highlighted as a wonderful way to spark imagination and mindfulness.",
-   "Experts are suggesting that collecting 'found objects' on walks, like interesting pebbles or fallen leaves, can be a mindful activity.",
-   "The delightful art of 'origami', or paper folding, is gaining popularity as a relaxing and creative hobby.",
-   "A recent study suggests that 'creative daydreaming' can significantly boost problem-solving skills.",
-   "The simple pleasure of 'writing physical letters' is making a heartwarming comeback.",
    "Experts are highlighting the benefits of 'digital detoxes' for improving sleep quality.",
    "There's a growing trend for 'neighbourhood book swaps' in local communities.",
    "Scientists are exploring how 'mindful gardening' can reduce stress levels.",
@@ -1523,11 +1527,16 @@
    "A new study suggests that 'having a 'default' happy song' ready to play can quickly shift your mood.",
    "The satisfying ritual of 'watering houseplants' is being recognised as a genuine stress-reducer.",
    "The joy of 'discovering a forgotten fiver' in an old coat pocket is consistently rated as a top small happiness.",
-   "There's a growing appreciation for 'the art of making a perfectly crisp sandwich'."
+   "There's a growing appreciation for 'the art of making a perfectly crisp sandwich'.",
+   "The delightful art of 'puddle jumping' is being rediscovered as a simple joy by adults.",
+   "New research suggests that 'colouring in' can significantly reduce stress levels in busy grown-ups.",
+   "The satisfying ritual of 'dusting off old board games' for family nights is seeing a resurgence.",
+   "There's a growing trend for 'micro-adventures' – short, accessible trips close to home.",
+   "The simple pleasure of 'watching the clouds drift by' is being advocated as a mindful moment.",
+   "Home bakers are embracing 'the humble scone' as the ultimate comfort food to perfect.",
+   "The charming habit of 'leaving out food for garden birds' is bringing joy to countless households."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're waiting for the kettle to boil, even though we know it makes no difference?",
-   "Our survey said that over 55% of us admit to having a particular 'spot' they absolutely have to sit in when they visit their favourite local cafe or pub. What's their preferred perch?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to choose a new book, even if we know it's not the best way to pick one?",
@@ -1565,11 +1574,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what with our keys just before leaving the house, even though we know it's a bit superstitious?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly baked biscuit. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly baked biscuit. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh slice of pizza. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you spot a 'car registration plate' that spells out a funny word or a clever phrase?",
-   "Think about those 'everyday sounds' that, for some reason, just irritate you more than they should.",
    "You know how sometimes you spot a 'familiar face' in an unexpected place, and it completely throws you off for a moment?",
    "We all have those 'little everyday sounds' that bring a surprising sense of calm or contentment, don't we?",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
@@ -1607,17 +1616,11 @@
    "You know those 'little everyday sounds' that just instantly transport you back to your childhood?",
    "We all have those 'unusual personal rituals' we perform before starting something important.",
    "You know those 'little everyday sounds' that are just pure comfort to you, almost like a sonic hug?",
-   "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!"
+   "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
+   "You know those little 'unwritten rules' that you absolutely live by in your daily life, even if nobody else does?",
+   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day."
   ],
   "facts": [
-   "The Great Wall of China is not a single continuous wall, but a collection of walls and fortifications.",
-   "The 'unicorn' is the national animal of Scotland.",
-   "A bolt of lightning is five times hotter than the surface of the sun.",
-   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
-   "The colour orange was named after the fruit, not the other way around.",
-   "The human nose can remember 50,000 different scents.",
-   "There are more active volcanoes under the sea than there are on land.",
-   "Penguins are the only birds that can't fly but can swim.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
    "A 'bibliosmia' is the pleasure of smelling old books.",
@@ -1649,7 +1652,15 @@
    "The world's first successful photograph was taken in 1826 by French inventor Joseph Nicéphore Niépce.",
    "Pineapples take about two to three years to grow, from planting to harvest.",
    "The scent of freshly cut grass is actually a distress signal released by the plants.",
-   "The sound of a human belch has been recorded at a staggering 109.9 decibels, louder than a chainsaw."
+   "The sound of a human belch has been recorded at a staggering 109.9 decibels, louder than a chainsaw.",
+   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
+   "A group of owls is called a parliament.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Butterflies taste with their feet.",
+   "The 'richest' soil on Earth is called Chernozem, known for its deep black colour and high fertility.",
+   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+   "It takes a sloth about two weeks to digest a single meal.",
+   "The average person walks the equivalent of three times around the world in their lifetime."
   ]
  }
 }
