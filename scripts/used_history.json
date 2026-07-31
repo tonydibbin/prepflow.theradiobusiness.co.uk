@@ -656,7 +656,12 @@
   "6161c37d148c4e33": "2026-07-31",
   "0a5eaa11f38d6350": "2026-07-31",
   "0d07ac786573212c": "2026-07-31",
-  "25d9311a51179c1d": "2026-07-31"
+  "25d9311a51179c1d": "2026-07-31",
+  "cee37943ed80b0e8": "2026-08-01",
+  "df991bf3fb2094ec": "2026-08-01",
+  "40dfccc7b6a67f63": "2026-08-01",
+  "6c0137840e31272a": "2026-08-01",
+  "84583b9515fabd9b": "2026-08-01"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -934,11 +939,14 @@
   "2c07a4336164bcca": "2026-07-30",
   "0e9cd042541d3170": "2026-07-30",
   "559efa1c5cefb7fb": "2026-07-31",
-  "555469ff32c396c3": "2026-07-31",
+  "555469ff32c396c3": "2026-08-01",
   "2b9aa50e9a02d9bc": "2026-07-31",
-  "25ab27f16b0cde10": "2026-07-31",
+  "25ab27f16b0cde10": "2026-08-01",
   "0e128561ab99f4eb": "2026-07-31",
-  "eba33c0d74a7f013": "2026-07-31"
+  "eba33c0d74a7f013": "2026-07-31",
+  "d55f2f256c6b841c": "2026-08-01",
+  "72c4f8911b6c5fc1": "2026-08-01",
+  "e9d83c12d180596d": "2026-08-01"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1491,17 +1499,15 @@
   "5eae23db17b6d0b0": "2026-07-31",
   "e9fe5b83ba05539a": "2026-07-31",
   "580d42993d28ec44": "2026-07-31",
-  "21299325c8d99903": "2026-07-31"
+  "21299325c8d99903": "2026-07-31",
+  "0bd275142b3c6cad": "2026-08-01",
+  "bfb099f8add91734": "2026-08-01",
+  "5e5d6541db4a5f56": "2026-08-01",
+  "f0f157a761869966": "2026-08-01",
+  "93dc12d174b79ce5": "2026-08-01"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are highlighting the benefits of 'digital detoxes' for improving sleep quality.",
-   "There's a growing trend for 'neighbourhood book swaps' in local communities.",
-   "Scientists are exploring how 'mindful gardening' can reduce stress levels.",
-   "The delightful hobby of 'collecting vintage board games' is seeing a surge in popularity.",
-   "A study found that 'listening to instrumental music' while working can enhance focus and productivity.",
-   "The surprising power of a good 'earworm' is being explored by researchers.",
-   "A new trend is seeing people create 'miniature landscapes' in plant pots.",
    "The simple pleasure of 'window shopping' is being rediscovered as a mindful activity.",
    "Experts are suggesting that collecting 'interesting local facts' can deepen our connection to our communities.",
    "The satisfying art of 'skip-watching' (observing what people put in skips) is gaining a cult following.",
@@ -1534,11 +1540,16 @@
    "There's a growing trend for 'micro-adventures' – short, accessible trips close to home.",
    "The simple pleasure of 'watching the clouds drift by' is being advocated as a mindful moment.",
    "Home bakers are embracing 'the humble scone' as the ultimate comfort food to perfect.",
-   "The charming habit of 'leaving out food for garden birds' is bringing joy to countless households."
+   "The charming habit of 'leaving out food for garden birds' is bringing joy to countless households.",
+   "The simple pleasure of a good old-fashioned picnic is making a delightful comeback this summer.",
+   "A new trend sees people embracing 'book swaps' to refresh their reading piles without spending a penny.",
+   "The satisfying ritual of sorting through old photographs is being hailed as a new mindful activity.",
+   "There's a growing appreciation for the gentle art of 'letterboxing' – a treasure hunt combining orienteering, art, and puzzle-solving.",
+   "The comforting sound of rain on a tin roof is being celebrated as a surprisingly popular relaxation aid.",
+   "More people are discovering the quiet joy of 'nature journaling' – sketching and writing observations from the garden or a local park.",
+   "The classic game of 'hide and seek' is experiencing a resurgence, not just with children but among adults too, as a fun, active way to destress."
   ],
   "survey": [
-   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to choose a new book, even if we know it's not the best way to pick one?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before using a new tea towel for the first time. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put together flat-pack furniture, even though it rarely helps?",
@@ -1576,11 +1587,11 @@
    "Our survey said that over 65% of us admit to secretly 'doing' what with our keys just before leaving the house, even though we know it's a bit superstitious?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly baked biscuit. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh slice of pizza. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh slice of pizza. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to cook for dinner?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot bath. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you spot a 'familiar face' in an unexpected place, and it completely throws you off for a moment?",
-   "We all have those 'little everyday sounds' that bring a surprising sense of calm or contentment, don't we?",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'little everyday sounds' that are so specific to a particular kind of weather, don't we?",
    "You know how sometimes you discover a 'hidden detail' in a place you visit all the time, and it makes you look at it completely differently?",
@@ -1618,17 +1629,11 @@
    "You know those 'little everyday sounds' that are just pure comfort to you, almost like a sonic hug?",
    "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
    "You know those little 'unwritten rules' that you absolutely live by in your daily life, even if nobody else does?",
-   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day."
+   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day.",
+   "We all have those 'little everyday moments' that just make you feel instantly content, don't we?",
+   "You know how sometimes a particular 'smell' instantly takes you back to a specific memory or a moment in time?"
   ],
   "facts": [
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
-   "A 'bibliosmia' is the pleasure of smelling old books.",
-   "It is impossible for most people to lick their own elbow.",
-   "The original name for the butterfly was 'flutterby'.",
-   "The tiny pocket on jeans was originally designed for pocket watches.",
-   "The world's largest officially named ocean is the Pacific Ocean.",
-   "The human heart creates enough pressure to squirt blood 30 feet.",
    "The Great Wall of China is not visible from space with the naked eye.",
    "The dot over the letter 'i' is called a tittle.",
    "Strawberries are the only fruit with seeds on the outside.",
@@ -1660,7 +1665,15 @@
    "The 'richest' soil on Earth is called Chernozem, known for its deep black colour and high fertility.",
    "The first modern Olympic Games were held in Athens, Greece, in 1896.",
    "It takes a sloth about two weeks to digest a single meal.",
-   "The average person walks the equivalent of three times around the world in their lifetime."
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "The world's smallest chameleon, Brookesia nana, is so tiny it can sit comfortably on the tip of your finger.",
+   "Bumblebees have 'fur' on their eyes, which helps them collect pollen more efficiently.",
+   "The 'smell of rain' actually has a name: petrichor, and it's caused by a combination of plant oils and a bacteria called actinomycetes.",
+   "A group of ferrets is called a 'business'.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The oldest piece of chewing gum ever found is over 9,000 years old and was discovered in Finland.",
+   "Flamingos are not born pink; their vibrant colour comes from beta-carotene in their diet of brine shrimp and algae.",
+   "The distinctive stripes of a zebra are as unique as a human fingerprint, with no two zebras having the exact same pattern."
   ]
  }
 }
