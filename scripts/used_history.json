@@ -666,7 +666,12 @@
   "c9abc21ab552ff23": "2026-08-01",
   "2ff88e4a9c760708": "2026-08-01",
   "b37fa392bb0ad117": "2026-08-01",
-  "2bc384447aae6dd3": "2026-08-01"
+  "2bc384447aae6dd3": "2026-08-01",
+  "32545caa7a9b5ce2": "2026-08-02",
+  "ab41cd0490f8667d": "2026-08-02",
+  "c02b402c5477ca3d": "2026-08-02",
+  "774e1672d70bb0ef": "2026-08-02",
+  "4f17fc28d5b8e573": "2026-08-02"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -944,14 +949,16 @@
   "2c07a4336164bcca": "2026-07-30",
   "0e9cd042541d3170": "2026-07-30",
   "559efa1c5cefb7fb": "2026-07-31",
-  "555469ff32c396c3": "2026-08-01",
+  "555469ff32c396c3": "2026-08-02",
   "2b9aa50e9a02d9bc": "2026-07-31",
   "25ab27f16b0cde10": "2026-08-01",
   "0e128561ab99f4eb": "2026-07-31",
   "eba33c0d74a7f013": "2026-08-01",
-  "d55f2f256c6b841c": "2026-08-01",
-  "72c4f8911b6c5fc1": "2026-08-01",
-  "e9d83c12d180596d": "2026-08-01"
+  "d55f2f256c6b841c": "2026-08-02",
+  "72c4f8911b6c5fc1": "2026-08-02",
+  "e9d83c12d180596d": "2026-08-01",
+  "9ec2eb7827acb3b9": "2026-08-02",
+  "79cf06a5bdd97b08": "2026-08-02"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1514,17 +1521,15 @@
   "7236ffb89378073e": "2026-08-01",
   "00997840e75e465f": "2026-08-01",
   "3ca287aea7401c0e": "2026-08-01",
-  "1c5c4c0ebcc2e932": "2026-08-01"
+  "1c5c4c0ebcc2e932": "2026-08-01",
+  "2bd36e2e54f0a643": "2026-08-02",
+  "50b4c672fd28e5d4": "2026-08-02",
+  "7963939b7651e4db": "2026-08-02",
+  "f2edb2ceb1402874": "2026-08-02",
+  "0220792dfddcaab9": "2026-08-02"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Researchers are noting a rise in the popularity of 'quiet commuting' amongst city dwellers.",
-   "The delightful hobby of 'collecting interesting pebbles' from various holiday destinations is gaining traction.",
-   "Experts are suggesting that 'having a designated 'thinking chair'' can boost creativity and problem-solving.",
-   "There's a growing appreciation for the soothing sounds of 'ambient café noise' for concentration.",
-   "A study highlights the 'mood-boosting power of opening curtains' as soon as you wake up.",
-   "A new trend sees people embracing 'micro-breaks' throughout their day to boost productivity and mood.",
-   "The joy of 'shelf-tidying' is being recognised as a surprisingly therapeutic activity.",
    "Experts are suggesting that 'having a 'finishing-off' jar' for small tasks can reduce procrastination.",
    "A study found that 'listening to instrumental covers' of popular songs can enhance focus and creativity.",
    "The delightful art of 'identifying distant bird calls' is gaining popularity as a mindful outdoor hobby.",
@@ -1557,11 +1562,16 @@
    "The comforting ritual of 'making your own bread' is seeing a delightful resurgence in kitchens across the country.",
    "Gardeners are increasingly turning to 'native wildflowers' to boost local biodiversity.",
    "The satisfying hobby of 'jigsaw puzzles' is proving to be a popular stress-buster for adults.",
-   "An increasing number of people are discovering the simple pleasure of 'foraging for wild berries and edibles' in local hedgerows and woodlands."
+   "An increasing number of people are discovering the simple pleasure of 'foraging for wild berries and edibles' in local hedgerows and woodlands.",
+   "A new study suggests that the soothing sound of distant church bells can lower stress levels.",
+   "The joy of 'porch sitting' is being rediscovered as a simple way to unwind and observe the world.",
+   "A growing number of people are turning their hand to 'upcycling old furniture' to give it a new lease of life.",
+   "The simple pleasure of 'collecting sea glass' on beach walks is being celebrated as a mindful activity.",
+   "Experts are highlighting the cognitive benefits of 'learning a new card game' with friends or family.",
+   "The comforting ritual of 'baking simple biscuits' is seeing a delightful resurgence in home kitchens.",
+   "More people are discovering the quiet charm of 'stargazing' away from city lights."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put together flat-pack furniture, even though it rarely helps?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to navigate somewhere new, even if we know it makes us look a bit lost?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a piece of chocolate. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put on a duvet cover?",
@@ -1599,11 +1609,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to cook for dinner?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot bath. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to reach something on a high shelf, even if it doesn't really help?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, hot cup of coffee. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, hot cup of coffee. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you discover a 'hidden detail' in a place you visit all the time, and it makes you look at it completely differently?",
-   "Think about those 'everyday objects' that you've surprisingly had for an incredibly long time, almost like an old friend.",
    "You know how sometimes a particular 'sound' just instantly makes you feel cosy and at home?",
    "We all have those 'little everyday moments' that just make us smile, don't we?",
    "We all have those little 'micro-routines' that we do without even thinking, don't we?",
@@ -1641,17 +1651,11 @@
    "We all have those 'little everyday moments' that just make you feel instantly content, don't we?",
    "You know how sometimes a particular 'smell' instantly takes you back to a specific memory or a moment in time?",
    "You know how sometimes a particular 'song on the radio' just instantly makes you feel incredibly happy or brings back a fantastic memory?",
-   "Think about those 'little everyday inventions' that you absolutely couldn't live without, even if they seem insignificant to others."
+   "Think about those 'little everyday inventions' that you absolutely couldn't live without, even if they seem insignificant to others.",
+   "You know those little 'secret talents' you possess, that perhaps nobody else really knows about?",
+   "Think about those 'everyday objects' that you have a surprisingly specific way of organising or using."
   ],
   "facts": [
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "A group of owls is called a parliament.",
-   "The humble pencil can draw a line 35 miles long and write approximately 45,000 words.",
-   "Butterflies taste with their feet.",
-   "The first orange was not orange; it was green.",
-   "The King of Hearts is the only king in a deck of cards without a moustache.",
-   "It is impossible for most people to lick their own elbow.",
-   "The world's smallest chameleon is the Brookesia micra, which can sit comfortably on a human fingertip.",
    "The Great Fire of London in 1666 actually helped to eradicate the Black Death by burning down the rat-infested buildings.",
    "Bumblebees can fly higher than Mount Everest, reaching altitudes of around 9,000 metres.",
    "Before alarm clocks, there were 'knocker-uppers' in Britain who would tap on windows with long poles to wake people for work.",
@@ -1683,7 +1687,15 @@
    "A bolt of lightning is five times hotter than the surface of the sun.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "The 'humble' carrot was originally purple, not orange, and was selectively bred to be orange in the 17th century by Dutch growers.",
-   "The national anthem of Spain has no lyrics, making it one of only four in the world."
+   "The national anthem of Spain has no lyrics, making it one of only four in the world.",
+   "The world's first public aquarium opened in London's Regent's Park in 1853.",
+   "Bears use 'winter dens' not just for hibernation, but often to give birth to their cubs.",
+   "The 'kingfisher' bird has excellent underwater vision, allowing it to spot fish from above the surface.",
+   "The popular children's song 'Twinkle, Twinkle, Little Star' shares its melody with the French folk song 'Ah! vous dirai-je, maman'.",
+   "The 'humble' potato was the first vegetable to be grown in space aboard the Space Shuttle Columbia in 1995.",
+   "The oldest known living tree is a bristlecone pine named 'Methuselah', estimated to be over 4,800 years old, located in California.",
+   "Did you know that 'cricket' is the only major sport played on a pitch that isn't a rectangle or square?",
+   "The tiny 'hummingbird' can fly backwards, a unique ability among birds."
   ]
  }
 }
