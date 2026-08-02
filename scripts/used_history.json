@@ -681,7 +681,12 @@
   "a0e44160171f8813": "2026-08-03",
   "ae17f6396a8ce740": "2026-08-03",
   "9f01333800c38b54": "2026-08-03",
-  "540460eb5e476c54": "2026-08-03"
+  "540460eb5e476c54": "2026-08-03",
+  "231efa6846ce6393": "2026-08-03",
+  "74c2097c22175b15": "2026-08-03",
+  "7017cbb1a7ee1e36": "2026-08-03",
+  "0e9e4afdcd0ff6b1": "2026-08-03",
+  "91be00632caa1a2b": "2026-08-03"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -966,14 +971,15 @@
   "eba33c0d74a7f013": "2026-08-01",
   "d55f2f256c6b841c": "2026-08-02",
   "72c4f8911b6c5fc1": "2026-08-02",
-  "e9d83c12d180596d": "2026-08-01",
+  "e9d83c12d180596d": "2026-08-03",
   "9ec2eb7827acb3b9": "2026-08-02",
   "79cf06a5bdd97b08": "2026-08-02",
   "063740f2e9e87a41": "2026-08-03",
   "5d0c16f3d882748f": "2026-08-03",
   "17660468d2fe221b": "2026-08-03",
   "cc9262d672f4de84": "2026-08-03",
-  "57dffbd1638baa2e": "2026-08-03"
+  "57dffbd1638baa2e": "2026-08-03",
+  "e4f64373eb3a003a": "2026-08-03"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1551,17 +1557,15 @@
   "62057a583884d6ad": "2026-08-03",
   "777ee9dfa7b17b3d": "2026-08-03",
   "9f5ad581eb02a789": "2026-08-03",
-  "1ba3c1f7f4f783bf": "2026-08-03"
+  "1ba3c1f7f4f783bf": "2026-08-03",
+  "2ce5181ebb35a866": "2026-08-03",
+  "1a83d9b3fc469eea": "2026-08-03",
+  "6362d4cade58a2cd": "2026-08-03",
+  "d0178d7238c786dd": "2026-08-03",
+  "008d3fc85d5c074b": "2026-08-03"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The satisfying ritual of 'dusting off old board games' for family nights is seeing a resurgence.",
-   "There's a growing trend for 'micro-adventures' – short, accessible trips close to home.",
-   "The simple pleasure of 'watching the clouds drift by' is being advocated as a mindful moment.",
-   "Home bakers are embracing 'the humble scone' as the ultimate comfort food to perfect.",
-   "The charming habit of 'leaving out food for garden birds' is bringing joy to countless households.",
-   "The simple pleasure of a good old-fashioned picnic is making a delightful comeback this summer.",
-   "A new trend sees people embracing 'book swaps' to refresh their reading piles without spending a penny.",
    "The satisfying ritual of sorting through old photographs is being hailed as a new mindful activity.",
    "There's a growing appreciation for the gentle art of 'letterboxing' – a treasure hunt combining orienteering, art, and puzzle-solving.",
    "The comforting sound of rain on a tin roof is being celebrated as a surprisingly popular relaxation aid.",
@@ -1594,11 +1598,16 @@
    "The trend of 'repurposing old luggage' into unique home decor items is gaining popularity.",
    "There's a growing movement to 'rekindle the art of letter writing' to maintain connections with loved ones.",
    "The simple joy of 'making friendship bracelets' is making a delightful comeback among adults.",
-   "A new appreciation for 'historic village signs' is emerging across the UK."
+   "A new appreciation for 'historic village signs' is emerging across the UK.",
+   "The joy of 'upcycling old furniture' is sweeping across homes, transforming forgotten pieces into cherished new items.",
+   "A surprising number of people are turning to 'miniature gardening' as a calming hobby.",
+   "The trend of 'swapping and sharing books' through neighbourhood libraries is fostering community spirit.",
+   "Many are finding a renewed appreciation for the craft of 'baking their own bread' from scratch.",
+   "The subtle art of 'wild foraging for edible plants' is gaining popularity among adventurous foodies.",
+   "Experts are highlighting the benefits of 'taking a 'digital detox' to improve well-being.",
+   "The simple pleasure of 'visiting local markets' is experiencing a resurgence."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to open a stubborn jar, even though we know it might not work?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a packet of crisps. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on, even though we know we checked it?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down for a good night's sleep. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find something we've lost, even though we know it rarely helps?",
@@ -1636,11 +1645,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you hear a 'word' or a 'phrase' that you haven't heard in ages, and it suddenly reminds you of something or someone?",
-   "Think about those 'little moments of accidental kindness' you've either received or witnessed.",
    "You know how sometimes you discover a 'hidden detail' in a place you visit all the time, and it makes you look at it completely differently?",
    "Think about those 'everyday objects' that you've surprisingly had for an incredibly long time, almost like an old friend.",
    "You know how sometimes a particular 'sound' just instantly takes you back to a specific time of year, almost like an audio calendar?",
@@ -1678,17 +1687,11 @@
    "We all have those 'signature dishes' that we're absolutely famous for amongst our family and friends, don't we?",
    "Think about those 'everyday items' that you've surprisingly kept for years and years, even though they probably should have been replaced ages ago!",
    "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
-   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day."
+   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day.",
+   "You know those little 'secret shortcuts' or 'hacks' you've discovered in your daily life that just make things so much easier?",
+   "Think about those 'little everyday sounds' that instantly bring a smile to your face or make you feel incredibly content."
   ],
   "facts": [
-   "The world's smallest chameleon, Brookesia nana, is so tiny it can sit comfortably on the tip of your finger.",
-   "Bumblebees have 'fur' on their eyes, which helps them collect pollen more efficiently.",
-   "The 'smell of rain' actually has a name: petrichor, and it's caused by a combination of plant oils and a bacteria called actinomycetes.",
-   "A group of ferrets is called a 'business'.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The oldest piece of chewing gum ever found is over 9,000 years old and was discovered in Finland.",
-   "Flamingos are not born pink; their vibrant colour comes from beta-carotene in their diet of brine shrimp and algae.",
-   "The distinctive stripes of a zebra are as unique as a human fingerprint, with no two zebras having the exact same pattern.",
    "The world's quietest room is located at Microsoft's headquarters in Redmond, Washington, and it's so quiet you can hear your own heartbeat.",
    "The 'unicorn' is the national animal of Scotland, symbolising purity, innocence, and power.",
    "Strawberries are the only fruit that wear their seeds on the outside, with an average berry having around 200 seeds.",
@@ -1720,7 +1723,15 @@
    "The 'shortest war in history' was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "The 'Eiffel Tower' can be 15 cm taller during the summer due to the thermal expansion of the iron.",
    "Octopuses have 'three hearts'; two pump blood through the gills, and one circulates it to the rest of the body.",
-   "The 'crisp packet' was invented in the UK in 1948 by Frank Smith and his wife, starting with plain crisps and a salt sachet."
+   "The 'crisp packet' was invented in the UK in 1948 by Frank Smith and his wife, starting with plain crisps and a salt sachet.",
+   "A 'group of owls' is called a parliament.",
+   "The 'human nose' can remember 50,000 different scents.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The 'loudest animal' on Earth is the sperm whale, whose clicks can reach up to 230 decibels.",
+   "Strawberries are the 'only fruit' with seeds on the outside.",
+   "The 'world's oldest known living tree' is a Great Basin bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
+   "There are more 'flamingos in the wild' than any other species of bird.",
+   "The 'expression 'bite the bullet'' originated from soldiers biting on lead bullets to endure pain during surgery without anaesthesia."
   ]
  }
 }
