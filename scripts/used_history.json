@@ -676,7 +676,12 @@
   "fe999134d971eaf2": "2026-08-02",
   "5ccb12a05cb7ad42": "2026-08-02",
   "a599b32ae425924f": "2026-08-02",
-  "10f7bd8c14dadd6c": "2026-08-02"
+  "10f7bd8c14dadd6c": "2026-08-02",
+  "efecd9615925026a": "2026-08-03",
+  "a0e44160171f8813": "2026-08-03",
+  "ae17f6396a8ce740": "2026-08-03",
+  "9f01333800c38b54": "2026-08-03",
+  "540460eb5e476c54": "2026-08-03"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -963,7 +968,12 @@
   "72c4f8911b6c5fc1": "2026-08-02",
   "e9d83c12d180596d": "2026-08-01",
   "9ec2eb7827acb3b9": "2026-08-02",
-  "79cf06a5bdd97b08": "2026-08-02"
+  "79cf06a5bdd97b08": "2026-08-02",
+  "063740f2e9e87a41": "2026-08-03",
+  "5d0c16f3d882748f": "2026-08-03",
+  "17660468d2fe221b": "2026-08-03",
+  "cc9262d672f4de84": "2026-08-03",
+  "57dffbd1638baa2e": "2026-08-03"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1536,17 +1546,15 @@
   "0407d4e0ce88b97a": "2026-08-02",
   "3ccf777a852e934e": "2026-08-02",
   "a80583ce14930cf3": "2026-08-02",
-  "17cc756d1b29ee80": "2026-08-02"
+  "17cc756d1b29ee80": "2026-08-02",
+  "50892a92f445d657": "2026-08-03",
+  "62057a583884d6ad": "2026-08-03",
+  "777ee9dfa7b17b3d": "2026-08-03",
+  "9f5ad581eb02a789": "2026-08-03",
+  "1ba3c1f7f4f783bf": "2026-08-03"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The charm of 'hand-written thank you notes' is making a big comeback in our digital age.",
-   "A new study suggests that 'having a 'default' happy song' ready to play can quickly shift your mood.",
-   "The satisfying ritual of 'watering houseplants' is being recognised as a genuine stress-reducer.",
-   "The joy of 'discovering a forgotten fiver' in an old coat pocket is consistently rated as a top small happiness.",
-   "There's a growing appreciation for 'the art of making a perfectly crisp sandwich'.",
-   "The delightful art of 'puddle jumping' is being rediscovered as a simple joy by adults.",
-   "New research suggests that 'colouring in' can significantly reduce stress levels in busy grown-ups.",
    "The satisfying ritual of 'dusting off old board games' for family nights is seeing a resurgence.",
    "There's a growing trend for 'micro-adventures' – short, accessible trips close to home.",
    "The simple pleasure of 'watching the clouds drift by' is being advocated as a mindful moment.",
@@ -1579,11 +1587,16 @@
    "Many are finding peace and purpose in the gentle activity of 'mending clothes and textiles'.",
    "The simple pleasure of 'writing and sending postcards' is making a charming comeback.",
    "Local 'community gardens' are flourishing, offering more than just fresh produce.",
-   "There's a growing appreciation for the therapeutic benefits of 'listening to birdsong' in daily routines."
+   "There's a growing appreciation for the therapeutic benefits of 'listening to birdsong' in daily routines.",
+   "Scientists are exploring the fascinating world of 'plant intelligence' and how flora might communicate with each other.",
+   "The humble 'picnic blanket' is getting a stylish upgrade, with more people investing in chic and durable outdoor throws.",
+   "Experts are highlighting the calming effect of 'observing fish in aquariums' as a form of stress relief.",
+   "The trend of 'repurposing old luggage' into unique home decor items is gaining popularity.",
+   "There's a growing movement to 'rekindle the art of letter writing' to maintain connections with loved ones.",
+   "The simple joy of 'making friendship bracelets' is making a delightful comeback among adults.",
+   "A new appreciation for 'historic village signs' is emerging across the UK."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put on a duvet cover?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a biscuit. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to open a stubborn jar, even though we know it might not work?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a packet of crisps. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to decide if we've left the oven on, even though we know we checked it?",
@@ -1621,11 +1634,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?"
   ],
   "talk_topic": [
-   "We all have those little 'micro-routines' that we do without even thinking, don't we?",
-   "Think about those 'everyday objects' that you still own, even though they're a bit past their best, simply because they hold a special memory or just 'feel right'.",
    "You know how sometimes you hear a 'word' or a 'phrase' that you haven't heard in ages, and it suddenly reminds you of something or someone?",
    "Think about those 'little moments of accidental kindness' you've either received or witnessed.",
    "You know how sometimes you discover a 'hidden detail' in a place you visit all the time, and it makes you look at it completely differently?",
@@ -1663,17 +1676,11 @@
    "You know those little 'secret talents' you possess, that perhaps nobody else really knows about?",
    "Think about those 'everyday objects' that you have a surprisingly specific way of organising or using.",
    "We all have those 'signature dishes' that we're absolutely famous for amongst our family and friends, don't we?",
-   "Think about those 'everyday items' that you've surprisingly kept for years and years, even though they probably should have been replaced ages ago!"
+   "Think about those 'everyday items' that you've surprisingly kept for years and years, even though they probably should have been replaced ages ago!",
+   "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
+   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day."
   ],
   "facts": [
-   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
-   "A group of owls is called a parliament.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Butterflies taste with their feet.",
-   "The 'richest' soil on Earth is called Chernozem, known for its deep black colour and high fertility.",
-   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
-   "It takes a sloth about two weeks to digest a single meal.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
    "The world's smallest chameleon, Brookesia nana, is so tiny it can sit comfortably on the tip of your finger.",
    "Bumblebees have 'fur' on their eyes, which helps them collect pollen more efficiently.",
    "The 'smell of rain' actually has a name: petrichor, and it's caused by a combination of plant oils and a bacteria called actinomycetes.",
@@ -1705,7 +1712,15 @@
    "The world's smallest chameleon is the 'Brookesia nana', which is roughly the size of a sunflower seed.",
    "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu in New Zealand.",
    "A polar bear's skin is black, and its fur is not white but transparent and hollow.",
-   "The 'richest person who ever lived' was Mansa Musa, the tenth Mansa of the Mali Empire, whose wealth was beyond calculation."
+   "The 'richest person who ever lived' was Mansa Musa, the tenth Mansa of the Mali Empire, whose wealth was beyond calculation.",
+   "The 'Great Fire of London' in 1666 actually helped to eradicate the Black Death in the city by destroying the rat-infested homes.",
+   "A 'group of rhinos' is called a crash.",
+   "The 'colour orange' was named after the fruit, not the other way around.",
+   "Flamingos get their pink colour from the beta-carotene in the brine shrimp and algae they eat.",
+   "The 'shortest war in history' was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "The 'Eiffel Tower' can be 15 cm taller during the summer due to the thermal expansion of the iron.",
+   "Octopuses have 'three hearts'; two pump blood through the gills, and one circulates it to the rest of the body.",
+   "The 'crisp packet' was invented in the UK in 1948 by Frank Smith and his wife, starting with plain crisps and a salt sachet."
   ]
  }
 }
