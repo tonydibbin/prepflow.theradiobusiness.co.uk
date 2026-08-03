@@ -691,7 +691,12 @@
   "502b95d604208174": "2026-08-04",
   "ecbbfaecac8410fd": "2026-08-04",
   "ec29f0992d4f0405": "2026-08-04",
-  "c6ca8ab544fac4ed": "2026-08-04"
+  "c6ca8ab544fac4ed": "2026-08-04",
+  "a4abbdb573345d6e": "2026-08-04",
+  "1d49f68cf0486ea1": "2026-08-04",
+  "d729cceea9c9e626": "2026-08-04",
+  "431d17dd3ad88bde": "2026-08-04",
+  "805006b543483254": "2026-08-04"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -977,7 +982,7 @@
   "d55f2f256c6b841c": "2026-08-02",
   "72c4f8911b6c5fc1": "2026-08-02",
   "e9d83c12d180596d": "2026-08-03",
-  "9ec2eb7827acb3b9": "2026-08-02",
+  "9ec2eb7827acb3b9": "2026-08-04",
   "79cf06a5bdd97b08": "2026-08-02",
   "063740f2e9e87a41": "2026-08-04",
   "5d0c16f3d882748f": "2026-08-04",
@@ -985,7 +990,8 @@
   "cc9262d672f4de84": "2026-08-03",
   "57dffbd1638baa2e": "2026-08-03",
   "e4f64373eb3a003a": "2026-08-04",
-  "6146fca4a45f11d2": "2026-08-04"
+  "6146fca4a45f11d2": "2026-08-04",
+  "ce6a727cffa7904f": "2026-08-04"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1573,17 +1579,15 @@
   "9e1e0e5511a3d5fe": "2026-08-04",
   "abb64d8150d0c73d": "2026-08-04",
   "197d7859361edac5": "2026-08-04",
-  "88b93f417f4cdf27": "2026-08-04"
+  "88b93f417f4cdf27": "2026-08-04",
+  "c63b4fde13d9b733": "2026-08-04",
+  "8f64c9f9583064be": "2026-08-04",
+  "a7f1b61cfad1549c": "2026-08-04",
+  "90cf150d12d4381a": "2026-08-04",
+  "d470a353b167f9e6": "2026-08-04"
  },
  "_ai_recent": {
   "newsbrief": [
-   "There's a growing appreciation for the quiet charm of 'canal boat holidays' as a way to unwind.",
-   "The comforting ritual of 'making your own bread' is seeing a delightful resurgence in kitchens across the country.",
-   "Gardeners are increasingly turning to 'native wildflowers' to boost local biodiversity.",
-   "The satisfying hobby of 'jigsaw puzzles' is proving to be a popular stress-buster for adults.",
-   "An increasing number of people are discovering the simple pleasure of 'foraging for wild berries and edibles' in local hedgerows and woodlands.",
-   "A new study suggests that the soothing sound of distant church bells can lower stress levels.",
-   "The joy of 'porch sitting' is being rediscovered as a simple way to unwind and observe the world.",
    "A growing number of people are turning their hand to 'upcycling old furniture' to give it a new lease of life.",
    "The simple pleasure of 'collecting sea glass' on beach walks is being celebrated as a mindful activity.",
    "Experts are highlighting the cognitive benefits of 'learning a new card game' with friends or family.",
@@ -1616,11 +1620,16 @@
    "Experts are highlighting how 'listening to podcasts' can be a great way to learn new things and broaden your horizons during daily commutes.",
    "There's a growing appreciation for 'traditional British puddings', with a resurgence in home baking.",
    "The unexpected pleasure of 'spotting vintage cars' on the road is bringing a smile to many motorists.",
-   "A new appreciation for the 'calming effect of watching clouds' is emerging as a simple stress-buster."
+   "A new appreciation for the 'calming effect of watching clouds' is emerging as a simple stress-buster.",
+   "Many are rediscovering the joy of 'slow travel', taking trains and buses to appreciate the journey as much as the destination.",
+   "The trend of 'upcycling old furniture' is not just eco-friendly but also a fantastic way to add unique character to your home.",
+   "A surge in 'outdoor swimming' in rivers and lakes is being reported, with enthusiasts enjoying the refreshing benefits for both body and mind.",
+   "The simple pleasure of 'writing and sending postcards' is making a charming comeback in our digital age.",
+   "Experts are suggesting that 'spending time observing local wildlife', even in urban areas, can significantly reduce stress.",
+   "There's a growing appreciation for 'traditional board games', with families and friends opting for unplugged fun evenings.",
+   "The unexpected delight of 'discovering new local walking routes' is becoming a favourite pastime for many."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find something we've lost, even though we know it rarely helps?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even if we've already checked the forecast?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot cup of coffee. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to remember where we parked the car, even though we know it makes no logical sense?",
@@ -1658,11 +1667,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what with our shopping list, even if we've typed it out on our phone?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're tidying up, even though we know it's probably not the most efficient way?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'sound' just instantly takes you back to a specific time of year, almost like an audio calendar?",
-   "Think about those 'little everyday rituals' that make a mundane task surprisingly enjoyable.",
    "We all have those 'little rituals' that we do before a special occasion, don't we?",
    "Think about those 'everyday sounds' that, for you, just instantly mean 'weekend'.",
    "You know how sometimes a particular 'smell' instantly transports you back to a specific memory or a moment in time?",
@@ -1700,17 +1709,11 @@
    "You know those little 'secret shortcuts' or 'hacks' you've discovered in your daily life that just make things so much easier?",
    "Think about those 'little everyday sounds' that instantly bring a smile to your face or make you feel incredibly content.",
    "You know how sometimes you discover a 'hidden gem' in your local area, something you’ve walked past hundreds of times but never truly noticed?",
-   "We all have those 'unwritten rules' in our family or household that everyone just implicitly understands, even if they've never been officially stated."
+   "We all have those 'unwritten rules' in our family or household that everyone just implicitly understands, even if they've never been officially stated.",
+   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or place?",
+   "Think about those 'little household quirks' that only make sense in your own home."
   ],
   "facts": [
-   "The world's first public aquarium opened in London's Regent's Park in 1853.",
-   "Bears use 'winter dens' not just for hibernation, but often to give birth to their cubs.",
-   "The 'kingfisher' bird has excellent underwater vision, allowing it to spot fish from above the surface.",
-   "The popular children's song 'Twinkle, Twinkle, Little Star' shares its melody with the French folk song 'Ah! vous dirai-je, maman'.",
-   "The 'humble' potato was the first vegetable to be grown in space aboard the Space Shuttle Columbia in 1995.",
-   "The oldest known living tree is a bristlecone pine named 'Methuselah', estimated to be over 4,800 years old, located in California.",
-   "Did you know that 'cricket' is the only major sport played on a pitch that isn't a rectangle or square?",
-   "The tiny 'hummingbird' can fly backwards, a unique ability among birds.",
    "A group of owls is called a parliament.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The shortest complete sentence in the English language is 'I am'.",
@@ -1742,7 +1745,15 @@
    "The unicorn is the national animal of Scotland.",
    "There are more possible iterations of a game of chess than there are atoms in the known universe.",
    "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
-   "A 'supercentenarian' is a person who has reached the age of 110 years or more."
+   "A 'supercentenarian' is a person who has reached the age of 110 years or more.",
+   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
+   "The average person walks the equivalent of five times around the world in their lifetime.",
+   "A 'butt' is an actual unit of measurement for wine, equal to two hogsheads or 126 gallons.",
+   "The humble teabag was accidentally invented in 1908 by a New York tea merchant sending samples in silk pouches.",
+   "The first ever webcam was created at Cambridge University to monitor a coffee pot.",
+   "It is illegal to sing in public in Florida while wearing a swimsuit.",
+   "The 'king' of a deck of playing cards is the only one without a moustache.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible."
   ]
  }
 }
