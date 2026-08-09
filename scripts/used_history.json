@@ -745,7 +745,12 @@
   "1e804cc455683dbe": "2026-08-09",
   "1a113f397c03b0ca": "2026-08-09",
   "b06a56bce38785a3": "2026-08-09",
-  "235f7957e0401d83": "2026-08-09"
+  "235f7957e0401d83": "2026-08-09",
+  "655af10fa74bc3fa": "2026-08-10",
+  "8bcbaa35ac1779e0": "2026-08-10",
+  "ab86c67b444dc3ad": "2026-08-10",
+  "f83c43d770c55e19": "2026-08-10",
+  "7bb26e3a359459ad": "2026-08-10"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -987,7 +992,7 @@
   "f4dae366ff5c3f5a": "2026-07-24",
   "0525a1216a0cbb2d": "2026-07-24",
   "979c7e7bc3ad9084": "2026-07-25",
-  "1909208d2212da1b": "2026-07-24",
+  "1909208d2212da1b": "2026-08-10",
   "1e438a45f1bb94aa": "2026-07-24",
   "7d8b8d83767e1342": "2026-07-24",
   "cef2f4f48fc2a1df": "2026-07-24",
@@ -1055,7 +1060,11 @@
   "23f345ea5f5c263d": "2026-08-09",
   "58a6c3860c2aff81": "2026-08-07",
   "77c204cd4dddd44d": "2026-08-09",
-  "5c8075536ff0798a": "2026-08-09"
+  "5c8075536ff0798a": "2026-08-09",
+  "ef839e6d54c7d404": "2026-08-10",
+  "91a220f3b1723a0d": "2026-08-10",
+  "10d9d11153aa3c28": "2026-08-10",
+  "3d3ecb4ac0922db7": "2026-08-10"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1693,17 +1702,15 @@
   "7ea66faa9c2a73c8": "2026-08-09",
   "a8d1eeb49c495b5b": "2026-08-09",
   "f068f0a213c9a90d": "2026-08-09",
-  "5a9d8b1d817d39b2": "2026-08-09"
+  "5a9d8b1d817d39b2": "2026-08-09",
+  "53f500c35be74b5b": "2026-08-10",
+  "4e93f6e155cf8b4b": "2026-08-10",
+  "2da67e4f5996d062": "2026-08-10",
+  "987c5f3d942051b2": "2026-08-10",
+  "d369ec0ab69d553d": "2026-08-10"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are touting the benefits of 'themed walks' for mental well-being.",
-   "The unexpected appeal of 'repurposing everyday objects' is capturing imaginations nationwide.",
-   "A recent report celebrates the comforting ritual of 'reading physical newspapers' with a cup of tea.",
-   "There's a growing movement towards 'exploring local markets' for unique finds and community spirit.",
-   "The simple act of 'writing and posting postcards' is experiencing a delightful comeback.",
-   "A new study suggests that taking up a 'craft hobby' in adulthood can significantly boost mental well-being.",
-   "The enduring appeal of 'vintage postcards' is experiencing a delightful revival among collectors and casual senders alike.",
    "Experts are highlighting the surprisingly calming effect of 'watching fish in an aquarium' as a form of natural stress relief.",
    "There's a growing trend for 'outdoor reading nooks' in gardens and balconies, creating cosy personal libraries in nature.",
    "The humble 'picnic blanket' is seeing a surge in popularity, becoming a key accessory for impromptu outdoor dining.",
@@ -1736,11 +1743,16 @@
    "Experts are praising the therapeutic benefits of 'listening to birdsong' for reducing stress and improving mood.",
    "There's a growing appreciation for the traditional British 'village fete', with more communities revitalising these charming local events.",
    "A new trend sees people embracing the 'slow art of letter writing' as a way to connect more meaningfully with friends and family.",
-   "The surprising popularity of 'collecting vintage postcards' is creating a fascinating window into the past."
+   "The surprising popularity of 'collecting vintage postcards' is creating a fascinating window into the past.",
+   "The joy of 'porch presents' is bringing back old-fashioned neighbourhood cheer.",
+   "A new trend sees people embracing 'micro-adventures' in their own back gardens.",
+   "The unexpected charm of 'vintage board games' is seeing a resurgence in popularity.",
+   "Experts are highlighting the calming benefits of 'slow cooking' for well-being.",
+   "The humble 'houseplant' is becoming a focal point for home decor, beyond just greenery.",
+   "A study suggests that 'looking at old photographs' can significantly boost mood and memory.",
+   "There's a growing appreciation for the soothing sound of 'rain on a windowpane'."
   ],
   "survey": [
-   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to remember where we put our keys?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what with our keys just before leaving the house, even though we know it's a bit superstitious?",
@@ -1778,11 +1790,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our laundry away, even though we know it might not be the tidiest approach?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to choose a new paint colour for a room, even if we know it might not be the most reliable method?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if something in the fridge is still good to eat, even if we know it's a bit of a risk?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of cake. What is it?"
   ],
   "talk_topic": [
-   "You know those little 'secret talents' you possess, that perhaps nobody else really knows about?",
-   "Think about those 'everyday objects' that you have a surprisingly specific way of organising or using.",
    "You know those 'little everyday sounds' that just instantly transport you back to your childhood?",
    "We all have those 'unusual personal rituals' we perform before starting something important.",
    "You know those 'little everyday sounds' that are just pure comfort to you, almost like a sonic hug?",
@@ -1820,17 +1832,11 @@
    "You know how sometimes you hear a particular 'old-fashioned phrase' that just makes you smile because it's so wonderfully British and quaint?",
    "We all have those 'little domestic discoveries' that feel like a stroke of genius, even if they're incredibly simple.",
    "You know how sometimes you hear a 'jingle' from a really old advertisement, and it just instantly gets stuck in your head, even decades later?",
-   "We all have those 'unexpectedly comfortable places' that aren't actually designed for sitting, but you just find yourself gravitating towards them for a quick rest."
+   "We all have those 'unexpectedly comfortable places' that aren't actually designed for sitting, but you just find yourself gravitating towards them for a quick rest.",
+   "You know how sometimes you stumble upon a 'hidden gem' in your local area, something really charming you never knew was there?",
+   "We all have those 'unwritten rules' in our family that everyone just knows, even if they've never been officially stated, don't we?"
   ],
   "facts": [
-   "The Great Fire of London in 1666 started in a baker's shop on Pudding Lane.",
-   "Bananarama holds the Guinness World Record for the most chart entries by an all-female group.",
-   "The world's first public zoo, Tiergarten Schönbrunn, opened in Vienna in 1752.",
-   "The longest river in the United Kingdom is the River Severn.",
-   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
-   "The average person walks the equivalent of three times around the world in a lifetime.",
-   "The London Underground system began operating in 1863, making it the world's oldest underground railway.",
-   "The first British monarch to use the title 'King of Great Britain' was Queen Anne.",
    "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar.",
    "A group of owls is called a parliament.",
    "The inventor of the Pringles can was buried in one.",
@@ -1862,7 +1868,15 @@
    "The shortest complete English sentence is 'Go.'",
    "Bubble wrap was originally intended to be used as 3D wallpaper.",
    "The sound of a human yawn can make other people yawn, even if they just read about it.",
-   "The small plastic tip on the end of a shoelace is called an aglet."
+   "The small plastic tip on the end of a shoelace is called an aglet.",
+   "A group of owls is called a parliament.",
+   "The world's first successful photograph was taken in 1826 by Joseph Nicéphore Niépce.",
+   "Bananaphobia is the fear of bananas.",
+   "The Great Wall of China is not visible from space with the naked eye.",
+   "The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.",
+   "The smallest bone in the human body is the stapes (or stirrup bone) in the ear.",
+   "Wombat faeces are cube-shaped.",
+   "The first modern Olympic Games were held in Athens, Greece, in 1896."
   ]
  }
 }
