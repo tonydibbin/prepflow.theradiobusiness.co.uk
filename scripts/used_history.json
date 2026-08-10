@@ -760,7 +760,12 @@
   "2e13edafa97c6b34": "2026-08-11",
   "fa615b9515afdf2d": "2026-08-11",
   "89f821cf7be7b18c": "2026-08-11",
-  "70a6b8e311e4a77c": "2026-08-11"
+  "70a6b8e311e4a77c": "2026-08-11",
+  "9de91a729441ea67": "2026-08-11",
+  "4eb11f3c4d2716ce": "2026-08-11",
+  "25f5c8a6da424dee": "2026-08-11",
+  "c57dc859dc40d203": "2026-08-11",
+  "f04d72b76aed5ca8": "2026-08-11"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1084,7 +1089,8 @@
   "1e502b9d575a1aa3": "2026-08-11",
   "a6074aabe5a99ca4": "2026-08-11",
   "4a02986d411310f7": "2026-08-11",
-  "1ff54e29f965e051": "2026-08-11"
+  "1ff54e29f965e051": "2026-08-11",
+  "552a0436183f5d69": "2026-08-11"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1737,17 +1743,15 @@
   "0c18f8de31e0744a": "2026-08-11",
   "8eda49b2ece3547c": "2026-08-11",
   "89fb11e5168730da": "2026-08-11",
-  "99ca8f9be34de1df": "2026-08-11"
+  "99ca8f9be34de1df": "2026-08-11",
+  "4b9cd53113ece1e6": "2026-08-11",
+  "e1b893cb8dff87eb": "2026-08-11",
+  "aa626a504932dba8": "2026-08-11",
+  "aed44bde84819ca0": "2026-08-11",
+  "029f9e832523e7da": "2026-08-11"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new study reveals that 'the art of arranging books by colour' is becoming a popular way to personalise home decor.",
-   "The humble 'tea towel' is evolving into a fashionable accessory for home kitchens, with intricate designs and luxurious fabrics.",
-   "Experts are praising the meditative qualities of 'watching clouds drift by' for promoting mindfulness and relaxation.",
-   "The trend of 'swapping magazines with neighbours' is fostering community spirit and reducing waste.",
-   "A report indicates a rise in popularity for 'visiting local market towns' for unique shopping experiences and supporting independent businesses.",
-   "A recent trend sees more people embracing 'micro-adventures' for a quick dose of escapism.",
-   "The surprising joy of 'rediscovering forgotten hobbies' is bringing a new sense of purpose to many.",
    "Experts are suggesting that 'having a designated 'worry-free' zone' in your home can significantly boost mental well-being.",
    "There's a growing appreciation for the 'calming effect of watching fish in an aquarium' for reducing stress.",
    "The humble 'garden gnome' is making a stylish comeback, with designers creating contemporary and artistic versions.",
@@ -1780,11 +1784,16 @@
    "There's a growing appreciation for the simple joy of 'receiving a handwritten letter or card'.",
    "A new report suggests that 'the smell of freshly baked bread' can genuinely boost your mood.",
    "The unexpected charm of 'collecting old coins or stamps' is captivating a new generation of hobbyists.",
-   "Researchers are exploring the benefits of 'taking a scenic route' even for everyday journeys."
+   "Researchers are exploring the benefits of 'taking a scenic route' even for everyday journeys.",
+   "The simple act of 'doodling during meetings' is now being championed as a way to boost concentration and memory.",
+   "A charming new trend sees people 'swapping favourite tea blends' with friends and neighbours.",
+   "The unexpected joy of 'revisiting childhood playgrounds' as an adult is gaining traction.",
+   "Experts are suggesting that 'spending time observing local wildlife' in your garden can significantly reduce stress.",
+   "The surprising appeal of 'collecting old cinema tickets and programmes' is captivating film enthusiasts.",
+   "A new study indicates that 'the sound of distant church bells' can evoke feelings of peace and nostalgia for many.",
+   "The delightful resurgence of 'homemade picnic baskets' for day trips is making outdoor eating more charming than ever."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, fresh slice of pizza. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to cook for dinner?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, hot bath. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to reach something on a high shelf, even if it doesn't really help?",
@@ -1822,11 +1831,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what with our shopping trolley, even though we know it might not be entirely polite?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh bath or shower. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our old plastic food containers, even though we know they'll probably never see the light of day again?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our shoes on in a hurry, even if it's not the most dignified approach?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down with a good book. What is it?"
   ],
   "talk_topic": [
-   "You know those little 'unwritten rules' that you absolutely live by in your daily life, even if nobody else does?",
-   "Think about a 'small act of kindness' you've either given or received recently that really brightened your day.",
    "We all have those 'little everyday moments' that just make you feel instantly content, don't we?",
    "You know how sometimes a particular 'smell' instantly takes you back to a specific memory or a moment in time?",
    "You know how sometimes a particular 'song on the radio' just instantly makes you feel incredibly happy or brings back a fantastic memory?",
@@ -1864,17 +1873,11 @@
    "We all have those 'little rituals' we perform before leaving the house, don't we?",
    "Think about a 'small, everyday sound' that you used to find irritating, but now you actually quite like or even find comforting.",
    "You know how sometimes you hear a particular 'childhood nursery rhyme' and it just instantly takes you back to being a little one?",
-   "We all have those 'little tricks' we use to make a simple household chore just a tiny bit easier, don't we?"
+   "We all have those 'little tricks' we use to make a simple household chore just a tiny bit easier, don't we?",
+   "You know how sometimes you discover a 'secret shortcut' that saves you just a tiny bit of time or effort in your daily routine?",
+   "We all have those 'comforting smells' that instantly take us back to a happy memory, don't we?"
   ],
   "facts": [
-   "A group of owls is called a parliament.",
-   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic Pringle cans.",
-   "It is illegal to sing out of tune in Maryland, USA.",
-   "The human heart beats approximately 100,000 times a day.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Butterflies taste with their feet.",
-   "The 'king' in a deck of playing cards is the only one without a moustache.",
    "The world's largest officially recognised jigsaw puzzle has over 50,000 pieces.",
    "A typical cumulus cloud weighs about the same as 100 elephants.",
    "The 'smiley face' emoji was invented in 1982 by Scott Fahlman.",
@@ -1906,7 +1909,15 @@
    "The Great Barrier Reef is the largest living structure on Earth and can be seen from space.",
    "A bolt of lightning is hotter than the surface of the sun.",
    "The original name for the butterfly was 'flutterby'.",
-   "The first ever recorded traffic lights were installed in London in 1868."
+   "The first ever recorded traffic lights were installed in London in 1868.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "A 'jiffy' is an actual unit of time, specifically one hundredth of a second.",
+   "The world's oldest known living tree is a bristlecone pine named 'Methuselah', estimated to be over 4,800 years old, located in California.",
+   "Bananas are technically berries, while strawberries are not.",
+   "It is impossible for most people to lick their own elbow.",
+   "The human nose can remember 50,000 different scents.",
+   "The dot over the lower-case 'i' and 'j' is called a 'tittle'."
   ]
  }
 }
