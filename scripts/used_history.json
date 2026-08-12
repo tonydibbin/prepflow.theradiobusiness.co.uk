@@ -779,7 +779,12 @@
   "4e54f5d3a94129d1": "2026-08-12",
   "1aaceb54dc84f31f": "2026-08-12",
   "b9cc311203cf587f": "2026-08-12",
-  "ac609549bd6d5189": "2026-08-12"
+  "ac609549bd6d5189": "2026-08-12",
+  "f0c17d38f4885784": "2026-08-13",
+  "432ca151b4e4254c": "2026-08-13",
+  "8b4326fc3d562d67": "2026-08-13",
+  "f30f55e233cf92a5": "2026-08-13",
+  "2642d8092d790f8c": "2026-08-13"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1111,7 +1116,12 @@
   "8be6fc6862a83908": "2026-08-12",
   "428eeba681646dce": "2026-08-12",
   "e8d22e9f1174de03": "2026-08-12",
-  "09004d0a841558eb": "2026-08-12"
+  "09004d0a841558eb": "2026-08-12",
+  "3ff64aada83d734f": "2026-08-13",
+  "b4e5fbaeedd491bf": "2026-08-13",
+  "c81bd452ded0b708": "2026-08-13",
+  "e85147e41138d25f": "2026-08-13",
+  "48f44f1931cf80ac": "2026-08-13"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1779,17 +1789,15 @@
   "11deb207c49d0402": "2026-08-12",
   "797e32231c4762f3": "2026-08-12",
   "15196a436f1f8384": "2026-08-12",
-  "0a5e0755072be267": "2026-08-12"
+  "0a5e0755072be267": "2026-08-12",
+  "92aad6391772df9d": "2026-08-13",
+  "45d6d97a687d9d6f": "2026-08-13",
+  "a1f1c50017532772": "2026-08-13",
+  "04d073fd475c6a70": "2026-08-13",
+  "02099997b3a936b9": "2026-08-13"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A recent report indicates a surge in popularity for 'garden sharing' schemes, allowing those without outdoor space to cultivate a plot on someone else's land.",
-   "Experts are praising the therapeutic benefits of 'listening to birdsong' for reducing stress and improving mood.",
-   "There's a growing appreciation for the traditional British 'village fete', with more communities revitalising these charming local events.",
-   "A new trend sees people embracing the 'slow art of letter writing' as a way to connect more meaningfully with friends and family.",
-   "The surprising popularity of 'collecting vintage postcards' is creating a fascinating window into the past.",
-   "The joy of 'porch presents' is bringing back old-fashioned neighbourhood cheer.",
-   "A new trend sees people embracing 'micro-adventures' in their own back gardens.",
    "The unexpected charm of 'vintage board games' is seeing a resurgence in popularity.",
    "Experts are highlighting the calming benefits of 'slow cooking' for well-being.",
    "The humble 'houseplant' is becoming a focal point for home decor, beyond just greenery.",
@@ -1822,11 +1830,16 @@
    "A new appreciation for 'traditional British puddings' is bubbling up.",
    "The 'joy of simple crafting' is being rediscovered by many.",
    "There's a charming new focus on 'local historical plaques and markers'.",
-   "The simple pleasure of 'writing postcards' is making a delightful return."
+   "The simple pleasure of 'writing postcards' is making a delightful return.",
+   "A new appreciation for 'the art of looking out of the window' is gaining popularity, especially during quiet moments.",
+   "The surprising trend of 'collecting unique old teacups' is charming tea enthusiasts across the country.",
+   "Experts suggest that 'the simple act of watering houseplants' can significantly boost your mood.",
+   "The delightful resurgence of 'homemade lemonade stands' is bringing a taste of nostalgia to local communities.",
+   "A new study indicates that 'the scent of freshly baked bread' can evoke strong feelings of comfort and happiness for many.",
+   "Gardeners are discovering the joy of 'growing giant vegetables' in their back gardens.",
+   "The charming trend of 'leaving painted pebbles in public places' for others to find is spreading cheer."
   ],
   "survey": [
-   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to reach something on a high shelf, even if it doesn't really help?",
-   "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, hot cup of coffee. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
@@ -1864,11 +1877,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our shoes on in a hurry, even if it's not the most dignified approach?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down with a good book. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find a matching pair of socks, even though we know it's a bit of a gamble?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge the temperature of a drink, even though we know it's probably not the most accurate method?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh banana. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'song on the radio' just instantly makes you feel incredibly happy or brings back a fantastic memory?",
-   "Think about those 'little everyday inventions' that you absolutely couldn't live without, even if they seem insignificant to others.",
    "You know those little 'secret talents' you possess, that perhaps nobody else really knows about?",
    "Think about those 'everyday objects' that you have a surprisingly specific way of organising or using.",
    "We all have those 'signature dishes' that we're absolutely famous for amongst our family and friends, don't we?",
@@ -1906,17 +1919,11 @@
    "You know how sometimes you discover a 'secret shortcut' that saves you just a tiny bit of time or effort in your daily routine?",
    "We all have those 'comforting smells' that instantly take us back to a happy memory, don't we?",
    "We all have those 'unusual items' we keep in a drawer or cupboard that we just can't bring ourselves to throw away, even though we rarely, if ever, use them.",
-   "Think about a 'small, everyday moment' that always brings a little bit of unexpected joy to your day."
+   "Think about a 'small, everyday moment' that always brings a little bit of unexpected joy to your day.",
+   "You know how sometimes you discover a 'quirky little shop' in a town you're visiting, and it just becomes the highlight of your day?",
+   "We all have those 'favourite public benches' in our local area, don't we, that just seem to offer the perfect spot for a moment of quiet reflection or people-watching?"
   ],
   "facts": [
-   "A group of owls is called a parliament.",
-   "The world's first successful photograph was taken in 1826 by Joseph Nicéphore Niépce.",
-   "Bananaphobia is the fear of bananas.",
-   "The Great Wall of China is not visible from space with the naked eye.",
-   "The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.",
-   "The smallest bone in the human body is the stapes (or stirrup bone) in the ear.",
-   "Wombat faeces are cube-shaped.",
-   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
    "The inventor of the Pringles can, Fredric Baur, requested that he be buried in one after he died.",
    "A group of flamingos is called a flamboyance.",
    "The world's largest officially recorded snowflake was 15 inches wide and 8 inches thick, found in Montana, USA, in 1887.",
@@ -1948,7 +1955,15 @@
    "The Great Fire of London in 1666 actually helped to eradicate the Black Death by burning down rat-infested buildings.",
    "Flamingos get their pink colour from the beta-carotene in their diet of brine shrimp and algae.",
    "There are more fake flamingos in the world than real ones.",
-   "The sound of crinkling cellophane can be louder than a jet engine if measured at the source."
+   "The sound of crinkling cellophane can be louder than a jet engine if measured at the source.",
+   "The 'richest' soil on Earth can be found in the Black Sea region, known for its fertile 'chernozem' soil.",
+   "A group of ferrets is collectively known as a 'business'.",
+   "The British Isles are home to over 10,000 miles of coastline, offering a vast array of landscapes.",
+   "The world's oldest known piece of chewing gum is over 9,000 years old, found in Finland.",
+   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
+   "The largest active volcano in Europe is Mount Etna, located on the island of Sicily, Italy.",
+   "The national animal of Scotland is the unicorn, a mythical creature symbolising purity and innocence.",
+   "The 'penny-farthing' bicycle was so named because the two wheels, one large and one small, resembled the British coins."
   ]
  }
 }
