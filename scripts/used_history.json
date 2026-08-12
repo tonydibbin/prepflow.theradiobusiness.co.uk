@@ -784,7 +784,12 @@
   "432ca151b4e4254c": "2026-08-13",
   "8b4326fc3d562d67": "2026-08-13",
   "f30f55e233cf92a5": "2026-08-13",
-  "2642d8092d790f8c": "2026-08-13"
+  "2642d8092d790f8c": "2026-08-13",
+  "0a6c440a5dc27614": "2026-08-13",
+  "83bdf59a1e8b7473": "2026-08-13",
+  "4b6db53cb2753dbc": "2026-08-13",
+  "af6ce3a52287453f": "2026-08-13",
+  "179bb5710ad3511d": "2026-08-13"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1794,17 +1799,15 @@
   "45d6d97a687d9d6f": "2026-08-13",
   "a1f1c50017532772": "2026-08-13",
   "04d073fd475c6a70": "2026-08-13",
-  "02099997b3a936b9": "2026-08-13"
+  "02099997b3a936b9": "2026-08-13",
+  "e1b04aeb30e6e9e7": "2026-08-13",
+  "599704bf3f6455d4": "2026-08-13",
+  "fe6f55245cc90a2f": "2026-08-13",
+  "7f5edb0e99240e9f": "2026-08-13",
+  "6a9b3ea42900375d": "2026-08-13"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The unexpected charm of 'vintage board games' is seeing a resurgence in popularity.",
-   "Experts are highlighting the calming benefits of 'slow cooking' for well-being.",
-   "The humble 'houseplant' is becoming a focal point for home decor, beyond just greenery.",
-   "A study suggests that 'looking at old photographs' can significantly boost mood and memory.",
-   "There's a growing appreciation for the soothing sound of 'rain on a windowpane'.",
-   "A new trend sees people embracing 'micro-gardening' in unexpected places around their homes.",
-   "Experts are highlighting the surprising psychological benefits of 'watching clouds go by'.",
    "The unexpected popularity of 'retro video games' is bringing families together for some classic fun.",
    "There's a growing appreciation for the soothing art of 'leaf pressing and framing'.",
    "A study suggests that 'listening to the radio' while working on a creative task can boost inspiration.",
@@ -1837,11 +1840,16 @@
    "The delightful resurgence of 'homemade lemonade stands' is bringing a taste of nostalgia to local communities.",
    "A new study indicates that 'the scent of freshly baked bread' can evoke strong feelings of comfort and happiness for many.",
    "Gardeners are discovering the joy of 'growing giant vegetables' in their back gardens.",
-   "The charming trend of 'leaving painted pebbles in public places' for others to find is spreading cheer."
+   "The charming trend of 'leaving painted pebbles in public places' for others to find is spreading cheer.",
+   "A recent trend sees more people rediscovering the simple pleasure of 'window shopping' without buying anything.",
+   "Experts suggest that the charming act of 'feeding garden birds' can significantly reduce stress and boost feelings of contentment.",
+   "The delightful resurgence of 'traditional British fêtes and village fairs' is bringing communities closer together.",
+   "A new appreciation for 'the art of mending clothes' is gaining popularity, particularly among younger generations.",
+   "Studies indicate that 'the simple act of reading a physical newspaper' can improve focus and information retention.",
+   "There's a charming new focus on 'local walking tours led by residents', offering unique insights into neighbourhoods.",
+   "The delightful trend of 'swapping homemade jams and preserves' among friends and neighbours is fostering community spirit."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a nice, freshly made sandwich. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
@@ -1879,11 +1887,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find a matching pair of socks, even though we know it's a bit of a gamble?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge the temperature of a drink, even though we know it's probably not the most accurate method?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh banana. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh banana. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to reach something just out of our grasp, even if it looks a bit silly?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?"
   ],
   "talk_topic": [
-   "You know those little 'secret talents' you possess, that perhaps nobody else really knows about?",
-   "Think about those 'everyday objects' that you have a surprisingly specific way of organising or using.",
    "We all have those 'signature dishes' that we're absolutely famous for amongst our family and friends, don't we?",
    "Think about those 'everyday items' that you've surprisingly kept for years and years, even though they probably should have been replaced ages ago!",
    "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
@@ -1921,17 +1929,11 @@
    "We all have those 'unusual items' we keep in a drawer or cupboard that we just can't bring ourselves to throw away, even though we rarely, if ever, use them.",
    "Think about a 'small, everyday moment' that always brings a little bit of unexpected joy to your day.",
    "You know how sometimes you discover a 'quirky little shop' in a town you're visiting, and it just becomes the highlight of your day?",
-   "We all have those 'favourite public benches' in our local area, don't we, that just seem to offer the perfect spot for a moment of quiet reflection or people-watching?"
+   "We all have those 'favourite public benches' in our local area, don't we, that just seem to offer the perfect spot for a moment of quiet reflection or people-watching?",
+   "You know how sometimes you discover a 'clever little hack' that makes a household chore surprisingly easier or faster?",
+   "We all have those 'favourite local landmarks' that, even if they're not world-famous, hold a special place in our hearts."
   ],
   "facts": [
-   "The inventor of the Pringles can, Fredric Baur, requested that he be buried in one after he died.",
-   "A group of flamingos is called a flamboyance.",
-   "The world's largest officially recorded snowflake was 15 inches wide and 8 inches thick, found in Montana, USA, in 1887.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The 'king of fruits', the durian, is famously banned on public transport in some Asian countries due to its strong, distinctive odour.",
-   "Australia is wider than the Moon, with its diameter being approximately 4,000 km, while the Moon's is about 3,474 km.",
-   "A typical cloud weighs about 550 tons, which is roughly the same as 100 elephants.",
-   "The 'fifth taste', umami, was officially recognised and named by Japanese scientist Kikunae Ikeda in 1908.",
    "The world's smallest fish is the Paedocypris progenetica, which is less than a centimetre long.",
    "Mount Everest grows by about 4 millimetres each year due to geological forces.",
    "The 'richest' soil on Earth is called chernozem, found in regions like Ukraine and Russia.",
@@ -1963,7 +1965,15 @@
    "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
    "The largest active volcano in Europe is Mount Etna, located on the island of Sicily, Italy.",
    "The national animal of Scotland is the unicorn, a mythical creature symbolising purity and innocence.",
-   "The 'penny-farthing' bicycle was so named because the two wheels, one large and one small, resembled the British coins."
+   "The 'penny-farthing' bicycle was so named because the two wheels, one large and one small, resembled the British coins.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Anglesey, Wales.",
+   "Bumblebees can fly higher than Mount Everest, as they have been observed at altitudes of up to 9,000 metres.",
+   "The inventor of the frisbee was turned into a frisbee after he died, as his ashes were moulded into commemorative discs.",
+   "A group of owls is called a 'parliament', likely due to their wise and solemn appearance.",
+   "The British Isles are home to over 6,000 miles of public footpaths, offering countless walking opportunities.",
+   "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar, weighing less than a penny.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The 'dog days of summer' refers to the period between July 3rd and August 11th, named after the star Sirius, also known as the 'Dog Star'."
   ]
  }
 }
