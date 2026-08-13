@@ -789,7 +789,12 @@
   "83bdf59a1e8b7473": "2026-08-13",
   "4b6db53cb2753dbc": "2026-08-13",
   "af6ce3a52287453f": "2026-08-13",
-  "179bb5710ad3511d": "2026-08-13"
+  "179bb5710ad3511d": "2026-08-13",
+  "d7829c64706075c6": "2026-08-14",
+  "ad99d772b53c3589": "2026-08-14",
+  "8c5f269546e2a3c2": "2026-08-14",
+  "774a64cf57c70a3d": "2026-08-14",
+  "62882a816348e539": "2026-08-14"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1126,7 +1131,12 @@
   "b4e5fbaeedd491bf": "2026-08-13",
   "c81bd452ded0b708": "2026-08-13",
   "e85147e41138d25f": "2026-08-13",
-  "48f44f1931cf80ac": "2026-08-13"
+  "48f44f1931cf80ac": "2026-08-13",
+  "0c48fabf802954c2": "2026-08-14",
+  "64d477d15d202b3c": "2026-08-14",
+  "5da9c3ec46c1311a": "2026-08-14",
+  "07a609115cd04b8c": "2026-08-14",
+  "2bb314ce955c1681": "2026-08-14"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1804,17 +1814,15 @@
   "599704bf3f6455d4": "2026-08-13",
   "fe6f55245cc90a2f": "2026-08-13",
   "7f5edb0e99240e9f": "2026-08-13",
-  "6a9b3ea42900375d": "2026-08-13"
+  "6a9b3ea42900375d": "2026-08-13",
+  "72f2b0d56a466cd9": "2026-08-14",
+  "497b431959da8c41": "2026-08-14",
+  "3facd11eb154f464": "2026-08-14",
+  "3956411f67df6731": "2026-08-14",
+  "031d7d59340f8d6e": "2026-08-14"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The unexpected popularity of 'retro video games' is bringing families together for some classic fun.",
-   "There's a growing appreciation for the soothing art of 'leaf pressing and framing'.",
-   "A study suggests that 'listening to the radio' while working on a creative task can boost inspiration.",
-   "The charming tradition of 'leaving flowers for neighbours' is seeing a lovely resurgence.",
-   "Many are rediscovering the simple pleasure of 'writing postcards from holidays'.",
-   "A recent study suggests that the joy of 're-reading a favourite book' is more profound than we often realise.",
-   "The surprising trend of 'adult colouring books' continues to provide a soothing escape for many.",
    "Experts are highlighting the calming benefits of 'watching fish in an aquarium'.",
    "There's a growing appreciation for the simple joy of 'receiving a handwritten letter or card'.",
    "A new report suggests that 'the smell of freshly baked bread' can genuinely boost your mood.",
@@ -1847,11 +1855,16 @@
    "A new appreciation for 'the art of mending clothes' is gaining popularity, particularly among younger generations.",
    "Studies indicate that 'the simple act of reading a physical newspaper' can improve focus and information retention.",
    "There's a charming new focus on 'local walking tours led by residents', offering unique insights into neighbourhoods.",
-   "The delightful trend of 'swapping homemade jams and preserves' among friends and neighbours is fostering community spirit."
+   "The delightful trend of 'swapping homemade jams and preserves' among friends and neighbours is fostering community spirit.",
+   "A growing trend sees urban dwellers embracing 'micro-gardening' on balconies and windowsills.",
+   "The simple joy of 'writing and sending postcards' is making a charming comeback, particularly among holidaymakers.",
+   "Research suggests that 'listening to the natural sounds of rainfall' can significantly aid relaxation and sleep.",
+   "Local libraries are reporting a surge in interest for 'borrowing jigsaw puzzles', becoming community hubs for shared entertainment.",
+   "The delightful art of 'picnic basket preparation' is being rediscovered, moving beyond just sandwiches.",
+   "A charming trend has emerged where people are 'leaving friendly notes for bin collectors and postal workers'.",
+   "The enduring appeal of 'traditional board games' continues to bring families together for screen-free fun."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our socks before putting them on?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if it's going to rain, even though we know it's not very scientific?",
@@ -1889,11 +1902,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge the temperature of a drink, even though we know it's probably not the most accurate method?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh banana. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to reach something just out of our grasp, even if it looks a bit silly?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when we open a new jar of jam or spread, even though we know it's a bit naughty?",
+   "Our survey said that over 50% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh piece of toast. What is it?"
   ],
   "talk_topic": [
-   "We all have those 'signature dishes' that we're absolutely famous for amongst our family and friends, don't we?",
-   "Think about those 'everyday items' that you've surprisingly kept for years and years, even though they probably should have been replaced ages ago!",
    "We all have those 'unusual item combinations' that we absolutely love, even if others find them a bit peculiar!",
    "Think about a 'small act of kindness' you've either given or received recently that really brightened your day.",
    "You know those little 'secret shortcuts' or 'hacks' you've discovered in your daily life that just make things so much easier?",
@@ -1931,17 +1944,11 @@
    "You know how sometimes you discover a 'quirky little shop' in a town you're visiting, and it just becomes the highlight of your day?",
    "We all have those 'favourite public benches' in our local area, don't we, that just seem to offer the perfect spot for a moment of quiet reflection or people-watching?",
    "You know how sometimes you discover a 'clever little hack' that makes a household chore surprisingly easier or faster?",
-   "We all have those 'favourite local landmarks' that, even if they're not world-famous, hold a special place in our hearts."
+   "We all have those 'favourite local landmarks' that, even if they're not world-famous, hold a special place in our hearts.",
+   "You know how sometimes a particular 'smell from your childhood' can instantly transport you back in time?",
+   "We all have those 'little phrases or sayings' that our grandparents or an older relative used to say, don't we, that have just stuck with us?"
   ],
   "facts": [
-   "The world's smallest fish is the Paedocypris progenetica, which is less than a centimetre long.",
-   "Mount Everest grows by about 4 millimetres each year due to geological forces.",
-   "The 'richest' soil on Earth is called chernozem, found in regions like Ukraine and Russia.",
-   "It is illegal to sing out of tune in Maryland, USA, according to local laws.",
-   "The Great Barrier Reef is the largest living structure on Earth and can be seen from space.",
-   "A bolt of lightning is hotter than the surface of the sun.",
-   "The original name for the butterfly was 'flutterby'.",
-   "The first ever recorded traffic lights were installed in London in 1868.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "A 'jiffy' is an actual unit of time, specifically one hundredth of a second.",
@@ -1973,7 +1980,15 @@
    "The British Isles are home to over 6,000 miles of public footpaths, offering countless walking opportunities.",
    "The world's smallest mammal is the bumblebee bat, found in Thailand and Myanmar, weighing less than a penny.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The 'dog days of summer' refers to the period between July 3rd and August 11th, named after the star Sirius, also known as the 'Dog Star'."
+   "The 'dog days of summer' refers to the period between July 3rd and August 11th, named after the star Sirius, also known as the 'Dog Star'.",
+   "The distinctive red telephone boxes in the UK were designed by Sir Giles Gilbert Scott.",
+   "The shortest commercial flight in the world is between Westray and Papa Westray in Scotland, lasting only about 90 seconds.",
+   "A 'jiffy' is an actual unit of time, specifically 1/100th of a second.",
+   "The world's first postage stamp, the Penny Black, was issued in the United Kingdom in 1840.",
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "Wombat poo is cube-shaped, which helps it not roll away from their territory markers.",
+   "The Great Fire of London in 1666 actually helped to eradicate the Black Death plague by killing the rats and fleas.",
+   "The game of bingo was originally called 'Beano' because players marked their cards with beans."
   ]
  }
 }
