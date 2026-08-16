@@ -819,7 +819,12 @@
   "7e5f4c6660056687": "2026-08-16",
   "c5cb3ecb0f52c1de": "2026-08-16",
   "9ba293eccaefca42": "2026-08-16",
-  "285651dd459c8e1b": "2026-08-16"
+  "285651dd459c8e1b": "2026-08-16",
+  "d9f1e42f453ff311": "2026-08-17",
+  "11e504c3d1dd34d8": "2026-08-17",
+  "44a8b505fed16d2c": "2026-08-17",
+  "b879fa5a8ab70202": "2026-08-17",
+  "7a4bf1308f9e6b3c": "2026-08-17"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1169,11 +1174,14 @@
   "b09f24cfa7e18499": "2026-08-15",
   "65d5c2fb0f5c55d3": "2026-08-15",
   "9fc772385f6bd347": "2026-08-15",
-  "f2eb51f250d9b145": "2026-08-16",
-  "88469033e6781a7c": "2026-08-16",
+  "f2eb51f250d9b145": "2026-08-17",
+  "88469033e6781a7c": "2026-08-17",
   "2d729dfd263b49d8": "2026-08-16",
   "adf068dd767a80b5": "2026-08-16",
-  "08619e2922970af8": "2026-08-16"
+  "08619e2922970af8": "2026-08-16",
+  "e276626d4436fd17": "2026-08-17",
+  "3ae1ac33fe2a01f1": "2026-08-17",
+  "f5f8f6689f76165d": "2026-08-17"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1881,17 +1889,15 @@
   "742f38c9abdaad35": "2026-08-16",
   "e18b2e43aca1352c": "2026-08-16",
   "f8e96ff83a118062": "2026-08-16",
-  "42acd66a560a5dd2": "2026-08-16"
+  "42acd66a560a5dd2": "2026-08-16",
+  "42df950593199d86": "2026-08-17",
+  "752c74a0480be6d0": "2026-08-17",
+  "60e8881287d55960": "2026-08-17",
+  "0221dc5f73a2a1bf": "2026-08-17",
+  "53b5ecfb626b0ddd": "2026-08-17"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research suggests that 'listening to the natural sounds of rainfall' can significantly aid relaxation and sleep.",
-   "Local libraries are reporting a surge in interest for 'borrowing jigsaw puzzles', becoming community hubs for shared entertainment.",
-   "The delightful art of 'picnic basket preparation' is being rediscovered, moving beyond just sandwiches.",
-   "A charming trend has emerged where people are 'leaving friendly notes for bin collectors and postal workers'.",
-   "The enduring appeal of 'traditional board games' continues to bring families together for screen-free fun.",
-   "A new trend sees people creating 'miniature libraries' inside old telephone boxes across the country.",
-   "The delightful practice of 'wild swimming' in rivers and lakes is experiencing a surge in popularity, with many discovering its health benefits.",
    "Gardeners are increasingly turning to 'heirloom vegetable varieties', celebrating unique flavours and preserving genetic diversity.",
    "The simple pleasure of 'writing and sending handwritten letters' is making a heartening comeback, connecting people in a more personal way.",
    "A charming movement encouraging 'random acts of kindness' is gaining traction in local communities.",
@@ -1924,11 +1930,16 @@
    "The simple pleasure of 'baking your own bread' is making a heartwarming comeback.",
    "Community 'seed-swapping events' are flourishing, connecting gardeners and fostering biodiversity.",
    "A quirky new trend for 'colour-coded bookshelves' is sweeping through interior design circles.",
-   "New research highlights the benefits of 'short bursts of brisk walking' for overall health."
+   "New research highlights the benefits of 'short bursts of brisk walking' for overall health.",
+   "A fascinating study reveals that watching nature documentaries can significantly reduce stress and anxiety levels.",
+   "The delightful art of 'origami' is experiencing a quiet renaissance, with more people discovering its mindful benefits.",
+   "New research suggests that a 'well-organised spice rack' might be a secret ingredient to a happier kitchen.",
+   "A charming trend for 'homemade dog biscuits' is sweeping through pet-loving communities.",
+   "Scientists have found that 'listening to the sound of rain' can help improve concentration and memory.",
+   "The simple joy of 'collecting interesting pebbles and stones' from walks is making a delightful comeback.",
+   "A quirky new study suggests that 'talking to your houseplants' might actually help them thrive."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to choose a new book, even if we know we shouldn't judge it?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to watch their favourite TV show. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put together flat-pack furniture, even though we know it's probably a bad idea?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot bubble bath. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to find something we've lost, even though we know it probably doesn't help?",
@@ -1966,11 +1977,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to figure out which key on our keyring opens a particular door, even if it's the wrong key?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh packet of crisps. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if our socks match, even if the light is a bit dim?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to decide if we need a coat, even if it's just for a quick trip outside?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?"
   ],
   "talk_topic": [
-   "We all have those 'unforgettable smells' that instantly transport us back to a specific memory, don't we?",
-   "Think about those 'little everyday triumphs' that just make your day feel a bit more special.",
    "We all have those 'little domestic inventions' we've come up with to solve an everyday problem around the house, don't we?",
    "Think about a 'small, everyday sound' that you absolutely adore, one that just makes you feel incredibly content or happy.",
    "We all have those 'little domestic mysteries' in our homes that nobody can quite explain, don't we?",
@@ -2008,17 +2019,11 @@
    "You know how sometimes you stumble upon a 'tiny, independent shop' that sells the most wonderfully niche or handmade items, and it just feels like discovering a hidden gem?",
    "We all have those 'little everyday moments' that, despite their simplicity, bring us a surprising amount of joy – like catching the postman, or a perfectly brewed cup of tea.",
    "You know how sometimes a 'particular song' comes on the radio, and it just instantly transports you back to a specific moment or memory?",
-   "We all have those 'little everyday sounds' that are uniquely British, don't we, that just feel like home?"
+   "We all have those 'little everyday sounds' that are uniquely British, don't we, that just feel like home?",
+   "You know how sometimes you discover a 'quirky little museum' or local attraction that's completely off the beaten track but utterly brilliant?",
+   "We all have those 'comfort foods' that instantly make us feel better, don't we, especially on a chilly evening?"
   ],
   "facts": [
-   "The world's first public park was Birkenhead Park, near Liverpool, opening in 1847 and influencing New York's Central Park.",
-   "Butterflies taste with their feet, which have chemoreceptors that help them find host plants and nectar.",
-   "The inventor of the refreshing 'popsicle' was an 11-year-old boy named Frank Epperson in 1905.",
-   "The national animal of Scotland is the unicorn, a symbol of purity, innocence, and power.",
-   "The oldest continuously inhabited city in the UK is Colchester, with evidence of settlement dating back to the Bronze Age.",
-   "A 'gallimaufry' is an old English word for a confused jumble or medley of things.",
-   "The iconic 'red post box' was first introduced in the British Isles on the island of Jersey in 1852.",
-   "Strawberries are the only fruit with seeds on the outside.",
    "The world's smallest mammal is the bumblebee bat, weighing less than a penny.",
    "A group of owls is called a parliament, thanks to their wise and serious appearance.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
@@ -2050,7 +2055,15 @@
    "Big Ben is actually the nickname for the Great Bell of the clock at the north end of the Palace of Westminster, not the clock tower itself.",
    "The first 'fish and chip shop' in the UK is believed to have opened in London in the 1860s.",
    "The 'Changing of the Guard' ceremony at Buckingham Palace typically lasts about 45 minutes.",
-   "The 'Queen's official portrait' has appeared on British stamps since 1953."
+   "The 'Queen's official portrait' has appeared on British stamps since 1953.",
+   "The longest place name in the United Kingdom is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
+   "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
+   "A group of owls is called a parliament.",
+   "The famous black cabs in London are officially known as Hackney Carriages.",
+   "The Union Jack, the national flag of the United Kingdom, combines the flags of England, Scotland, and Northern Ireland.",
+   "The world's first public park, Birkenhead Park, opened in Merseyside in 1847 and inspired New York's Central Park.",
+   "The iconic red telephone boxes were designed by Sir Giles Gilbert Scott, who also designed Battersea Power Station.",
+   "The River Thames in England is home to over 120 species of fish."
   ]
  }
 }
