@@ -834,7 +834,12 @@
   "80baa883dc8061f7": "2026-08-18",
   "d228668263a9bf0b": "2026-08-18",
   "07147ad193c3d882": "2026-08-18",
-  "cc25164471307479": "2026-08-18"
+  "cc25164471307479": "2026-08-18",
+  "9fe2240e986166d1": "2026-08-18",
+  "993615cdd3e9420b": "2026-08-18",
+  "302210e38d608590": "2026-08-18",
+  "acde93d7859f0cad": "2026-08-18",
+  "9ea0766845c7ddd7": "2026-08-18"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1197,7 +1202,12 @@
   "7816fe5179fc18c4": "2026-08-17",
   "7f214a52cb5a48fd": "2026-08-17",
   "5bbd9a6da9441e84": "2026-08-17",
-  "16446a14b009bb74": "2026-08-18"
+  "16446a14b009bb74": "2026-08-18",
+  "27bb8a18202862ce": "2026-08-18",
+  "3c4ff700d9dd0158": "2026-08-18",
+  "acde93d7859f0cad": "2026-08-18",
+  "b9e835914d3546d3": "2026-08-18",
+  "ca583dc1697f6c34": "2026-08-18"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1920,17 +1930,15 @@
   "e2e7daef7cab1a9f": "2026-08-18",
   "3b2628b81afa64e2": "2026-08-18",
   "706d515af4bb641c": "2026-08-18",
-  "1bf8dd47cc08b266": "2026-08-18"
+  "1bf8dd47cc08b266": "2026-08-18",
+  "61bdc4cfd8de8a02": "2026-08-18",
+  "8fb2d95d2262ee09": "2026-08-18",
+  "98065a35ff5b8f8d": "2026-08-18",
+  "13005f9865d1b178": "2026-08-18",
+  "5082fce13aad9e2f": "2026-08-18"
  },
  "_ai_recent": {
   "newsbrief": [
-   "New research suggests that the gentle rhythm of 'knitting or crocheting' can significantly reduce stress and improve focus.",
-   "The comforting tradition of 'afternoon tea' is experiencing a wonderful revival, from grand hotels to local cafes.",
-   "Community gardens are flourishing, with more people than ever getting their hands dirty to grow local produce together.",
-   "The simple pleasure of 'reading a physical map' is making a quirky comeback, especially for road trippers and hikers.",
-   "A charming trend for 'local history walking tours' is captivating residents and visitors alike.",
-   "Gardeners are finding a renewed joy in cultivating 'forgotten' heritage vegetable varieties.",
-   "The simple pleasure of 'window box gardening' is seeing a charming resurgence in urban areas.",
    "A delightful trend for 'vintage picnic baskets' and traditional outdoor dining is sweeping the nation.",
    "New research suggests that 'solving jigsaw puzzles' can significantly boost cognitive function and reduce stress.",
    "The delightful art of 'letter writing' and sending handwritten notes is experiencing a heartwarming revival.",
@@ -1963,11 +1971,16 @@
    "A charming trend sees people 'swapping homemade jams and preserves' with their neighbours and friends.",
    "New research indicates that 'spending time near water' – like a river, lake, or the sea – can improve mental clarity and reduce stress.",
    "The humble 'picnic blanket' is seeing a resurgence as families embrace outdoor dining and relaxation.",
-   "A fascinating study reveals that 'reading a physical book' before bed can lead to better sleep than looking at a screen."
+   "A fascinating study reveals that 'reading a physical book' before bed can lead to better sleep than looking at a screen.",
+   "A new study suggests that taking a 'power nap' in the afternoon can significantly boost your creativity.",
+   "The delightful pastime of 'foraging for wild berries' is seeing a surge in popularity across the UK.",
+   "A charming trend sees people 'decorating their garden sheds' with whimsical themes and colourful lights.",
+   "New research indicates that 'listening to instrumental music' while working can improve focus and productivity.",
+   "The simple pleasure of 'baking your own bread' from scratch is experiencing a heartwarming revival.",
+   "A fascinating study reveals that 'watching documentaries about nature' can significantly reduce stress levels.",
+   "The delightful art of 'flower pressing' is blooming once more, as people seek ways to preserve nature's beauty."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with our socks after they come out of the washing machine, even if we know it's a bit of a gamble?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning, even though we know it might not be the most practical approach?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot chocolate. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our laundry away, even though we know it might not be the tidiest approach?",
@@ -2005,11 +2018,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're tidying up, even though we know we should probably put things away properly?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our perfectly good socks, even though we know we should probably just throw them away?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if our clothes are clean enough to wear again, even if they've been sitting in the laundry basket for a day or two?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh biscuit from a new packet. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you discover a 'shortcut' that completely changes your daily routine for the better, even if it's just a tiny one?",
-   "Think about a 'small act of kindness' from a stranger that really brightened your day and has stayed with you.",
    "You know how sometimes you spot a 'random object' in a really unexpected place, and it just makes you smile or wonder?",
    "We all have those 'little personal traditions' or habits that we do every time a particular season rolls around, don't we?",
    "You know how sometimes you hear a particular 'old-fashioned phrase' that just makes you smile because it's so wonderfully British and quaint?",
@@ -2047,17 +2060,11 @@
    "You know how sometimes you discover a 'secret shortcut' in your local area that saves you loads of time, or helps you avoid traffic?",
    "We all have those 'childhood games' or playground activities that we absolutely adored, don't we, that perhaps don't get played much anymore?",
    "You know how sometimes a particular 'shop or cafe from your childhood' holds really special memories for you?",
-   "We all have those 'little tricks' or methods we use to make everyday chores just a tiny bit more enjoyable, don't we?"
+   "We all have those 'little tricks' or methods we use to make everyday chores just a tiny bit more enjoyable, don't we?",
+   "You know how sometimes you discover a 'quirky local tradition' or an unusual community event that’s been going on for years, and it's just wonderfully British?",
+   "We all have those 'unwritten rules' in our family or household that everyone just implicitly understands, even if they've never been formally stated, don't we?"
   ],
   "facts": [
-   "A group of owls is called a 'parliament'.",
-   "The world's largest hot air balloon festival takes place every October in Albuquerque, New Mexico.",
-   "The 'Queen's official piper' plays the bagpipes outside her window every morning when she is in residence.",
-   "The 'Great Fire of London' in 1666, despite its devastation, helped eradicate the Black Death from the city.",
-   "The 'hummingbird' is the only bird that can fly backwards.",
-   "Butterflies taste with their feet.",
-   "The 'Post Office' in the UK has been around since 1660.",
-   "The first ever episode of 'Doctor Who' aired on 23 November 1963.",
    "The distinctive red 'phone boxes' we see across the UK were designed by Sir Giles Gilbert Scott, who also designed Battersea Power Station.",
    "The world's first 'postage stamp', the Penny Black, was issued in the United Kingdom in 1840.",
    "A group of 'badgers' is called a cete.",
@@ -2089,7 +2096,15 @@
    "The 'richest' soil on Earth is called 'chernozem', found in Eastern Europe and Russia.",
    "The British Library in London holds over 170 million items.",
    "The first traffic lights were installed in London in 1868, just outside the Houses of Parliament.",
-   "The 'tingle' you feel when your foot falls asleep is called paresthesia."
+   "The 'tingle' you feel when your foot falls asleep is called paresthesia.",
+   "The world's largest living organism is a fungus in Oregon, USA, spanning over 2,200 acres.",
+   "The 'richest' soil on Earth is called 'chernozem', found in Eastern Europe and Russia.",
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "The British Library in London holds over 170 million items.",
+   "Pineapples are not a single fruit, but a group of berries that have fused together.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "There are more than 2,000 different types of cheese in the world.",
+   "A 'jiffy' is an actual unit of time, specifically one-hundredth of a second."
   ]
  }
 }
