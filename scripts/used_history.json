@@ -839,7 +839,12 @@
   "993615cdd3e9420b": "2026-08-18",
   "302210e38d608590": "2026-08-18",
   "acde93d7859f0cad": "2026-08-18",
-  "9ea0766845c7ddd7": "2026-08-18"
+  "9ea0766845c7ddd7": "2026-08-18",
+  "04e962251d780625": "2026-08-19",
+  "368ff01d7f4c55fa": "2026-08-19",
+  "d8bd895759609036": "2026-08-19",
+  "aa0764a74c136930": "2026-08-19",
+  "89ec0e0eed5de549": "2026-08-19"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1207,7 +1212,12 @@
   "3c4ff700d9dd0158": "2026-08-18",
   "acde93d7859f0cad": "2026-08-18",
   "b9e835914d3546d3": "2026-08-18",
-  "ca583dc1697f6c34": "2026-08-18"
+  "ca583dc1697f6c34": "2026-08-18",
+  "f87b3da5d64af929": "2026-08-19",
+  "3f395e76e6c3e5ae": "2026-08-19",
+  "d64a25431eb25b28": "2026-08-19",
+  "11bc34900bdc7cca": "2026-08-19",
+  "9384d0cd557d3959": "2026-08-19"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1935,17 +1945,15 @@
   "8fb2d95d2262ee09": "2026-08-18",
   "98065a35ff5b8f8d": "2026-08-18",
   "13005f9865d1b178": "2026-08-18",
-  "5082fce13aad9e2f": "2026-08-18"
+  "5082fce13aad9e2f": "2026-08-18",
+  "c020a863c3f86aec": "2026-08-19",
+  "58af931ac629ea15": "2026-08-19",
+  "c99d41116c3627f5": "2026-08-19",
+  "212c520d2aa147af": "2026-08-19",
+  "0da6c8065d86e3ec": "2026-08-19"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A delightful trend for 'vintage picnic baskets' and traditional outdoor dining is sweeping the nation.",
-   "New research suggests that 'solving jigsaw puzzles' can significantly boost cognitive function and reduce stress.",
-   "The delightful art of 'letter writing' and sending handwritten notes is experiencing a heartwarming revival.",
-   "Local libraries are becoming hubs for 'community skill-sharing workshops', beyond just books.",
-   "The charming tradition of 'collecting decorative teacups and saucers' is making a comeback amongst home enthusiasts.",
-   "New research suggests that spending time looking at 'blue spaces' like rivers or the sea can significantly improve mood.",
-   "The charming tradition of 'pub quizzes' is experiencing a wonderful resurgence across the UK.",
    "A delightful trend for 'vintage-style board games' is captivating families and friends.",
    "The simple pleasure of 'baking your own bread' is making a heartwarming comeback.",
    "Community 'seed-swapping events' are flourishing, connecting gardeners and fostering biodiversity.",
@@ -1978,11 +1986,16 @@
    "New research indicates that 'listening to instrumental music' while working can improve focus and productivity.",
    "The simple pleasure of 'baking your own bread' from scratch is experiencing a heartwarming revival.",
    "A fascinating study reveals that 'watching documentaries about nature' can significantly reduce stress levels.",
-   "The delightful art of 'flower pressing' is blooming once more, as people seek ways to preserve nature's beauty."
+   "The delightful art of 'flower pressing' is blooming once more, as people seek ways to preserve nature's beauty.",
+   "A new trend sees city dwellers 'adopting' a small patch of public green space to care for.",
+   "Research suggests that 'writing a handwritten letter' can significantly reduce stress and improve mental well-being.",
+   "The simple joy of 'building a den' is experiencing a heartwarming resurgence among families.",
+   "A study found that 'listening to the rain' can have a profoundly calming effect on the human mind.",
+   "The delightful pastime of 'collecting interesting pebbles' from beaches and riverbanks is becoming a popular hobby.",
+   "New findings indicate that 'gazing at the stars' can inspire feelings of wonder and perspective.",
+   "The charming tradition of 'leaving out books for others to find' in public spaces is growing."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to decide what to wear in the morning, even though we know it might not be the most practical approach?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot chocolate. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our laundry away, even though we know it might not be the tidiest approach?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to choose a new paint colour for a room, even if we know it might not be the most reliable method?",
@@ -2020,11 +2033,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what with our perfectly good socks, even though we know we should probably just throw them away?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if our clothes are clean enough to wear again, even if they've been sitting in the laundry basket for a day or two?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh biscuit from a new packet. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh biscuit from a new packet. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if our tea is cool enough to drink without burning our tongue?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh piece of fruit. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you spot a 'random object' in a really unexpected place, and it just makes you smile or wonder?",
-   "We all have those 'little personal traditions' or habits that we do every time a particular season rolls around, don't we?",
    "You know how sometimes you hear a particular 'old-fashioned phrase' that just makes you smile because it's so wonderfully British and quaint?",
    "We all have those 'little domestic discoveries' that feel like a stroke of genius, even if they're incredibly simple.",
    "You know how sometimes you hear a 'jingle' from a really old advertisement, and it just instantly gets stuck in your head, even decades later?",
@@ -2062,17 +2075,11 @@
    "You know how sometimes a particular 'shop or cafe from your childhood' holds really special memories for you?",
    "We all have those 'little tricks' or methods we use to make everyday chores just a tiny bit more enjoyable, don't we?",
    "You know how sometimes you discover a 'quirky local tradition' or an unusual community event that’s been going on for years, and it's just wonderfully British?",
-   "We all have those 'unwritten rules' in our family or household that everyone just implicitly understands, even if they've never been formally stated, don't we?"
+   "We all have those 'unwritten rules' in our family or household that everyone just implicitly understands, even if they've never been formally stated, don't we?",
+   "You know how sometimes you hear a 'word or phrase' that just sounds utterly charming, or a bit old-fashioned, and it makes you smile?",
+   "We all have those 'little rituals' that mark the start of a new season, don't we?"
   ],
   "facts": [
-   "The distinctive red 'phone boxes' we see across the UK were designed by Sir Giles Gilbert Scott, who also designed Battersea Power Station.",
-   "The world's first 'postage stamp', the Penny Black, was issued in the United Kingdom in 1840.",
-   "A group of 'badgers' is called a cete.",
-   "The longest river in the UK is the River Severn, which runs for approximately 220 miles.",
-   "Big Ben is actually the nickname for the Great Bell of the clock at the north end of the Palace of Westminster, not the clock tower itself.",
-   "The first 'fish and chip shop' in the UK is believed to have opened in London in the 1860s.",
-   "The 'Changing of the Guard' ceremony at Buckingham Palace typically lasts about 45 minutes.",
-   "The 'Queen's official portrait' has appeared on British stamps since 1953.",
    "The longest place name in the United Kingdom is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
    "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
    "A group of owls is called a parliament.",
@@ -2104,7 +2111,15 @@
    "Pineapples are not a single fruit, but a group of berries that have fused together.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "There are more than 2,000 different types of cheese in the world.",
-   "A 'jiffy' is an actual unit of time, specifically one-hundredth of a second."
+   "A 'jiffy' is an actual unit of time, specifically one-hundredth of a second.",
+   "The 'Unicorn' is the national animal of Scotland.",
+   "A group of owls is called a 'parliament'.",
+   "Bubble wrap was originally intended to be used as wallpaper.",
+   "Strawberries are the only fruit with seeds on the outside.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "Fingernails grow faster than toenails.",
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "The small plastic tip on the end of a shoelace is called an 'aglet'."
   ]
  }
 }
