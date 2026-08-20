@@ -867,7 +867,12 @@
   "2c711da33cafc038": "2026-08-21",
   "646cf2b6d44f674f": "2026-08-21",
   "dd4b4bc2423853ed": "2026-08-21",
-  "3697ff0f7545b9a4": "2026-08-21"
+  "3697ff0f7545b9a4": "2026-08-21",
+  "30fdd106da9d7332": "2026-08-21",
+  "88d124f8fd50b993": "2026-08-21",
+  "46822ceae4942ff7": "2026-08-21",
+  "125d5aec14b725d9": "2026-08-21",
+  "4688b2b04aed48a2": "2026-08-21"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1245,7 +1250,8 @@
   "75b03ab9bd87e1ed": "2026-08-21",
   "63ea639af62c75a6": "2026-08-20",
   "60d5f38dc272f02e": "2026-08-20",
-  "bf1e0e2412c927e0": "2026-08-21"
+  "bf1e0e2412c927e0": "2026-08-21",
+  "a62bc082f4fd8675": "2026-08-21"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -1998,17 +2004,15 @@
   "a1672676a04eb0ef": "2026-08-21",
   "a1f03fa91ecaa0e4": "2026-08-21",
   "927962e1a3cf4d70": "2026-08-21",
-  "a3f475e169fe003c": "2026-08-21"
+  "a3f475e169fe003c": "2026-08-21",
+  "c61dfbc201c4232b": "2026-08-21",
+  "f92938c439571b4c": "2026-08-21",
+  "54a264037d09ea51": "2026-08-21",
+  "7ef6f2196fb1ad42": "2026-08-21",
+  "1aff216cf519f06c": "2026-08-21"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Scientists have discovered that 'listening to birdsong' can significantly boost feelings of happiness and well-being.",
-   "A charming trend sees people 'swapping homemade jams and preserves' with their neighbours and friends.",
-   "New research indicates that 'spending time near water' – like a river, lake, or the sea – can improve mental clarity and reduce stress.",
-   "The humble 'picnic blanket' is seeing a resurgence as families embrace outdoor dining and relaxation.",
-   "A fascinating study reveals that 'reading a physical book' before bed can lead to better sleep than looking at a screen.",
-   "A new study suggests that taking a 'power nap' in the afternoon can significantly boost your creativity.",
-   "The delightful pastime of 'foraging for wild berries' is seeing a surge in popularity across the UK.",
    "A charming trend sees people 'decorating their garden sheds' with whimsical themes and colourful lights.",
    "New research indicates that 'listening to instrumental music' while working can improve focus and productivity.",
    "The simple pleasure of 'baking your own bread' from scratch is experiencing a heartwarming revival.",
@@ -2041,11 +2045,16 @@
    "The delightful practice of 'foraging for wild berries and mushrooms' is experiencing a quiet renaissance.",
    "It turns out that 'singing in the shower' isn't just fun; it's genuinely good for your well-being.",
    "A charming new app helps users 'identify local birds by their song', making morning walks even more engaging.",
-   "Research indicates that 'spending time near water' – be it a lake, river, or even a fountain – can significantly reduce stress."
+   "Research indicates that 'spending time near water' – be it a lake, river, or even a fountain – can significantly reduce stress.",
+   "A delightful trend is seeing more people embrace the art of 'upcycling' old furniture.",
+   "The simple pleasure of 'baking bread from scratch' is experiencing a heartwarming resurgence across the UK.",
+   "Experts suggest that 'taking a mindful pause' to observe the clouds can significantly enhance daily well-being.",
+   "The charming tradition of 'leaving positive messages on public chalkboards' is bringing smiles to communities.",
+   "A new study highlights the cognitive benefits of 'learning a musical instrument' at any age.",
+   "The humble 'charity shop' is becoming a treasure trove for fashion enthusiasts seeking unique vintage finds.",
+   "Research shows that 'walking barefoot on grass' can be surprisingly beneficial for stress reduction."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what with our shopping trolley, even though we know it might not be entirely polite?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh bath or shower. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what with our old plastic food containers, even though we know they'll probably never see the light of day again?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to put our shoes on in a hurry, even if it's not the most dignified approach?",
@@ -2083,11 +2092,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge the temperature outside, even if it's just peeking through a window?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're peeling vegetables, even if we know it's not strictly necessary?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new pair of shoes will be comfortable for a whole day?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea from a brand new box of teabags. What is it?"
   ],
   "talk_topic": [
-   "We all have those 'little rituals' we perform before leaving the house, don't we?",
-   "Think about a 'small, everyday sound' that you used to find irritating, but now you actually quite like or even find comforting.",
    "You know how sometimes you hear a particular 'childhood nursery rhyme' and it just instantly takes you back to being a little one?",
    "We all have those 'little tricks' we use to make a simple household chore just a tiny bit easier, don't we?",
    "You know how sometimes you discover a 'secret shortcut' that saves you just a tiny bit of time or effort in your daily routine?",
@@ -2125,17 +2134,11 @@
    "You know how sometimes you discover a 'secret shortcut' in your local area that saves you loads of time, or helps you avoid traffic?",
    "We all have those 'little rituals' that mark the start of a new season, don't we?",
    "You know how sometimes a particular 'smell in a garden' just instantly brings back a flood of memories from your childhood, or a lovely summer's day?",
+   "We all have those 'little everyday objects' that we couldn't do without, even if they seem insignificant to others, don't we?",
+   "You know how sometimes a particular 'smell from a kitchen' just instantly transports you back to a specific memory or a lovely moment in time?",
    "We all have those 'little everyday objects' that we couldn't do without, even if they seem insignificant to others, don't we?"
   ],
   "facts": [
-   "The world's largest living organism is a fungus in Oregon, USA, spanning over 2,200 acres.",
-   "The 'richest' soil on Earth is called 'chernozem', found in Eastern Europe and Russia.",
-   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
-   "The British Library in London holds over 170 million items.",
-   "Pineapples are not a single fruit, but a group of berries that have fused together.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "There are more than 2,000 different types of cheese in the world.",
-   "A 'jiffy' is an actual unit of time, specifically one-hundredth of a second.",
    "The 'Unicorn' is the national animal of Scotland.",
    "A group of owls is called a 'parliament'.",
    "Bubble wrap was originally intended to be used as wallpaper.",
@@ -2167,7 +2170,15 @@
    "A bolt of lightning is five times hotter than the surface of the sun.",
    "The shortest complete sentence in the English language is 'I am'.",
    "Bubble wrap was originally intended to be used as wallpaper.",
-   "Hawaii is the only U.S. state that grows coffee commercially."
+   "Hawaii is the only U.S. state that grows coffee commercially.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.",
+   "It is illegal to sing in public after 9 pm in Honolulu, Hawaii, if you are wearing your swimsuit.",
+   "The inventor of the Pringle can, Fredric Baur, requested to be buried in one.",
+   "A flock of flamingos is called a flamboyance.",
+   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu in New Zealand.",
+   "Before the invention of rubber erasers, breadcrumbs were commonly used to rub out pencil marks."
   ]
  }
 }
