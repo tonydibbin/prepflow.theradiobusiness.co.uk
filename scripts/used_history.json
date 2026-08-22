@@ -882,7 +882,12 @@
   "621d930464ec55d6": "2026-08-22",
   "6fa6baf3886e426a": "2026-08-22",
   "86cf6712d1a9f4ff": "2026-08-22",
-  "9e34e6b8115bae00": "2026-08-22"
+  "9e34e6b8115bae00": "2026-08-22",
+  "2a518915c12fbb4f": "2026-08-23",
+  "eea1cdf0d8421a5b": "2026-08-23",
+  "7a263eced1ededef": "2026-08-23",
+  "579d6d4091160ed7": "2026-08-23",
+  "a41e87585959d24a": "2026-08-23"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1261,11 +1266,13 @@
   "63ea639af62c75a6": "2026-08-20",
   "60d5f38dc272f02e": "2026-08-20",
   "bf1e0e2412c927e0": "2026-08-21",
-  "a62bc082f4fd8675": "2026-08-22",
+  "a62bc082f4fd8675": "2026-08-23",
   "d406d8cec2e44042": "2026-08-22",
-  "e2270189e6f7434b": "2026-08-22",
+  "e2270189e6f7434b": "2026-08-23",
   "d1155067210e5e19": "2026-08-22",
-  "f880663f75ae1a07": "2026-08-22"
+  "f880663f75ae1a07": "2026-08-23",
+  "b1f4e0a2a31507db": "2026-08-23",
+  "666515ca0f3247c9": "2026-08-23"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2033,17 +2040,15 @@
   "3cb967081b2fcc2c": "2026-08-22",
   "959b802bc5999258": "2026-08-22",
   "2ecd8e35c405de29": "2026-08-22",
-  "a7be345588b5e9ab": "2026-08-22"
+  "a7be345588b5e9ab": "2026-08-22",
+  "9942fab98075cd5a": "2026-08-23",
+  "c151a99c700550cf": "2026-08-23",
+  "de520f836f105e19": "2026-08-23",
+  "719d68d29ac6176c": "2026-08-23",
+  "a31de9abf854e7f9": "2026-08-23"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The delightful hobby of 'creating miniature gardens' in teacups or terrariums is charming enthusiasts.",
-   "A fascinating study reveals that 'listening to the sounds of a crackling fire' can have a deeply relaxing effect.",
-   "The simple pleasure of 'writing postcards to friends and family' is making a lovely comeback.",
-   "A charming movement encourages people to 'swap homegrown produce' with neighbours and local communities.",
-   "Research indicates that 'taking a mindful walk in a local park' can improve focus and creativity.",
-   "A recent study suggests that listening to the gentle rumble of a washing machine can be surprisingly soothing.",
-   "The delightful art of 'doodling' during meetings or phone calls might actually be a sign of increased focus, not distraction.",
    "The charming tradition of 'leaving out books for others to find' in public spaces is growing.",
    "New findings indicate that 'gazing at the stars' can inspire feelings of wonder and perspective.",
    "The simple joy of 'building a den' is experiencing a heartwarming resurgence among families.",
@@ -2076,11 +2081,16 @@
    "The humble 'local library' is experiencing a resurgence, becoming a hub for more than just books.",
    "Research shows that 'listening to classical music' can be surprisingly beneficial for concentration and relaxation.",
    "A new trend sees more people embracing the simple pleasure of 'baking their own bread at home'.",
-   "The art of 'keeping a physical journal' is being recognised for its surprising benefits to emotional processing and memory."
+   "The art of 'keeping a physical journal' is being recognised for its surprising benefits to emotional processing and memory.",
+   "A new study reveals that simply looking at photos of nature can reduce stress levels.",
+   "The charm of 'upcycling old furniture' is growing, with more people transforming pre-loved pieces.",
+   "Experts suggest that 'learning a new language' can significantly boost cognitive function at any age.",
+   "The simple pleasure of 'picnicking in local parks' is experiencing a delightful comeback this summer.",
+   "A fascinating report highlights the rise of 'community-run cinemas' bringing classic films to local halls.",
+   "Research indicates that 'listening to audiobooks' can enhance empathy and imagination.",
+   "The delightful art of 'collecting vintage postcards' is finding a new generation of enthusiasts."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to find a matching pair of socks, even though we know it's a bit of a gamble?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge the temperature of a drink, even though we know it's probably not the most accurate method?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh banana. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to reach something just out of our grasp, even if it looks a bit silly?",
@@ -2118,11 +2128,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new piece of technology is working correctly, even if it's just a light switch?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea or coffee.",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a kettle has truly boiled, without actually looking inside?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh glass of water from the tap. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a kettle has truly boiled, without actually looking inside? What is it?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh glass of water from the tap. What is it?"
   ],
   "talk_topic": [
-   "We all have those 'unusual items' we keep in a drawer or cupboard that we just can't bring ourselves to throw away, even though we rarely, if ever, use them.",
-   "Think about a 'small, everyday moment' that always brings a little bit of unexpected joy to your day.",
    "You know how sometimes you discover a 'quirky little shop' in a town you're visiting, and it just becomes the highlight of your day?",
    "We all have those 'favourite public benches' in our local area, don't we, that just seem to offer the perfect spot for a moment of quiet reflection or people-watching?",
    "You know how sometimes you discover a 'clever little hack' that makes a household chore surprisingly easier or faster?",
@@ -2160,17 +2170,11 @@
    "You know how sometimes a 'particular sound' just instantly brings you a sense of calm, or reminds you of a really happy, peaceful moment?",
    "We all have those 'little tricks or shortcuts' we use around the house that we think are just brilliant, even if nobody else quite understands them, don't we?",
    "You know how sometimes a 'particular type of weather' just makes you feel incredibly happy or reflective?",
+   "We all have those 'little everyday sounds' that bring us a surprising amount of comfort or joy, don't we?",
+   "You know how sometimes a 'particular type of weather' just makes you feel incredibly happy or reflective?",
    "We all have those 'little everyday sounds' that bring us a surprising amount of comfort or joy, don't we?"
   ],
   "facts": [
-   "The inventor of the Pringle's can is buried in one.",
-   "The 'sixth sick sheik's sixth sheep's sick' is thought to be the toughest tongue twister in the English language.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
-   "A day on Venus is longer than a year on Venus.",
-   "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron.",
-   "The sound of a duck's quack does not echo, and no one knows why.",
-   "There are more possible iterations of a game of chess than there are atoms in the known universe.",
-   "Cleopatra lived closer in time to the invention of the iPhone than to the building of the Great Pyramid of Giza.",
    "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
    "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
    "Butterflies taste with their feet.",
@@ -2202,7 +2206,15 @@
    "Butterflies taste with their feet, allowing them to sense if a leaf is suitable for laying eggs.",
    "The world's largest snowflake on record was 15 inches wide and 8 inches thick, observed in Montana in 1887.",
    "Penguins are the only birds that can't fly, but they are excellent swimmers.",
-   "The 'richest' soil on Earth is called chernozem, found in regions like the Ukrainian steppes and Russian plains."
+   "The 'richest' soil on Earth is called chernozem, found in regions like the Ukrainian steppes and Russian plains.",
+   "The world's oldest known living tree is Methuselah, a bristlecone pine in California, estimated to be over 4,800 years old.",
+   "A 'floccinaucinihilipilification' is the act of estimating something as worthless.",
+   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
+   "Britain's highest point, Ben Nevis, receives around 260 days of rain and snow a year.",
+   "More people visit France than any other country in the world.",
+   "The shortest complete sentence in the English language is 'Go.'",
+   "There are more fake flamingos in the world than real ones.",
+   "The 'tear' in tear gas actually refers to a chemical compound, not emotional tears."
   ]
  }
 }
