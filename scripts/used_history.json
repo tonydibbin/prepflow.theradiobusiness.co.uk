@@ -916,7 +916,12 @@
   "7ac423fa271f4fc3": "2026-08-25",
   "97fad59793ba2376": "2026-08-25",
   "7cceb78001e31359": "2026-08-25",
-  "2d6671c1cc96527c": "2026-08-25"
+  "2d6671c1cc96527c": "2026-08-25",
+  "2fc86a8b0b8d1429": "2026-08-26",
+  "5caa191099fa85c2": "2026-08-26",
+  "f4530345fa1f1d0f": "2026-08-26",
+  "ef991c08aece4fd3": "2026-08-26",
+  "ec8dc5295e0dbf96": "2026-08-26"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1304,7 +1309,7 @@
   "666515ca0f3247c9": "2026-08-25",
   "14a80dfc3203c4ff": "2026-08-24",
   "b41c4fd65433d093": "2026-08-24",
-  "82c96c41f0ab5c38": "2026-08-25",
+  "82c96c41f0ab5c38": "2026-08-26",
   "6bda7b5be8ef5792": "2026-08-25",
   "aa9bf79640101b04": "2026-08-25",
   "ce5f3ce173db80ce": "2026-08-24",
@@ -1317,7 +1322,11 @@
   "7cceb78001e31359": "2026-08-25",
   "3ce982cf969c3877": "2026-08-25",
   "87ef736dab88ddb8": "2026-08-25",
-  "8c4abe2b500339a0": "2026-08-25"
+  "8c4abe2b500339a0": "2026-08-25",
+  "6f588e16ff396323": "2026-08-26",
+  "6c8f51073415c1f4": "2026-08-26",
+  "f4998ef3679fe464": "2026-08-26",
+  "d292c6a35463c94d": "2026-08-26"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2115,17 +2124,15 @@
   "ca24b460eeccb9ce": "2026-08-25",
   "ca838ff54ac91019": "2026-08-25",
   "e58ec673fbf03e9c": "2026-08-25",
-  "249197a3b500d5a1": "2026-08-25"
+  "249197a3b500d5a1": "2026-08-25",
+  "f2afc1b165d6d2c9": "2026-08-26",
+  "a98e63e85338be69": "2026-08-26",
+  "950c31ee85e94180": "2026-08-26",
+  "12e876358b0fd2e3": "2026-08-26",
+  "76cf02825bdedbf3": "2026-08-26"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new study highlights the surprisingly positive impact of 'gardening on mental well-being' for all ages.",
-   "The humble 'local library' is experiencing a resurgence, becoming a hub for more than just books.",
-   "Research shows that 'listening to classical music' can be surprisingly beneficial for concentration and relaxation.",
-   "A new trend sees more people embracing the simple pleasure of 'baking their own bread at home'.",
-   "The art of 'keeping a physical journal' is being recognised for its surprising benefits to emotional processing and memory.",
-   "A new study reveals that simply looking at photos of nature can reduce stress levels.",
-   "The charm of 'upcycling old furniture' is growing, with more people transforming pre-loved pieces.",
    "Experts suggest that 'learning a new language' can significantly boost cognitive function at any age.",
    "The simple pleasure of 'picnicking in local parks' is experiencing a delightful comeback this summer.",
    "A fascinating report highlights the rise of 'community-run cinemas' bringing classic films to local halls.",
@@ -2158,11 +2165,16 @@
    "A delightful surge in 'community seed swaps' is helping gardeners share unusual plants and promote biodiversity.",
    "Research suggests that wearing colourful clothes can genuinely lift your mood and even positively influence those around you.",
    "The simple joy of 'writing a letter' is experiencing a charming revival amongst all age groups.",
-   "Apparently, doing a quick 'five-minute tidy-up' before leaving the house can significantly reduce stress levels later in the day."
+   "Apparently, doing a quick 'five-minute tidy-up' before leaving the house can significantly reduce stress levels later in the day.",
+   "A recent study suggests that spending time looking up at the night sky can significantly boost your sense of well-being.",
+   "The delightful trend of 'library of things' is growing across the UK, allowing communities to borrow useful household items instead of buying them.",
+   "New research indicates that people who regularly sing, even just in the shower, report feeling happier and more energised.",
+   "A fascinating study reveals that the simple act of 'doodling' during a meeting might actually be a good thing for memory and concentration.",
+   "The joy of 'upcycling old furniture' is experiencing a wonderful resurgence, with more people transforming pre-loved pieces into unique household treasures.",
+   "Scientists are exploring the fascinating world of 'animal friendships' between different species, with surprising results.",
+   "A charming trend for 'community noticeboards' is blossoming in villages and towns, bringing local news and events back to the forefront."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what with our perfectly good teabags, even though we know we probably shouldn't?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh packet of biscuits. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if something in the fridge is still good to eat, even if it looks a bit dubious?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh hot cross bun. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to figure out which key on our keyring opens a particular door, even if it's the wrong key?",
@@ -2200,11 +2212,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new piece of clothing will be comfortable for a whole day?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast from a new loaf of bread. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new book will be interesting, without reading the blurb properly?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot bubble bath. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot bubble bath. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new pair of shoes will be comfortable for a whole day, without actually walking around much?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, fresh piece of fruit, especially if it's a new variety."
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'smell from your childhood' can instantly transport you back in time?",
-   "We all have those 'little rituals' we perform before embarking on a journey, whether it's a daily commute or a grand adventure.",
    "We all have those 'unseen skills' or quirky talents we possess that might not be useful in everyday life, but are surprisingly impressive to others.",
    "Think about a 'small act of kindness' you once received from a complete stranger that really brightened your day and stayed with you.",
    "You know how sometimes you stumble upon a 'tiny, independent shop' that sells the most wonderfully niche or handmade items, and it just feels like discovering a hidden gem?",
@@ -2242,17 +2254,11 @@
    "You know how sometimes a particular 'song on the radio' just perfectly matches your mood, even if you hadn't heard it in ages?",
    "We all have those 'little everyday inventions' that we absolutely couldn't do without, even if they seem minor to others, don't we?",
    "You know how sometimes a certain 'smell' can instantly transport you back to a specific memory or a moment from your past?",
+   "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?",
+   "You know how sometimes a certain 'smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?"
   ],
   "facts": [
-   "The world's oldest known living tree is Methuselah, a bristlecone pine in California, estimated to be over 4,800 years old.",
-   "A 'floccinaucinihilipilification' is the act of estimating something as worthless.",
-   "The average cloud weighs around 550 tons, roughly the same as 100 elephants.",
-   "Britain's highest point, Ben Nevis, receives around 260 days of rain and snow a year.",
-   "More people visit France than any other country in the world.",
-   "The shortest complete sentence in the English language is 'Go.'",
-   "There are more fake flamingos in the world than real ones.",
-   "The 'tear' in tear gas actually refers to a chemical compound, not emotional tears.",
    "A group of owls is called a 'parliament'.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
    "The world's quietest room is located at Microsoft's headquarters in Washington state, where the background noise is so low it's measured in negative decibels.",
@@ -2284,7 +2290,15 @@
    "The total weight of all the ants on Earth is thought to be greater than the total weight of all the humans.",
    "Bumblebees can fly higher than Mount Everest, if they wanted to!",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
-   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second."
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
+   "The world's largest officially measured snowflake was 15 inches wide and 8 inches thick, observed in Montana, USA, in 1887.",
+   "A flamingo's pink or reddish colour comes from pigments in the organisms they eat, such as brine shrimp and algae.",
+   "The inventor of the Richter scale, Charles Richter, was apparently colourblind.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "The 'Hobbit' movies used over 180 pairs of prosthetic Hobbit feet.",
+   "The Great Barrier Reef is the only living structure on Earth visible from space.",
+   "Bubble wrap was originally intended to be used as three-dimensional wallpaper.",
+   "Australia is wider than the moon."
   ]
  }
 }
