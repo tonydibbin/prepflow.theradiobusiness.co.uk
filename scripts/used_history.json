@@ -940,7 +940,12 @@
   "1e5b88a5da0ea5e6": "2026-08-27",
   "a9a44a31d05395bd": "2026-08-27",
   "e10ae60da508a501": "2026-08-27",
-  "e4384c860181f52b": "2026-08-27"
+  "e4384c860181f52b": "2026-08-27",
+  "66702fe9b98bfcb6": "2026-08-29",
+  "23d73791922ff3f3": "2026-08-29",
+  "b0a7a9ae341ddbe2": "2026-08-29",
+  "352e06cbb4349f78": "2026-08-29",
+  "f14ae826019216c1": "2026-08-29"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1356,7 +1361,12 @@
   "e8e32b89101d242c": "2026-08-27",
   "f84ce441e72c0908": "2026-08-27",
   "916205d016ec9d2c": "2026-08-27",
-  "2ba6062eaba3f432": "2026-08-27"
+  "2ba6062eaba3f432": "2026-08-27",
+  "3349627242f6823e": "2026-08-29",
+  "e191e65e5a4a446c": "2026-08-29",
+  "0496143a9decd749": "2026-08-29",
+  "fbeaf6122291ae68": "2026-08-29",
+  "5972a7436a3f57f4": "2026-08-29"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2174,17 +2184,15 @@
   "2455ed55f13db70e": "2026-08-27",
   "be16f7f5affd6179": "2026-08-27",
   "ca78390ac3e5c36d": "2026-08-27",
-  "0c17553032804e1e": "2026-08-27"
+  "0c17553032804e1e": "2026-08-27",
+  "b3b1c88f0b76c486": "2026-08-29",
+  "ab10d930c44699a7": "2026-08-29",
+  "d316506a3f1e671a": "2026-08-29",
+  "af105f497f3858d5": "2026-08-29",
+  "2e72cef5d717cff0": "2026-08-29"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Scientists have discovered that the smell of 'freshly baked bread' can genuinely make people feel more generous and helpful.",
-   "A new report highlights a delightful surge in 'intergenerational book clubs', where grandparents and grandchildren share stories.",
-   "The enduring appeal of 'traditional board games' is seeing a fresh revival, with families rediscovering the joy of unplugged fun.",
-   "Research indicates that 'watching clouds drift by' can be a surprisingly effective way to reduce stress and boost creativity.",
-   "The charming habit of 'leaving anonymous notes of kindness' in public places is gaining traction across the UK.",
-   "Good news for those who love a bit of a natter while they walk!",
-   "The humble 'houseplant' is apparently making us all a little bit calmer.",
    "Ever wondered what our pets get up to when we're out?",
    "British seaside towns are seeing a lovely resurgence in popularity.",
    "Scientists are exploring the fascinating world of 'animal friendships'.",
@@ -2217,11 +2225,16 @@
    "There's a delightful trend emerging for 'mini libraries' or book swaps in front gardens, fostering community and reading.",
    "Research shows that 'morning routines' that include a moment of quiet reflection can set a positive tone for the entire day.",
    "The charm of 'handwritten notes' is making a comeback, with people rediscovering the personal touch of a physical message.",
-   "Scientists are exploring the fascinating world of 'plant communication', revealing how plants 'talk' to each other."
+   "Scientists are exploring the fascinating world of 'plant communication', revealing how plants 'talk' to each other.",
+   "A new study reveals that listening to the sound of rainfall can actually boost your creativity.",
+   "The simple act of 'doodling' during meetings or phone calls is being hailed as a secret weapon for better concentration.",
+   "A delightful trend of 'community herb gardens' is blossoming in urban areas, allowing residents to pick fresh herbs for free.",
+   "Scientists have discovered that the joy of watching 'nature documentaries' can significantly reduce stress levels.",
+   "The surprising benefits of 'reading aloud' to yourself are gaining attention for improving memory and comprehension.",
+   "There's a growing appreciation for the 'humble park bench' as a perfect spot for reflection and people-watching.",
+   "New research suggests that regularly 'tidying one small area' of your home can have a ripple effect on overall well-being."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to figure out if our socks match, even if the light is a bit dim?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to decide if we need a coat, even if it's just for a quick trip outside?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of coffee. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're tidying up, even though we know we should probably put things away properly?",
@@ -2259,11 +2272,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new plant will thrive in a spot, without actually checking a gardening book?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of cake, especially if it's homemade. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea or coffee, especially when it's a new mug. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea or coffee, especially when it's a new mug. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, fresh brew from a new tea bag brand. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular song' comes on the radio, and it just instantly transports you back to a specific moment or memory?",
-   "We all have those 'little everyday sounds' that are uniquely British, don't we, that just feel like home?",
    "You know how sometimes you discover a 'quirky little museum' or local attraction that's completely off the beaten track but utterly brilliant?",
    "We all have those 'comfort foods' that instantly make us feel better, don't we, especially on a chilly evening?",
    "You know how sometimes you discover a 'secret shortcut' in your local area that saves you loads of time, or helps you avoid traffic?",
@@ -2301,17 +2314,11 @@
    "We all have those 'unusual items' we keep tucked away in a drawer or on a shelf, convinced they'll come in handy one day, even if that day hasn't arrived yet.",
    "You know how sometimes you completely mishear a common phrase or song lyric, and for ages, you've been confidently saying the wrong thing?",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?"
+   "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?",
+   "You know how sometimes a particular 'everyday sound' can be surprisingly comforting or even nostalgic, even if it's not music?",
+   "We all have those 'unusual little things' we collect or keep hold of, not for their value, but purely for sentimental reasons, don't we?"
   ],
   "facts": [
-   "Butterflies taste with their feet.",
-   "The shortest complete English sentence is 'I am'.",
-   "A group of owls is called a parliament.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The world's first recorded traffic light was installed in London in 1868, near the Houses of Parliament.",
-   "The average cloud weighs around 1.1 million pounds.",
-   "The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.",
-   "It is impossible for most people to lick their own elbow.",
    "The Great Fire of London in 1666 actually started in a bakery on Pudding Lane.",
    "A pineapple is not a single fruit, but rather a group of berries that have fused together.",
    "The world's oldest known living tree is Methuselah, a Bristlecone Pine in California, estimated to be over 4,800 years old.",
@@ -2343,7 +2350,15 @@
    "The world's oldest known living tree, 'Methuselah', is a Great Basin bristlecone pine over 4,800 years old, located in California.",
    "You can tell the freshness of an egg by placing it in water; a fresh egg will sink, while an old one will float.",
    "The word 'robot' comes from the Czech word 'robota', meaning forced labour or drudgery.",
-   "More people live inside the circle of London's M25 motorway than live in the whole of Scotland."
+   "More people live inside the circle of London's M25 motorway than live in the whole of Scotland.",
+   "The 'tear-off' strip on a new receipt or ticket is called a 'perf' or 'perforation'.",
+   "The Great Wall of China is not visible from space with the naked eye, despite popular myth.",
+   "A group of owls is called a 'parliament'.",
+   "The world's largest snowflake on record was 15 inches wide and 8 inches thick, observed in Montana, USA, in 1887.",
+   "The 'ding-dong' sound of the BBC pips, used for time signals, has six pips, with the last one being longer.",
+   "Butterflies taste with their feet.",
+   "The 'e' is the most common letter in the English language.",
+   "The inventor of the 'roulette' wheel was also a mathematician trying to create a perpetual motion machine."
   ]
  }
 }
