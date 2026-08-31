@@ -980,7 +980,12 @@
   "681d82b3e8e1ae89": "2026-08-31",
   "3fa780027d55ff90": "2026-08-31",
   "a1f2770df09d901b": "2026-08-31",
-  "92996102ff90c831": "2026-08-31"
+  "92996102ff90c831": "2026-08-31",
+  "214f01e53a1c5ec9": "2026-09-01",
+  "21113b20d08b5d88": "2026-09-01",
+  "5dfa2cb031b322e0": "2026-09-01",
+  "16fb37258dfc0690": "2026-09-01",
+  "84a2683c3df3404d": "2026-09-01"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1250,7 +1255,7 @@
   "3950498ead524694": "2026-08-15",
   "525205a0679cccfd": "2026-07-29",
   "e427732074fa1810": "2026-08-20",
-  "df27cce0581d4d3c": "2026-08-15",
+  "df27cce0581d4d3c": "2026-09-01",
   "7dd074ef5ec52693": "2026-07-29",
   "2929dcb71f28cabe": "2026-08-15",
   "4e3c17ae68848111": "2026-07-30",
@@ -1412,7 +1417,7 @@
   "2cd2c05a0b09c73c": "2026-08-31",
   "f5cf5ce845e8d2db": "2026-08-30",
   "dd5ca84553eb9a65": "2026-08-31",
-  "203f8ddf4629e3c5": "2026-08-31",
+  "203f8ddf4629e3c5": "2026-09-01",
   "61c0ec701d811e95": "2026-08-30",
   "fc634a319070a411": "2026-08-30",
   "9ccdd2a731db11aa": "2026-08-30",
@@ -1424,7 +1429,10 @@
   "68f8a57aebe3c366": "2026-08-31",
   "49f44d74b2e2fb69": "2026-08-31",
   "2e90dfc2cdfa2eb0": "2026-08-31",
-  "de92599c34359855": "2026-08-31"
+  "de92599c34359855": "2026-08-31",
+  "4615f246a9e4a517": "2026-09-01",
+  "fee7c02bb83789d3": "2026-09-01",
+  "3c7293316c449e0b": "2026-09-01"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2282,17 +2290,15 @@
   "b6c0b41af7dfc9e1": "2026-08-31",
   "ffd0dce415275ec6": "2026-08-31",
   "ef2af6941826f9a0": "2026-08-31",
-  "b73f47c299db72f1": "2026-08-31"
+  "b73f47c299db72f1": "2026-08-31",
+  "37d031714133f594": "2026-09-01",
+  "2e0dcd490b400656": "2026-09-01",
+  "fdc8c8c3bc3e8a20": "2026-09-01",
+  "321347e8846eb11d": "2026-09-01",
+  "0e5c4b9d94f34a07": "2026-09-01"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Scientists have found that regularly looking at 'green spaces', even through a window, can significantly reduce feelings of stress.",
-   "There's a growing appreciation for the 'art of letter writing' as a mindful and personal way to connect with others.",
-   "New research highlights the benefits of 'short bursts of movement' throughout the day, even just a few minutes every hour.",
-   "The surprising joy of 'rediscovering old hobbies' is bringing a wave of nostalgia and satisfaction to many.",
-   "Experts are suggesting that embracing 'seasonal eating' can lead to a more varied and flavourful diet.",
-   "A recent study suggests that wearing bright colours can genuinely boost your mood and even make others perceive you as more approachable.",
-   "The delightful trend of 'vintage picnic baskets' is making a comeback, with people rediscovering the charm of traditional outdoor dining.",
    "Scientists have discovered that the simple act of 'listening to birdsong' can significantly reduce feelings of anxiety and stress.",
    "There's a lovely movement for 'community recipe swaps' where neighbours share their favourite family dishes and baking secrets.",
    "New research indicates that having 'indoor plants with broad leaves' can improve air quality and even aid concentration.",
@@ -2325,11 +2331,16 @@
    "Research indicates that spending time near a 'blue space', like a river or a lake, can significantly improve mood and well-being.",
    "A growing number of individuals are finding satisfaction in 'mending clothes' rather than buying new ones.",
    "The unexpected pleasure of 'foraging for wild berries and mushrooms' is becoming a popular outdoor activity.",
-   "Home bakers are experimenting with 'ancient grain recipes', bringing a touch of history to their kitchens."
+   "Home bakers are experimenting with 'ancient grain recipes', bringing a touch of history to their kitchens.",
+   "Green-fingered enthusiasts are discovering the joy of 'micro-gardening' in tiny spaces.",
+   "The humble 'picnic blanket' is seeing a resurgence as families embrace outdoor dining.",
+   "More people are learning the traditional craft of 'jam making' from seasonal fruits.",
+   "A new study suggests that 'looking at maps' can be a calming and meditative activity.",
+   "The trend for 'repurposing old furniture' is growing, giving beloved items a new lease of life.",
+   "Community 'seed swap' events are blossoming, encouraging local biodiversity.",
+   "There's a renewed appreciation for the 'local market stall' and independent sellers."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're peeling vegetables, even if we know it's not strictly necessary?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of pizza. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new pair of shoes will be comfortable for a whole day?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh cup of tea from a brand new box of teabags. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new piece of technology is working correctly, even if it's just a light switch?",
@@ -2367,11 +2378,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of coffee will be good, without actually tasting it first?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a good book, especially if it's a new one. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new book will be good, without actually reading more than the first paragraph?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of cake, especially if it's homemade. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of cake, especially if it's homemade. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, without actually opening the packet yet?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of freshly brewed tea, especially if it's a new blend. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'smell in a garden' just instantly brings back a flood of memories from your childhood, or a lovely summer's day?",
-   "We all have those 'little everyday objects' that we couldn't do without, even if they seem insignificant to others, don't we?",
    "You know how sometimes a particular 'smell from a kitchen' just instantly transports you back to a specific memory or a lovely moment in time?",
    "We all have those 'little everyday objects' that we couldn't do without, even if they seem insignificant to others, don't we?",
    "You know how sometimes a 'particular sound' just instantly brings you a sense of calm, or reminds you of a really happy, peaceful moment?",
@@ -2409,17 +2420,11 @@
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'unusual little things' we collect or keep hold of, not for their monetary value, but purely for sentimental reasons, don't we?",
    "You know how sometimes you discover a 'quirky local tradition' or a fun community event that's been going on for years, and it just makes you smile?",
-   "We all have those 'little rituals' or comforting routines we do at home to wind down at the end of a busy day, don't we?"
+   "We all have those 'little rituals' or comforting routines we do at home to wind down at the end of a busy day, don't we?",
+   "You know how sometimes you discover a 'hidden gem' of a local shop or a tiny café that you just can't believe you've never noticed before?",
+   "We all have those 'everyday sounds' that just make us feel instantly at home or bring a smile to our face, don't we?"
   ],
   "facts": [
-   "The world's largest grand piano is over 5 metres long and was built by a New Zealander.",
-   "Bumblebees can fly higher than Mount Everest.",
-   "The shortest war in history lasted only 38 to 45 minutes between Britain and Zanzibar in 1896.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "A cloud can weigh over a million pounds.",
-   "The King of Hearts is the only king in a deck of cards without a moustache.",
-   "Butterflies taste with their feet.",
-   "The first successful photograph of a human was taken in 1838, but the person was getting their shoes shined, so they had to stand still for a long exposure.",
    "The world's largest hot air balloon festival takes place every October in Albuquerque, New Mexico.",
    "The longest river in the United Kingdom is the River Severn, flowing 220 miles through Wales and England.",
    "It is illegal to sing in public in some parts of Canada on a Sunday.",
@@ -2451,7 +2456,15 @@
    "The first recorded game of golf was played in Scotland in the 15th century.",
    "Sea otters hold hands when they sleep so they don't drift away from each other.",
    "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
-   "A 'murder' is the collective noun for a group of crows."
+   "A 'murder' is the collective noun for a group of crows.",
+   "The world's first public art gallery was established in Basel, Switzerland, in 1661.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "A 'quaternity' is the collective noun for a group of badgers.",
+   "The inventor of the Pringle's can is buried in one, as per his request.",
+   "The shortest complete sentence in the English language is 'I am'.",
+   "Bubble wrap was originally intended to be used as three-dimensional wallpaper.",
+   "There are more public libraries in the UK than there are McDonald's restaurants.",
+   "The 'ding' sound you hear when your computer starts up was originally composed by Brian Eno."
   ]
  }
 }
