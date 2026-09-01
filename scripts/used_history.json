@@ -995,7 +995,12 @@
   "30277ca8645be5f8": "2026-09-02",
   "7c5cadde2be00022": "2026-09-02",
   "8eb311c2b354d2fb": "2026-09-02",
-  "8888997d4f197a43": "2026-09-02"
+  "8888997d4f197a43": "2026-09-02",
+  "7fd1ffd9408c5f47": "2026-09-02",
+  "f30fd1c33a3bcec7": "2026-09-02",
+  "e5499fb2971b6b4b": "2026-09-02",
+  "86a4002983534689": "2026-09-02",
+  "d7fca940392f264b": "2026-09-02"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1440,7 +1445,7 @@
   "49f44d74b2e2fb69": "2026-08-31",
   "2e90dfc2cdfa2eb0": "2026-08-31",
   "de92599c34359855": "2026-08-31",
-  "4615f246a9e4a517": "2026-09-01",
+  "4615f246a9e4a517": "2026-09-02",
   "fee7c02bb83789d3": "2026-09-01",
   "3c7293316c449e0b": "2026-09-01",
   "ad7deffd15dc71e9": "2026-09-02",
@@ -2320,17 +2325,15 @@
   "2652a25a0c403221": "2026-09-02",
   "701782c9f8c84579": "2026-09-02",
   "1b5632342d96a97b": "2026-09-02",
-  "92b65be34026d608": "2026-09-02"
+  "92b65be34026d608": "2026-09-02",
+  "ccc7717fe525a658": "2026-09-02",
+  "5c53eaf0601c7fab": "2026-09-02",
+  "dc34fd75ce06469b": "2026-09-02",
+  "217ed64a0bcab797": "2026-09-02",
+  "ff93725849e25db2": "2026-09-02"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Researchers suggest that regularly 'doodling during meetings' can actually boost memory and concentration, rather than hinder it.",
-   "The simple pleasure of 'baking bread from scratch' is experiencing a surge in popularity as a mindful and rewarding hobby.",
-   "Scientists have found that 'listening to the sound of rainfall' can significantly reduce stress and improve sleep quality.",
-   "There's a delightful movement to 'rekindle the art of writing postcards' when on holiday, rather than just snapping photos.",
-   "More people are embracing 'upcycling old furniture' to give it a new lease of life, rather than buying new.",
-   "A new trend sees people transforming garden sheds into 'reading nooks' and 'hobby hubs', creating a delightful escape at home.",
-   "The delightful art of 'picnic planning' is having a resurgence, with people rediscovering the simple joy of al fresco dining.",
    "More people are embracing 'mindful walking' in local parks, focusing on the sights and sounds around them to boost well-being.",
    "The charming tradition of 'leaving painted rocks' in public places for others to find and re-hide is bringing unexpected joy to communities.",
    "A growing number of individuals are finding calm by 'learning to identify different bird songs' in their gardens and local areas.",
@@ -2363,11 +2366,16 @@
    "The joy of 'writing a physical letter' to a friend or family member is seeing a charming resurgence.",
    "Scientists have found that looking at the colour green can literally make you feel more optimistic.",
    "The trend for 'upcycling old denim' into new accessories like bags or home decor is gaining stylish momentum.",
-   "A recent study suggests that 'humming a tune' can be a surprisingly effective way to calm nerves and improve breathing."
+   "A recent study suggests that 'humming a tune' can be a surprisingly effective way to calm nerves and improve breathing.",
+   "A new study suggests that wearing socks to bed might actually help you drift off faster.",
+   "The humble act of 'pottering' in the garden is being hailed as a fantastic stress-reliever and mood booster.",
+   "Families are increasingly turning to 'board game nights' as a way to reconnect and switch off from screens.",
+   "The enduring appeal of 'vintage vinyl records' continues to spin, with record shops reporting a surge in interest.",
+   "A surprising benefit of 'daydreaming' has been identified: it can actually boost your problem-solving skills.",
+   "More people are finding joy in the simple art of 'letter writing', not just for special occasions, but for everyday chats.",
+   "The satisfying crunch of 'crispy autumn leaves' underfoot is surprisingly uplifting for many."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a kettle has truly boiled, without actually looking inside?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh glass of water from the tap. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a kettle has truly boiled, without actually looking inside? What is it?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh glass of water from the tap. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a meal is ready, even if we know it's probably not the most accurate method?",
@@ -2405,11 +2413,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot bowl of soup, especially if it's a new recipe. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of freshly brewed coffee, especially if it's a new blend. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of freshly brewed coffee, especially if it's a new blend. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a good cup of tea, especially if it's a new blend. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular type of weather' just makes you feel incredibly happy or reflective?",
-   "We all have those 'little everyday sounds' that bring us a surprising amount of comfort or joy, don't we?",
    "You know how sometimes a 'particular type of weather' just makes you feel incredibly happy or reflective?",
    "We all have those 'little everyday sounds' that bring us a surprising amount of comfort or joy, don't we?",
    "You know how sometimes you stumble upon a 'hidden gem' in your local area – a lovely little shop, a cafe, or a beautiful park that you wish more people knew about?",
@@ -2447,17 +2455,11 @@
    "You know how sometimes a 'particular colour' can just make you feel instantly happy or calm?",
    "We all have those 'little everyday sounds' that just make us feel instantly at home or bring a smile to our face, don't we?",
    "You know how sometimes a 'particular place' just has a really unique or special atmosphere that you absolutely love?",
-   "We all have those 'little everyday pleasures' that might seem insignificant to others, but bring us immense joy, don't we?"
+   "We all have those 'little everyday pleasures' that might seem insignificant to others, but bring us immense joy, don't we?",
+   "You know how sometimes a particular 'everyday object' in your home just seems to have its own little personality or a funny story attached to it?",
+   "We all have those 'little acts of kindness' that we've either received or given, that really stuck with us, even if they seemed small at the time, don't we?"
   ],
   "facts": [
-   "Big Ben is actually the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, not the clock tower itself.",
-   "The longest recorded flight of a chicken is 13 seconds.",
-   "The first ever recorded 'snail race' took place in England in the 1960s.",
-   "The inventor of the traffic light, Garrett Morgan, also invented the gas mask.",
-   "Oxford University is older than the Aztec Empire.",
-   "There are more permutations of a deck of 52 cards than there are atoms on Earth.",
-   "The 'richest' bird's nest ever found was made entirely of paper money.",
-   "Cats can make over 100 different sounds, while dogs can only make about 10.",
    "The world's first ever postage stamp, the 'Penny Black', was issued in the UK in 1840.",
    "A 'fluffle' is the charming collective noun for a group of rabbits.",
    "The Great Fire of London in 1666 actually helped to eradicate the Black Death in the city.",
@@ -2489,7 +2491,15 @@
    "Penguins are the only birds that can't fly but can swim.",
    "The highest mountain in the British Isles, Ben Nevis, receives an average of 261 days of rain a year.",
    "Before erasers, people used stale bread to rub out pencil marks.",
-   "The 'king' of a chess set can only move one square at a time in any direction."
+   "The 'king' of a chess set can only move one square at a time in any direction.",
+   "The world's largest officially recorded hailstones fell in Vivian, South Dakota, in 2010, measuring 8 inches in diameter.",
+   "The 'king' in a deck of playing cards is the only one without a moustache.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
+   "Wombat poo is cube-shaped, which helps it from rolling away when they mark their territory.",
+   "The shortest complete sentence in the English language is 'I am'."
   ]
  }
 }
