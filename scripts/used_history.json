@@ -1015,7 +1015,12 @@
   "cdda7cabead7aa04": "2026-09-04",
   "b82956e91f6cfbd4": "2026-09-04",
   "35d11c7c02c96909": "2026-09-04",
-  "2858e76b0ebc007e": "2026-09-04"
+  "2858e76b0ebc007e": "2026-09-04",
+  "e9bef678b627903c": "2026-09-04",
+  "89ef2816c33fbe30": "2026-09-04",
+  "450a22066743cd65": "2026-09-04",
+  "5fd3d1ff87617b9e": "2026-09-04",
+  "98ea265b67af277d": "2026-09-04"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1475,7 +1480,10 @@
   "5a5172e461aba151": "2026-09-04",
   "341e9c4ca3f9a929": "2026-09-04",
   "f9062d4a7860d0c8": "2026-09-04",
-  "79620e4e1c8513c2": "2026-09-04"
+  "79620e4e1c8513c2": "2026-09-04",
+  "14616e65da30184e": "2026-09-04",
+  "8f15639df82effb1": "2026-09-04",
+  "8e7e0e344727b2d7": "2026-09-04"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2368,17 +2376,15 @@
   "291e424650222dc0": "2026-09-04",
   "c0255f1fdd2ed0bb": "2026-09-04",
   "961a9b22568ea53e": "2026-09-04",
-  "0ed9c80183d5e703": "2026-09-04"
+  "0ed9c80183d5e703": "2026-09-04",
+  "5229b7b9ceb62167": "2026-09-04",
+  "622849f6e8170b37": "2026-09-04",
+  "83e7786f7271aba9": "2026-09-04",
+  "beebc77f80138d6b": "2026-09-04",
+  "f68032004cfda60e": "2026-09-04"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The simple pleasure of 'baking your own bread' from scratch is experiencing a significant rise in popularity.",
-   "More individuals are discovering the calming effects of 'birdwatching' from their own gardens.",
-   "A growing number of people are taking up 'knitting or crochet' as a mindful and creative pastime.",
-   "The delightful tradition of 'writing and sending postcards' while on holiday is making a comeback.",
-   "Studies indicate that spending time in a 'forest or woodland' can significantly reduce stress levels.",
-   "A new study reveals that listening to the sound of rainfall can significantly improve concentration and reduce stress.",
-   "The humble act of 'doodling' during meetings or phone calls is being hailed as a creativity booster.",
    "More people are embracing the soothing hobby of 'collecting interesting pebbles and stones' from beaches and rivers.",
    "The joy of 'writing a physical letter' to a friend or family member is seeing a charming resurgence.",
    "Scientists have found that looking at the colour green can literally make you feel more optimistic.",
@@ -2411,11 +2417,16 @@
    "A surge in popularity for 'homemade bread making' continues to rise across the UK.",
    "The simple pleasure of 'writing and sending postcards' is experiencing a charming revival.",
    "Botanical art, the intricate painting of plants and flowers, is gaining new enthusiasts.",
-   "The trend of 'repurposing vintage textiles' into new fashion items is capturing the imagination of designers and hobbyists."
+   "The trend of 'repurposing vintage textiles' into new fashion items is capturing the imagination of designers and hobbyists.",
+   "A new study suggests that the simple act of 'doodling during meetings' could actually boost memory and concentration.",
+   "The enduring appeal of 'traditional British seaside holidays' is seeing a charming resurgence, with bookings up for coastal towns.",
+   "The trend for 'upcycling old furniture' is booming, as more people get creative with heirlooms and charity shop finds.",
+   "Gardening enthusiasts are increasingly embracing 'companion planting' to create thriving, natural ecosystems in their backyards.",
+   "A delightful new movement encourages 'leaving uplifting notes in public places' to spread small moments of joy.",
+   "Interest in 'foraging for wild edibles' is growing across the UK, with guided walks becoming ever more popular.",
+   "More people are finding 'solace in stargazing', with dark sky discovery sites reporting increased visitor numbers."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new piece of clothing will be comfortable for a whole day?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, fresh slice of toast from a new loaf of bread. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new book will be interesting, without reading the blurb properly?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot bubble bath. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new pair of shoes will be comfortable for a whole day, without actually walking around much?",
@@ -2453,11 +2464,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of chocolate will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot piece of toast, especially if it's got a new topping. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of ice cream will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bubble bath. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bubble bath. What is it?",
+   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new scent of bath oil. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'song on the radio' just perfectly matches your mood, even if you hadn't heard it in ages?",
-   "We all have those 'little everyday inventions' that we absolutely couldn't do without, even if they seem minor to others, don't we?",
    "You know how sometimes a certain 'smell' can instantly transport you back to a specific memory or a moment from your past?",
    "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?",
    "You know how sometimes a certain 'smell' can instantly transport you back to a specific memory or a moment from your past?",
@@ -2495,17 +2506,11 @@
    "We all have that 'one item in our home' that we've had forever, perhaps it was a gift, or something we picked up years ago, and it just holds so many memories.",
    "You know how sometimes a 'particular smell' can just transport you back to a specific moment or place in your childhood?",
    "You know how sometimes you spot a 'really unusual or charming garden ornament' in someone's front garden, and it just makes you smile?",
-   "We all have those 'little rituals' we do on a Friday evening, don't we, that signal the start of the weekend?"
+   "We all have those 'little rituals' we do on a Friday evening, don't we, that signal the start of the weekend?",
+   "You know how sometimes a 'particular place or landmark' in your local area just holds so many memories or has a really unique story attached to it?",
+   "We all have those 'little everyday sounds' that just make us feel instantly happy or bring a smile to our face, don't we?"
   ],
   "facts": [
-   "Honey never spoils, meaning a pot of honey found in an ancient Egyptian tomb is still perfectly edible.",
-   "The inventor of the frisbee was cremated and his ashes were moulded into frisbees after his death.",
-   "The shortest war in history lasted only 38 to 45 minutes, fought between Britain and Zanzibar in 1896.",
-   "Butterflies have about 12,000 eyes, though each one is very small.",
-   "Penguins are the only birds that can't fly but can swim.",
-   "The highest mountain in the British Isles, Ben Nevis, receives an average of 261 days of rain a year.",
-   "Before erasers, people used stale bread to rub out pencil marks.",
-   "The 'king' of a chess set can only move one square at a time in any direction.",
    "The world's largest officially recorded hailstones fell in Vivian, South Dakota, in 2010, measuring 8 inches in diameter.",
    "The 'king' in a deck of playing cards is the only one without a moustache.",
    "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
@@ -2537,7 +2542,15 @@
    "The 'smiley face' emoji was invented in 1982 by Scott Fahlman.",
    "The average person walks the equivalent of three times around the world in their lifetime.",
    "Carrots were originally purple before they were selectively bred to be orange.",
-   "The Queen of England owned all the unmarked swans in open waters across the country."
+   "The Queen of England owned all the unmarked swans in open waters across the country.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
+   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
+   "The Eiffel Tower can be 15 cm taller during the summer due to the thermal expansion of the iron.",
+   "Oxford University is older than the Aztec Empire.",
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
+   "The only letter that doesn't appear in the name of any U.S. state is the letter 'Q'.",
+   "Bubble wrap was originally intended to be used as wallpaper.",
+   "The human nose can remember 50,000 different scents."
   ]
  }
 }
