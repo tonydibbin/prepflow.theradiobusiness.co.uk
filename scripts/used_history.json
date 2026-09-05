@@ -1035,7 +1035,12 @@
   "dcd925c9a27f8aa1": "2026-09-06",
   "88270e5c2405e208": "2026-09-06",
   "1fb16c878a0cfd64": "2026-09-06",
-  "53c8800b55122c79": "2026-09-06"
+  "53c8800b55122c79": "2026-09-06",
+  "d11f9568d52d24e0": "2026-09-06",
+  "f5b323ebfbaa3dab": "2026-09-06",
+  "5f5ea85395530dfd": "2026-09-06",
+  "466f7cf78e5a3874": "2026-09-06",
+  "00b943013924e139": "2026-09-06"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2421,17 +2426,15 @@
   "b81f1d66ea67d8a0": "2026-09-06",
   "c7e86e6a1369c24e": "2026-09-06",
   "0d82e55982b1890e": "2026-09-06",
-  "7ede2841fad9a72e": "2026-09-06"
+  "7ede2841fad9a72e": "2026-09-06",
+  "875008e025d85634": "2026-09-06",
+  "b9341d4a173e9fb6": "2026-09-06",
+  "947cb2b8d3266763": "2026-09-06",
+  "eae4a15e88d2aab6": "2026-09-06",
+  "a9a88d5f0d9cfd8a": "2026-09-06"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The trend of 'community book swaps' is flourishing, encouraging neighbours to share their favourite reads.",
-   "More Britons are embracing the simple pleasure of 'picnicking outdoors', rain or shine, as a delightful way to enjoy nature.",
-   "The comforting craft of 'knitting and crocheting' is seeing a resurgence among younger generations.",
-   "A new appreciation for 'local history tours' is emerging, with many exploring the hidden stories of their own towns.",
-   "The simple act of 'waving to neighbours' is being championed as a way to boost community spirit and well-being.",
-   "A new trend sees people embracing 'mindful walking' as a way to connect with nature and de-stress.",
-   "The joy of 'retro board games' is making a grand comeback in living rooms across the nation.",
    "Local communities are finding creative ways to 'decorate public spaces' with vibrant, uplifting art.",
    "A surge in popularity for 'homemade bread making' continues to rise across the UK.",
    "The simple pleasure of 'writing and sending postcards' is experiencing a charming revival.",
@@ -2464,11 +2467,16 @@
    "Many are discovering the joy of 'upcycling old furniture' to create unique home decor.",
    "The trend of 'seed saving' is taking root among gardeners across the country.",
    "A new appreciation for 'star gazing' is encouraging people to look up more often.",
-   "The 'humble biscuit' is experiencing a gourmet makeover, with artisanal bakeries offering sophisticated flavours."
+   "The 'humble biscuit' is experiencing a gourmet makeover, with artisanal bakeries offering sophisticated flavours.",
+   "Gardeners are finding joy in cultivating 'microgreens' on their windowsills.",
+   "A delightful new trend sees people creating 'bespoke playlists' for their pets.",
+   "The humble 'charity shop' is becoming a treasure trove for unique home decor.",
+   "A fascinating study suggests that 'reading aloud' to yourself can boost memory.",
+   "Many people are rediscovering the simple pleasure of 'writing postcards' whilst on holiday.",
+   "The art of 'pressed flower crafts' is seeing a beautiful revival.",
+   "More people are embracing the joy of 'slow walking' to enhance well-being."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea or coffee, especially when it's a new mug. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, fresh brew from a new tea bag brand. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
@@ -2506,11 +2514,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of shampoo will be good, without actually opening the bottle and smelling it first?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bath bomb. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of coffee will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea, especially if it's a new blend. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea, especially if it's a new blend. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of toast, especially if it's got a new topping. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
-   "We all have those 'little everyday moments of satisfaction' that just make us feel quietly pleased, don't we?",
    "You know how sometimes a particular 'everyday sound' can be surprisingly comforting or even nostalgic, even if it's not music?",
    "We all have those 'unusual little things' we collect or keep hold of, not for their value, but purely for sentimental reasons, don't we?",
    "You know how sometimes you spot someone doing something really clever with an everyday object, making it serve a completely different purpose?",
@@ -2548,17 +2556,11 @@
    "You know how sometimes a particular 'everyday sound' can just make you feel instantly happy or bring a smile to your face, even if it's something really ordinary?",
    "We all have that 'one household chore' that we secretly, or not so secretly, find quite satisfying to do, don't we, even if it's a bit mundane?",
    "You know how sometimes a 'particular aroma' can just make you feel instantly nostalgic or incredibly comforted?",
-   "We all have those 'little everyday sounds' that just make us feel instantly happy or bring a smile to our face, don't we?"
+   "We all have those 'little everyday sounds' that just make us feel instantly happy or bring a smile to our face, don't we?",
+   "You know how sometimes a particular 'everyday object' in your home just seems to have a personality of its own, almost like a little character?",
+   "We all have those 'little personal traditions' we do on a Sunday, don't we, that just make the day feel right?"
   ],
   "facts": [
-   "The world's smallest commercially produced car was the Peel P50, a three-wheeled microcar.",
-   "Honey never spoils; archaeologists have even found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "A group of owls is called a 'parliament'.",
-   "The 'smiley face' emoji was invented in 1982 by Scott Fahlman.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
-   "Carrots were originally purple before they were selectively bred to be orange.",
-   "The Queen of England owned all the unmarked swans in open waters across the country.",
    "The Great Barrier Reef is the largest living structure on Earth, visible from outer space.",
    "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
    "The Eiffel Tower can be 15 cm taller during the summer due to the thermal expansion of the iron.",
@@ -2590,7 +2592,15 @@
    "The world's largest mushroom forest is actually underground in Oregon, spanning 2,200 acres.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
    "The 'king penguin' is the second largest species of penguin and can dive to depths of over 300 metres.",
-   "The average cloud weighs about 550 tons, roughly the same as 100 elephants."
+   "The average cloud weighs about 550 tons, roughly the same as 100 elephants.",
+   "The 'Great Fire of London' in 1666 actually started in a bakery on Pudding Lane.",
+   "A 'flock of crows' is commonly referred to as a murder.",
+   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
+   "The 'Post Office' in the UK was established in 1660 by King Charles II.",
+   "Did you know that a baby rabbit is called a kit?",
+   "The national flower of England is the rose.",
+   "The world's first public railway, the Stockton and Darlington Railway, opened in the North East of England in 1825.",
+   "Giraffes have the same number of neck vertebrae as humans, which is seven."
   ]
  }
 }
