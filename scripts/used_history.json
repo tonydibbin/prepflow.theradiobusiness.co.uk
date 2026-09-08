@@ -1060,7 +1060,12 @@
   "1e1e80bbcef4eb6c": "2026-09-08",
   "0ea35ed8416f4a07": "2026-09-08",
   "93510e1331c07fcd": "2026-09-08",
-  "a4bb6931795709cf": "2026-09-08"
+  "a4bb6931795709cf": "2026-09-08",
+  "442063bec0d0da93": "2026-09-09",
+  "2d3d7246f957f688": "2026-09-09",
+  "9353496f988f986d": "2026-09-09",
+  "eb7cb34f69d31267": "2026-09-09",
+  "1afedf0da9e57efc": "2026-09-09"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1441,7 +1446,7 @@
   "bf1e0e2412c927e0": "2026-08-21",
   "a62bc082f4fd8675": "2026-08-23",
   "d406d8cec2e44042": "2026-08-22",
-  "e2270189e6f7434b": "2026-08-23",
+  "e2270189e6f7434b": "2026-09-09",
   "d1155067210e5e19": "2026-08-23",
   "f880663f75ae1a07": "2026-08-23",
   "b1f4e0a2a31507db": "2026-08-23",
@@ -1542,7 +1547,10 @@
   "b1727f81277718dc": "2026-09-07",
   "718a8692cfc91f0e": "2026-09-07",
   "22ea5153cdfef11e": "2026-09-07",
-  "c66c82be027e6888": "2026-09-08"
+  "c66c82be027e6888": "2026-09-09",
+  "c7147770380861d3": "2026-09-09",
+  "7d65707e0c31bfde": "2026-09-09",
+  "fcc1fe3c3a2e7c0b": "2026-09-09"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2480,17 +2488,15 @@
   "7b72fe209e6e4d31": "2026-09-08",
   "15dd65959d4978e8": "2026-09-08",
   "5e506ea7c2d804c2": "2026-09-08",
-  "5d1db92031854ebf": "2026-09-08"
+  "5d1db92031854ebf": "2026-09-08",
+  "c10fd9fd48d8bad2": "2026-09-09",
+  "88a2cdf962912064": "2026-09-09",
+  "ff2c837fc65cb1df": "2026-09-09",
+  "5ee2c7b9aef20a03": "2026-09-09",
+  "df3885d47b033769": "2026-09-09"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A surge in popularity for 'board game cafes' is transforming social gatherings.",
-   "Many are discovering the joy of 'upcycling old furniture' to create unique home decor.",
-   "The trend of 'seed saving' is taking root among gardeners across the country.",
-   "A new appreciation for 'star gazing' is encouraging people to look up more often.",
-   "The 'humble biscuit' is experiencing a gourmet makeover, with artisanal bakeries offering sophisticated flavours.",
-   "Gardeners are finding joy in cultivating 'microgreens' on their windowsills.",
-   "A delightful new trend sees people creating 'bespoke playlists' for their pets.",
    "The humble 'charity shop' is becoming a treasure trove for unique home decor.",
    "A fascinating study suggests that 'reading aloud' to yourself can boost memory.",
    "Many people are rediscovering the simple pleasure of 'writing postcards' whilst on holiday.",
@@ -2523,11 +2529,16 @@
    "More people are embracing the simple pleasure of 'writing letters' to loved ones.",
    "The humble 'teatowel' is having a surprising moment in home decor.",
    "A fascinating report highlights the growing popularity of 'community garden projects' across the UK.",
-   "A new wave of 'board game cafes' is popping up, offering a cosy space for socialising."
+   "A new wave of 'board game cafes' is popping up, offering a cosy space for socialising.",
+   "A new trend sees people transforming ordinary garden sheds into cosy 'reading nooks' or 'crafting havens'.",
+   "The humble 'packed lunch' is having a gourmet moment, with more people elevating their midday meals.",
+   "A quirky study suggests that listening to 'the sound of distant church bells' can reduce stress levels.",
+   "The delightful hobby of 'collecting unique pebbles and stones' from beach walks is seeing a charming resurgence.",
+   "A fascinating report highlights the growing popularity of 'miniature railway gardens' in private homes.",
+   "More people are discovering the joy of 'upcycling old suitcases' into stylish furniture or pet beds.",
+   "The charming tradition of 'leaving anonymous notes of kindness' in public places is spreading smiles."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of tea bags will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of toast with their favourite topping, especially if it's a new loaf. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, fresh slice of toast, especially if it's a new loaf. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of coffee will be good, without actually tasting it first?",
@@ -2565,11 +2576,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot drink, especially if it's a new mug. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bath bomb. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bath bomb. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of jam will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of cake, especially if it's a new recipe. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'everyday object' just feels completely indispensable, even if it's something really small or seemingly insignificant?",
-   "We all have those 'little personal rules' we live by, don't we? Things we always do, or never do, often without really thinking about it.",
    "You know how sometimes a particular 'everyday sound' can be surprisingly comforting or even nostalgic, even if it's not music?",
    "We all have those 'little everyday inventions' that we think are absolutely genius, even if they're just things we've cobbled together at home, don't we?",
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific memory or a moment from your past?",
@@ -2607,17 +2618,11 @@
    "You know how sometimes a particular 'smell' can instantly transport you back to a specific childhood memory or a happy time?",
    "We all have that 'one household item' that we've had for ages, which might not be fancy, but it just brings you joy or makes your daily routine a little bit easier, don't we?",
    "You know how sometimes a particular 'everyday sound' can just make you feel instantly happy or bring a smile to your face, even if it's something really ordinary?",
-   "We all have that 'one household chore' that we secretly, or not so secretly, find quite satisfying to do, don't we, even if it's a bit mundane?"
+   "We all have that 'one household chore' that we secretly, or not so secretly, find quite satisfying to do, don't we, even if it's a bit mundane?",
+   "You know how sometimes a particular 'shop or small business' just has a really unique and comforting smell?",
+   "We all have those 'little rituals' we do on a weekday morning that just make the day feel like it's started right, don't we?"
   ],
   "facts": [
-   "The 'Great Fire of London' in 1666 actually started in a bakery on Pudding Lane.",
-   "A 'flock of crows' is commonly referred to as a murder.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
-   "The 'Post Office' in the UK was established in 1660 by King Charles II.",
-   "Did you know that a baby rabbit is called a kit?",
-   "The national flower of England is the rose.",
-   "The world's first public railway, the Stockton and Darlington Railway, opened in the North East of England in 1825.",
-   "Giraffes have the same number of neck vertebrae as humans, which is seven.",
    "The world's first successful photograph was taken by Nicéphore Niépce in 1826 or 1827.",
    "A group of owls is called a parliament.",
    "The 'cat's purr' has been shown to have healing properties, helping to lower blood pressure and reduce stress.",
@@ -2649,7 +2654,15 @@
    "The 'smiley face' emoticon was invented in 1982 by computer scientist Scott Fahlman.",
    "There are more permutations of a standard deck of 52 playing cards than there are atoms on Earth.",
    "The original name for 'butterfly' was 'flutterby'.",
-   "Oxford University is older than the Aztec Empire."
+   "Oxford University is older than the Aztec Empire.",
+   "The world's first public park was Birkenhead Park in Merseyside, opened in 1847.",
+   "The 'tear' in your eye that makes it water when you're crying is actually called a lachrymal punctum.",
+   "Bumblebees can fly higher than Mount Everest.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "There are more permutations of a standard Rubik's Cube than there are seconds in 4 billion years.",
+   "The Great Fire of London in 1666 actually helped to eradicate the Black Death in the city.",
+   "A standard golf ball has 336 dimples.",
+   "The sound of crickets chirping can be used to estimate the air temperature."
   ]
  }
 }
