@@ -1142,7 +1142,12 @@
   "a0f5537981cf499b": "2026-09-16",
   "84e8881981ec9831": "2026-09-16",
   "78ea76aae78fe9e0": "2026-09-16",
-  "59afcab830d0667b": "2026-09-16"
+  "59afcab830d0667b": "2026-09-16",
+  "d7f1567adcc38650": "2026-09-17",
+  "fd1be395f7f54ab3": "2026-09-17",
+  "14c3e14e830d7542": "2026-09-17",
+  "9bbb95354842f929": "2026-09-17",
+  "efc96a6f940b4065": "2026-09-17"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1559,7 +1564,7 @@
   "f84ce441e72c0908": "2026-08-27",
   "916205d016ec9d2c": "2026-08-27",
   "2ba6062eaba3f432": "2026-08-27",
-  "3349627242f6823e": "2026-08-31",
+  "3349627242f6823e": "2026-09-17",
   "e191e65e5a4a446c": "2026-08-29",
   "0496143a9decd749": "2026-08-29",
   "fbeaf6122291ae68": "2026-08-29",
@@ -1581,7 +1586,7 @@
   "9efd79d8b93ecbba": "2026-08-30",
   "9f9cd0b8a73192ed": "2026-08-30",
   "f670ef117740d1a2": "2026-08-30",
-  "3608c0a677ba7488": "2026-08-31",
+  "3608c0a677ba7488": "2026-09-17",
   "64d722dc967e4d26": "2026-08-31",
   "68f8a57aebe3c366": "2026-08-31",
   "49f44d74b2e2fb69": "2026-08-31",
@@ -1666,7 +1671,10 @@
   "936a83f46f90e421": "2026-09-16",
   "2ee6a9b0c616145d": "2026-09-16",
   "3d116a3234064ec3": "2026-09-16",
-  "f0803dc244d8737e": "2026-09-16"
+  "f0803dc244d8737e": "2026-09-16",
+  "ba9582ecbec38f81": "2026-09-17",
+  "f2ac3e4f141ff48b": "2026-09-17",
+  "50efeb034e885a73": "2026-09-17"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2684,17 +2692,15 @@
   "8dd9fc39e7b1b4c1": "2026-09-16",
   "5875054abd72c330": "2026-09-16",
   "4c28ef6b6d5dfd8e": "2026-09-16",
-  "92c24b8477a8ce5f": "2026-09-16"
+  "92c24b8477a8ce5f": "2026-09-16",
+  "4f9efab0d6d0eb6f": "2026-09-17",
+  "9626e95bd7dc346a": "2026-09-17",
+  "2c88e46d620f9ec0": "2026-09-17",
+  "f1f582cbfc53dde3": "2026-09-17",
+  "5aed4b721e76625d": "2026-09-17"
  },
  "_ai_recent": {
   "newsbrief": [
-   "People are finding joy in the simple act of 'window shopping with no intention to buy'.",
-   "The art of 'competitive birdwatching' is soaring in popularity across the country.",
-   "A growing number of Britons are embracing the delightful habit of 'writing physical letters' to friends and family.",
-   "The charm of 'vintage board games' is captivating a new generation of players.",
-   "A new report celebrates the simple pleasure of 'observing cloud formations'.",
-   "A new study suggests that the sound of rain on a conservatory roof is officially one of the nation's favourite calming noises.",
-   "The surprising trend of 'friendly door-knocking' is bringing communities closer together in towns across the UK.",
    "Apparently, a 'perfectly brewed cup of tea' has become a key indicator of wellbeing for many Britons.",
    "The delightful art of 'identifying interesting cloud shapes' is making a comeback as a peaceful pastime.",
    "A new report highlights the growing popularity of 'local park picnics' as a cost-effective and charming way to socialise.",
@@ -2727,11 +2733,16 @@
    "The unexpected hobby of 'identifying cloud formations' is bringing joy to amateur meteorologists.",
    "Cafés across the country are introducing 'kindness coffee cups' with uplifting quotes printed inside.",
    "Gardeners are discovering the therapeutic benefits of 'talking to their plants', even if just for a few minutes a day.",
-   "The simple pleasure of 'watching the sunrise with a hot cup of tea' is becoming a favoured morning ritual."
+   "The simple pleasure of 'watching the sunrise with a hot cup of tea' is becoming a favoured morning ritual.",
+   "The simple pleasure of 'window watching' is making a big comeback, as more people are finding calm in observing the world outside.",
+   "A charming trend is emerging: 'library book swaps' in unexpected community spots.",
+   "The delightful art of 'identifying distant bird calls' is charming its way into gardens across the UK.",
+   "Families are rediscovering the joy of 'traditional board game nights' with a twist.",
+   "A new study suggests that the gentle sound of 'rain on a conservatory roof' is one of Britain's most cherished calming sounds.",
+   "The unexpected hobby of 'collecting interesting pebbles and stones' from local walks is gaining popularity.",
+   "Cafes and bakeries are introducing 'mystery pastry boxes' at the end of the day to reduce food waste."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of toast, especially if it's got a new topping. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of coffee, especially if it's a new blend. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
@@ -2769,11 +2780,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new television programme, especially if it's a big series launch. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of chocolate will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a big novel. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a big novel. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film, especially if it's a much-anticipated release. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'everyday object' in your home just seems to have a personality of its own, almost like a little character?",
-   "We all have those 'little personal traditions' we do on a Sunday, don't we, that just make the day feel right?",
    "You know how sometimes a 'particular type of weather' just instantly puts you in a good mood, or brings back a happy memory?",
    "We all have that 'one gadget or appliance' in our home that we absolutely couldn't do without, don't we?",
    "You know how sometimes a particular 'everyday object' in your home just seems to have a personality of its own, almost like a little character?",
@@ -2811,17 +2822,11 @@
    "You know how sometimes a particular 'everyday sound' from your home can just instantly make you feel relaxed and cosy, even if it's just the washing machine humming or the kettle boiling?",
    "We all have that 'one particular type of sweet or chocolate bar' that, no matter how old we get, can still instantly transport us back to our childhood or a happy memory, don't we?",
    "You know how sometimes a particular 'everyday household chore' just feels oddly satisfying to complete, almost therapeutic?",
-   "We all have that 'one particular type of biscuit' that, no matter what, is always the perfect companion to a hot cup of tea or coffee, don't we?"
+   "We all have that 'one particular type of biscuit' that, no matter what, is always the perfect companion to a hot cup of tea or coffee, don't we?",
+   "Do you remember when you first learned to ride a bicycle, or perhaps taught someone else?",
+   "We all have that 'one particular type of sandwich' that, no matter what, is always your go-to comfort food, perfect for any occasion, don't we?"
   ],
   "facts": [
-   "The tiny pocket on jeans was originally designed for pocket watches.",
-   "The Great Wall of China is not visible from space with the naked eye.",
-   "A group of owls is called a 'parliament'.",
-   "Bananas are technically berries, but strawberries are not.",
-   "The shortest war in history lasted only 38 to 45 minutes, between Britain and Zanzibar in 1896.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
-   "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
-   "Cows don't have upper front teeth; instead, they have a tough dental pad.",
    "A group of flamingos is called a 'flamboyance'.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
    "The world's smallest commercially available car is the Peel P50, a three-wheeled microcar made in the Isle of Man.",
@@ -2853,7 +2858,15 @@
    "The first ever recorded 'snail mail' literally involved sending a letter by attaching it to a snail in the 19th century.",
    "Wombat poo is cube-shaped, which stops it from rolling away when they mark their territory.",
    "The British Isles have more than 6,500 miles of coastline, which is longer than the entire coastline of Brazil.",
-   "The 'penny-farthing' bicycle was so named because the two wheels resembled a large penny and a small farthing coin."
+   "The 'penny-farthing' bicycle was so named because the two wheels resembled a large penny and a small farthing coin.",
+   "The world's first public aquarium opened in London's Regent's Park in 1853.",
+   "The inventor of the traffic light was Garrett Morgan, an African American inventor who patented it in 1923.",
+   "A 'jiffy' is an actual unit of time, equal to one hundredth of a second.",
+   "The smell of freshly cut grass is actually a plant distress call.",
+   "The highest mountain in the British Isles is Ben Nevis, located in Scotland.",
+   "Cows don't actually have upper front teeth; they have a dental pad instead.",
+   "The first mobile phone call in the UK was made in 1985.",
+   "The collective noun for a group of badgers is a 'cete'."
   ]
  }
 }
