@@ -1189,7 +1189,12 @@
   "3ce219da1ae8f479": "2026-09-20",
   "106a12870021598c": "2026-09-20",
   "b92ea3ba3fc73b6e": "2026-09-20",
-  "b8607c264c82b622": "2026-09-20"
+  "b8607c264c82b622": "2026-09-20",
+  "184e330bba0f0c84": "2026-09-21",
+  "3fd73cf33fc60fb7": "2026-09-21",
+  "5f4cce4ceacb9e99": "2026-09-21",
+  "854ac70a45bb09bd": "2026-09-21",
+  "8006f200d4feb16f": "2026-09-21"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1646,7 +1651,7 @@
   "38eff78be84b0857": "2026-09-03",
   "64bec0b5d0466a2b": "2026-09-03",
   "be3de7d8f0da8a38": "2026-09-03",
-  "5a5172e461aba151": "2026-09-04",
+  "5a5172e461aba151": "2026-09-21",
   "341e9c4ca3f9a929": "2026-09-04",
   "f9062d4a7860d0c8": "2026-09-04",
   "79620e4e1c8513c2": "2026-09-04",
@@ -1737,10 +1742,13 @@
   "9738b15e4df1d159": "2026-09-19",
   "039c13956e4e6cf2": "2026-09-19",
   "48e2fc25b31b895c": "2026-09-19",
-  "805e0125a668b253": "2026-09-20",
+  "805e0125a668b253": "2026-09-21",
   "2d80775e2df4339e": "2026-09-20",
   "b24ff4202500a017": "2026-09-20",
-  "b7820dc314aa5575": "2026-09-20"
+  "b7820dc314aa5575": "2026-09-20",
+  "b64b41b840d2de35": "2026-09-21",
+  "1fc646fad60b0906": "2026-09-21",
+  "1d64645ff97717b1": "2026-09-21"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2798,17 +2806,15 @@
   "cd2f8db3113512e3": "2026-09-20",
   "b53787165b57eb27": "2026-09-20",
   "fe0694059aab1dd1": "2026-09-20",
-  "d156dfd1f80681af": "2026-09-20"
+  "d156dfd1f80681af": "2026-09-20",
+  "7eabb71e6b8fee3b": "2026-09-21",
+  "06cc2f11523022b9": "2026-09-21",
+  "4c3e81becc4712ae": "2026-09-21",
+  "b65eb2e3ef37f6fd": "2026-09-21",
+  "43150a6855e01e86": "2026-09-21"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The delightful art of 'identifying distant bird calls' is charming its way into gardens across the UK.",
-   "Families are rediscovering the joy of 'traditional board game nights' with a twist.",
-   "A new study suggests that the gentle sound of 'rain on a conservatory roof' is one of Britain's most cherished calming sounds.",
-   "The unexpected hobby of 'collecting interesting pebbles and stones' from local walks is gaining popularity.",
-   "Cafes and bakeries are introducing 'mystery pastry boxes' at the end of the day to reduce food waste.",
-   "A heartwarming trend sees neighbours sharing excess garden produce on 'swap tables'.",
-   "The simple act of 'listening to the rain against a window pane' is being recognised as a top stress-buster.",
    "Amateur stargazers are finding a new passion in 'identifying constellations with just the naked eye'.",
    "Community 'storytelling benches' are popping up in parks, encouraging impromptu chats and shared tales.",
    "The joy of 'collecting vintage postcards' is making a charming comeback among enthusiasts.",
@@ -2841,11 +2847,16 @@
    "Research suggests that 'colouring books for adults' continue to be a popular stress-buster.",
    "Community gardens across the UK are reporting a delightful boom in 'herb swaps'.",
    "A recent study highlights the positive impact of 'sending postcards' on personal well-being.",
-   "The delightful pastime of 'collecting vintage maps' is growing in popularity."
+   "The delightful pastime of 'collecting vintage maps' is growing in popularity.",
+   "Gardeners across the UK are finding joy in 'miniature gardening', creating tiny landscapes in pots and containers.",
+   "The humble art of 'sketching daily moments' is being embraced by many as a mindful way to appreciate the everyday.",
+   "A new appreciation for 'vintage board games' is sweeping through households, offering a nostalgic and screen-free way to connect.",
+   "Research highlights the positive impact of 'sending handwritten letters' on both the sender and receiver's well-being.",
+   "The delightful pastime of 'foraging for wild berries' is experiencing a resurgence in popularity across the countryside.",
+   "A charming new study suggests that 'whistling a happy tune' can genuinely improve your mood and reduce stress.",
+   "British parks are reporting a rise in 'outdoor yoga sessions', as people seek fresh air for their stretches."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuit will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm piece of toast, especially if it's got a new topping. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm bath, especially if it's a new bath bomb. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
@@ -2883,11 +2894,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before enjoying a lovely, new cup of tea, especially if it's a special blend. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cheese will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new takeaway, especially if it's a special treat. What is it?"
+   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new takeaway, especially if it's a special treat. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a much-anticipated release. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'shop or small business' just has a really unique and comforting smell?",
-   "We all have those 'little rituals' we do on a weekday morning that just make the day feel like it's started right, don't we?",
    "You know how sometimes a 'particular type of biscuit' just instantly puts you in a good mood, or brings back a happy memory?",
    "We all have that 'one household item' that we've had for ages, which might not be fancy, but it just brings you joy or makes your daily routine a little bit easier, don't we?",
    "You know how sometimes a particular 'everyday sound' can just make you feel instantly happy or bring a smile to your face, even if it's something really ordinary?",
@@ -2925,17 +2936,11 @@
    "You know how sometimes a 'particular phrase or saying' that your grandparents or an older relative used to say just pops into your head, and it instantly makes you smile?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your kitchen or living room without because it's just so useful or brings you joy, don't we?",
    "You know how sometimes a particular 'childhood game' just pops into your head, and you can instantly remember all the rules and the pure fun of it?",
-   "We all have that 'one small, everyday household sound' that, despite its simplicity, just instantly brings a sense of calm or comfort to your day, don't we?"
+   "We all have that 'one small, everyday household sound' that, despite its simplicity, just instantly brings a sense of calm or comfort to your day, don't we?",
+   "We all have that 'one particular piece of clothing' that, no matter how old it gets or how many times it's been washed, you just can't bring yourself to part with because it holds so many happy memories, don't we?",
+   "You know how sometimes a 'particular type of weather' just instantly lifts your spirits, whether it's the crispness of an autumn day or the warmth of a summer breeze?"
   ],
   "facts": [
-   "A group of owls is called a 'parliament'.",
-   "The world's smallest chameleon, the Brookesia nana, can fit on a human fingertip.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-   "The British Isles are home to over 15 species of bats, all of which are protected by law.",
-   "The 'unicorn' is the national animal of Scotland.",
-   "Penguins can drink saltwater because they have a special gland that filters out the salt.",
-   "The first crossword puzzle was published in a newspaper in New York in 1913.",
-   "There are more than 1,000 different types of cheese in the world.",
    "The world's first public park, Birkenhead Park in Merseyside, inspired New York's Central Park.",
    "A group of ferrets is called a 'business'.",
    "The distinctive smell of rain, especially after a dry spell, is called petrichor.",
@@ -2967,7 +2972,15 @@
    "The 'king of fruits', the durian, is known for its incredibly strong odour but delicious taste.",
    "Bees can detect electric fields, which helps them find flowers.",
    "Mount Everest grows by approximately 4 millimetres every year due to tectonic plate movement.",
-   "The 'hitchhiker's guide to the galaxy' author Douglas Adams famously chose '42' as the answer to the ultimate question of life, the universe, and everything."
+   "The 'hitchhiker's guide to the galaxy' author Douglas Adams famously chose '42' as the answer to the ultimate question of life, the universe, and everything.",
+   "A group of owls is called a 'parliament'.",
+   "Bubble wrap was originally intended to be used as 3D wallpaper.",
+   "The shortest complete English sentence is 'I am'.",
+   "The world's largest actively growing coral reef is the Great Barrier Reef, off the coast of Queensland, Australia.",
+   "Humans share 50% of their DNA with bananas.",
+   "The highest mountain in the British Isles is Ben Nevis in Scotland.",
+   "Flamingos get their pink colour from the food they eat.",
+   "The average cloud weighs around 550 tons, which is roughly the same as 100 elephants."
   ]
  }
 }
