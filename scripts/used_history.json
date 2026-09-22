@@ -1209,7 +1209,12 @@
   "f11e895ee14b96ef": "2026-09-22",
   "7085dd6c7c6eea20": "2026-09-22",
   "c7d4aaa150bb85ba": "2026-09-22",
-  "45ee90c8d32d44e8": "2026-09-22"
+  "45ee90c8d32d44e8": "2026-09-22",
+  "24f4894125f88dd5": "2026-09-23",
+  "c4cbc69b6c31aeec": "2026-09-23",
+  "0b0be556280310e8": "2026-09-23",
+  "974c0622928b5662": "2026-09-23",
+  "fd2df9392be0983b": "2026-09-23"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1681,7 +1686,7 @@
   "7ac92928a70b03f4": "2026-09-05",
   "93d10a80a161710c": "2026-09-05",
   "9b3bc0e0dc42d913": "2026-09-05",
-  "ca0bd3f7f233c89c": "2026-09-06",
+  "ca0bd3f7f233c89c": "2026-09-23",
   "02b0151f2ed09b12": "2026-09-06",
   "e09b6ed677d82c9b": "2026-09-08",
   "3d3ab40a809dea1e": "2026-09-08",
@@ -1769,7 +1774,11 @@
   "529ed53adaa82e89": "2026-09-22",
   "045faf14522767ca": "2026-09-22",
   "23df39a6f52b4aff": "2026-09-22",
-  "89a55add3315aa7e": "2026-09-22"
+  "89a55add3315aa7e": "2026-09-22",
+  "66efc767c5752d8c": "2026-09-23",
+  "db960e870a8bb3a3": "2026-09-23",
+  "9b8444b90cad2ebd": "2026-09-23",
+  "f570728e65699733": "2026-09-23"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2847,17 +2856,15 @@
   "b1782b080a69f85a": "2026-09-22",
   "c68e5979dde33502": "2026-09-22",
   "214368baf52bc017": "2026-09-22",
-  "bbc8c2fdcb5e2489": "2026-09-22"
+  "bbc8c2fdcb5e2489": "2026-09-22",
+  "9039ccabff9b1eb0": "2026-09-23",
+  "dd85df6bb627c533": "2026-09-23",
+  "404133efa0639a75": "2026-09-23",
+  "5ce7a78eef5508e5": "2026-09-23",
+  "1b88aaccb400e055": "2026-09-23"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research suggests that 'reading aloud' to yourself or others can significantly boost memory and understanding.",
-   "The simple pleasure of 'picnics in unexpected places' is gaining popularity for a refreshing break.",
-   "A charming new study highlights how 'collecting interesting pebbles' from walks can be a calming pastime.",
-   "British bakers are rediscovering the art of 'heritage bread making', using traditional techniques.",
-   "A new report finds that 'listening to classical music' can help improve concentration during daily tasks.",
-   "British seaside towns are seeing a resurgence in popularity for their charming vintage arcades.",
-   "A new trend sees city dwellers embracing 'micro-adventures' in their local parks.",
    "The humble art of 'darning socks' is making a stylish comeback among those seeking sustainable fashion.",
    "Research suggests that 'colouring books for adults' continue to be a popular stress-buster.",
    "Community gardens across the UK are reporting a delightful boom in 'herb swaps'.",
@@ -2890,11 +2897,16 @@
    "The simple act of 'waving hello' to strangers is making a quiet comeback in some British villages.",
    "New research suggests that the sound of a crackling fireplace can significantly reduce stress levels.",
    "The humble 'charity shop treasure hunt' is becoming a popular weekend activity for many.",
-   "Experts are encouraging us to rediscover the joy of 'writing postcards' when on holiday."
+   "Experts are encouraging us to rediscover the joy of 'writing postcards' when on holiday.",
+   "A new study suggests that looking at pictures of cute animals can actually boost your productivity.",
+   "The humble 'packed lunch' is experiencing a gourmet makeover across the country.",
+   "Experts are advising us to embrace the joy of 'window gazing' for improved mental well-being.",
+   "A fascinating trend sees more people learning the ancient craft of 'basket weaving'.",
+   "Scientists have discovered that listening to the sound of 'distant church bells' can evoke feelings of nostalgia and peace.",
+   "The delightful practice of 'swapping homemade jams and preserves' is becoming a popular community activity.",
+   "New research highlights the benefits of 'walking barefoot on natural surfaces' for overall health."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, hot cup of tea, especially if it's a new blend. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of chocolate will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, warm cup of soup, especially if it's a new flavour. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of jam will be good, even if we know it's not strictly scientific?",
@@ -2932,11 +2944,11 @@
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
    "Our survey said that over 75% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new television series, especially if it's a gripping drama. What is it?",
-   "Our survey said that over 60% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of jam will be good, even if we know it's not strictly scientific?"
+   "Our survey said that over 60% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of jam will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new puzzle, especially if it's a big, intricate one. What is it?"
   ],
   "talk_topic": [
-   "We all have those 'little rituals' we do on a weekday morning that just make the day feel like it's started right, don't we?",
-   "You know how sometimes a 'particular type of biscuit' just instantly puts you in a good mood, or brings back a happy memory?",
    "You know how sometimes a particular 'sound from nature' just instantly puts you at ease or brings a smile to your face, no matter what?",
    "We all have that 'one comfort food' that, no matter how old we get, can still instantly transport us back to our childhood or a happy memory, don't we?",
    "You know how sometimes a particular 'everyday smell' can instantly transport you back to your childhood or a happy memory?",
@@ -2974,17 +2986,11 @@
    "You know how sometimes a 'particular quirky habit' you picked up as a child, perhaps from a parent or grandparent, has just stuck with you into adulthood?",
    "We all have that 'one small, everyday item' that, despite its humble nature, you've somehow managed to keep for years and years, and it still works perfectly?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your bathroom or bedroom without because it's just so useful or brings you joy, don't we?",
-   "You know how sometimes a 'particular type of biscuit' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't had one in years?"
+   "You know how sometimes a 'particular type of biscuit' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't had one in years?",
+   "You know how sometimes a 'particular smell' just instantly transports you back to a specific memory or moment in time, perhaps from your childhood?",
+   "We all have that 'one small, everyday household tool' that, despite its simplicity, you genuinely couldn't imagine your home without because it's just so useful or brings you joy, don't we?"
   ],
   "facts": [
-   "The distinctive red telephone boxes in the UK were designed by Sir Giles Gilbert Scott.",
-   "Butterflies taste with their feet.",
-   "The world's smallest chameleon is smaller than a human fingernail.",
-   "The average person spends about six months of their life waiting for red lights to turn green.",
-   "The 'king of fruits', the durian, is known for its incredibly strong odour but delicious taste.",
-   "Bees can detect electric fields, which helps them find flowers.",
-   "Mount Everest grows by approximately 4 millimetres every year due to tectonic plate movement.",
-   "The 'hitchhiker's guide to the galaxy' author Douglas Adams famously chose '42' as the answer to the ultimate question of life, the universe, and everything.",
    "A group of owls is called a 'parliament'.",
    "Bubble wrap was originally intended to be used as 3D wallpaper.",
    "The shortest complete English sentence is 'I am'.",
@@ -3016,7 +3022,15 @@
    "A cloud can weigh more than a million pounds; the water droplets and ice crystals are spread over such a large area that we don't feel the weight.",
    "The 'unicorn' is the national animal of Scotland, symbolising purity, innocence, and power.",
    "The first successful photograph was taken in 1826 by French inventor Joseph Nicéphore Niépce, showing the view from his window.",
-   "There are more possible iterations of a game of chess than there are atoms in the observable universe."
+   "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+   "A 'group of owls' is called a parliament.",
+   "The longest recorded flight of a chicken is 13 seconds.",
+   "Bananas are technically berries, but strawberries are not.",
+   "The Great Wall of China is not visible from space with the naked eye.",
+   "The 'king of hearts' is the only king in a deck of cards without a moustache.",
+   "Hot water freezes faster than cold water, a phenomenon known as the Mpemba effect.",
+   "The human nose can remember 50,000 different scents.",
+   "The first orange cultivated was green and only turned orange after being crossbred in Asia."
   ]
  }
 }
