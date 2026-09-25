@@ -1245,7 +1245,12 @@
   "d34f95e6cd33b0a0": "2026-09-25",
   "6f5e64fe82eb536e": "2026-09-25",
   "83a0017bcd198b64": "2026-09-25",
-  "2a722e36847bb3ad": "2026-09-25"
+  "2a722e36847bb3ad": "2026-09-25",
+  "760ce15b80f25e80": "2026-09-26",
+  "b6703f3f12a2ed83": "2026-09-26",
+  "c673b20d056e9b92": "2026-09-26",
+  "e39c7aafa33d005f": "2026-09-26",
+  "c3b601ccefc20ad8": "2026-09-26"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1727,7 +1732,7 @@
   "b1727f81277718dc": "2026-09-07",
   "718a8692cfc91f0e": "2026-09-07",
   "22ea5153cdfef11e": "2026-09-07",
-  "c66c82be027e6888": "2026-09-09",
+  "c66c82be027e6888": "2026-09-26",
   "c7147770380861d3": "2026-09-10",
   "7d65707e0c31bfde": "2026-09-09",
   "fcc1fe3c3a2e7c0b": "2026-09-12",
@@ -1814,7 +1819,7 @@
   "7f4b72329e0faa2e": "2026-09-24",
   "1189c380b2fc87a1": "2026-09-24",
   "74ab3dd73002aa2a": "2026-09-24",
-  "8744c598282fba00": "2026-09-24",
+  "8744c598282fba00": "2026-09-26",
   "e7eca0b5b89d363f": "2026-09-24",
   "99c5a040464e9ad3": "2026-09-24",
   "cc5ac7a7734d295d": "2026-09-25",
@@ -1826,7 +1831,10 @@
   "b92e1403b92b7bdd": "2026-09-25",
   "71fd3b97d429b62d": "2026-09-25",
   "59e27848bcae120b": "2026-09-25",
-  "69d317e94c21fee2": "2026-09-25"
+  "69d317e94c21fee2": "2026-09-25",
+  "f05a970f412dec0d": "2026-09-26",
+  "e1880dbce87db340": "2026-09-26",
+  "f49a7741fbbfad51": "2026-09-26"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -2934,17 +2942,15 @@
   "f7e4655b1b0cf808": "2026-09-25",
   "0b0afaf4ad6af4ef": "2026-09-25",
   "ea6e1755a06894f5": "2026-09-25",
-  "f88db45c639153cc": "2026-09-25"
+  "f88db45c639153cc": "2026-09-25",
+  "dfd9e38d4103550e": "2026-09-26",
+  "5eba2788ec46422e": "2026-09-26",
+  "bdd561d4d14d9f4d": "2026-09-26",
+  "47d4dd79db2b475e": "2026-09-26",
+  "fad1426177fc71dd": "2026-09-26"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The humble 'board game cafe' is seeing a resurgence across the UK, offering a nostalgic alternative to screen time.",
-   "Experts are encouraging us to rediscover the simple pleasure of 'writing a shopping list on paper'.",
-   "A new appreciation for 'vintage radio plays' is growing, with many finding comfort in storytelling without screens.",
-   "Families are embracing the 'staycation challenge' of exploring local historical sites right on their doorstep.",
-   "The delightful art of 'flower pressing' is making a charming comeback as a creative hobby.",
-   "Scientists suggest that admiring a beautiful sunset can actually make you feel wealthier.",
-   "There's a growing trend for 'micro-adventures' – short, local escapades that don't break the bank.",
    "A study reveals that people who regularly visit local markets tend to report higher levels of community connection.",
    "The simple act of 'waving hello' to strangers is making a quiet comeback in some British villages.",
    "New research suggests that the sound of a crackling fireplace can significantly reduce stress levels.",
@@ -2977,11 +2983,16 @@
    "Experts are encouraging us to rediscover the simple pleasure of 'identifying cloud formations'.",
    "A recent survey indicates a growing interest in 'foraging for wild berries and mushrooms' in the British countryside.",
    "The charming practice of 'leaving painted stones in public places' for others to find is brightening up parks nationwide.",
-   "A new report highlights the growing popularity of 'upcycling old furniture' as a sustainable and creative hobby."
+   "A new report highlights the growing popularity of 'upcycling old furniture' as a sustainable and creative hobby.",
+   "A new trend sees city dwellers 'reclaiming' small urban spaces to create tiny, vibrant wildlife havens.",
+   "Scientists are exploring the fascinating world of 'plant communication' and how flora might 'talk' to each other.",
+   "The charming practice of 'library scavenger hunts' is growing, encouraging families to explore local libraries in a playful new way.",
+   "More people are discovering the calming craft of 'sea glass collecting', turning coastal walks into treasure hunts.",
+   "The simple joy of 'writing and sending postcards' is making a nostalgic comeback in our digital age.",
+   "A recent study suggests that 'listening to classical music' while doing chores can make tasks feel less mundane.",
+   "The delightful hobby of 'miniature gardening' is captivating enthusiasts, creating tiny landscapes in pots and terrariums."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of shampoo will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new puzzle, especially if it's a big one. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of shampoo will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new jigsaw puzzle, especially if it's a big one. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
@@ -3019,11 +3030,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cheese will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new podcast, especially if it's a long, detailed interview. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a gripping story. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a gripping story. What is it?",
+   "Our survey said that over 60% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy one. What is it?",
+   "Our survey said that over 75% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'everyday item' has a really memorable or even iconic design, even if it's just a simple household thing?",
-   "We all have that 'one phrase or saying' that our grandparents or a cherished older relative used to say all the time, that just brings back warm memories, don't we?",
    "We all have that 'one particular type of sweet or chocolate bar' that, no matter how old we get, can still instantly transport us back to our childhood or a happy memory, don't we?",
    "You know how sometimes a 'particular sound or noise' from your home can just instantly make you feel relaxed and cosy, even if it's just the washing machine humming or the kettle boiling?",
    "We all have that 'one particular shop' we absolutely adore, no matter how small or niche, that just makes our day better when we visit, don't we?",
@@ -3061,17 +3072,11 @@
    "You know how sometimes a 'particular type of flower' just instantly brings a smile to your face, perhaps because of its colour, its scent, or a happy memory it evokes?",
    "We all have that 'one small, everyday act of kindness' that, when someone does it for you, truly makes your day, don't we?",
    "You know how sometimes a 'particular type of biscuit' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't had one in years?",
-   "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your kitchen without because it's just so useful or brings you joy, don't we?"
+   "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your kitchen without because it's just so useful or brings you joy, don't we?",
+   "You know how sometimes a 'particular type of street art' or a well-placed mural can just instantly brighten your day as you walk past it?",
+   "We all have that 'one small, everyday act of self-care' that, no matter how busy things get, you always try to make time for because it genuinely makes you feel better, don't we?"
   ],
   "facts": [
-   "The world's largest known snowflake, recorded in 1887 at Fort Keogh, Montana, was reported to be 15 inches wide and 8 inches thick.",
-   "The shortest complete sentence in the English language is said to be 'I am'.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
-   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, a hill in New Zealand.",
-   "A cloud can weigh more than a million pounds; the water droplets and ice crystals are spread over such a large area that we don't feel the weight.",
-   "The 'unicorn' is the national animal of Scotland, symbolising purity, innocence, and power.",
-   "The first successful photograph was taken in 1826 by French inventor Joseph Nicéphore Niépce, showing the view from his window.",
-   "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
    "A 'group of owls' is called a parliament.",
    "The longest recorded flight of a chicken is 13 seconds.",
    "Bananas are technically berries, but strawberries are not.",
@@ -3103,7 +3108,15 @@
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "The 'richest' bird's nest ever found contained over 300 pieces of gold jewellery.",
-   "Penguins are birds, but they cannot fly; instead, they are excellent swimmers."
+   "Penguins are birds, but they cannot fly; instead, they are excellent swimmers.",
+   "The world's oldest known living tree, Methuselah, is a bristlecone pine in California, estimated to be over 4,850 years old.",
+   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible even from outer space.",
+   "A 'bibliosmia' is the delightful habit of smelling old books.",
+   "The sound of a human sneeze can travel at speeds of up to 100 miles per hour.",
+   "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+   "Flamingos are not born pink; their famous colour comes from beta-carotene in their diet of brine shrimp and algae.",
+   "The shortest complete English sentence is 'I am.'"
   ]
  }
 }
