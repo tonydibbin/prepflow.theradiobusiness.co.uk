@@ -1283,7 +1283,12 @@
   "0c0a473e859a4994": "2026-09-29",
   "51c8db20c0a257ca": "2026-09-29",
   "b1ae034e7284751b": "2026-09-29",
-  "f9462910c397edef": "2026-09-29"
+  "f9462910c397edef": "2026-09-29",
+  "14ae522689d40150": "2026-09-29",
+  "d0f4804effcf7dbc": "2026-09-29",
+  "d7789bbfe53d84ea": "2026-09-29",
+  "23e4538b6064838c": "2026-09-29",
+  "4742135c1de5487f": "2026-09-29"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1868,7 +1873,7 @@
   "f05a970f412dec0d": "2026-09-26",
   "e1880dbce87db340": "2026-09-29",
   "f49a7741fbbfad51": "2026-09-28",
-  "9e4a2cfa0b8d51a0": "2026-09-28",
+  "9e4a2cfa0b8d51a0": "2026-09-29",
   "b28fe9ac120ec9a8": "2026-09-29",
   "31006e3b8cc054fe": "2026-09-29",
   "51b840398a963efe": "2026-09-29",
@@ -3015,17 +3020,15 @@
   "a581173ea45a529d": "2026-09-29",
   "ef36e9a6298d3bac": "2026-09-29",
   "f84236d4047205a2": "2026-09-29",
-  "83142b6b6da50d52": "2026-09-29"
+  "83142b6b6da50d52": "2026-09-29",
+  "59fa6d92d6129018": "2026-09-29",
+  "59c326f3e8eae959": "2026-09-29",
+  "bc230f3f33c48e38": "2026-09-29",
+  "cad605023678d440": "2026-09-29",
+  "a439cc355880a8e5": "2026-09-29"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The charming practice of 'library scavenger hunts' is growing, encouraging families to explore local libraries in a playful new way.",
-   "More people are discovering the calming craft of 'sea glass collecting', turning coastal walks into treasure hunts.",
-   "The simple joy of 'writing and sending postcards' is making a nostalgic comeback in our digital age.",
-   "A recent study suggests that 'listening to classical music' while doing chores can make tasks feel less mundane.",
-   "The delightful hobby of 'miniature gardening' is captivating enthusiasts, creating tiny landscapes in pots and terrariums.",
-   "The simple pleasure of 'window box gardening' is seeing a charming resurgence across towns and cities.",
-   "Experts are suggesting that 'storytelling with family photos' can be a wonderful way to connect generations.",
    "A new report highlights the growing popularity of 'vintage board game nights' amongst friends and families.",
    "The delightful trend of 'creative packed lunch ideas' is encouraging us to ditch the mundane.",
    "Scientists are exploring the fascinating world of 'animal empathy' and how different species show care for one another.",
@@ -3058,11 +3061,16 @@
    "The charming practice of 'decorating garden gnomes with tiny, themed accessories' is adding a quirky touch to outdoor spaces.",
    "Researchers are highlighting the surprising benefits of 'having a designated 'thinking chair' at home' for sparking creativity.",
    "The delightful art of 'crafting homemade greetings cards' is seeing a resurgence amongst those looking for a personal touch.",
-   "A report indicates that 'taking a regular 'digital detox' walk in a local park' is becoming a popular way to recharge."
+   "A report indicates that 'taking a regular 'digital detox' walk in a local park' is becoming a popular way to recharge.",
+   "Brightening up your local area could be as simple as painting a mural.",
+   "The surprising joy of 'micro-adventures' is gaining traction across the UK.",
+   "More people are finding relaxation in the quiet art of 'birdwatching from their window'.",
+   "The simple act of 'sharing home-baked goods with neighbours' is making a comeback.",
+   "A study reveals the unexpected positive impact of 'listening to classical music while doing chores'.",
+   "The charming trend of 'decorating outdoor spaces with fairy lights' is illuminating neighbourhoods.",
+   "Researchers are noting the benefits of 'taking a leisurely stroll through a historic town centre'."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film, especially if it's a much-anticipated release. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
@@ -3100,11 +3108,11 @@
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of chocolate will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film, especially if it's a highly anticipated one. What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of biscuits, especially if it's a fancy selection. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?"
+   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific? What is it?"
   ],
   "talk_topic": [
-   "Do you remember when you first learned to ride a bicycle, or perhaps taught someone else?",
-   "We all have that 'one particular type of sandwich' that, no matter what, is always your go-to comfort food, perfect for any occasion, don't we?",
    "You know how sometimes a 'particular memory of an old sweet shop or bakery' just floods back to you, complete with the smells and the excitement?",
    "We all have that 'one particular comfort food' that, no matter what, can just instantly make a grey day feel a little brighter, don't we?",
    "You know how sometimes a 'particular piece of advice' about something seemingly small, like how to properly load a dishwasher or fold a towel, actually makes a huge difference in your daily life?",
@@ -3142,17 +3150,11 @@
    "You know how sometimes a 'particular type of aroma' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
    "We all have that 'one small, everyday household gadget' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you joy, don't we?",
    "You know how sometimes a 'particular type of flower' just instantly brings back happy memories of a special person or a lovely garden you once visited, even if you haven't seen that flower in ages?",
-   "We all have that 'one small, everyday household ritual' that, no matter how busy things get, you always try to make time for because it genuinely makes your home feel more organised or cosy, don't we?"
+   "We all have that 'one small, everyday household ritual' that, no matter how busy things get, you always try to make time for because it genuinely makes your home feel more organised or cosy, don't we?",
+   "You know how sometimes a 'particular type of shop' just instantly makes you feel nostalgic, perhaps because of its old-fashioned charm or the specific items it sells?",
+   "We all have that 'one small, everyday act of self-care' that, no matter how busy things get, you always try to make time for because it genuinely makes you feel better, don't we?"
   ],
   "facts": [
-   "A group of owls is called a parliament, which seems rather fitting for wise birds.",
-   "The longest place name in the world is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu, located in New Zealand.",
-   "Bumblebees can fly higher than Mount Everest, if they could just hold their breath long enough.",
-   "The inventor of the Pringles can, Fredric Baur, was buried in one upon his request.",
-   "Chocolate was once used as currency in the Aztec Empire.",
-   "The world's smallest chameleon, the Brookesia micra, can fit comfortably on the tip of a human finger.",
-   "The first ever recorded weather forecast was published in a British newspaper in 1861.",
-   "Strawberries are the only fruit with seeds on the outside.",
    "A group of ferrets is delightfully called a 'business'.",
    "The world's first ever text message, sent in 1992, simply said 'Merry Christmas'.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
@@ -3184,7 +3186,15 @@
    "It is illegal to sing out of tune in Maryland, USA.",
    "The longest recorded flight of a chicken is 13 seconds.",
    "The British Royal Family officially owns all the swans on certain stretches of the River Thames.",
-   "A bolt of lightning is five times hotter than the surface of the sun."
+   "A bolt of lightning is five times hotter than the surface of the sun.",
+   "The world's first public park was Birkenhead Park in Merseyside, which opened in 1847.",
+   "A 'jiffy' is an actual unit of time, specifically one-hundredth of a second.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The inventor of the Pringle's can is buried in one, as per his last wish.",
+   "Butterflies taste with their feet, which have chemoreceptors to detect suitable host plants.",
+   "It is impossible for most people to lick their own elbow.",
+   "The tiny pocket on jeans was originally designed for a pocket watch.",
+   "A group of flamingos is called a flamboyance."
   ]
  }
 }
