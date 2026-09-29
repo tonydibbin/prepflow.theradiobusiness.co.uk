@@ -1288,7 +1288,12 @@
   "d0f4804effcf7dbc": "2026-09-29",
   "d7789bbfe53d84ea": "2026-09-29",
   "23e4538b6064838c": "2026-09-29",
-  "4742135c1de5487f": "2026-09-29"
+  "4742135c1de5487f": "2026-09-29",
+  "47521f964bf2b88f": "2026-09-30",
+  "18430e037943e880": "2026-09-30",
+  "668b726e5a2dc6e5": "2026-09-30",
+  "f4b943ea27867ae5": "2026-09-30",
+  "c8fb3e55f6879ebc": "2026-09-30"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1749,7 +1754,7 @@
   "341e9c4ca3f9a929": "2026-09-04",
   "f9062d4a7860d0c8": "2026-09-04",
   "79620e4e1c8513c2": "2026-09-04",
-  "14616e65da30184e": "2026-09-04",
+  "14616e65da30184e": "2026-09-30",
   "8f15639df82effb1": "2026-09-04",
   "8e7e0e344727b2d7": "2026-09-04",
   "08bd1c9ff4a6dd7f": "2026-09-06",
@@ -1877,7 +1882,11 @@
   "b28fe9ac120ec9a8": "2026-09-29",
   "31006e3b8cc054fe": "2026-09-29",
   "51b840398a963efe": "2026-09-29",
-  "f57c18c94f25b167": "2026-09-29"
+  "f57c18c94f25b167": "2026-09-29",
+  "7cae430d80df74b4": "2026-09-30",
+  "d50041c476d549c2": "2026-09-30",
+  "c1da00f2fa0b44aa": "2026-09-30",
+  "f5ed89409ec5241c": "2026-09-30"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3025,17 +3034,15 @@
   "59c326f3e8eae959": "2026-09-29",
   "bc230f3f33c48e38": "2026-09-29",
   "cad605023678d440": "2026-09-29",
-  "a439cc355880a8e5": "2026-09-29"
+  "a439cc355880a8e5": "2026-09-29",
+  "18430e037943e880": "2026-09-30",
+  "89f20dd0db6131fa": "2026-09-30",
+  "1a59a490885d4893": "2026-09-30",
+  "245ac90f49abfc05": "2026-09-30",
+  "14a3c5abd3b8327d": "2026-09-30"
  },
  "_ai_recent": {
   "newsbrief": [
-   "A new report highlights the growing popularity of 'vintage board game nights' amongst friends and families.",
-   "The delightful trend of 'creative packed lunch ideas' is encouraging us to ditch the mundane.",
-   "Scientists are exploring the fascinating world of 'animal empathy' and how different species show care for one another.",
-   "The charming practice of 'leaving encouraging notes in library books' is spreading smiles.",
-   "A recent study suggests that 'listening to instrumental film scores' can boost concentration during everyday tasks.",
-   "A new trend sees communities rediscovering the joy of 'public pianos' in parks and train stations.",
-   "The simple pleasure of 'homemade preserves' is experiencing a delightful resurgence.",
    "Researchers are highlighting the benefits of 'nature journaling' for mental well-being.",
    "The delightful art of 'crafting personalised greetings cards' is seeing a creative boom.",
    "The charming tradition of 'community garden exchanges' is flourishing in neighbourhoods.",
@@ -3068,11 +3075,16 @@
    "The simple act of 'sharing home-baked goods with neighbours' is making a comeback.",
    "A study reveals the unexpected positive impact of 'listening to classical music while doing chores'.",
    "The charming trend of 'decorating outdoor spaces with fairy lights' is illuminating neighbourhoods.",
-   "Researchers are noting the benefits of 'taking a leisurely stroll through a historic town centre'."
+   "Researchers are noting the benefits of 'taking a leisurely stroll through a historic town centre'.",
+   "A new trend sees people embracing 'micro-gardening' in their kitchens.",
+   "Research suggests that 'reading a physical book' before bed significantly improves sleep quality.",
+   "The simple act of 'leaving a kind note for a delivery driver' is making people's days brighter.",
+   "More people are finding joy in 'exploring their local independent shops'.",
+   "The delightful hobby of 'collecting unusual teacups and saucers' is on the rise.",
+   "Experts are highlighting the calming effect of 'observing passing trains from a quiet spot'.",
+   "A study found that 'wearing mismatched socks on purpose' can boost feelings of individuality and fun."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 55% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new television programme, especially if it's a big series launch. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of jam will be good, even if we know it's not strictly scientific?",
@@ -3110,11 +3122,11 @@
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of biscuits, especially if it's a fancy selection. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific? What is it?"
+   "Our survey said that over 65% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy one. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of shampoo will be good, even if we know it's not strictly scientific? What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular memory of an old sweet shop or bakery' just floods back to you, complete with the smells and the excitement?",
-   "We all have that 'one particular comfort food' that, no matter what, can just instantly make a grey day feel a little brighter, don't we?",
    "You know how sometimes a 'particular piece of advice' about something seemingly small, like how to properly load a dishwasher or fold a towel, actually makes a huge difference in your daily life?",
    "We all have that 'one particular type of sweet' or confectionary that, no matter how old we get, can still instantly transport us back to being a child and spark a happy memory, don't we?",
    "You know how sometimes a 'particular smell' can just instantly transport you back to a specific memory or feeling, even if it's quite an old one?",
@@ -3152,17 +3164,11 @@
    "You know how sometimes a 'particular type of flower' just instantly brings back happy memories of a special person or a lovely garden you once visited, even if you haven't seen that flower in ages?",
    "We all have that 'one small, everyday household ritual' that, no matter how busy things get, you always try to make time for because it genuinely makes your home feel more organised or cosy, don't we?",
    "You know how sometimes a 'particular type of shop' just instantly makes you feel nostalgic, perhaps because of its old-fashioned charm or the specific items it sells?",
-   "We all have that 'one small, everyday act of self-care' that, no matter how busy things get, you always try to make time for because it genuinely makes you feel better, don't we?"
+   "We all have that 'one small, everyday act of self-care' that, no matter how busy things get, you always try to make time for because it genuinely makes you feel better, don't we?",
+   "You know how sometimes a 'particular type of biscuit' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't had one in years?",
+   "We all have that 'one small, everyday act of kindness' that, when someone does it for you, truly makes your day, don't we?"
   ],
   "facts": [
-   "A group of ferrets is delightfully called a 'business'.",
-   "The world's first ever text message, sent in 1992, simply said 'Merry Christmas'.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
-   "The 'sixth sick sheik's sixth sheep's sick' is often considered the toughest tongue twister in the English language.",
-   "The humble teabag was accidentally invented in 1908 by a New York tea merchant who sent samples in silk bags.",
-   "The sound of crickets chirping can actually be used to estimate the air temperature; count the chirps in 15 seconds and add 37 for an approximate Fahrenheit temperature.",
-   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar sources.",
-   "The 'Wobbly Bridge' in London, officially the Millennium Bridge, swayed unexpectedly on its opening day in 2000 due to synchronised footsteps.",
    "A group of owls is wonderfully known as a 'parliament'.",
    "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
    "The distinctive red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Liverpool Cathedral.",
@@ -3194,7 +3200,15 @@
    "Butterflies taste with their feet, which have chemoreceptors to detect suitable host plants.",
    "It is impossible for most people to lick their own elbow.",
    "The tiny pocket on jeans was originally designed for a pocket watch.",
-   "A group of flamingos is called a flamboyance."
+   "A group of flamingos is called a flamboyance.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
+   "The sound of a whip cracking is actually a tiny sonic boom, as the tip moves faster than the speed of sound.",
+   "Bumblebees can fly higher than Mount Everest, if conditions are right, due to their unique wing structure.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible even from outer space.",
+   "Carrots were originally purple, yellow, and white, with the orange variety only becoming popular in the 17th century.",
+   "A group of owls is called a parliament.",
+   "The world's quietest room, located at Microsoft's headquarters, is so silent you can hear your own heartbeat.",
+   "It is impossible to hum while holding your nose."
   ]
  }
 }
