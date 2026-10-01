@@ -1313,7 +1313,12 @@
   "798ff5a45315393f": "2026-10-02",
   "88c752483667806c": "2026-10-02",
   "37db7427093d6914": "2026-10-02",
-  "4eac981cde84f74f": "2026-10-02"
+  "4eac981cde84f74f": "2026-10-02",
+  "1b6a0f17fe85506c": "2026-10-02",
+  "bedac52b179df2f1": "2026-10-02",
+  "4db00355c014eccd": "2026-10-02",
+  "5c391c0cc844281c": "2026-10-02",
+  "84457d9d306acf5f": "2026-10-02"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1828,7 +1833,7 @@
   "9dde7713e61c2e2c": "2026-09-15",
   "4823f692f638ee96": "2026-09-14",
   "e6f264e96ecd33f9": "2026-09-14",
-  "0bd338ce4c7fa6d8": "2026-09-14",
+  "0bd338ce4c7fa6d8": "2026-10-02",
   "9a4b56ed8111d8ba": "2026-09-14",
   "254b57438d17bad2": "2026-09-15",
   "7566b791263cbbb1": "2026-09-16",
@@ -1915,11 +1920,13 @@
   "3c30928796880eff": "2026-10-01",
   "3b8158a1084240c2": "2026-10-01",
   "32d52c2058c30432": "2026-10-01",
-  "f832a8b9f76535f9": "2026-10-01",
+  "f832a8b9f76535f9": "2026-10-02",
   "44737bbcace3449a": "2026-10-01",
   "a86b19c1fefee573": "2026-10-02",
   "637afadbfe168fd1": "2026-10-02",
-  "98544090113af2bf": "2026-10-02"
+  "98544090113af2bf": "2026-10-02",
+  "3d5a69d1268c5891": "2026-10-02",
+  "f4de0408b8793f96": "2026-10-02"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3092,17 +3099,15 @@
   "63d0dd206d6f1f1b": "2026-10-02",
   "b4344aff0ed4da81": "2026-10-02",
   "3721d2adb8c15c94": "2026-10-02",
-  "c90bc3d6274d430e": "2026-10-02"
+  "c90bc3d6274d430e": "2026-10-02",
+  "1b6a0f17fe85506c": "2026-10-02",
+  "3aff9b6ad23d2854": "2026-10-02",
+  "1915cfd42fc027ca": "2026-10-02",
+  "eee5e2c9687b24c9": "2026-10-02",
+  "e728d1a59d5e27ca": "2026-10-02"
  },
  "_ai_recent": {
   "newsbrief": [
-   "More people are finding relaxation in the quiet art of 'birdwatching from their window'.",
-   "The simple act of 'sharing home-baked goods with neighbours' is making a comeback.",
-   "A study reveals the unexpected positive impact of 'listening to classical music while doing chores'.",
-   "The charming trend of 'decorating outdoor spaces with fairy lights' is illuminating neighbourhoods.",
-   "Researchers are noting the benefits of 'taking a leisurely stroll through a historic town centre'.",
-   "A new trend sees people embracing 'micro-gardening' in their kitchens.",
-   "Research suggests that 'reading a physical book' before bed significantly improves sleep quality.",
    "The simple act of 'leaving a kind note for a delivery driver' is making people's days brighter.",
    "More people are finding joy in 'exploring their local independent shops'.",
    "The delightful hobby of 'collecting unusual teacups and saucers' is on the rise.",
@@ -3135,11 +3140,16 @@
    "Experts are highlighting the calming effect of 'watching a slow train journey' on a rainy afternoon.",
    "A charming local initiative encourages people to 'leave friendly notes' on park benches for others to discover.",
    "New findings suggest that 'the gentle sound of pages turning' in a quiet library can be remarkably soothing.",
-   "The delightful hobby of 'identifying cloud shapes' is gaining popularity among those seeking a moment of mindful relaxation."
+   "The delightful hobby of 'identifying cloud shapes' is gaining popularity among those seeking a moment of mindful relaxation.",
+   "A delightful new study suggests that 'the satisfying crunch of autumn leaves' underfoot can significantly boost our mood.",
+   "The humble art of 'doodling during meetings' is being re-evaluated as a powerful tool for focus and memory retention.",
+   "A charming local initiative encourages people to 'swap homegrown excess produce' with neighbours rather than letting it go to waste.",
+   "Experts are highlighting 'the calming ritual of watering houseplants' as a surprisingly effective way to de-stress.",
+   "A charming movement sees people 'collecting unusual old postcards' from forgotten holiday spots and historic towns.",
+   "The satisfying ritual of 'sharpening pencils by hand' is making a quiet comeback among those seeking a moment of analogue calm.",
+   "New research suggests that 'the unique smell of old books' can evoke stronger positive memories than almost any other scent."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a much-anticipated release. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of chocolate will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film, especially if it's a big cinema release. What is it?",
    "Our survey said that over 60% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific?",
@@ -3177,11 +3187,11 @@
    "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if it's a fancy selection. What is it?",
    "Our survey said that over 55% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film on the telly, especially if it's one you've been looking forward to. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?"
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 60% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if it's a fancy selection. What is it?",
+   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?"
   ],
   "talk_topic": [
-   "We all have that 'one particular piece of clothing' that, no matter how old it gets or how many times it's been washed, you just can't bring yourself to part with because it holds so many happy memories, don't we?",
-   "You know how sometimes a 'particular type of weather' just instantly lifts your spirits, whether it's the crispness of an autumn day or the warmth of a summer breeze?",
    "You know how sometimes a 'particular quirky shop' you've visited on holiday or even in your hometown just sticks in your mind because it was so unique or charming?",
    "We all have that 'one small, everyday sound' that, despite its simplicity, just instantly brings a sense of calm or comfort to your day, don't we?",
    "You know how sometimes a 'particular quirky habit' you picked up as a child, perhaps from a parent or grandparent, has just stuck with you into adulthood?",
@@ -3219,17 +3229,11 @@
    "You know how sometimes a 'particular sound' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?",
    "You know how sometimes a 'particular smell' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
+   "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?",
+   "You know how sometimes a 'particular type of shop' just instantly makes you feel nostalgic, perhaps because of its old-fashioned charm or the specific items it sells?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?"
   ],
   "facts": [
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896; it lasted only 38 minutes.",
-   "The sound of a whip cracking is actually a tiny sonic boom, as the tip moves faster than the speed of sound.",
-   "Bumblebees can fly higher than Mount Everest, if conditions are right, due to their unique wing structure.",
-   "The Great Barrier Reef is the largest living structure on Earth, visible even from outer space.",
-   "Carrots were originally purple, yellow, and white, with the orange variety only becoming popular in the 17th century.",
-   "A group of owls is called a parliament.",
-   "The world's quietest room, located at Microsoft's headquarters, is so silent you can hear your own heartbeat.",
-   "It is impossible to hum while holding your nose.",
    "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
    "A group of rhinos is called a crash.",
@@ -3261,7 +3265,15 @@
    "Norway once knighted a penguin named Brigadier Sir Nils Olav III, who is the mascot of the Norwegian King's Guard.",
    "Chocolatiers, who make chocolate, are sometimes called 'chocolate architects' for their precise craft.",
    "The colour orange was named after the fruit, not the other way around.",
-   "The world's first ever webcam was created in 1991 to monitor a coffee pot at the University of Cambridge."
+   "The world's first ever webcam was created in 1991 to monitor a coffee pot at the University of Cambridge.",
+   "The world's oldest known living tree is a bristlecone pine named 'Methuselah', estimated to be over 4,800 years old.",
+   "Bumblebees can fly higher than Mount Everest; they have been observed flying at altitudes of up to 9,000 metres.",
+   "The inventor of the Pringles can, Fredric Baur, was buried in one after he died.",
+   "A 'jiffy' is an actual unit of time, specifically one hundredth of a second.",
+   "The British Isles are home to over 150 types of native trees and shrubs.",
+   "The original name for the butterfly was 'flutterby'.",
+   "The smell of freshly cut grass is actually a plant distress call.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
   ]
  }
 }
