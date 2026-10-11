@@ -1405,7 +1405,12 @@
   "c283fc33c6e6ef02": "2026-10-11",
   "4770f9c8bc57ada2": "2026-10-11",
   "28282a4839d2dde3": "2026-10-11",
-  "c2b7379f90764fee": "2026-10-11"
+  "c2b7379f90764fee": "2026-10-11",
+  "e00e673fc04d7b14": "2026-10-12",
+  "4d2f641bdce91df2": "2026-10-12",
+  "8626be8300810c08": "2026-10-12",
+  "b77f5fd1aca3087a": "2026-10-12",
+  "54a56f55f25f5f3c": "2026-10-12"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2051,9 +2056,9 @@
   "d9ecbf8aab123d2b": "2026-10-09",
   "a2d6baeee7d3474f": "2026-10-09",
   "06d781f17eefcefd": "2026-10-09",
-  "b4b684c719a3aab6": "2026-10-11",
+  "b4b684c719a3aab6": "2026-10-12",
   "85131b0452fae564": "2026-10-11",
-  "0aa137cf05539ba1": "2026-10-11",
+  "0aa137cf05539ba1": "2026-10-12",
   "954def351837f388": "2026-10-11",
   "80e9a2138a874d9a": "2026-10-10",
   "054c9857261d1da8": "2026-10-10",
@@ -2063,7 +2068,9 @@
   "976330a415840e8f": "2026-10-11",
   "0ceadd61ac76eac0": "2026-10-11",
   "d45998912963afa1": "2026-10-11",
-  "202514061a1db0da": "2026-10-11"
+  "202514061a1db0da": "2026-10-12",
+  "6f3ec6274f5d2db5": "2026-10-12",
+  "e877543d190e3172": "2026-10-12"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3326,17 +3333,15 @@
   "f8b067df753f8681": "2026-10-11",
   "c3597a2f9015e838": "2026-10-11",
   "4e311ea9637e5de6": "2026-10-11",
-  "5694001e1fbce42e": "2026-10-11"
+  "5694001e1fbce42e": "2026-10-11",
+  "030de9c4b68f35ac": "2026-10-12",
+  "56fb325ecc1585bf": "2026-10-12",
+  "9ef2bcea07d88711": "2026-10-12",
+  "79149c66947e22d1": "2026-10-12",
+  "9f0cf4330c7af2e4": "2026-10-12"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts are recognising the unique satisfaction that comes from 'successfully untangling a set of old Christmas lights'.",
-   "There's a growing appreciation for the cosy comfort of 'wearing two different but perfectly matched socks' around the house.",
-   "A fascinating report reveals the quiet pleasure many take in 'organising a spice rack' into perfect alphabetical or colour-coded order.",
-   "The delightful simplicity of 'drawing a perfect spiral with a pen' is being noted as a surprisingly effective de-stressor.",
-   "Research points to the pure satisfaction found in 'matching up all the lids with their corresponding food containers' after a big wash-up.",
-   "The unexpected delight of 'wobbly pudding' is making a charming comeback in British kitchens.",
-   "A new trend sees people embracing the calming ritual of 'watching dust motes dance in sunlight'.",
    "Research suggests that 'the perfect cup of tea' is less about the brew and more about the mug.",
    "There's a growing appreciation for the quiet satisfaction of 'a perfectly organised sock drawer'.",
    "The simple pleasure of 'hearing a familiar jingle' from an ice cream van is being recognised as a genuine mood-lifter.",
@@ -3369,11 +3374,16 @@
    "There's a growing appreciation for 'the satisfying click of a perfectly fitting lid on a storage container'.",
    "The simple pleasure of 'finding a coin in an old coat pocket' is a universally cherished small surprise.",
    "Taking a moment to 'admire a beautifully arranged shop window display' is becoming a recognised mood-booster.",
-   "The quiet delight of 'successfully peeling an orange in one continuous strip' is a small, satisfying achievement for many."
+   "The quiet delight of 'successfully peeling an orange in one continuous strip' is a small, satisfying achievement for many.",
+   "A recent study suggests that the gentle art of 'waving back to a train driver' is experiencing a heartwarming comeback.",
+   "The simple joy of 'finding a perfectly ripe avocado' is being hailed as a small but significant daily triumph for many home cooks.",
+   "British gardeners are increasingly embracing the 'charming chaos of wildflowers' in their manicured borders.",
+   "The comforting ritual of 'listening to the radio whilst doing the washing up' is being rediscovered by a new generation.",
+   "A trend is emerging for 'repurposing vintage tea towels' into charming cushion covers and tote bags.",
+   "The satisfying 'thwack of a tennis ball on a well-strung racket' is being celebrated as one of sport's purest sounds.",
+   "There's a growing appreciation for the 'subtle aroma of freshly cut grass on a sunny afternoon', even for those without a lawnmower."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of cheese will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 65% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new podcast, especially if it's a highly anticipated one. What is it?",
    "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if it's a fancy selection. What is it?",
    "Our survey said that over 55% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film on the telly, especially if it's one you've been looking forward to. What is it?",
@@ -3411,11 +3421,11 @@
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?"
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before enjoying a new box of breakfast cereal, especially if it's a fancy, artisan one. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of shower gel will be good, even if we know it's not strictly scientific? What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular type of biscuit tin' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't seen one in years?",
-   "We all have that 'one small, everyday household chore' that, no matter how much we might grumble about it, secretly makes you feel oddly satisfied once it's done, don't we?",
    "You know how sometimes a 'particular sound' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?",
    "You know how sometimes a 'particular smell' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
@@ -3453,17 +3463,11 @@
    "You know how sometimes you have a 'favourite shortcut or a slightly unusual route' you take when walking or driving, that just feels like your own little secret?",
    "We all have that 'one particular household chore' that, oddly, we actually find quite satisfying or even relaxing to do, don't we?",
    "We all have that 'one particular type of sweet treat' that instantly transports us back to happy childhood memories – perhaps a specific brand of biscuit, a retro crisp, or a classic sweet shop pick 'n' mix.",
-   "You know how sometimes you pick up a 'random, unusual item' in a charity shop – maybe an old board game with missing pieces, a peculiar piece of art, or a really specific kitchen gadget – and you just can't resist taking it home?"
+   "You know how sometimes you pick up a 'random, unusual item' in a charity shop – maybe an old board game with missing pieces, a peculiar piece of art, or a really specific kitchen gadget – and you just can't resist taking it home?",
+   "You know how sometimes you spot a 'charming, slightly quirky local shop' – maybe an independent bookshop, a vintage emporium, or a tiny bakery – that just has real character?",
+   "We all have that 'one particular piece of clothing or accessory' that, no matter how old or worn it gets, you just can't bring yourself to part with, do you?"
   ],
   "facts": [
-   "A standard golf ball has 336 dimples.",
-   "The world's largest hot desert is the Sahara, covering over 9 million square kilometres.",
-   "Butterflies taste with their feet, using chemoreceptors to find host plants and nectar.",
-   "The smallest bone in the human body is the stapes, located in the middle ear.",
-   "Cows don't have upper front teeth; instead, they have a tough dental pad.",
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in a Pringles can.",
-   "Mount Everest grows taller by about 4 millimetres each year due to tectonic plate movement.",
-   "The longest recorded flight of a chicken is 13 seconds.",
    "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "Lemons contain more sugar than strawberries.",
@@ -3495,7 +3499,15 @@
    "The average cloud weighs around 550 tons, roughly the same as 100 elephants, yet they float effortlessly above us.",
    "A pineapple is not a single fruit but a cluster of many individual berries fused together around a central core.",
    "The British Isles are home to over 1,500 different types of spiders, but only about 12 species are capable of biting humans.",
-   "Mount Everest actually grows by about 4 millimetres each year due to the ongoing tectonic activity of the Earth's plates."
+   "Mount Everest actually grows by about 4 millimetres each year due to the ongoing tectonic activity of the Earth's plates.",
+   "The world's smallest fish is the Paedocypris progenetica, found in Sumatran swamps, measuring only 7.9 millimetres.",
+   "A 'jiffy' is an actual unit of time, defined as the time it takes for light to travel one centimetre in a vacuum.",
+   "Butterflies taste with their feet, which are equipped with chemoreceptors to help them find host plants and nectar.",
+   "The British Isles are home to over 1,500 different types of spiders, but only about 12 species are capable of biting humans.",
+   "The distinctive smell of rain, especially after a dry spell, is called 'petrichor'.",
+   "The 'Penny Black' was the world's first adhesive postage stamp, issued in the United Kingdom on 1 May 1840.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still perfectly edible thousands of years later.",
+   "A group of owls is sometimes called a 'parliament', which seems rather fitting for such wise-looking birds."
   ]
  }
 }
