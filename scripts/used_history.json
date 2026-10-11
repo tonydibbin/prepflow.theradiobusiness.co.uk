@@ -1410,7 +1410,12 @@
   "4d2f641bdce91df2": "2026-10-12",
   "8626be8300810c08": "2026-10-12",
   "b77f5fd1aca3087a": "2026-10-12",
-  "54a56f55f25f5f3c": "2026-10-12"
+  "54a56f55f25f5f3c": "2026-10-12",
+  "62a45400387f86cd": "2026-10-12",
+  "93225007a43770ab": "2026-10-12",
+  "f02f4978df7c4d14": "2026-10-12",
+  "1a0346c03fd83045": "2026-10-12",
+  "4c26b2811609dc56": "2026-10-12"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -1981,7 +1986,7 @@
   "74ab3dd73002aa2a": "2026-09-24",
   "8744c598282fba00": "2026-09-28",
   "e7eca0b5b89d363f": "2026-09-24",
-  "99c5a040464e9ad3": "2026-09-24",
+  "99c5a040464e9ad3": "2026-10-12",
   "cc5ac7a7734d295d": "2026-09-25",
   "9f8b31a44ea7e3b1": "2026-09-25",
   "396ab5b171007046": "2026-09-25",
@@ -2070,7 +2075,8 @@
   "d45998912963afa1": "2026-10-11",
   "202514061a1db0da": "2026-10-12",
   "6f3ec6274f5d2db5": "2026-10-12",
-  "e877543d190e3172": "2026-10-12"
+  "e877543d190e3172": "2026-10-12",
+  "582de8c85fd6b197": "2026-10-12"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3338,17 +3344,15 @@
   "56fb325ecc1585bf": "2026-10-12",
   "9ef2bcea07d88711": "2026-10-12",
   "79149c66947e22d1": "2026-10-12",
-  "9f0cf4330c7af2e4": "2026-10-12"
+  "9f0cf4330c7af2e4": "2026-10-12",
+  "7a3fd94ff8ff9794": "2026-10-12",
+  "e43e515c7bcdde53": "2026-10-12",
+  "d6e92c53952060bb": "2026-10-12",
+  "7d1d074942498598": "2026-10-12",
+  "34e1f48a0b995d5a": "2026-10-12"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Research suggests that 'the perfect cup of tea' is less about the brew and more about the mug.",
-   "There's a growing appreciation for the quiet satisfaction of 'a perfectly organised sock drawer'.",
-   "The simple pleasure of 'hearing a familiar jingle' from an ice cream van is being recognised as a genuine mood-lifter.",
-   "A recent survey highlights the joy many find in 'successfully navigating a charity shop' for a unique find.",
-   "The delightful habit of 'talking to your houseplants' is gaining popularity for its unexpected benefits.",
-   "The surprising joy of perfectly peeling a satsuma in one go is gaining recognition.",
-   "A new appreciation is emerging for the comforting sight of 'a full biscuit tin'.",
    "The quiet delight of finding a forgotten five-pound note in an old coat pocket is being championed.",
    "Experts are highlighting the calming effect of watching a proper British drizzle.",
    "The unique satisfaction of successfully navigating a 'flat-pack furniture' project without a single argument is becoming a celebrated achievement.",
@@ -3381,11 +3385,16 @@
    "The comforting ritual of 'listening to the radio whilst doing the washing up' is being rediscovered by a new generation.",
    "A trend is emerging for 'repurposing vintage tea towels' into charming cushion covers and tote bags.",
    "The satisfying 'thwack of a tennis ball on a well-strung racket' is being celebrated as one of sport's purest sounds.",
-   "There's a growing appreciation for the 'subtle aroma of freshly cut grass on a sunny afternoon', even for those without a lawnmower."
+   "There's a growing appreciation for the 'subtle aroma of freshly cut grass on a sunny afternoon', even for those without a lawnmower.",
+   "The humble act of 'leaving a kind note for the postman or delivery driver' is gaining popularity as a small gesture of appreciation.",
+   "There's a quiet revolution happening in our gardens as 'creative vegetable patches' become the new must-have feature.",
+   "The simple pleasure of 'hearing a really good joke on the radio' is being rediscovered as a delightful, unexpected lift.",
+   "A new trend sees people embracing the 'charming imperfections of vintage kitchenware'.",
+   "The 'gentle art of carefully turning the pages of a well-loved book' is being championed as a mindful moment.",
+   "A recent study highlights the mood-boosting power of 'spotting a pet wearing a silly little outfit'.",
+   "The satisfying ritual of 'hanging laundry out on the line on a breezy day' is being appreciated for its simple charm and lovely scent."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if it's a fancy selection. What is it?",
-   "Our survey said that over 55% of us admit to secretly 'doing' what when we're trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new film on the telly, especially if it's one you've been looking forward to. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of cereal will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 60% of us admit to having a particular 'odd habit' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if it's a fancy selection. What is it?",
@@ -3423,11 +3432,11 @@
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before enjoying a new box of breakfast cereal, especially if it's a fancy, artisan one. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of shower gel will be good, even if we know it's not strictly scientific? What is it?"
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of shower gel will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to watch a new TV series, especially if it's a really anticipated one. What is it?",
+   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular sound' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
-   "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?",
    "You know how sometimes a 'particular smell' just instantly transports you back to a specific memory or feeling, perhaps from your childhood or a happy holiday?",
    "We all have that 'one small, everyday household item' that, despite its simplicity, you genuinely couldn't imagine your life without because it's just so useful or brings you a little bit of joy, don't we?",
    "You know how sometimes a 'particular type of shop' just instantly makes you feel nostalgic, perhaps because of its old-fashioned charm or the specific items it sells?",
@@ -3465,17 +3474,11 @@
    "We all have that 'one particular type of sweet treat' that instantly transports us back to happy childhood memories – perhaps a specific brand of biscuit, a retro crisp, or a classic sweet shop pick 'n' mix.",
    "You know how sometimes you pick up a 'random, unusual item' in a charity shop – maybe an old board game with missing pieces, a peculiar piece of art, or a really specific kitchen gadget – and you just can't resist taking it home?",
    "You know how sometimes you spot a 'charming, slightly quirky local shop' – maybe an independent bookshop, a vintage emporium, or a tiny bakery – that just has real character?",
-   "We all have that 'one particular piece of clothing or accessory' that, no matter how old or worn it gets, you just can't bring yourself to part with, do you?"
+   "We all have that 'one particular piece of clothing or accessory' that, no matter how old or worn it gets, you just can't bring yourself to part with, do you?",
+   "You know how sometimes a 'particular smell' – maybe fresh-cut grass, an old book, or a specific cleaning product – just instantly transports you back to a specific memory or a moment from your past?",
+   "We all have that 'one small, everyday item' that, perhaps to others, seems a bit ordinary, but to you, it brings a surprising amount of satisfaction or joy when you use it, don't we?"
   ],
   "facts": [
-   "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
-   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
-   "Lemons contain more sugar than strawberries.",
-   "The first recorded game of golf was played at Bruntsfield Links, Edinburgh, in 1456.",
-   "There are more than 10,000 different varieties of tomatoes.",
-   "Big Ben is actually the nickname for the Great Bell of the clock at the north end of the Palace of Westminster, not the clock tower itself.",
-   "The King James Bible, published in 1611, includes a printer's error in Ruth 3:15, which famously reads 'He went into the city' instead of 'She went into the city'.",
-   "A jiffy is an actual unit of time: 1/100th of a second.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a village in Wales.",
    "Bears are born without hair and are blind for their first month.",
    "A group of owls is called a parliament.",
@@ -3507,7 +3510,15 @@
    "The distinctive smell of rain, especially after a dry spell, is called 'petrichor'.",
    "The 'Penny Black' was the world's first adhesive postage stamp, issued in the United Kingdom on 1 May 1840.",
    "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still perfectly edible thousands of years later.",
-   "A group of owls is sometimes called a 'parliament', which seems rather fitting for such wise-looking birds."
+   "A group of owls is sometimes called a 'parliament', which seems rather fitting for such wise-looking birds.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "A group of flamingos is called a 'flamboyance', which seems rather fitting for such colourful birds.",
+   "Bees can fly faster than a car, with their top speed recorded at about 20 miles per hour.",
+   "The word 'robot' comes from the Czech word 'robota', meaning forced labour or drudgery.",
+   "Chameleons change their skin colour not only for camouflage but also to express their mood and body temperature.",
+   "The 'Great Stink' of London in 1858 was caused by untreated human waste in the River Thames, leading to the creation of London's modern sewer system.",
+   "There are more permutations of a standard deck of 52 playing cards than there are atoms on Earth.",
+   "The tiny country of San Marino is the oldest sovereign state in the world, founded in 301 AD."
   ]
  }
 }
