@@ -1487,7 +1487,12 @@
   "d22653e8a30ca86f": "2026-10-19",
   "5cd390d4064d31c6": "2026-10-19",
   "6b427feed3f950cf": "2026-10-19",
-  "e3de1512b89b64fa": "2026-10-19"
+  "e3de1512b89b64fa": "2026-10-19",
+  "9bb59afe4ac3848c": "2026-10-20",
+  "99f97aaca9e88017": "2026-10-20",
+  "5b0d8c9aba57179d": "2026-10-20",
+  "667aa0d628345241": "2026-10-20",
+  "8757de7af6b9bcf0": "2026-10-20"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2101,7 +2106,7 @@
   "61319846165cbb66": "2026-10-03",
   "08587ee745ed87fc": "2026-10-03",
   "ced006366052a3d6": "2026-10-04",
-  "63e4781c1a30b488": "2026-10-03",
+  "63e4781c1a30b488": "2026-10-20",
   "0142af292ab1c816": "2026-10-04",
   "988e22ea7aa9816e": "2026-10-04",
   "ce42b48146e75a0e": "2026-10-04",
@@ -2166,13 +2171,14 @@
   "282eb4ba63e4b162": "2026-10-16",
   "ff5369fe0c1ef4eb": "2026-10-16",
   "f1643b3b472fe7e3": "2026-10-19",
-  "43ded67ee5d7db23": "2026-10-18",
+  "43ded67ee5d7db23": "2026-10-20",
   "0f8d063cb58e53ad": "2026-10-19",
   "acc8b7a5438d5d04": "2026-10-18",
   "0a835463f6e8d2a1": "2026-10-19",
-  "36c668558530c919": "2026-10-18",
-  "532d94ae327a6d60": "2026-10-19",
-  "6d1d7243579839f9": "2026-10-19"
+  "36c668558530c919": "2026-10-20",
+  "532d94ae327a6d60": "2026-10-20",
+  "6d1d7243579839f9": "2026-10-19",
+  "6c1c0d9c87889fa9": "2026-10-20"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3515,17 +3521,15 @@
   "5e3956c286d92825": "2026-10-19",
   "f8ac893a3f6c6fb4": "2026-10-19",
   "b4393217368334c0": "2026-10-19",
-  "b9b6dee8ec6b35db": "2026-10-19"
+  "b9b6dee8ec6b35db": "2026-10-19",
+  "cb1c2d72556e8d2d": "2026-10-20",
+  "cf8ecfd5988210a1": "2026-10-20",
+  "d0c16a37ed5421fd": "2026-10-20",
+  "304810d7658b5dc3": "2026-10-20",
+  "c5478dad353fe9c8": "2026-10-20"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The simple pleasure of 'watching birds at a garden feeder' is becoming a widespread mindful moment.",
-   "A trend for 'home-made bread-making' has seen a massive resurgence.",
-   "The delightful discovery of 'a forgotten fiver in an old coat pocket' remains a universal small joy.",
-   "More people are embracing the 'art of perfectly packing a picnic basket' for impromptu outdoor meals.",
-   "The satisfying feeling of 'organising a kitchen drawer' has been highlighted as a surprisingly therapeutic activity.",
-   "A charming new study highlights the calming effect of 'puddle-gazing' on a rainy day.",
-   "The simple act of 'sharpening a pencil' is being celebrated as a small, satisfying moment in our busy lives.",
    "Many are finding unexpected delight in 'organising their spice rack' into alphabetical order or by colour.",
    "The return of 'handwritten thank you notes' is making a comeback, bringing a personal touch to modern communication.",
    "Discovering a 'perfectly ripe punnet of berries' at the supermarket is sparking small moments of joy for shoppers.",
@@ -3558,11 +3562,16 @@
    "Collecting 'unusual teacups' is becoming a charming, niche hobby.",
    "There's a growing appreciation for the 'sound of distant church bells'.",
    "The delightful trend of 'decorating your bookshelf like a miniature art installation' is growing.",
-   "A new appreciation for 'vintage board games from the 70s and 80s' is sweeping through homes."
+   "A new appreciation for 'vintage board games from the 70s and 80s' is sweeping through homes.",
+   "A recent study suggests that a brisk walk in a local park could be just as good for boosting creativity as a dedicated brainstorming session.",
+   "The unexpected joy of 'discovering a forgotten fiver' in an old coat pocket is apparently a universal delight.",
+   "Experts are highlighting the quiet charm of 'early morning garden dew' as a surprising source of peace.",
+   "There's a growing trend of 'swapping surplus garden produce' with neighbours, fostering community spirit and reducing waste.",
+   "The comforting ritual of 'listening to the rain against the window' is being recognised for its stress-reducing qualities.",
+   "A new appreciation for 'vintage British seaside postcards' is capturing the imagination of collectors and nostalgic types.",
+   "The simple pleasure of 'successfully peeling an orange in one go' is bringing small moments of triumph to many."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of soap, especially if it's a fancy, scented one. What is it?",
-   "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of shampoo will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of marmalade, especially if it's a fancy, artisan one. What is it?",
@@ -3600,11 +3609,11 @@
    "Our survey said that over 60% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new bar of soap, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of sparkling water will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of biscuits will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of tea, especially if it's a fancy, artisan one. What is it?"
+   "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of tea, especially if it's a fancy, artisan one. What is it?",
+   "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a 'particular type of biscuit' just instantly brings back happy memories of childhood tea times or visits to grandparents, even if you haven't seen one in years?",
-   "We all have that 'one small, everyday act of kindness' that, when someone does it for you, truly makes your day, don't we?",
    "You know how sometimes you just have 'one particular cupboard or drawer' in your home that, no matter how many times you tidy it, always seems to descend into delightful chaos?",
    "We all have that 'one small, everyday sound' that, despite its simplicity, genuinely makes us feel happy or brings a little bit of comfort, don't we?",
    "You know how sometimes you pick up a 'random, unusual item' in a charity shop – maybe an old board game with missing pieces, a peculiar piece of art, or a really specific kitchen gadget – and you just can't resist taking it home?",
@@ -3642,17 +3651,11 @@
    "You know how sometimes a particular 'everyday item' just instantly makes you feel a bit nostalgic or takes you back to a specific time, even if it's something as simple as a particular brand of biscuit or a type of old-fashioned sweet?",
    "We all have that 'one small, everyday household task' that, for some reason, we find surprisingly therapeutic or satisfying to do, even if it's something mundane like polishing silver or organising a drawer.",
    "You know how sometimes a particular 'everyday object' just instantly makes you feel a bit nostalgic or takes you back to a specific time?",
-   "We all have those little 'comfort sounds' that just make life better, don't we?"
+   "We all have those little 'comfort sounds' that just make life better, don't we?",
+   "You know how sometimes a particular 'everyday smell' just instantly makes you feel a bit nostalgic or takes you back to a specific time?",
+   "We all have those 'little acts of kindness' that we've either given or received that just made our day, or even our week."
   ],
   "facts": [
-   "A group of ferrets is known as a business.",
-   "The inventor of the Pringles can, Fredric Baur, requested to be buried in one of his creations.",
-   "Strawberry is the only fruit that wears its seeds on the outside.",
-   "There are more possible iterations of a game of chess than there are atoms in the known universe.",
-   "The 'sixth sick sheik's sixth sheep's sick' is considered the toughest tongue twister in the English language.",
-   "Coconuts are classified as a 'drupe', which is a fruit with a hard stony covering enclosing the seed, not a nut.",
-   "The distinctive scent of freshly cut grass is actually a distress signal from the plants.",
-   "The world's largest snowflake ever recorded was 15 inches wide and 8 inches thick, found in Montana in 1887.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896; Zanzibar surrendered after 38 minutes.",
    "Bananaphobia is the fear of bananas.",
    "The national animal of Scotland is the unicorn.",
@@ -3684,7 +3687,15 @@
    "Oxford University is older than the Aztec Empire, with teaching documented as early as 1096.",
    "The 'king of fruits', Durian, is banned on public transport in some Asian countries due to its strong smell.",
    "In space, astronauts cannot cry normally because there is no gravity to make the tears fall.",
-   "The inventor of the refreshing 'Rubik's Cube', Ernő Rubik, originally created it as a teaching tool to help his students understand 3D objects."
+   "The inventor of the refreshing 'Rubik's Cube', Ernő Rubik, originally created it as a teaching tool to help his students understand 3D objects.",
+   "A group of flamingos is called a 'flamboyance', perfectly describing their vibrant appearance.",
+   "The distinctive red telephone boxes in the UK were designed by Sir Giles Gilbert Scott, who also designed Battersea Power Station.",
+   "Honey never spoils; archaeologists have even found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Bananas are technically berries, while strawberries are not.",
+   "The 'richest' soil on Earth is called 'chernozem', found in regions like Ukraine and Russia, and is incredibly fertile.",
+   "Mount Everest, the world's highest peak, grows taller by a few millimetres each year due to geological forces.",
+   "The unique pattern of stripes on a zebra is as individual as a human fingerprint, with no two zebras having the exact same markings."
   ]
  }
 }
