@@ -1497,7 +1497,12 @@
   "ed565a18d9b3e460": "2026-10-20",
   "5c6cc3e3020a225b": "2026-10-20",
   "70dbf232135248d3": "2026-10-20",
-  "14e190120c4f7885": "2026-10-20"
+  "14e190120c4f7885": "2026-10-20",
+  "75ca359191cd5831": "2026-10-21",
+  "c5e290fb95ee5648": "2026-10-21",
+  "848aba5bd3a04289": "2026-10-21",
+  "de782f8f2883071c": "2026-10-21",
+  "ba162214d9c29577": "2026-10-21"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2176,14 +2181,17 @@
   "282eb4ba63e4b162": "2026-10-16",
   "ff5369fe0c1ef4eb": "2026-10-16",
   "f1643b3b472fe7e3": "2026-10-19",
-  "43ded67ee5d7db23": "2026-10-20",
+  "43ded67ee5d7db23": "2026-10-21",
   "0f8d063cb58e53ad": "2026-10-19",
   "acc8b7a5438d5d04": "2026-10-18",
   "0a835463f6e8d2a1": "2026-10-19",
   "36c668558530c919": "2026-10-20",
   "532d94ae327a6d60": "2026-10-20",
   "6d1d7243579839f9": "2026-10-19",
-  "6c1c0d9c87889fa9": "2026-10-20"
+  "6c1c0d9c87889fa9": "2026-10-21",
+  "60d125e90a9373e6": "2026-10-21",
+  "9422c14cfc17075d": "2026-10-21",
+  "a4e08e6ceaf543a9": "2026-10-21"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3536,17 +3544,15 @@
   "30a33bfd6675a117": "2026-10-20",
   "15d14d312c2466ef": "2026-10-20",
   "f3a21e9315e32baf": "2026-10-20",
-  "ac16671b6ad3afbd": "2026-10-20"
+  "ac16671b6ad3afbd": "2026-10-20",
+  "dba2b24e1f774808": "2026-10-21",
+  "592ac8633790a29d": "2026-10-21",
+  "b662b460f45b5928": "2026-10-21",
+  "475daae4f7737bd1": "2026-10-21",
+  "54c4b82845775359": "2026-10-21"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The delightful trend of 'decorating your garden shed' is growing.",
-   "More people are embracing the 'art of perfectly folding laundry'.",
-   "The simple pleasure of 'finding a perfectly smooth pebble on the beach' is being celebrated.",
-   "A new appreciation for 'vintage board games' is sweeping through homes.",
-   "The comforting ritual of 'listening to the radio whilst doing household chores' is making a comeback.",
-   "A new study suggests that the sound of rain on a windowpane is particularly soothing for pets.",
-   "The simple act of 'doodling' during meetings is being hailed as a creativity booster.",
    "More people are finding quiet enjoyment in the art of 'identifying clouds'.",
    "The humble 'teacup' is seeing a resurgence in popularity, with many seeking out unique and vintage designs.",
    "Discovering a 'perfectly aligned queue' at the supermarket checkout is bringing small moments of joy to shoppers.",
@@ -3579,11 +3585,16 @@
    "The joy of 'post-it note art' is brightening up offices and homes.",
    "A recent study found that 'matching your socks' isn't just for laundry day; it's a small act of daily self-care.",
    "The delightful practice of 'leaving anonymous compliments' is spreading joy in communities.",
-   "There's a growing appreciation for the distinct smell of 'old books' and libraries."
+   "There's a growing appreciation for the distinct smell of 'old books' and libraries.",
+   "The joy of finding an unexpectedly deep pocket in your clothes is being celebrated by fashionistas and practical folk alike.",
+   "A new appreciation for the humble 'doorstop' is gaining traction, with collectors seeking out vintage and quirky designs.",
+   "The satisfying 'clink of a glass bottle' being placed in a recycling bin is a newly recognised sound of domestic contentment.",
+   "Experts are highlighting the calming effect of 'watching a small, steady flame', like a candle or a gas hob.",
+   "The delightful practice of 'naming your houseplants' is reportedly on the rise, fostering a deeper connection with indoor greenery.",
+   "A new trend sees people enjoying 'the perfect sandwich crust' as a moment of mindful eating.",
+   "The comforting ritual of 'tucking in a loose thread' on a piece of clothing is being recognised for its small but significant sense of order."
   ],
   "survey": [
-   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of marmalade, especially if it's a fancy, artisan one. What is it?",
-   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of cheese will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a special blend. What is it?",
    "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
@@ -3621,11 +3632,11 @@
    "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if they're a fancy, artisan one. What is it?",
-   "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?"
+   "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
+   "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of chocolate will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of jam, especially if it's a fancy, artisan one. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you pick up a 'random, unusual item' in a charity shop – maybe an old board game with missing pieces, a peculiar piece of art, or a really specific kitchen gadget – and you just can't resist taking it home?",
-   "We all have that 'one particular local landmark or feature' that, perhaps to others, seems a bit ordinary, but to you, it holds a special place in your heart or brings back lovely memories.",
    "You know how sometimes you have a 'favourite shortcut or a slightly unusual route' you take when walking or driving, that just feels like your own little secret?",
    "We all have that 'one particular household chore' that, oddly, we actually find quite satisfying or even relaxing to do, don't we?",
    "We all have that 'one particular type of sweet treat' that instantly transports us back to happy childhood memories – perhaps a specific brand of biscuit, a retro crisp, or a classic sweet shop pick 'n' mix.",
@@ -3663,17 +3674,11 @@
    "You know how sometimes a particular 'everyday smell' just instantly makes you feel a bit nostalgic or takes you back to a specific time?",
    "We all have those 'little acts of kindness' that we've either given or received that just made our day, or even our week.",
    "You know how sometimes you discover a 'hidden gem' in your local area – perhaps a lovely little café, a quiet park bench with a great view, or a fascinating independent shop that you'd never noticed before?",
-   "We all have those little 'everyday moments of triumph' that just make life feel a bit better, don't we? Like successfully parallel parking on the first try, or managing to open a stubborn jar without any fuss."
+   "We all have those little 'everyday moments of triumph' that just make life feel a bit better, don't we? Like successfully parallel parking on the first try, or managing to open a stubborn jar without any fuss.",
+   "You know how sometimes a particular 'everyday pattern' just catches your eye – maybe the way a shadow falls, or the arrangement of items on a shelf, or even the brickwork on a building?",
+   "We all have that 'one small, everyday household item' that, for some reason, we're surprisingly protective of or attached to, even if it's just a favourite mug or a well-loved spatula."
   ],
   "facts": [
-   "The inventor of the Pringle, Fredric Baur, requested to be buried in one of the iconic Pringle cans, and his wish was granted.",
-   "The average person walks the equivalent of five times around the world in their lifetime.",
-   "Butterflies taste with their feet.",
-   "The Great Wall of China is not visible from space with the naked eye.",
-   "Octopuses have three hearts.",
-   "A cloud can weigh more than a million pounds.",
-   "The shortest complete sentence in the English language is 'I am'.",
-   "The 'king of fruits', Durian, is banned on public transport in some Asian countries due to its strong smell.",
    "A 'jiffy' is an actual unit of time, specifically 1/100th of a second.",
    "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
    "The inventor of the refreshing 'Rubik's Cube', Ernő Rubik, originally created it as a teaching tool to help his students understand 3D objects.",
@@ -3705,7 +3710,15 @@
    "Butterflies taste with their feet.",
    "The Great Barrier Reef is the largest living structure on Earth and can be seen from space.",
    "Oxford University is older than the Aztec Empire, with teaching documented as early as 1096.",
-   "The 'richest' soil on Earth is called 'chernozem', found in regions like Ukraine and Russia, and is incredibly fertile."
+   "The 'richest' soil on Earth is called 'chernozem', found in regions like Ukraine and Russia, and is incredibly fertile.",
+   "The distinctive sound of Big Ben's chimes is officially known as the 'Westminster Quarters'.",
+   "The first crossword puzzle was published in a newspaper in New York in 1913.",
+   "Honey never spoils and can be safe to eat even after thousands of years.",
+   "The only letter in the alphabet that does not appear in the name of any U.S. state is 'Q'.",
+   "The 'king' of playing cards is the only one without a moustache.",
+   "A pineapple is not a single fruit, but rather a collection of many individual berries fused together.",
+   "The world's oldest known living tree, 'Methuselah', is a Great Basin bristlecone pine over 4,800 years old.",
+   "The inventor of the Pringle's can is buried in one."
   ]
  }
 }
