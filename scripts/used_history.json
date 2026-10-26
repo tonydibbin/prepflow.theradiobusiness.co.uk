@@ -1564,7 +1564,12 @@
   "a56582c126fd9c59": "2026-10-27",
   "3ccef98ffad20fb7": "2026-10-27",
   "01f573103b969432": "2026-10-27",
-  "557f1b8613a20ba3": "2026-10-27"
+  "557f1b8613a20ba3": "2026-10-27",
+  "e6b1d907c3d14be0": "2026-10-27",
+  "aa5f631cd02d1160": "2026-10-27",
+  "8d7ea519104e8037": "2026-10-27",
+  "7fb8a136c6a947c4": "2026-10-27",
+  "3537622e855b1d72": "2026-10-27"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2184,7 +2189,7 @@
   "ce42b48146e75a0e": "2026-10-04",
   "49615804af71151d": "2026-10-04",
   "f0d5ab48897c681c": "2026-10-04",
-  "a51aacfeaa90ff1c": "2026-10-04",
+  "a51aacfeaa90ff1c": "2026-10-27",
   "c19f40b20578bc83": "2026-10-04",
   "fba6858864a58fcb": "2026-10-04",
   "0c3133c0b4220108": "2026-10-07",
@@ -2271,7 +2276,7 @@
   "9887e2575801c5c4": "2026-10-26",
   "d13b2ef41df40a16": "2026-10-26",
   "205bbacfe1720b28": "2026-10-25",
-  "eb4f3b908cedcfe6": "2026-10-26",
+  "eb4f3b908cedcfe6": "2026-10-27",
   "526dc2b375ca73fa": "2026-10-26",
   "bae9be59ebac393c": "2026-10-26",
   "8879be88cd2a6baf": "2026-10-26",
@@ -2279,7 +2284,8 @@
   "b11d4f2fcda824b1": "2026-10-27",
   "4ab519d4e8df7ad4": "2026-10-27",
   "1aa3f3d976306ad0": "2026-10-27",
-  "683100e77f30f008": "2026-10-27"
+  "683100e77f30f008": "2026-10-27",
+  "3f4a282cf6ad2cb8": "2026-10-27"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3697,17 +3703,15 @@
   "9a242a9aa1d72e82": "2026-10-27",
   "b90ba76777ddd48b": "2026-10-27",
   "7fb5c558783cc55e": "2026-10-27",
-  "84595339f28b029e": "2026-10-27"
+  "84595339f28b029e": "2026-10-27",
+  "25fe80d9ffce2b41": "2026-10-27",
+  "7221cb931efd855d": "2026-10-27",
+  "cbc5593f7e2e878a": "2026-10-27",
+  "62b9ea3c1dede073": "2026-10-27",
+  "c24538d1bb403f48": "2026-10-27"
  },
  "_ai_recent": {
   "newsbrief": [
-   "The simple act of 'smoothly closing a kitchen drawer' is surprisingly satisfying for many.",
-   "More people are finding delight in the distinct aroma of freshly baked bread wafting from local bakeries.",
-   "The trend of 'perfectly peeling an orange in one continuous spiral' is providing a tiny, gratifying challenge.",
-   "Research shows that the 'gentle bubbling sound of a kettle coming to boil' can be surprisingly soothing.",
-   "A new appreciation is emerging for the subtle shimmer of condensation on a cold glass of water.",
-   "A new study suggests that the subtle scent of old books can evoke stronger nostalgic feelings than photographs.",
-   "The trend of 'intentional walking' is gaining popularity, encouraging people to appreciate their local surroundings more deeply.",
    "Many are rediscovering the quiet satisfaction of 'perfectly aligning cutlery' in the drawer after washing up.",
    "A recent poll indicates a growing affection for the sound of 'distant church bells' on a Sunday morning.",
    "The simple act of 'smoothly spreading butter' on a piece of toast is being celebrated as a small, satisfying skill.",
@@ -3740,11 +3744,16 @@
    "There's a growing trend for 'micro-adventures' involving local exploration of footpaths and forgotten lanes.",
    "The satisfying 'scrunch' of rustling autumn leaves underfoot is being hailed as a simple pleasure of the season.",
    "A study reveals that people are finding unexpected comfort in the rhythmic sound of a distant, ticking clock.",
-   "The gentle hum of household appliances, like a washing machine or dishwasher, is proving to be a surprising source of background comfort."
+   "The gentle hum of household appliances, like a washing machine or dishwasher, is proving to be a surprising source of background comfort.",
+   "A new appreciation is growing for the satisfying quiet of a freshly made bed.",
+   "The comforting tradition of 'Sunday roasts with all the trimmings' is seeing a modern revival across the country.",
+   "Experts suggest that the subtle scent of 'rain on dry earth' can have a profoundly calming effect on our minds.",
+   "People are finding unexpected pleasure in the visual appeal of 'a well-organised spice rack'.",
+   "The quiet artistry of 'a perfectly toasted crumpet' is gaining recognition among breakfast enthusiasts.",
+   "The simple act of 'waving goodbye to a departing train' is bringing a momentary sense of connection and nostalgia.",
+   "There's a growing trend for 'creative repurposing' of old household items, turning clutter into quirky decor."
   ],
   "survey": [
-   "Our survey said that over 65% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of cheese will be good, even if we know it's not strictly scientific?",
-   "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before enjoying a new box of tea bags, especially if they're a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new box of biscuits, especially if they're a fancy, artisan one. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of bread will be good, even if we know it's not strictly scientific?",
@@ -3782,11 +3791,11 @@
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new kind of fruit will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of tea, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new kind of fruit will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
+   "Our survey said that over 65% of us admit to discreetly 'doing' what when trying to decide if a new brand of cereal will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 75% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new book, especially if it's a hardback. What is it?"
   ],
   "talk_topic": [
-   "We all have those little 'everyday sounds' that, for some reason, just fill us with a quiet sense of satisfaction or happiness.",
-   "There's something wonderfully nostalgic about 'traditional British sweet shops' and their colourful displays of sugary delights.",
    "You know how sometimes a particular 'everyday sound' just instantly makes you feel a bit nostalgic or takes you back to a specific time?",
    "We all have those little 'comfort items' that just make life better, don't we?",
    "We all have those little 'comfort sounds' that just make life better, don't we?",
@@ -3824,17 +3833,11 @@
    "You know how sometimes a particular 'everyday item' just looks so aesthetically pleasing – maybe the way a set of pencils are arranged, or a stack of books, or even the neatly organised shelves in a shop?",
    "We all have that 'one particular window' in our home that we just love looking out of, don't we? It might have a great view, or just catch the light in a special way, or perhaps you've got a bird feeder outside it.",
    "We all have that 'one particular household chore' that we surprisingly enjoy, don't we?",
-   "You know how sometimes a specific 'everyday object' just makes you smile when you see it?"
+   "You know how sometimes a specific 'everyday object' just makes you smile when you see it?",
+   "We all have that 'one particular kitchen gadget' that we absolutely adore, even if we only use it once a year. It might be a retro ice cream maker, a fancy garlic press, or even a classic biscuit tin.",
+   "You know how sometimes a specific 'everyday street name' or 'place name' just always makes you smile, perhaps because it's a bit quirky, or sounds funny, or just brings back a happy memory?"
   ],
   "facts": [
-   "The world's oldest continuous monarchy is Japan's imperial family, which has reigned for over 2,600 years.",
-   "A 'floccinaucinihilipilification' is the act or habit of estimating something as worthless.",
-   "The distinctive red telephone boxes in the UK were designed by Sir Giles Gilbert Scott.",
-   "Butterflies taste with their feet, which have chemoreceptors to detect suitable host plants.",
-   "The British Isles are home to over 10,000 miles of coastline.",
-   "The first modern Olympic Games were held in Athens, Greece, in 1896.",
-   "A 'murmuration' is the term for a large flock of starlings flying in a coordinated, swirling pattern.",
-   "The world's first recorded recipe for a cake comes from ancient Mesopotamia.",
    "A group of owls is called a parliament.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "The 'unicorn' is the national animal of Scotland.",
@@ -3866,7 +3869,15 @@
    "The word 'robot' comes from the Czech word 'robota', meaning 'forced labour'.",
    "The longest recorded flight of a chicken is 13 seconds.",
    "The Union Jack flag is made up of the crosses of St George, St Andrew, and St Patrick.",
-   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible."
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "The unique black and white stripes of a zebra are like fingerprints – no two zebras have exactly the same pattern.",
+   "The Great Barrier Reef, off the coast of Australia, is the largest living structure on Earth and can be seen from space.",
+   "Wombats are the only animals in the world whose faeces are cube-shaped.",
+   "The national animal of Scotland is the unicorn.",
+   "A cloud, on average, weighs about 550 tons, which is roughly the same as 100 elephants.",
+   "The world's oldest known living tree is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
+   "The game of 'Draughts' (or checkers) is one of the oldest board games, with a board found in Ur dating back to 3000 BC."
   ]
  }
 }
