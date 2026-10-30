@@ -1608,7 +1608,12 @@
   "ee2410c17c735c63": "2026-10-31",
   "6f9825819109408a": "2026-10-31",
   "298fa83785e7c2f9": "2026-10-31",
-  "98f48b90a938dbfe": "2026-10-31"
+  "98f48b90a938dbfe": "2026-10-31",
+  "001d31e4bd959f24": "2026-10-31",
+  "89c6eb94938612d2": "2026-10-31",
+  "5386af328745387c": "2026-10-31",
+  "ba927d98f0bc97db": "2026-10-31",
+  "e17ed1f06cdcd14f": "2026-10-31"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2276,7 +2281,7 @@
   "1394eaa2acea21b6": "2026-10-13",
   "3818c379c1bd07a1": "2026-10-15",
   "5efd30f50503e0aa": "2026-10-14",
-  "6578059c70ca7f43": "2026-10-14",
+  "6578059c70ca7f43": "2026-10-31",
   "e2443f876a52ee52": "2026-10-14",
   "fe1212d0db311f69": "2026-10-14",
   "332de23d4a2ac5c1": "2026-10-16",
@@ -2345,7 +2350,8 @@
   "b8cc9c5d542628eb": "2026-10-31",
   "3e828a42ef4ea71b": "2026-10-31",
   "cbf95b65ca24f18a": "2026-10-31",
-  "5d38d612e919cd7a": "2026-10-31"
+  "5d38d612e919cd7a": "2026-10-31",
+  "32e0eee2f7086997": "2026-10-31"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3803,17 +3809,15 @@
   "0e0efcb044d970bd": "2026-10-31",
   "c1c32855f2d848bd": "2026-10-31",
   "751b08300375e6fd": "2026-10-31",
-  "1d53f99abe1ecbfd": "2026-10-31"
+  "1d53f99abe1ecbfd": "2026-10-31",
+  "8051b3f04be2ac56": "2026-10-31",
+  "374dde536df41a1a": "2026-10-31",
+  "17fe95564954a70e": "2026-10-31",
+  "7ec0e19bc6e39ebb": "2026-10-31",
+  "31a9a10779c1c3d4": "2026-10-31"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Experts suggest that the subtle scent of 'rain on dry earth' can have a profoundly calming effect on our minds.",
-   "People are finding unexpected pleasure in the visual appeal of 'a well-organised spice rack'.",
-   "The quiet artistry of 'a perfectly toasted crumpet' is gaining recognition among breakfast enthusiasts.",
-   "The simple act of 'waving goodbye to a departing train' is bringing a momentary sense of connection and nostalgia.",
-   "There's a growing trend for 'creative repurposing' of old household items, turning clutter into quirky decor.",
-   "A surprising new study suggests that the gentle 'clinking' of ice cubes in a glass can actually lower stress levels.",
-   "The humble art of 'doodling' is getting a serious reputation boost as a creativity booster.",
    "There's a growing trend for 'comfort cooking' that focuses on classic, simple recipes from childhood.",
    "The satisfying feeling of 'peeling a sticker' perfectly is being celebrated as a small joy.",
    "A new appreciation is blossoming for the subtle beauty of 'moss gardens' in urban spaces.",
@@ -3846,11 +3850,16 @@
    "The humble 'wooden spoon' is being celebrated as the unsung hero of the kitchen in a recent online poll.",
    "There's a growing appreciation for the delicate art of 'creating a perfect ripple in a cup of tea' with a gentle stir.",
    "Many are discovering the charm of 'spotting friendly faces in cloud formations' on a sunny afternoon.",
-   "The simple pleasure of 'hearing the satisfying click of a light switch' when entering a room is bringing a subtle sense of order."
+   "The simple pleasure of 'hearing the satisfying click of a light switch' when entering a room is bringing a subtle sense of order.",
+   "A heartwarming trend sees neighbours rediscovering the joy of borrowing everyday items from each other.",
+   "The humble 'cosy reading nook' is being hailed as the ultimate stress-buster in a new lifestyle report.",
+   "People are finding unexpected delight in the subtle art of 'arranging fruit bowls' for maximum visual appeal.",
+   "The surprising satisfaction of 'matching socks straight out of the laundry' is trending online.",
+   "There's a growing appreciation for the unique charm of 'listening to the rain' patter against the window.",
+   "The unexpected pleasure of 'finding a coin down the back of the sofa' is bringing small smiles to many faces.",
+   "A new study reveals that the sound of 'a ticking clock' can surprisingly enhance focus for some individuals."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if they're a fancy, artisan one. What is it?",
    "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of chocolate will be good, even if we know it's not strictly scientific? What is it?",
@@ -3888,11 +3897,11 @@
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new piece of furniture will fit through the doorway, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of coffee, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 65% of us admit to discreetly 'doing' what when trying to decide if a new kind of cheese will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of soap, especially if it's a fancy, artisan one. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of soap, especially if it's a fancy, artisan one. What is it?",
+   "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new piece of fruit in the supermarket will be good, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes a particular 'everyday smell' just instantly makes you feel a bit nostalgic or takes you back to a specific time?",
-   "We all have those 'little acts of kindness' that we've either given or received that just made our day, or even our week.",
    "You know how sometimes you discover a 'hidden gem' in your local area – perhaps a lovely little café, a quiet park bench with a great view, or a fascinating independent shop that you'd never noticed before?",
    "We all have those little 'everyday moments of triumph' that just make life feel a bit better, don't we? Like successfully parallel parking on the first try, or managing to open a stubborn jar without any fuss.",
    "You know how sometimes a particular 'everyday pattern' just catches your eye – maybe the way a shadow falls, or the arrangement of items on a shelf, or even the brickwork on a building?",
@@ -3930,17 +3939,11 @@
    "You know how sometimes a particular 'everyday object' just looks incredibly happy or surprised, thanks to its design?",
    "We all have that 'one particular piece of clothing' that we absolutely adore, even if it's a bit old or faded.",
    "You know how sometimes a particular 'everyday object' just looks incredibly happy or surprised, thanks to its design?",
-   "We all have that 'one particular piece of clothing' that we absolutely adore, even if it's a bit old or faded."
+   "We all have that 'one particular piece of clothing' that we absolutely adore, even if it's a bit old or faded.",
+   "We all have those little 'kitchen drawer discoveries', don't we?",
+   "Sometimes, the simplest things are the best, like 'finding the perfect parking spot'."
   ],
   "facts": [
-   "The world's smallest chameleon, the Brookesia micra, can fit comfortably on the tip of your finger.",
-   "Big Ben is actually the nickname for the Great Bell of the clock at the north end of the Palace of Westminster, not the clock tower itself.",
-   "The inventor of the Pringle chip can is buried in one.",
-   "Strawberries are the only fruit with seeds on the outside.",
-   "The total weight of all the ants on Earth is estimated to be greater than the total weight of all humans.",
-   "The iconic red telephone boxes in the UK were designed by Sir Giles Gilbert Scott.",
-   "A single cloud can hold over a million pounds of water.",
-   "The average person walks the equivalent of three times around the world in their lifetime.",
    "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
    "Bumblebees can fly higher than Mount Everest, as they have been observed at altitudes of up to 9,000 metres.",
    "The world's smallest commercially available car is the Peel P50, a three-wheeled microcar made in the Isle of Man.",
@@ -3972,7 +3975,15 @@
    "The national animal of Scotland is the unicorn.",
    "Bumblebees can fly higher than Mount Everest.",
    "There are more fake flamingos in the world than real ones.",
-   "The word 'hello' was originally a greeting to call attention, like 'hey there!'"
+   "The word 'hello' was originally a greeting to call attention, like 'hey there!'",
+   "The world's smallest chameleon is about the size of a sunflower seed.",
+   "Butterflies taste with their feet, allowing them to 'tap' on leaves to find the right plants for laying eggs.",
+   "The inventor of the Pringle potato crisp can had his ashes buried in a Pringle can.",
+   "The Great Barrier Reef is the largest living structure on Earth, visible from space.",
+   "The 'sixth' mass extinction event on Earth is currently happening, largely driven by human activities.",
+   "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
+   "A cloud can weigh more than a million pounds, despite looking light and airy.",
+   "The longest recorded flight of a chicken is 13 seconds, demonstrating their surprising ability to briefly take to the air."
   ]
  }
 }
