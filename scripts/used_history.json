@@ -1613,7 +1613,12 @@
   "89c6eb94938612d2": "2026-10-31",
   "5386af328745387c": "2026-10-31",
   "ba927d98f0bc97db": "2026-10-31",
-  "e17ed1f06cdcd14f": "2026-10-31"
+  "e17ed1f06cdcd14f": "2026-10-31",
+  "dee213647d27dc70": "2026-11-01",
+  "6734c775083d551f": "2026-11-01",
+  "5a6d1ab32b82e93a": "2026-11-01",
+  "d5684a73ec366281": "2026-11-01",
+  "3152d653a6298ecf": "2026-11-01"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2279,7 +2284,7 @@
   "e110948d4f858dcd": "2026-10-20",
   "b2a95c467231495d": "2026-10-14",
   "1394eaa2acea21b6": "2026-10-13",
-  "3818c379c1bd07a1": "2026-10-15",
+  "3818c379c1bd07a1": "2026-11-01",
   "5efd30f50503e0aa": "2026-10-14",
   "6578059c70ca7f43": "2026-10-31",
   "e2443f876a52ee52": "2026-10-14",
@@ -2348,10 +2353,13 @@
   "2970231cbf9a12c5": "2026-10-30",
   "3b8dd9b4343e6e90": "2026-10-30",
   "b8cc9c5d542628eb": "2026-10-31",
-  "3e828a42ef4ea71b": "2026-10-31",
+  "3e828a42ef4ea71b": "2026-11-01",
   "cbf95b65ca24f18a": "2026-10-31",
   "5d38d612e919cd7a": "2026-10-31",
-  "32e0eee2f7086997": "2026-10-31"
+  "32e0eee2f7086997": "2026-10-31",
+  "95c1ad2e32c37c13": "2026-11-01",
+  "765d27b2aa5f018f": "2026-11-01",
+  "68ca1110422c3154": "2026-11-01"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3814,17 +3822,15 @@
   "374dde536df41a1a": "2026-10-31",
   "17fe95564954a70e": "2026-10-31",
   "7ec0e19bc6e39ebb": "2026-10-31",
-  "31a9a10779c1c3d4": "2026-10-31"
+  "31a9a10779c1c3d4": "2026-10-31",
+  "fd4fa64449f29c64": "2026-11-01",
+  "776258e19ad56b48": "2026-11-01",
+  "20335d0f0e4b537e": "2026-11-01",
+  "871264371916d12e": "2026-11-01",
+  "29c3f5727d3b0a24": "2026-11-01"
  },
  "_ai_recent": {
   "newsbrief": [
-   "There's a growing trend for 'comfort cooking' that focuses on classic, simple recipes from childhood.",
-   "The satisfying feeling of 'peeling a sticker' perfectly is being celebrated as a small joy.",
-   "A new appreciation is blossoming for the subtle beauty of 'moss gardens' in urban spaces.",
-   "The unexpected pleasure of 'finding a coin' in an old coat pocket is a universal delight.",
-   "Research indicates that the sight of 'a neatly arranged row of books' can evoke feelings of peace and order.",
-   "The simple joy of 'finding a perfectly ripe avocado' is being celebrated as a small, yet significant, daily triumph.",
-   "People are finding unexpected satisfaction in the precise art of 'folding laundry' into perfectly neat piles.",
    "The delightful discovery of 'a forgotten snack' in a coat pocket is proving to be a cheerful surprise for many.",
    "The quiet charm of 'watching a cat nap in a sunbeam' is being highlighted as a source of peaceful contemplation.",
    "There's a growing appreciation for the 'subtle scent of old books' as a comforting aroma.",
@@ -3857,11 +3863,16 @@
    "The surprising satisfaction of 'matching socks straight out of the laundry' is trending online.",
    "There's a growing appreciation for the unique charm of 'listening to the rain' patter against the window.",
    "The unexpected pleasure of 'finding a coin down the back of the sofa' is bringing small smiles to many faces.",
-   "A new study reveals that the sound of 'a ticking clock' can surprisingly enhance focus for some individuals."
+   "A new study reveals that the sound of 'a ticking clock' can surprisingly enhance focus for some individuals.",
+   "A new online trend sees people sharing their unexpected joy of 'mastering a perfectly flipped pancake'.",
+   "The humble 'doorstop' is receiving an unexpected surge of appreciation in a recent home decor survey.",
+   "Many are rediscovering the subtle satisfaction of 'lining up books on a shelf' by colour or size.",
+   "There's a growing appreciation for the unique sound of 'leaves crunching underfoot' on an autumn walk.",
+   "The unexpected pleasure of 'finding a matching pair of socks' immediately after doing the laundry is a new focus of a social media trend.",
+   "A recent online poll suggests a surge in affection for the 'cosy warmth of a hot water bottle' on a chilly evening.",
+   "People are finding surprising delight in the delicate art of 'perfectly stirring sugar into their tea' without spilling a drop."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if they're a fancy, artisan one. What is it?",
-   "Our survey said that over 70% of us admit to secretly 'doing' what when trying to quickly judge if a new brand of tea will be good, even if we know it's not strictly scientific?",
    "Our survey said that over 60% of us admit to quietly 'doing' what when trying to decide if a new brand of chocolate will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 65% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of jam, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 65% of us admit to quietly 'doing' what when we open a new packet of biscuits, even if we know it's not strictly necessary, to ensure peak enjoyment?",
@@ -3899,11 +3910,11 @@
    "Our survey said that over 65% of us admit to discreetly 'doing' what when trying to decide if a new kind of cheese will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of soap, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new piece of fruit in the supermarket will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?"
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan one. What is it?",
+   "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new piece of clothing in a shop will be comfortable, even if we know it's not strictly scientific? What is it?",
+   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of tea, especially if it's a fancy, artisan one. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you discover a 'hidden gem' in your local area – perhaps a lovely little café, a quiet park bench with a great view, or a fascinating independent shop that you'd never noticed before?",
-   "We all have those little 'everyday moments of triumph' that just make life feel a bit better, don't we? Like successfully parallel parking on the first try, or managing to open a stubborn jar without any fuss.",
    "You know how sometimes a particular 'everyday pattern' just catches your eye – maybe the way a shadow falls, or the arrangement of items on a shelf, or even the brickwork on a building?",
    "We all have that 'one small, everyday household item' that, for some reason, we're surprisingly protective of or attached to, even if it's just a favourite mug or a well-loved spatula.",
    "You know how sometimes a particular 'everyday pattern' just catches your eye – maybe the way a shadow falls, or the arrangement of items on a shelf, or even the brickwork on a building?",
@@ -3941,17 +3952,11 @@
    "You know how sometimes a particular 'everyday object' just looks incredibly happy or surprised, thanks to its design?",
    "We all have that 'one particular piece of clothing' that we absolutely adore, even if it's a bit old or faded.",
    "We all have those little 'kitchen drawer discoveries', don't we?",
-   "Sometimes, the simplest things are the best, like 'finding the perfect parking spot'."
+   "Sometimes, the simplest things are the best, like 'finding the perfect parking spot'.",
+   "You know how sometimes you discover a new 'short cut' in your daily routine that saves you just a minute or two, but feels like a huge win?",
+   "We all have that 'one particular kitchen utensil' that we absolutely couldn't do without, even if it's not the fanciest gadget."
   ],
   "facts": [
-   "The official residence of the British monarch in London, Buckingham Palace, has 775 rooms.",
-   "Bumblebees can fly higher than Mount Everest, as they have been observed at altitudes of up to 9,000 metres.",
-   "The world's smallest commercially available car is the Peel P50, a three-wheeled microcar made in the Isle of Man.",
-   "A pineapple is not a single fruit, but rather a group of berries that have fused together.",
-   "The British Library in London holds over 170 million items, making it the second-largest library in the world by number of items.",
-   "Flamingos get their pink colour from the beta-carotene in their diet, mainly from brine shrimp and algae.",
-   "The first ever webcam was created at Cambridge University to monitor a coffee pot so staff wouldn't make wasted trips.",
-   "The average cloud weighs around 550 tons, which is roughly the same as 100 elephants.",
    "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
    "A group of owls is called a parliament.",
    "The world's oldest known living tree is Methuselah, a Great Basin bristlecone pine in California, estimated to be over 4,850 years old.",
@@ -3983,7 +3988,15 @@
    "The 'sixth' mass extinction event on Earth is currently happening, largely driven by human activities.",
    "Octopuses have three hearts: two pump blood through the gills, and one circulates it to the rest of the body.",
    "A cloud can weigh more than a million pounds, despite looking light and airy.",
-   "The longest recorded flight of a chicken is 13 seconds, demonstrating their surprising ability to briefly take to the air."
+   "The longest recorded flight of a chicken is 13 seconds, demonstrating their surprising ability to briefly take to the air.",
+   "A group of owls is called a parliament.",
+   "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Bananas are berries, but strawberries are not.",
+   "The average person walks the equivalent of three times around the world in their lifetime.",
+   "The Eiffel Tower can be 15 cm taller during the summer due to the expansion of the iron in the heat.",
+   "Cows have best friends and get stressed when they are separated.",
+   "The 'sixth' mass extinction event on Earth is currently happening, largely driven by human activities."
   ]
  }
 }
