@@ -1643,7 +1643,12 @@
   "f2747b6fdd235b46": "2026-11-03",
   "e16420d25d0b6846": "2026-11-03",
   "b7d3b8fb32fc24d8": "2026-11-03",
-  "4083ca0de64bf69f": "2026-11-03"
+  "4083ca0de64bf69f": "2026-11-03",
+  "a728a0026c683d25": "2026-11-04",
+  "2f284edfe0a98ea5": "2026-11-04",
+  "b5379cde9bf24dc2": "2026-11-04",
+  "8febcf42ae1de004": "2026-11-04",
+  "2e2938cbbc529deb": "2026-11-04"
  },
  "showbiz": {
   "9e5b4ba921a2374b": "2026-06-08",
@@ -2396,7 +2401,12 @@
   "a52a1de6837e1122": "2026-11-03",
   "249ef693e06f47dc": "2026-11-03",
   "c3b9f53f606f7b3d": "2026-11-03",
-  "4b84b062c9e7a6cd": "2026-11-03"
+  "4b84b062c9e7a6cd": "2026-11-03",
+  "44cce9f416da557f": "2026-11-04",
+  "b94198a7b6e4b991": "2026-11-04",
+  "311d17941ddd3a57": "2026-11-04",
+  "b9ddc5464f0e5956": "2026-11-04",
+  "89bd0b0a5e1d6323": "2026-11-04"
  },
  "sport": {
   "c67f867f014c752a": "2026-06-08",
@@ -3889,17 +3899,15 @@
   "0a819ec5c74bea57": "2026-11-03",
   "531fbf79b7fd513b": "2026-11-03",
   "4399f142f19f25e1": "2026-11-03",
-  "12691b5f295986ff": "2026-11-03"
+  "12691b5f295986ff": "2026-11-03",
+  "572d220ceb97c8b9": "2026-11-04",
+  "b99e5f5eef9e8caf": "2026-11-04",
+  "f71564b5a2833719": "2026-11-04",
+  "83c2934532128471": "2026-11-04",
+  "95540fad2b5925f2": "2026-11-04"
  },
  "_ai_recent": {
   "newsbrief": [
-   "Many are rediscovering the subtle satisfaction of 'lining up books on a shelf' by colour or size.",
-   "There's a growing appreciation for the unique sound of 'leaves crunching underfoot' on an autumn walk.",
-   "The unexpected pleasure of 'finding a matching pair of socks' immediately after doing the laundry is a new focus of a social media trend.",
-   "A recent online poll suggests a surge in affection for the 'cosy warmth of a hot water bottle' on a chilly evening.",
-   "People are finding surprising delight in the delicate art of 'perfectly stirring sugar into their tea' without spilling a drop.",
-   "A new online trend sees people finding surprising joy in the simple act of 'perfectly peeling a satsuma' in one continuous strip.",
-   "The unexpected pleasure of 'spotting a cat on a windowsill' as you pass by is bringing small smiles to many faces.",
    "Researchers suggest that 'the sound of distant church bells' can surprisingly enhance feelings of community and calm for city dwellers.",
    "A recent study found that the humble 'clothes peg' is receiving an unexpected surge of appreciation for its steadfast reliability in a world of complex gadgets.",
    "There's a growing appreciation for the unique charm of 'a steaming cup of tea on a chilly morning' as the ultimate comfort ritual.",
@@ -3932,11 +3940,16 @@
    "The simple act of 'waving goodbye to a departing bus or train' is making an emotional comeback.",
    "There's a quiet appreciation emerging for the 'delicate click of a well-made light switch'.",
    "New research highlights the unexpected comfort found in 'watching a kettle boil' for a cup of tea.",
-   "The quiet thrill of 'discovering a forgotten coin' in an old coat pocket is being hailed as a small, delightful surprise."
+   "The quiet thrill of 'discovering a forgotten coin' in an old coat pocket is being hailed as a small, delightful surprise.",
+   "A surprising new survey reveals that many of us are finding joy in the quiet satisfaction of perfectly folding a fitted sheet.",
+   "The gentle art of 'rewatching old home videos' is experiencing a resurgence, as people seek comfort in nostalgic moments.",
+   "Researchers have noted a growing appreciation for the specific 'click and clack' sound of a well-used keyboard.",
+   "A new trend sees individuals taking up the surprisingly engaging hobby of 'arranging coins by date and origin'.",
+   "Experts are suggesting that the subtle 'fragrance of freshly printed paper' is offering a unique form of sensory pleasure.",
+   "The simple pleasure of 'finding the perfect spot for a new picture or ornament' in the home is bringing unexpected delight.",
+   "Many are discovering the unexpected fun in 'identifying different types of biscuits purely by their crumbs'."
   ],
   "survey": [
-   "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new kind of bread will be good, even if we know it's not strictly scientific? What is it?",
-   "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of honey, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new brand of crisps will be good, even if we know it's not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new jar of pickles, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new kind of biscuit will be good, even if we know it's not strictly scientific? What is it?",
@@ -3974,11 +3987,11 @@
    "Our survey said that over 60% of us admit to discreetly 'doing' what when trying to decide if a new kind of biscuit will be good, even if we know it’s not strictly scientific? What is it?",
    "Our survey said that over 70% of us admit to having a particular 'odd routine' they absolutely have to do before settling down to enjoy a lovely, new cup of tea, especially if it's a fancy, artisan one. What is it?",
    "Our survey said that over 60% of us admit to discreetly 'doing' what when we're trying to figure out if a new piece of furniture in a shop will fit in our home, even if we know it's not strictly accurate?",
-   "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if they're a fancy, artisan kind."
+   "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new pack of biscuits, especially if they're a fancy, artisan kind.",
+   "Our survey said that over 65% of us admit to discreetly 'doing' what when we’re trying to figure out if a new type of cheese in the supermarket will be good, even if we know it’s not strictly scientific? What is it?",
+   "Our survey said that over 70% of us admit to having a particular 'odd ritual' they absolutely have to do before settling down to enjoy a lovely, new bar of chocolate, especially if it's a fancy, artisan kind. What is it?"
   ],
   "talk_topic": [
-   "You know how sometimes you hear a particular 'everyday sound' that just instantly makes you feel cosy or nostalgic?",
-   "We all have that 'one particular kitchen utensil' that, for some reason, we absolutely adore and couldn't do without, even if it's just a simple spoon or a trusty peeler.",
    "You know how sometimes a particular 'everyday sound' just instantly makes you feel truly happy or content, perhaps a sound from your home or even out and about?",
    "We all have that 'one particular, often overlooked feature' in our home that we're surprisingly fond of, don't we? It might be a window, a banister, or even a quirky light switch.",
    "You know how sometimes a particular 'everyday pattern' just catches your eye – maybe the way a shadow falls, or the arrangement of items on a shelf, or even the brickwork on a building?",
@@ -4016,17 +4029,11 @@
    "We all have those little moments when an 'everyday item' suddenly takes on a personality of its own, don't we?",
    "Sometimes, the simplest things bring the most profound satisfaction, especially when they just 'work out perfectly'.",
    "You know how sometimes a particular 'everyday texture' just brings you immense satisfaction or comfort?",
-   "We all have that 'one particular mug or cup' that just makes our morning brew taste better, don't we?"
+   "We all have that 'one particular mug or cup' that just makes our morning brew taste better, don't we?",
+   "You know how sometimes you discover a new 'sound' in your daily life that you hadn't really noticed before, but now you find it strangely comforting or interesting?",
+   "We all have those little 'secret talents' or quirky skills that only a few people know about, or perhaps nobody at all!"
   ],
   "facts": [
-   "The inventor of the frisbee was turned into a frisbee after he died.",
-   "A quarter of all the bones in the human body are in the feet.",
-   "It is impossible for most people to lick their own elbow.",
-   "The longest place name in the UK is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, in Wales.",
-   "Banging your head against a wall for an hour burns 150 calories.",
-   "The King of Hearts is the only king in a deck of cards without a moustache.",
-   "An ostrich's eye is bigger than its brain.",
-   "There are more fake flamingos in the world than real ones.",
    "The human nose can remember 50,000 different scents.",
    "Butterflies taste with their feet.",
    "A cloud can weigh more than a million pounds.",
@@ -4058,7 +4065,15 @@
    "The only letter that doesn't appear in the name of any U.S. state is the letter 'Q'.",
    "A single strand of spaghetti is called a 'spaghetto'.",
    "Oxford University is older than the Aztec Empire.",
-   "Butterflies taste with their feet."
+   "Butterflies taste with their feet.",
+   "A group of rhinos is called a 'crash'.",
+   "Bubble wrap was originally intended to be used as wallpaper.",
+   "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.",
+   "Mars is known as the 'Red Planet' due to iron oxide on its surface, which is the same compound that makes blood and rust red.",
+   "The 'sixth sick sheik's sixth sheep's sick' is believed to be the toughest tongue twister in the English language.",
+   "The average person walks the equivalent of five times around the world in their lifetime.",
+   "The inventor of the frisbee was turned into a frisbee after he died.",
+   "Mount Everest grows by approximately 4 millimetres each year due to geological activity."
   ]
  }
 }
